@@ -1,0 +1,25 @@
+name: Instagram insights report
+on:
+  schedule:
+    - cron: "20 0 * * *"   # daily 06:05 Nepal time, before the Morning run
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests
+      - name: Pull insights
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: python insights.py
+      - name: Commit report
+        run: |
+          git config user.name "ggn-bot"; git config user.email "ggn-bot@users.noreply.github.com"
+          git add analytics
+          git diff --cached --quiet || (git commit -m "Insights report [skip ci]" && git pull --rebase -q && git push)

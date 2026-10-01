@@ -26,7 +26,8 @@ def main(folder):
     video = folder / "reel.mp4"
     if not video.exists():
         sys.exit(f"No {video}")
-    caption = (folder / "caption.txt").read_text(encoding="utf-8")[:2200]
+    cap = folder / "reel_caption.txt"   # single-story Reel caption from the renderer; carousel caption as fallback
+    caption = (cap if cap.exists() else folder / "caption.txt").read_text(encoding="utf-8")[:2200]
     cid = call("POST", f"{UID}/media", media_type="REELS", upload_type="resumable",
                caption=caption, share_to_feed="false")["id"]
     data = video.read_bytes()

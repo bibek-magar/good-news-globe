@@ -48,6 +48,19 @@ def main(folder):
     wait_ready(carousel)
     post = call("POST", f"{UID}/media_publish", creation_id=carousel)
     print("Published:", post)
+    first_comment(folder, post.get("id"))
+
+def first_comment(folder, media_id):
+    """Best effort: post first_comment.txt under the new post (needs instagram_manage_comments). Never fails the run."""
+    fc = folder / "first_comment.txt"
+    if not media_id or not fc.exists():
+        return
+    try:
+        r = requests.post(f"{API}/{media_id}/comments", timeout=60,
+                          params={"message": fc.read_text(encoding="utf-8")[:2200], "access_token": TOKEN})
+        print("First comment:", r.status_code, r.text[:200])
+    except requests.RequestException as e:
+        print("First comment failed:", e)
 
 if __name__ == "__main__":
     main(sys.argv[1])
