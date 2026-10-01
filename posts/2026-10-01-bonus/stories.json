@@ -1,0 +1,69 @@
+{
+ "edition": "Bonus",
+ "date": "2026-10-01",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Archaeologists may have found Aristotle's classroom",
+ "cover_highlight": "Aristotle's classroom",
+ "cover_kicker": "Unearthed in Greece",
+ "caption_hook": "🏛️ Archaeologists in Greece are uncovering what's believed to be the school where Aristotle taught Alexander the Great + 3 more wins 👇",
+ "question": "Ancient school or new penguin: which would you rather visit? 👇",
+ "share_line": "Send this to your favourite history nerd",
+ "reel_hook": "This may be where Aristotle taught Alexander",
+ "first_comment": "Bonus detail: the gymnasium at Mieza had a covered running track almost two football fields long. Would you have trained there or studied? 🏃‍♂️📜",
+ "stories": [
+  {
+   "category": "archaeology",
+   "place": "Mieza, Macedonia, Greece",
+   "emoji": "🏛️",
+   "stat": "1,700",
+   "stat_label": "sq ft teaching complex with mosaics",
+   "headline": "The likely school of Aristotle and Alexander emerges",
+   "summary": "At Mieza, archaeologists found lecture rooms with stone benches and a 1,700 sq ft complex with mosaic floors at the royal gymnasium where Aristotle is believed to have taught a young Alexander the Great.",
+   "why": "It's a rare glimpse of the place that shaped one of history's most famous students.",
+   "source_name": "Archaeology Magazine",
+   "source_url": "https://archaeologymag.com/2026/09/macedonian-gymnasium-linked-to-alexander/",
+   "source_ig": ""
+  },
+  {
+   "category": "space",
+   "place": "Jezero Crater, Mars",
+   "emoji": "🔴",
+   "stat": "3",
+   "stat_label": "separate times water changed the rocks",
+   "headline": "Mars rocks were reshaped by water 3 separate times",
+   "summary": "NASA's Perseverance found that rocks at Jezero Crater's old lakeshore were altered by groundwater, lake water and later hot fluids, which left mineral veins up to 25 cm thick.",
+   "why": "Long-lasting, varied water means more chances that ancient Mars could have supported life.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
+   "source_ig": ""
+  },
+  {
+   "category": "nature",
+   "place": "Kerguelen Islands, Southern Indian Ocean",
+   "emoji": "🐧",
+   "stat": "100+",
+   "stat_label": "years since the last new penguin",
+   "headline": "Scientists name the first new penguin in 100+ years",
+   "summary": "DNA revealed that gentoo penguins are really 4 separate species. The newly named southeastern gentoo, Pygoscelis kerguelensis, lives on the remote Kerguelen Islands.",
+   "why": "Knowing it's a distinct species means it can now get protection of its own.",
+   "source_name": "The Washington Post",
+   "source_url": "https://www.washingtonpost.com/science/2026/09/29/scientists-identify-new-species-penguin-first-more-than-century/",
+   "source_ig": ""
+  },
+  {
+   "category": "science",
+   "place": "Palm Beach County, Florida, USA",
+   "emoji": "🦈",
+   "stat": "243 ft",
+   "stat_label": "away, and sharks still heard it",
+   "headline": "Wild sharks heard a sound from 243 feet away",
+   "summary": "Filming blacktip sharks with a drone, researchers found they turned away from low-pitched sounds played up to 243 feet away. Across 209 trials with a high tone, they never reacted.",
+   "why": "It's the first measured proof that free-swimming sharks can hear and locate sounds from afar.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm",
+   "source_ig": ""
+  }
+ ],
+ "fun_fact": "Alexander was only about 13 when Aristotle became his teacher.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #archaeology #penguins"
+}
