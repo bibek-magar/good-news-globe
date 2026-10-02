@@ -199,7 +199,7 @@ def cover(d, total):
     .kick{{margin-top:auto}} h1{{text-shadow:0 2px 24px rgba(0,0,0,.45)}} .tease{{margin-top:30px}} .also{{margin-top:26px}}
     .also div span{{background:rgba(255,255,255,.12)}} .bar{{margin-top:48px}}
     .cr{{position:absolute;right:30px;top:50%;transform-origin:right top;transform:rotate(-90deg) translateX(50%);
-         font:600 17px Inter;color:rgba(255,255,255,.7);white-space:nowrap;z-index:3}}
+         font:600 17px Inter;color:rgba(255,255,255,.8);text-shadow:0 1px 4px rgba(0,0,0,.8);white-space:nowrap;z-index:3}}
     """
         bg = f'<div class="bgp"></div><div class="shade"></div>{credit_html(cred)}'
     body = f"""<div class="slide">{bg}
@@ -262,7 +262,7 @@ def story(d, s, i, n, total):
     .ph .brand{{color:{PAPER}}} .ph .brand small{{color:rgba(255,255,255,.85)}}
     .ph .row{{margin-top:auto;display:flex;align-items:center;position:relative}}
     .ph .place{{color:{PAPER};text-shadow:0 1px 8px rgba(0,0,0,.6)}}
-    .ph .cr{{position:absolute;right:20px;bottom:10px;font:600 16px Inter;color:rgba(255,255,255,.75);z-index:2}}
+    .ph .cr{{position:absolute;right:20px;bottom:10px;font:600 16px Inter;color:rgba(255,255,255,.85);text-shadow:0 1px 4px rgba(0,0,0,.8);z-index:2}}
     .stat{{margin-top:34px;gap:24px}} .lab{{font-size:29px}}
     h2{{margin:{24 if has_stat else 40}px 0 {20 if has_stat else 28}px}}
     .sum{{font-size:{29 if has_stat else 32}px;line-height:1.42}}
@@ -351,7 +351,7 @@ body{{background:{INK};color:{PAPER}}}
 .kick{{display:inline-flex;align-items:center;gap:14px;background:{GOLD};color:{INK};font:800 32px Inter;letter-spacing:.06em;
        text-transform:uppercase;padding:16px 30px 16px 22px;border-radius:44px;align-self:flex-start}}
 .hi{{color:{GOLD}}}
-.rcr{{position:absolute;right:40px;bottom:60px;font:600 20px Inter;color:rgba(255,255,255,.75);z-index:3}}
+.rcr{{position:absolute;right:40px;bottom:60px;font:600 20px Inter;color:rgba(255,255,255,.85);text-shadow:0 1px 4px rgba(0,0,0,.8);z-index:3}}
 """
 
 def reel_frames(d):
