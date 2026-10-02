@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Agrotis_infusa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Agrotis_infusa.jpg",
+  "credit": "Donald Hobern from Canberra, Australia / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Bogong moth"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/CSIRO_ScienceImage_2_Agrotis_infusa_the_Bogong_Moth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2_Agrotis_infusa_the_Bogong_Moth.jpg",
+  "credit": "Entomology, CSIRO / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Bogong moth"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Anchiale_briareus_%286552273045%29.jpg/1920px-Anchiale_briareus_%286552273045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Anchiale_briareus_(6552273045).jpg",
+  "credit": "Donald Hobern from Copenhagen, Denmark / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Anchiale stick insect"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Anchiale_briareus_%286552279855%29.jpg/1920px-Anchiale_briareus_%286552279855%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Anchiale_briareus_(6552279855).jpg",
+  "credit": "Donald Hobern from Copenhagen, Denmark / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Anchiale stick insect"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dragon_2_hover_test_%2824159153709%29.jpg/1920px-Dragon_2_hover_test_%2824159153709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Dragon_2_hover_test_(24159153709).jpg",
+  "credit": "SpaceX Photos / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Crew Dragon International Space Station"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/The_SpaceX_Crew_Dragon_Endeavour_approaches_the_International_Space_Station_%28iss065e002695%29.jpg/1920px-The_SpaceX_Crew_Dragon_Endeavour_approaches_the_International_Space_Station_%28iss065e002695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:The_SpaceX_Crew_Dragon_Endeavour_approaches_the_International_Space_Station_(iss065e002695).jpg",
+  "credit": "NASA/Michael Hopkins / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Crew Dragon International Space Station"
+ }
+}
