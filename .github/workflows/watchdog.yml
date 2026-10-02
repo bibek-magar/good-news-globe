@@ -1,0 +1,46 @@
+name: Watchdog (missed posts, token expiry)
+on:
+  schedule:
+    - cron: "30 2 * * *"    # 08:15 Nepal time: morning edition posted?
+    - cron: "30 7 * * *"    # 13:15: midday
+    - cron: "30 13 * * *"   # 19:15: evening / Sunday weekly
+    - cron: "0 3 * * *"     # 08:45: token check
+  workflow_dispatch:
+    inputs:
+      check:
+        description: "morning | midday | evening | token"
+        required: true
+permissions:
+  contents: read
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests
+      - name: Run check
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          c="${{ github.event.inputs.check }}"
+          if [ -z "$c" ]; then
+            case "${{ github.event.schedule }}" in
+              "30 2 * * *") c=morning;; "30 7 * * *") c=midday;; "30 13 * * *") c=evening;; *) c=token;;
+            esac
+          fi
+          python watchdog.py "$c"
+      - name: Open issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          while IFS=$'\t' read -r title body; do
+            [ -z "$title" ] && continue
+            if gh issue list --state open --search "\"$title\" in:title" --json title -q '.[].title' | grep -qxF "$title"; then
+              echo "already open: $title"
+            else
+              gh issue create --title "$title" --body "$body"
+            fi
+          done < problems.txt

@@ -12,5 +12,9 @@ After the carousel, the same workflow builds `reel.mp4` with `make_reel.py` (ani
 
 Each story can carry an `image_query` in `stories.json`. Pushing `stories.json` runs the **Fetch free photos** workflow (`fetch_images.py`), which downloads up to two free-licence candidates per story (Wikimedia Commons first, then Openverse; CC0, public domain, CC BY and CC BY-SA only, never NC/ND) into `posts/<folder>/img/` with attribution in `img/credits.json`. The scheduled run picks one per story (`"image": "img/s1a.jpg"`), and `render.py` puts it on the cover, the story slide and the Reel, adding the credit on the image and in the caption. It runs on GitHub because the Claude sandbox can't reach image hosts.
 
+## Watchdog
+
+`watchdog.yml` checks after each slot (08:15, 13:15, 19:15 Nepal time) that the edition's `POSTED` marker exists, and once a day that `IG_ACCESS_TOKEN` still works and isn't within 10 days of expiring. Each problem opens a GitHub issue (one per problem, no duplicates), which GitHub emails to the repo owner. Close the issue once fixed.
+
 ## Analytics
 `.github/workflows/insights.yml` runs `insights.py` daily (06:05 Nepal time). It pulls reach, shares, saves, likes and comments for the last 30 days of posts plus follower count and audience data, and commits `analytics/posts.csv`, `analytics/account.csv` and `analytics/REPORT.md`. The scheduled Claude runs read `REPORT.md` before choosing stories and hooks. Insights need the token to include the `instagram_manage_insights` permission; missing data is listed under "Problems" in the report.
