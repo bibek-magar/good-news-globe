@@ -32,6 +32,11 @@ stories.json (fields marked * are new in v2 and optional; old files still render
   "cover_tease": "from this week",                              # * optional words after "+ N more wins" on the cover
   "hashtags": "#goodnews #positivenews #goodnewsglobe ..."
 }
+Photos (v4, optional, per story):
+  "image_query": "Ghana cuckooshrike"   # what fetch_images.py searches for (free-licence photos only)
+  "image": "img/s1a.jpg"                # chosen photo, relative to stories.json; omit for the no-photo design
+  "image_credit": "..."                 # optional; default comes from img/credits.json
+  Story #1's photo fills the cover and the Reel; each story slide shows its own photo as a header.
 Categories: space, science, archaeology, nature, health, energy, invention, kindness, nepal, quirky
 """
 import base64, datetime, html, json, os, sys
@@ -121,6 +126,25 @@ def page(body, extra_css=""):
 def esc(s):
     return html.escape(s or "")
 
+def photo(d, s):
+    """(data URI, credit) for a story's chosen photo, or (None, None)."""
+    rel = (s.get("image") or "").strip()
+    p = (Path(d.get("_base", ".")) / rel) if rel else None
+    if not p or not p.is_file():
+        return None, None
+    credit = (s.get("image_credit") or "").strip()
+    if not credit:
+        cf = p.parent / "credits.json"
+        try:
+            credit = json.loads(cf.read_text()).get(p.stem, {}).get("credit", "")
+        except (OSError, ValueError):
+            credit = ""
+    mime = "png" if p.suffix.lower() == ".png" else "jpeg"
+    return f"data:image/{mime};base64,{base64.b64encode(p.read_bytes()).decode()}", credit
+
+def credit_html(c, cls="cr"):
+    return f'<div class="{cls}">Photo: {esc(c)}</div>' if c else ""
+
 def dots(i, n):
     return '<div class="dots">' + "".join(f'<i class="{"on" if k == i else ""}"></i>' for k in range(1, n + 1)) + "</div>"
 
@@ -144,6 +168,7 @@ def cover(d, total):
     tease = (d.get("cover_tease") or "").strip() or "you probably missed:"
     kicker = (d.get("cover_kicker") or "").strip() or f"{label} · {s0.get('place', '').split(',')[-1].strip()}".strip(" ·")
     date = datetime.date.fromisoformat(d["date"]).strftime("%d %B %Y").lstrip("0")
+    img, cred = photo(d, s0)
     css = f"""
     body{{background:{INK};color:{PAPER}}}
     .glow{{position:absolute;width:900px;height:900px;right:-330px;top:-360px;border-radius:50%;
@@ -165,7 +190,19 @@ def cover(d, total):
     .swipe{{display:flex;align-items:center;gap:18px;background:{PAPER};color:{INK};padding:22px 26px 22px 36px;border-radius:60px;font:800 30px Inter}}
     .brand{{color:{PAPER}}} .brand small{{color:#B8AC9B}}
     """
-    body = f"""<div class="slide"><div class="glow"></div><div class="glow2"></div>
+    bg = '<div class="glow"></div><div class="glow2"></div>'
+    if img:
+        css += f"""
+    .bgp{{position:absolute;inset:0;background:url({img}) center 30%/cover}}
+    .shade{{position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,16,12,.55) 0%,rgba(20,16,12,0) 22%,
+            rgba(20,16,12,.25) 40%,rgba(20,16,12,.88) 60%,rgba(20,16,12,.97) 100%)}}
+    .kick{{margin-top:auto}} h1{{text-shadow:0 2px 24px rgba(0,0,0,.45)}} .tease{{margin-top:30px}} .also{{margin-top:26px}}
+    .also div span{{background:rgba(255,255,255,.12)}} .bar{{margin-top:48px}}
+    .cr{{position:absolute;right:30px;top:50%;transform-origin:right top;transform:rotate(-90deg) translateX(50%);
+         font:600 17px Inter;color:rgba(255,255,255,.7);white-space:nowrap;z-index:3}}
+    """
+        bg = f'<div class="bgp"></div><div class="shade"></div>{credit_html(cred)}'
+    body = f"""<div class="slide">{bg}
       <div class="brand">{GLOBE.format(s=54, c=PAPER)}Good News Globe</div>
       <div class="kick">{icon(s0['category'], INK, 34, 6)}{esc(kicker)}</div>
       <h1>{hook_html(hook, (d.get('cover_highlight') or '').strip())}</h1>
@@ -186,11 +223,18 @@ def story(d, s, i, n, total):
     else:
         size = 80 if L <= 40 else 72 if L <= 56 else 64
     stat = ""
+    st = (s.get("stat") or "").strip()
     if has_stat:
-        st = s["stat"].strip()
         ssize = 150 if len(st) <= 4 else 124 if len(st) <= 6 else 104
         stat = (f'<div class="stat"><div class="num" style="font-size:{ssize}px">{esc(st)}</div>'
                 f'<div class="lab">{esc(s.get("stat_label", ""))}</div></div>')
+    img, cred = photo(d, s)
+    if img:
+        size = (58 if L <= 40 else 54 if L <= 56 else 50) if has_stat else (66 if L <= 40 else 60 if L <= 56 else 56)
+        if has_stat:
+            ssize = 104 if len(st) <= 4 else 88 if len(st) <= 6 else 76
+            stat = (f'<div class="stat"><div class="num" style="font-size:{ssize}px">{esc(st)}</div>'
+                    f'<div class="lab">{esc(s.get("stat_label", ""))}</div></div>')
     nxt = (f'<span class="next">Next {ARROW.format(s=26, c=accent)}</span>' if i < n
            else f'<span class="next">One more {ARROW.format(s=26, c=accent)}</span>')
     css = f"""
@@ -210,6 +254,33 @@ def story(d, s, i, n, total):
     .next{{display:inline-flex;align-items:center;gap:10px;font:800 26px Inter;color:{accent}}}
     .wm{{position:absolute;right:60px;bottom:120px;opacity:.10;z-index:0}}
     """
+    if img:
+        css += f"""
+    .ph{{position:relative;margin:-80px -88px 0;height:530px;padding:56px 88px 30px;display:flex;flex-direction:column;
+         background:url({img}) center 35%/cover;flex-shrink:0}}
+    .ph:before{{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,16,12,.55) 0%,rgba(20,16,12,0) 30%,rgba(20,16,12,0) 62%,rgba(20,16,12,.6) 100%)}}
+    .ph .brand{{color:{PAPER}}} .ph .brand small{{color:rgba(255,255,255,.85)}}
+    .ph .row{{margin-top:auto;display:flex;align-items:center;position:relative}}
+    .ph .place{{color:{PAPER};text-shadow:0 1px 8px rgba(0,0,0,.6)}}
+    .ph .cr{{position:absolute;right:20px;bottom:10px;font:600 16px Inter;color:rgba(255,255,255,.75);z-index:2}}
+    .stat{{margin-top:34px;gap:24px}} .lab{{font-size:29px}}
+    h2{{margin:{24 if has_stat else 40}px 0 {20 if has_stat else 28}px}}
+    .sum{{font-size:{29 if has_stat else 32}px;line-height:1.42}}
+    .why{{margin-top:{24 if has_stat else 32}px;padding:20px 28px;font-size:{27 if has_stat else 29}px}}
+    .slide{{padding-bottom:64px}}
+    """
+        body = f"""<div class="slide">
+      <div class="ph"><div class="brand">{GLOBE.format(s=44, c=PAPER)}Good News Globe<small>{i + 1}/{total}</small></div>
+        <div class="row"><span class="chip">{icon(s['category'], accent, 36)}{label}</span><span class="place">{esc(s.get('place', ''))}</span></div>
+        {credit_html(cred)}</div>
+      {stat}
+      <h2>{esc(hl)}</h2>
+      <div class="sum">{esc(s['summary'])}</div>
+      <div class="why"><b>Why it's cool</b>{esc(s['why'])}</div>
+      <div class="foot"><span class="src">Source: <b>{esc(s['source_name'])}</b><br>Link in caption</span>
+        <div style="display:flex;flex-direction:column;align-items:flex-end;gap:16px">{nxt}{dots(i, n)}</div></div>
+    </div>"""
+        return page(body, css)
     body = f"""<div class="slide"><div class="band"></div>
       <div class="wm">{icon(s['category'], accent, 260)}</div>
       <div class="brand">{GLOBE.format(s=44, c=INK)}Good News Globe<small>{i + 1}/{total}</small></div>
@@ -260,6 +331,9 @@ def caption(d):
     lines += [f"✨ Fun fact: {d['fun_fact']}", ""]
     if (d.get("question") or "").strip():
         lines += [f"💬 {d['question'].strip()}", ""]
+    creds = [f"{i}: {c}" for i, s in enumerate(d["stories"], 1) for c in [photo(d, s)[1]] if c]
+    if creds:
+        lines += ["📷 Photos: " + " · ".join(creds), ""]
     lines += ["📤 Send this to someone who needs good news today.",
               "🔖 Save it for a day you need a reminder that the world is still full of wins.",
               f"➕ Follow {d['handle']} for good news, 3 times a day.", "",
@@ -277,6 +351,7 @@ body{{background:{INK};color:{PAPER}}}
 .kick{{display:inline-flex;align-items:center;gap:14px;background:{GOLD};color:{INK};font:800 32px Inter;letter-spacing:.06em;
        text-transform:uppercase;padding:16px 30px 16px 22px;border-radius:44px;align-self:flex-start}}
 .hi{{color:{GOLD}}}
+.rcr{{position:absolute;right:40px;bottom:60px;font:600 20px Inter;color:rgba(255,255,255,.75);z-index:3}}
 """
 
 def reel_frames(d):
@@ -287,7 +362,39 @@ def reel_frames(d):
     hsize = 124 if len(hook) <= 30 else 108 if len(hook) <= 42 else 96
     place = esc(s.get("place", ""))
     brand = f'<div class="brand">{GLOBE.format(s=54, c=PAPER)}Good News Globe</div>'
+    img, cred = photo(d, s)
     frames = []
+    if img:
+        bgp = (f'<div style="position:absolute;inset:0;background:url({img}) center 35%/cover"></div>'
+               '<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,16,12,.6) 0%,rgba(20,16,12,0) 18%,'
+               'rgba(20,16,12,.15) 42%,rgba(20,16,12,.9) 64%,rgba(20,16,12,.97) 100%)"></div>')
+        rc = f'<div class="rcr">Photo: {esc(cred)}</div>' if cred else ""
+        frames.append(f"""<div class="slide" style="justify-content:flex-end;padding-bottom:300px">{bgp}{brand}{rc}
+          <div class="kick" style="position:relative">{icon(s['category'], INK, 38, 6)}{esc((d.get('cover_kicker') or label).strip())}</div>
+          <h1 style="position:relative;font:900 {hsize}px/1.03 Fraunces;margin-top:40px;letter-spacing:-.015em;text-shadow:0 2px 24px rgba(0,0,0,.5)">{hook_html(hook, hi)}</h1>
+          <div style="position:relative;margin-top:40px;font:700 40px Inter;color:#E9DFCF">{place}</div>
+          <div class="tag">Watch to the end</div></div>""")
+        st = (s.get("stat") or "").strip()
+        dim = (f'<div style="position:absolute;inset:0;background:url({img}) center/cover;filter:blur(6px) brightness(.32);transform:scale(1.08)"></div>')
+        if st:
+            ssize = 300 if len(st) <= 4 else 230 if len(st) <= 6 else 190
+            frames.append(f"""<div class="slide" style="align-items:center;text-align:center">{dim}{brand}
+              <div style="position:relative;font:900 {ssize}px/0.9 Fraunces;color:{GOLD};letter-spacing:-.03em">{esc(st)}</div>
+              <div style="position:relative;margin-top:44px;font:800 58px/1.2 Inter;max-width:860px">{esc(s.get('stat_label', ''))}</div></div>""")
+        else:
+            frames.append(f"""<div class="slide">{dim}{brand}
+              <h2 style="position:relative;font:900 96px/1.05 Fraunces;letter-spacing:-.01em">{esc(s['headline'])}</h2></div>""")
+        frames.append(f"""<div class="slide" style="background:{PAPER};color:{INK};justify-content:flex-start;padding-top:0">
+          <div style="position:relative;margin:0 -96px;height:800px;flex-shrink:0;background:url({img}) center 35%/cover">
+            <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,16,12,.55) 0%,rgba(20,16,12,0) 25%)"></div>
+            <div class="brand" style="top:110px">{GLOBE.format(s=54, c=PAPER)}Good News Globe</div>
+            {f'<div class="rcr" style="bottom:14px">Photo: {esc(cred)}</div>' if cred else ''}</div>
+          <span style="align-self:flex-start;margin-top:56px;display:inline-flex;align-items:center;gap:14px;background:{soft};color:{accent};font:800 30px Inter;letter-spacing:.08em;text-transform:uppercase;padding:16px 30px 16px 22px;border-radius:44px">{icon(s['category'], accent, 40)}{label}</span>
+          <h2 style="font:900 72px/1.06 Fraunces;margin:36px 0 30px;letter-spacing:-.01em">{esc(s['headline'])}</h2>
+          <div style="font:400 38px/1.42 Inter;color:#3A3128">{esc(s['summary'])}</div>
+          <div class="tag" style="color:{MUTED};bottom:110px">Source: {esc(s['source_name'])}</div></div>""")
+        frames.append(why_frame(d, s, brand))
+        return [page(f, REEL_CSS) for f in frames]
     # 1 — hook
     frames.append(f"""<div class="slide"><div class="glow"></div>{brand}
       <div class="kick">{icon(s['category'], INK, 38, 6)}{esc((d.get('cover_kicker') or label).strip())}</div>
@@ -311,21 +418,28 @@ def reel_frames(d):
       <h2 style="font:900 84px/1.06 Fraunces;margin:44px 0 40px;letter-spacing:-.01em">{esc(s['headline'])}</h2>
       <div style="font:400 44px/1.45 Inter;color:#3A3128">{esc(s['summary'])}</div>
       <div class="tag" style="color:{MUTED}">Source: {esc(s['source_name'])}</div></div>""")
-    # 4 — why it matters + follow
-    frames.append(f"""<div class="slide"><div class="glow"></div>{brand}
+    frames.append(why_frame(d, s, brand))
+    return [page(f, REEL_CSS) for f in frames]
+
+def why_frame(d, s, brand):
+    """Reel frame 4: why it matters + follow."""
+    return (f"""<div class="slide"><div class="glow"></div>{brand}
       <div style="font:800 32px Inter;letter-spacing:.14em;text-transform:uppercase;color:{GOLD}">Why it's cool</div>
       <div style="margin-top:28px;font:900 74px/1.12 Fraunces">{esc(s['why'])}</div>
       <div style="margin-top:90px;background:{PAPER};color:{INK};border-radius:40px;padding:44px 48px;display:flex;align-items:center;gap:30px">
         {GLOBE.format(s=110, c=INK)}<div><div style="font:900 54px/1.1 Fraunces">Follow for daily good news</div>
         <div style="margin-top:10px;font:700 34px Inter;color:{MUTED}">{esc(d['handle'])} · 3 more wins in our latest post</div></div></div></div>""")
-    return [page(f, REEL_CSS) for f in frames]
 
 def reel_caption(d):
     s = d["stories"][0]
     e = (s.get("emoji") or "").strip()
     src = s["source_name"] + (f" ({s['source_ig'].strip()})" if (s.get("source_ig") or "").strip() else "")
     lines = [f"{e + ' ' if e else ''}{s['headline']}", "", s["summary"], "", f"Why it's cool: {s['why']}", "",
-             f"🔗 {src}: {s['source_url']}", "",
+             f"🔗 {src}: {s['source_url']}", ""]
+    c = photo(d, s)[1]
+    if c:
+        lines += [f"📷 Photo: {c}", ""]
+    lines += [
              "📤 Send this to someone who needs good news today.",
              f"➕ Follow {d['handle']} for more wins like this, 3 times a day.", "",
              d.get("hashtags", "#goodnews #positivenews #goodnewsglobe")]
@@ -340,6 +454,7 @@ def overflow(pg):
 
 def main(src, out):
     d = json.loads(Path(src).read_text())
+    d["_base"] = str(Path(src).resolve().parent)
     out = Path(out); out.mkdir(parents=True, exist_ok=True)
     n = len(d["stories"]); total = n + 2
     pages = [cover(d, total)] + [story(d, s, i, n, total) for i, s in enumerate(d["stories"], 1)] + [closing(d, total)]
