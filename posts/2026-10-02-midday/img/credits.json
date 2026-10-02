@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lobotos_lobatus_male_1838.jpg/1920px-Lobotos_lobatus_male_1838.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lobotos_lobatus_male_1838.jpg",
+  "credit": "Nicolas Huet / Jean Gabriel Prêtre / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Campephaga lobata"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Lobotos_lobatus_female_1838.jpg/1920px-Lobotos_lobatus_female_1838.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lobotos_lobatus_female_1838.jpg",
+  "credit": "Nicolas Huet / Jean Gabriel Prêtre / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Campephaga lobata"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Nazca_Mummy_in_the_Museo_Historical_Regional%2C_Cusco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Nazca_Mummy_in_the_Museo_Historical_Regional,_Cusco.jpg",
+  "credit": "Brian Snelson / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Nazca mummy"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nazca_culture_mummies_cemetery_in_Peru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Nazca_culture_mummies_cemetery_in_Peru.jpg",
+  "credit": "Peter van der Sluijs / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Nazca mummy"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/1920px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+  "credit": "Ivar Leidus / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "strawberry plants"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_halved.jpg/1920px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_halved.jpg",
+  "credit": "Ivar Leidus / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "strawberry plants"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Heart_Surgery_Practice.jpg/1920px-Heart_Surgery_Practice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Heart_Surgery_Practice.jpg",
+  "credit": "Pramath kakodkar / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "heart surgery"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Cardiac_surgery_operating_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Cardiac_surgery_operating_room.jpg",
+  "credit": "Pfree2014 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "heart surgery"
+ }
+}
