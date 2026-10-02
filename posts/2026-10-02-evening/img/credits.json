@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Osteolaemus_tetraspis_-_Karlsruhe_Zoo_01.jpg/1920px-Osteolaemus_tetraspis_-_Karlsruhe_Zoo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Osteolaemus_tetraspis_-_Karlsruhe_Zoo_01.jpg",
+  "credit": "H. Zell / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Osteolaemus tetraspis"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Dwarf_crocodile_%28Osteolaemus_tetraspis%29_Ankasa.jpg/1920px-Dwarf_crocodile_%28Osteolaemus_tetraspis%29_Ankasa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Dwarf_crocodile_(Osteolaemus_tetraspis)_Ankasa.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Osteolaemus tetraspis"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Colobanthus_quitensis_kz01.jpg/1920px-Colobanthus_quitensis_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Colobanthus_quitensis_kz01.jpg",
+  "credit": "Krzysztof Ziarnek, Kenraiz / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Colobanthus quitensis"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Antarctic_Pearlwort.jpg/1920px-Antarctic_Pearlwort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Antarctic_Pearlwort.jpg",
+  "credit": "Liam Quinn / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Colobanthus quitensis"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Brown_bear_at_Brooks_Falls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Brown_bear_at_Brooks_Falls.jpg",
+  "credit": "Brocken Inaglory / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Brooks Falls brown bear"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Fishing_Brown_Bear_at_Brooks_Falls%2C_Katmai_National_Park_%2810106346915%29.jpg/1920px-Fishing_Brown_Bear_at_Brooks_Falls%2C_Katmai_National_Park_%2810106346915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Fishing_Brown_Bear_at_Brooks_Falls,_Katmai_National_Park_(10106346915).jpg",
+  "credit": "Christoph Strässler from Oberdorf BL, Schweiz / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Brooks Falls brown bear"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Collage_of_cutouts_of_star-forming_region_IC_348_%28Webb_NIRCam_image%29_%28weic2619b%29.jpg/1920px-Collage_of_cutouts_of_star-forming_region_IC_348_%28Webb_NIRCam_image%29_%28weic2619b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Collage_of_cutouts_of_star-forming_region_IC_348_(Webb_NIRCam_image)_(weic2619b).jpg",
+  "credit": "ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zam / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "IC 348 Webb"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Star_Cluster_IC_348_%28NIRCam_image%29_%28weic2331a%29.jpg/1920px-Star_Cluster_IC_348_%28NIRCam_image%29_%28weic2331a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Star_Cluster_IC_348_(NIRCam_image)_(weic2331a).jpg",
+  "credit": "NASA, ESA, CSA, STScI, and K. Luhman (Penn State University) / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "IC 348 Webb"
+ }
+}
