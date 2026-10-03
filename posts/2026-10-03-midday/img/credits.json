@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Indri_indri_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Indri_indri_001.jpg",
+  "credit": "Erik Patel / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Indri indri"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Indri_%28Indri_indri%29.jpg/1920px-Indri_%28Indri_indri%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Indri_(Indri_indri).jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Indri indri"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/202508_FAST_%28Five-hundred-meter_Aperture_Spherical_radio_Telescope%29.jpg/1920px-202508_FAST_%28Five-hundred-meter_Aperture_Spherical_radio_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:202508_FAST_(Five-hundred-meter_Aperture_Spherical_radio_Telescope).jpg",
+  "credit": "SCJiang / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "FAST radio telescope"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/FAST_Radio_Telescope_%28captured_from_video%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:FAST_Radio_Telescope_(captured_from_video).jpg",
+  "credit": "Absolute Cosmos / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "FAST radio telescope"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Statuette_im_Typus_der_Venus_pudica_fm812418.jpg/1920px-Statuette_im_Typus_der_Venus_pudica_fm812418.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Statuette_im_Typus_der_Venus_pudica_fm812418.jpg",
+  "credit": "Ludwig Bickell / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Venus Pudica statuette"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Italia_settentrionale%2C_torso_della_venus_pudica%2C_1500-50_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Italia_settentrionale,_torso_della_venus_pudica,_1500-50_ca.jpg",
+  "credit": "Sailko / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Venus Pudica statuette"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/DNA_Double_Helix_1953_%27The_secret_of_life%27_plaque_Cambridge.jpg/1920px-DNA_Double_Helix_1953_%27The_secret_of_life%27_plaque_Cambridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:DNA_Double_Helix_1953_%27The_secret_of_life%27_plaque_Cambridge.jpg",
+  "credit": "Spudgun67 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "DNA double helix"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/DNA_Double_Helix_by_NHGRI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:DNA_Double_Helix_by_NHGRI.jpg",
+  "credit": "National Human Genome Research Institute / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "DNA double helix"
+ }
+}
