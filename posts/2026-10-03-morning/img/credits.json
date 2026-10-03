@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Xlandi_Bay_5th_century_amphoras_GMA.jpg/1920px-Xlandi_Bay_5th_century_amphoras_GMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Xlandi_Bay_5th_century_amphoras_GMA.jpg",
+  "credit": "Unknown / Wikimedia Commons, CC BY 2.5",
+  "license": "CC BY 2.5",
+  "query": "ancient shipwreck amphorae"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Terracotta_amphora_with_Phoenician_inscription_MET_DP121454.jpg/1920px-Terracotta_amphora_with_Phoenician_inscription_MET_DP121454.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Terracotta_amphora_with_Phoenician_inscription_MET_DP121454.jpg",
+  "credit": "Unknown / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "ancient shipwreck amphorae"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Andean_cat_1_Jim_Sanderson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Andean_cat_1_Jim_Sanderson.jpg",
+  "credit": "Jim Sanderson / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Leopardus jacobita"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Gato_Andino.jpg/1920px-Gato_Andino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Gato_Andino.jpg",
+  "credit": "RSANILOPEZ / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Leopardus jacobita"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Coral_%28Acropora_hemprichii%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_108.jpg/1920px-Coral_%28Acropora_hemprichii%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Coral_(Acropora_hemprichii),_Ras_Katy,_Sharm_el-Sheij,_Egipto,_2022-03-26,_DD_108.jpg",
+  "credit": "Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Acropora coral reef"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Coral_%28Acropora_hemprichii%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_87.jpg/1920px-Coral_%28Acropora_hemprichii%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Coral_(Acropora_hemprichii),_Ras_Katy,_Sharm_el-Sheij,_Egipto,_2022-03-26,_DD_87.jpg",
+  "credit": "Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Acropora coral reef"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wind_Turbine_Enercon_E-82_at_Wind_Park_Mausdorf_01.jpg/1920px-Wind_Turbine_Enercon_E-82_at_Wind_Park_Mausdorf_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Wind_Turbine_Enercon_E-82_at_Wind_Park_Mausdorf_01.jpg",
+  "credit": "Spike / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "wind turbine Germany"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Wind_Turbine_Enercon_E-82_at_Wind_Park_Mausdorf_02.jpg/1920px-Wind_Turbine_Enercon_E-82_at_Wind_Park_Mausdorf_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Wind_Turbine_Enercon_E-82_at_Wind_Park_Mausdorf_02.jpg",
+  "credit": "Spike / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "wind turbine Germany"
+ }
+}
