@@ -1,0 +1,37 @@
+{
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Coins_Spilling_Silver_Hoard_2_closeup.jpg/1920px-Coins_Spilling_Silver_Hoard_2_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Coins_Spilling_Silver_Hoard_2_closeup.jpg",
+  "credit": "W.carter / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Viking silver coins hoard"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Iraq_silver_coins_Spillings_Hoard.jpg/1920px-Iraq_silver_coins_Spillings_Hoard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Iraq_silver_coins_Spillings_Hoard.jpg",
+  "credit": "W.carter / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Viking silver coins hoard"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mugilogobius_tigrinus_male.jpg/1920px-Mugilogobius_tigrinus_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Mugilogobius_tigrinus_male.jpg",
+  "credit": "AravindManoj / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Mugilogobius goby fish"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Far_side_of_the_moon_4k.png/1920px-Far_side_of_the_moon_4k.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Far_side_of_the_moon_4k.png",
+  "credit": "Wikideas1 / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Moon far side lunar surface"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Poynting_and_Kekul%C3%A9_Craters_on_the_Lunar_Far_Side_%28art002e012702%29.jpg/1920px-Poynting_and_Kekul%C3%A9_Craters_on_the_Lunar_Far_Side_%28art002e012702%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Poynting_and_Kekul%C3%A9_Craters_on_the_Lunar_Far_Side_(art002e012702).jpg",
+  "credit": "NASA Johnson Space Center / NASA / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Moon far side lunar surface"
+ }
+}
