@@ -24,7 +24,8 @@
    "source_name": "The Straits Times (AFP)",
    "source_url": "https://www.straitstimes.com/asia/australianz/back-from-the-brink-australias-bogong-moths-are-again-swarming-the-skies",
    "source_ig": "@straits_times",
-   "image_query": "Bogong moth"
+   "image_query": "Bogong moth",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "archaeology",
@@ -38,7 +39,8 @@
    "source_name": "Archaeology Magazine",
    "source_url": "https://archaeologymag.com/2026/09/macedonian-gymnasium-linked-to-alexander/",
    "source_ig": "",
-   "image_query": "Mieza Aristotle school"
+   "image_query": "Mieza Aristotle school",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "nature",
@@ -66,7 +68,8 @@
    "source_name": "The Japan Times",
    "source_url": "https://www.japantimes.co.jp/news/2026/09/30/japan/science-health/heart-stem-cells-surgery/",
    "source_ig": "@thejapantimes",
-   "image_query": "heart surgery"
+   "image_query": "heart surgery",
+   "image": "img/s4b.jpg"
   },
   {
    "category": "kindness",
@@ -94,7 +97,8 @@
    "source_name": "DW",
    "source_url": "https://www.dw.com/en/new-crew-makes-the-quickest-us-flight-to-iss/a-79509556",
    "source_ig": "@dwnews",
-   "image_query": "Crew Dragon International Space Station"
+   "image_query": "Crew Dragon International Space Station",
+   "image": "img/s6b.jpg"
   },
   {
    "category": "science",
@@ -108,7 +112,8 @@
    "stat": "1872",
    "stat_label": "last record of it in Kutch",
    "image_query": "Psammophis schokari",
-   "source_ig": ""
+   "source_ig": "",
+   "image": "img/s7a.jpg"
   },
   {
    "category": "nature",
