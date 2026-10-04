@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Orange_juice_1_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg",
+  "credit": "Agency of the United States Department of Agriculture\nEdited / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "JUICE spacecraft ESA"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Juice_launch_kit_cover_close-up.png/1920px-Juice_launch_kit_cover_close-up.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Juice_launch_kit_cover_close-up.png",
+  "credit": "ESA / Wikimedia Commons, CC BY-SA 3.0 igo",
+  "license": "CC BY-SA 3.0 igo",
+  "query": "JUICE spacecraft ESA"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Male_and_female_superb_fairy_wren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Male_and_female_superb_fairy_wren.jpg",
+  "credit": "User:benjamint444 / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "superb fairywren"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Malurus_cyaneus_PM.jpg/1920px-Malurus_cyaneus_PM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Malurus_cyaneus_PM.jpg",
+  "credit": "JJ Harrison (https://www.jjharrison.com.au/) / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "superb fairywren"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Uttarakhand_Pine_Forest.jpg/1920px-Uttarakhand_Pine_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Uttarakhand_Pine_Forest.jpg",
+  "credit": "Sridhar Rao / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Uttarakhand pine forest"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pine_forest_at_Dhanaulti%2CUttarakhand_1.jpg/1920px-Pine_forest_at_Dhanaulti%2CUttarakhand_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pine_forest_at_Dhanaulti,Uttarakhand_1.jpg",
+  "credit": "SHUVADIP / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Uttarakhand pine forest"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Arendsee_See.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Arendsee_See.JPG",
+  "credit": "Henryk Schulz (HenrykS at de.wikipedia) / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Arendsee lake"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Queen_Arendsee_am_Anleger.jpg/1920px-Queen_Arendsee_am_Anleger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Queen_Arendsee_am_Anleger.jpg",
+  "credit": "FrankBothe / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Arendsee lake"
+ }
+}
