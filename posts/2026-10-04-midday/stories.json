@@ -23,7 +23,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
    "source_ig": "@europeanspaceagency",
-   "image_query": "JUICE spacecraft ESA"
+   "image_query": "JUICE spacecraft ESA",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "invention",
@@ -37,7 +38,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-natural-material-bricks-aim-urban.html",
    "source_ig": "",
-   "image_query": "superb fairywren"
+   "image_query": "superb fairywren",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "kindness",
@@ -51,7 +53,8 @@
    "source_name": "Mongabay",
    "source_url": "https://news.mongabay.com/2026/09/sickles-sarees-and-smoke-women-on-the-frontlines-of-uttarakhand-forest-fires/",
    "source_ig": "@mongabay",
-   "image_query": "Uttarakhand pine forest"
+   "image_query": "Uttarakhand pine forest",
+   "image": "img/s3b.jpg"
   },
   {
    "category": "archaeology",
@@ -65,7 +68,8 @@
    "source_name": "HeritageDaily",
    "source_url": "https://www.heritagedaily.com/2026/10/10500-year-old-wooden-structures-discovered-beneath-german-lake/159500",
    "source_ig": "@archaeologynews",
-   "image_query": "Arendsee lake"
+   "image_query": "Arendsee lake",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Juice will need 8 years and flybys of Earth and Venus to reach Jupiter.",
