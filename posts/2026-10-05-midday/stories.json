@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-05",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Farmers paint eyes on cows' bums to fool lions",
+ "cover_highlight": "paint eyes",
+ "cover_kicker": "And it seems to work",
+ "caption_hook": "🐄 Farmers in Zimbabwe paint eyes on their cows' backsides so lions think they're being watched + 3 more wins you missed 👇",
+ "question": "Painted cow eyes or a mountain geoglyph: which would you rather see?",
+ "share_line": "Send this to the friend who loves weird science",
+ "reel_hook": "Why these cows have eyes on their bums",
+ "first_comment": "Bonus: the farmer's first 'victims' were local dogs, which barked in alarm at the new eyes. Hyenas, though, don't seem fooled at all. What would you paint? 🐄",
+ "stories": [
+  {
+   "category": "quirky",
+   "place": "Chiredzi, Zimbabwe",
+   "emoji": "🐄",
+   "stat": "0",
+   "stat_label": "of 683 eye-painted cows lost to lions",
+   "headline": "Painted eyes on cows' bums are keeping lions away",
+   "summary": "Farmer Edson Mabika used to lose 4 or 5 animals a year. Since painting eyes on his herd's rumps, he's lost just 2. In a Botswana study, lions and leopards killed none of 683 eye-painted cows.",
+   "why": "Ambush hunters hate being spotted, so fake eyes save both cattle and lions.",
+   "source_name": "Mongabay",
+   "source_url": "https://news.mongabay.com/2026/09/turning-vulnerable-livestock-into-four-eyed-beasts-helps-protect-them-in-zimbabwe/",
+   "source_ig": "@mongabay",
+   "image_query": "Nguni cattle"
+  },
+  {
+   "category": "archaeology",
+   "place": "Mendoza, Argentina",
+   "emoji": "🏔️",
+   "stat": "3,000",
+   "stat_label": "metres up in the Andes",
+   "headline": "A climber spotted a possible Inca geoglyph on Google Earth",
+   "summary": "Mountaineer Carlos Gobbi saw stone circles and passageways on satellite images, then hiked 3 days to confirm them. Archaeologists will now study whether the site is an Inca ritual complex.",
+   "why": "It could reveal ceremonies at the southern edge of the Inca Empire.",
+   "source_name": "HeritageDaily",
+   "source_url": "https://www.heritagedaily.com/2026/10/archaeologists-to-investigate-possible-inca-ceremonial-geoglyph-in-the-andes/159491",
+   "source_ig": "@archaeologynews",
+   "image_query": "Cordillera del Tigre Mendoza"
+  },
+  {
+   "category": "energy",
+   "place": "Oregon, USA",
+   "emoji": "⚡",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A new material uses light to make hydrogen from water",
+   "summary": "Chemists built a crystal called BVR-19 whose sulfur bonds capture light and split water into hydrogen, with no extra precious-metal catalyst. It even forms by itself in water at room temperature.",
+   "why": "Green hydrogen costs about $5/kg today; designs like this could bring it down.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
+   "source_ig": "",
+   "image_query": "hydrogen fuel cell"
+  },
+  {
+   "category": "nature",
+   "place": "Victoria, Australia",
+   "emoji": "🌳",
+   "stat": "20%",
+   "stat_label": "bigger trees in thinned forest",
+   "headline": "A forgotten 30-year forest experiment grew giant trees",
+   "summary": "Revisiting a 1980s trial in mountain ash forest, scientists found thinned plots grew trees 20% thicker and stored as much carbon as untouched forest. Rare Leadbeater's possums lived in every one.",
+   "why": "It suggests forests can give timber, carbon and wildlife homes at once.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
+   "source_ig": "",
+   "image_query": "Eucalyptus regnans forest"
+  }
+ ],
+ "fun_fact": "Many butterflies and moths carry eyespots on their wings for the same reason: to startle predators.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #lions #wildlife"
+}
