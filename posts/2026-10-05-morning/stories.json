@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-05",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Rare monkeys just got their first-ever vaccines",
+ "cover_highlight": "first-ever vaccines",
+ "cover_kicker": "Fewer than 400 left",
+ "caption_hook": "🐒 Brazil vaccinated black-faced lion tamarins against yellow fever for the 1st time. Fewer than 400 remain + 3 more wins 👇",
+ "question": "Which made you smile most: 1, 2, 3 or 4?",
+ "share_line": "Send this to the friend who loves monkeys",
+ "reel_hook": "Fewer than 400 of these monkeys are left",
+ "first_comment": "Bonus: the vaccine stays effective for only 3 hours once mixed, so the team had to inject all three tamarins in that window. What animal would you protect first? 🐒",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Superagui Island, Brazil",
+   "emoji": "🐒",
+   "stat": "<400",
+   "stat_label": "black-faced lion tamarins left",
+   "headline": "Rare tamarins get their first-ever yellow fever shots",
+   "summary": "Vets in Brazil's Atlantic Forest vaccinated 3 black-faced lion tamarins, a species with fewer than 400 left and none in zoos. All 3 went back to the trees and have shown no side effects.",
+   "why": "One outbreak could wipe out a species this small, so a shield matters.",
+   "source_name": "Mongabay",
+   "source_url": "https://news.mongabay.com/2026/10/a-first-in-brazil-black-faced-lion-tamarins-vaccinated/",
+   "source_ig": "@mongabay",
+   "image_query": "Leontopithecus caissara"
+  },
+  {
+   "category": "archaeology",
+   "place": "Naju, South Korea",
+   "emoji": "🏺",
+   "stat": "28",
+   "stat_label": "characters engraved on the barrel",
+   "headline": "A landmine sweep turned up Korea's oldest verified gun",
+   "summary": "Found during a safety survey on Mount Geumseong, a 25 cm bronze hand cannon has been confirmed as the earliest authentic Korean firearm. Its inscription even names the craftsman, Suk.",
+   "why": "It dates to 1377 or 1437, a period with almost no surviving weapons.",
+   "source_name": "HeritageDaily",
+   "source_url": "https://www.heritagedaily.com/2026/10/bronze-hand-cannon-offers-rare-evidence-of-early-korean-firearms/159507",
+   "source_ig": "@archaeologynews",
+   "image_query": "Korean hand cannon"
+  },
+  {
+   "category": "health",
+   "place": "Calgary, Canada",
+   "emoji": "💊",
+   "stat": "82%",
+   "stat_label": "had no tumour growth at 6 months",
+   "headline": "Vitamin B3 shows early promise against a deadly brain cancer",
+   "summary": "In a trial of 24 people with glioblastoma, adding high-dose niacin to standard care left 82% without tumour growth after 6 months, 28% better than past studies. Bigger tests are next.",
+   "why": "Survival for this cancer has barely changed in 20 years.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
+   "source_ig": "",
+   "image_query": "niacin vitamin B3"
+  },
+  {
+   "category": "science",
+   "place": "Lizard Island, Australia",
+   "emoji": "🐚",
+   "stat": "10,900",
+   "stat_label": "daily growth lines in one shell",
+   "headline": "A giant clam kept a 30-year climate diary in its shell",
+   "summary": "Counting nearly 10,900 daily lines and drilling 784 tiny samples, scientists rebuilt the Great Barrier Reef's climate month by month from 1785 to 1827. Summers then were up to 1.2°C cooler.",
+   "why": "Records this detailed are rare for the Southern Hemisphere's tropics.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-09-giant-clam-monthbymonth-diary-great.html",
+   "source_ig": "",
+   "image_query": "Tridacna gigas"
+  }
+ ],
+ "fun_fact": "Giant clams can grow 1.2 m wide, weigh over 200 kg and live for more than a century.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #monkeys #wildlife"
+}
