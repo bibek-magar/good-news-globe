@@ -1,0 +1,30 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Still_Life_with_Lobster_on_a_White_Tablecloth_by_Eug%C3%A8ne_Louis_Boudin%2C_High_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Still_Life_with_Lobster_on_a_White_Tablecloth_by_Eug%C3%A8ne_Louis_Boudin,_High_Museum_of_Art.jpg",
+  "credit": "Eugène Louis Boudin / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "white lobster"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/White_Lobster_in_research_tank.jpg/1920px-White_Lobster_in_research_tank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:White_Lobster_in_research_tank.jpg",
+  "credit": "Filippo antinori1223 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "white lobster"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Moscow._Saint_Simeon_Stylites_Church_on_Povarskaya_Street_P4141863_2600.jpg/1920px-Moscow._Saint_Simeon_Stylites_Church_on_Povarskaya_Street_P4141863_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Moscow._Saint_Simeon_Stylites_Church_on_Povarskaya_Street_P4141863_2600.jpg",
+  "credit": "Alexxx1979 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Church of Saint Simeon Stylites"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Church_of_Saint_Simeon_Stylites_17.jpg/1920px-Church_of_Saint_Simeon_Stylites_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Simeon_Stylites_17.jpg",
+  "credit": "Bernard Gagnon / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Church of Saint Simeon Stylites"
+ }
+}
