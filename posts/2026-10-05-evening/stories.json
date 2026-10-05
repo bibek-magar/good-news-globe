@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-05",
+ "handle": "@good_newsglobe",
+ "cover_hook": "A 1-in-100-million ghost lobster went to college",
+ "cover_highlight": "1-in-100-million",
+ "cover_kicker": "Meet Casper",
+ "caption_hook": "🦞 A pure white 'ghost' lobster, odds 1 in 100 million, is helping scientists crack the genetics of lobster colours + 3 more wins 👇",
+ "question": "Describe this news in one emoji 👇",
+ "share_line": "Send this to the friend who loves weird animals",
+ "reel_hook": "This lobster is 1 in 100 million",
+ "first_comment": "Bonus: the same lab once studied Peaches, a 1-in-30-million orange lobster whose babies came out brown, orange and blue. What colour would you pick? 🦞",
+ "stories": [
+  {
+   "category": "quirky",
+   "place": "Biddeford, Maine, USA",
+   "emoji": "🦞",
+   "stat": "1 in 100M",
+   "stat_label": "odds of a white 'ghost' lobster",
+   "headline": "A 1-in-100-million white lobster joins a DNA study",
+   "summary": "Casper, a ghost-white lobster, moved from the Maine State Aquarium to the University of New England, where scientists are scanning 15,000+ genes to learn why some lobsters turn rare colours.",
+   "why": "Its DNA is collected without harm, and it fills the rarest gap in the colour spectrum.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/100m-ghost-lobster-goes-to-college/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "white lobster"
+  },
+  {
+   "category": "archaeology",
+   "place": "Aleppo, Syria",
+   "emoji": "⛪",
+   "stat": "14",
+   "stat_label": "years closed, now open again",
+   "headline": "Syria reopens a 1,500-year-old church after 14 years",
+   "summary": "After clearing landmines and repairing war and earthquake damage, the UNESCO-listed Saint Simeon complex near Aleppo welcomed visitors again on October 2. It dates to 476–490 AD.",
+   "why": "It was one of the largest churches in the world until Hagia Sophia.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/ancient-christian-site-reopens-in-syria-after-14-years-a-war-and-an-earthquake/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Church of Saint Simeon Stylites"
+  },
+  {
+   "category": "energy",
+   "place": "Ross Island, Antarctica",
+   "emoji": "🌬️",
+   "stat": "122,000",
+   "stat_label": "gallons of diesel saved",
+   "headline": "Antarctica's wind turbines saved 122,000 gallons of diesel",
+   "summary": "Three turbines bolted to Ross Island's Crater Hill have powered NZ's Scott Base and the US McMurdo Station for 15 years in -30°C cold, avoiding about 1,200 tonnes of CO2.",
+   "why": "If wind power can survive Antarctica, it can work almost anywhere.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Ross Island wind farm"
+  },
+  {
+   "category": "nature",
+   "place": "Arabian Sea, Oman",
+   "emoji": "🐋",
+   "stat": "2,285",
+   "stat_label": "whales' DNA compared worldwide",
+   "headline": "Oman's lonely humpbacks may be a whole new subspecies",
+   "summary": "Comparing DNA from 2,285 humpbacks worldwide, scientists found Arabian Sea whales have followed their own path for tens of thousands of years. Only about 82 are thought to live off Oman.",
+   "why": "Official recognition could bring stronger protection for this tiny group.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/genetic-analysis-all-but-confirms-the-most-unique-of-humpback-populations-is-actually-a-subspecies/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Arabian Sea humpback whale"
+  }
+ ],
+ "fun_fact": "Saint Simeon lived on top of a pillar for decades; pilgrims chipped it from 15 m down to a 3 m stub.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #lobster #whales"
+}
