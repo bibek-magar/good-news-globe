@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Nguni_cattle.jpg/1920px-Nguni_cattle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Nguni_cattle.jpg",
+  "credit": "Justinjerez / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Nguni cattle"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Nguni_Cows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Nguni_Cows.jpg",
+  "credit": "arboresce / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Nguni cattle"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Cordillera_del_Tigre_y_Cerro_El_Plata.jpg/1920px-Cordillera_del_Tigre_y_Cerro_El_Plata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cordillera_del_Tigre_y_Cerro_El_Plata.jpg",
+  "credit": "WeHaKa / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Cordillera del Tigre Mendoza"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Cordillera_del_Medio-Laguna_del_Pelado.jpg/1920px-Cordillera_del_Medio-Laguna_del_Pelado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cordillera_del_Medio-Laguna_del_Pelado.jpg",
+  "credit": "WeHaKa / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Cordillera del Tigre Mendoza"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/KSC-06pd0006_-_Technicians_working_on_fuel_cell_in_OPF.jpg/1920px-KSC-06pd0006_-_Technicians_working_on_fuel_cell_in_OPF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:KSC-06pd0006_-_Technicians_working_on_fuel_cell_in_OPF.jpg",
+  "credit": "Kim Shiflett / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "hydrogen fuel cell"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/KSC-06pd0003_-_Technicians_working_on_fuel_cell_in_OPF.jpg/1920px-KSC-06pd0003_-_Technicians_working_on_fuel_cell_in_OPF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:KSC-06pd0003_-_Technicians_working_on_fuel_cell_in_OPF.jpg",
+  "credit": "Kim Shiflett / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "hydrogen fuel cell"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Eucalyptus_regnans_foliage.jpg/1920px-Eucalyptus_regnans_foliage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Eucalyptus_regnans_foliage.jpg",
+  "credit": "Allthingsnative / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Eucalyptus regnans forest"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Eucalyptus_regnans_Sherbrooke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Eucalyptus_regnans_Sherbrooke.jpg",
+  "credit": "Melburnian / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Eucalyptus regnans forest"
+ }
+}
