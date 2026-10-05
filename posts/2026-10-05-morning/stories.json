@@ -23,7 +23,8 @@
    "source_name": "Mongabay",
    "source_url": "https://news.mongabay.com/2026/10/a-first-in-brazil-black-faced-lion-tamarins-vaccinated/",
    "source_ig": "@mongabay",
-   "image_query": "Leontopithecus caissara"
+   "image_query": "Leontopithecus caissara",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "archaeology",
@@ -65,7 +66,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-09-giant-clam-monthbymonth-diary-great.html",
    "source_ig": "",
-   "image_query": "Tridacna gigas"
+   "image_query": "Tridacna gigas",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "Giant clams can grow 1.2 m wide, weigh over 200 kg and live for more than a century.",
