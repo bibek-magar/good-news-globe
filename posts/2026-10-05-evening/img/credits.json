@@ -26,5 +26,33 @@
   "credit": "Bernard Gagnon / Wikimedia Commons, CC BY-SA 3.0",
   "license": "CC BY-SA 3.0",
   "query": "Church of Saint Simeon Stylites"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Amundsen-Scott_marsstation_ray_h_edit.jpg/1920px-Amundsen-Scott_marsstation_ray_h_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Amundsen-Scott_marsstation_ray_h_edit.jpg",
+  "credit": "Photo by Chris Danals, National Science Foundation / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Scott Base Antarctica"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Hut_A%2C_Scott_Base.jpg/1920px-Hut_A%2C_Scott_Base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Hut_A,_Scott_Base.jpg",
+  "credit": "Sergey Tarasenko / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Scott Base Antarctica"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Humpback_whale_%28Megaptera_novaeangliae%29_calf_Moorea_2.jpg/1920px-Humpback_whale_%28Megaptera_novaeangliae%29_calf_Moorea_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Humpback_whale_(Megaptera_novaeangliae)_calf_Moorea_2.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Megaptera novaeangliae"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Humpback_whale_%28Megaptera_novaeangliae%29_with_calf_Moorea_2.jpg/1920px-Humpback_whale_%28Megaptera_novaeangliae%29_with_calf_Moorea_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Humpback_whale_(Megaptera_novaeangliae)_with_calf_Moorea_2.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Megaptera novaeangliae"
  }
 }
