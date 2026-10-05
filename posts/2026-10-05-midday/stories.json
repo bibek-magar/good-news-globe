@@ -23,7 +23,8 @@
    "source_name": "Mongabay",
    "source_url": "https://news.mongabay.com/2026/09/turning-vulnerable-livestock-into-four-eyed-beasts-helps-protect-them-in-zimbabwe/",
    "source_ig": "@mongabay",
-   "image_query": "Nguni cattle"
+   "image_query": "Nguni cattle",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "archaeology",
@@ -37,7 +38,8 @@
    "source_name": "HeritageDaily",
    "source_url": "https://www.heritagedaily.com/2026/10/archaeologists-to-investigate-possible-inca-ceremonial-geoglyph-in-the-andes/159491",
    "source_ig": "@archaeologynews",
-   "image_query": "Cordillera del Tigre Mendoza"
+   "image_query": "Cordillera del Tigre Mendoza",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "energy",
@@ -65,7 +67,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
    "source_ig": "",
-   "image_query": "Eucalyptus regnans forest"
+   "image_query": "Eucalyptus regnans forest",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "Many butterflies and moths carry eyespots on their wings for the same reason: to startle predators.",
