@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-06",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Divers are exploring a Silk Road city lost under a lake",
+ "cover_highlight": "Silk Road city",
+ "cover_kicker": "Underwater for about 800 years",
+ "caption_hook": "🌊 Scientists are diving into Kyrgyzstan's Lake Issyk-Kul to study a Silk Road city that went underwater about 800 years ago + 3 more wins you missed 👇",
+ "question": "Sunken city or reborn planet: which would you explore first?",
+ "share_line": "Send this to the friend who loves history",
+ "reel_hook": "A Silk Road city is hiding under this lake",
+ "first_comment": "Bonus: the team found two cemeteries at the site, which dates to the era of the Karakhanid dynasty. Would you dive here? 🌊",
+ "stories": [
+  {
+   "category": "archaeology",
+   "place": "Lake Issyk-Kul, Kyrgyzstan",
+   "emoji": "🌊",
+   "stat": "800",
+   "stat_label": "years underwater, roughly",
+   "headline": "Divers explore a sunken Silk Road city in Kyrgyzstan",
+   "summary": "About 20 scientists and volunteer divers are studying a medieval trading city now under Lake Issyk-Kul. It is the first major exploration since the site was rediscovered in the 1800s.",
+   "why": "The ruins, including two cemeteries, show how people lived along the Silk Road.",
+   "source_name": "Phys.org (AFP)",
+   "source_url": "https://phys.org/news/2026-10-sunken-silk-road-city-reveals.html",
+   "source_ig": "",
+   "image_query": "Issyk-Kul lake"
+  },
+  {
+   "category": "space",
+   "place": "University of Warwick, UK",
+   "emoji": "🪐",
+   "stat": "1st",
+   "stat_label": "second-generation planet spotted around a white dwarf",
+   "headline": "Astronomers find a planet that may have formed from a dead star",
+   "summary": "A Jupiter-sized planet orbits the white dwarf HS 0209+0832 every 4.4 days. The star is rich in niobium, over 1,000 times the Sun's level, which hints the planet formed after the star died.",
+   "why": "It shows planets may get a second chance to form around dead stars.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-phoenix-planet-astronomers-world-reborn.html",
+   "source_ig": "",
+   "image_query": "white dwarf star"
+  },
+  {
+   "category": "health",
+   "place": "Stockholm, Sweden",
+   "emoji": "🧠",
+   "stat": "3",
+   "stat_label": "scientists share the medicine Nobel",
+   "headline": "Medicine Nobel goes to the light switch for brain cells",
+   "summary": "Karl Deisseroth, Peter Hegemann and Georg Nagel won for optogenetics, which uses an algae protein to switch nerve cells on with light. It has already been tried in people to treat a form of blindness.",
+   "why": "It helps map the brain and may lead to treatments for Parkinson's and epilepsy.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-german-trio-medicine-nobel-optogenetics.html",
+   "source_ig": "",
+   "image_query": "green algae microscope"
+  },
+  {
+   "category": "science",
+   "place": "Buenos Aires, Argentina",
+   "emoji": "🦴",
+   "stat": "100 kg",
+   "stat_label": "estimated weight of the predator",
+   "headline": "A new saber-toothed predator is named in Argentina",
+   "summary": "Fossils found on the pampas belong to Pampaluctor calibar, a marsupial relative that lived later than scientists thought its group survived. It was likely an ambush hunter.",
+   "why": "It rewrites when South America's native predators disappeared.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-saber-toothed-predator-argentina-lineage.html",
+   "source_ig": "",
+   "image_query": "Argentina pampas cliff fossil"
+  }
+ ],
+ "fun_fact": "Issyk-Kul is one of the largest mountain lakes in the world.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #history #archaeology"
+}
