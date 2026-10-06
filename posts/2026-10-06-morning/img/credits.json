@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Marius_Hills_Pit_-_Lava_Tube_Skylight%3F_%28LROC202_-_M114328462R_thumb%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Marius_Hills_Pit_-_Lava_Tube_Skylight%3F_(LROC202_-_M114328462R_thumb).png",
+  "credit": "NASA/GSFC/Arizona State University / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Marius Hills pit"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Marius_Hills_Pit_-_Lava_Tube_Skylight%3F_%28LROC202_-_M114328462R_enlargement%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Marius_Hills_Pit_-_Lava_Tube_Skylight%3F_(LROC202_-_M114328462R_enlargement).png",
+  "credit": "NASA/GSFC/Arizona State University / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Marius Hills pit"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Santobono_Children%27s_Hospital_%284997475%29.jpg/1920px-Santobono_Children%27s_Hospital_%284997475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Santobono_Children%27s_Hospital_(4997475).jpg",
+  "credit": "U.S. Navy photo by Petty Officer 2nd Class Donavan K Patubo / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "children trumpet music class"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/PACAF_Band_brings_holiday_spirit_to_Kanagawa_Children%E2%80%99s_Hospital_%289456577%29.jpg/1920px-PACAF_Band_brings_holiday_spirit_to_Kanagawa_Children%E2%80%99s_Hospital_%289456577%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:PACAF_Band_brings_holiday_spirit_to_Kanagawa_Children%E2%80%99s_Hospital_(9456577).jpg",
+  "credit": "U.S. Air Force photo by Airman 1st Class David S. Calcote / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "children trumpet music class"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/1920px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
+  "credit": "Ivar Leidus / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "pomegranate fruit"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pomegranate_%28opened%29.jpg/1920px-Pomegranate_%28opened%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pomegranate_(opened).jpg",
+  "credit": "Ivar Leidus / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "pomegranate fruit"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/MAST_Tokamak_%2832476489303%29.jpg/1920px-MAST_Tokamak_%2832476489303%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:MAST_Tokamak_(32476489303).jpg",
+  "credit": "Eye Steel Film / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "spherical tokamak"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tokamak_ST40_engineering_drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Tokamak_ST40_engineering_drawing.jpg",
+  "credit": "A. Sykes et al. / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "spherical tokamak"
+ }
+}
