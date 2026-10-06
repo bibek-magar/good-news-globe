@@ -23,7 +23,8 @@
    "source_name": "Phys.org (AFP)",
    "source_url": "https://phys.org/news/2026-10-sunken-silk-road-city-reveals.html",
    "source_ig": "",
-   "image_query": "Issyk-Kul lake"
+   "image_query": "Issyk-Kul lake",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "space",
@@ -61,7 +62,7 @@
    "stat_label": "estimated weight of the predator",
    "headline": "A new saber-toothed predator is named in Argentina",
    "summary": "Fossils found on the pampas belong to Pampaluctor calibar, a marsupial relative that lived later than scientists thought its group survived. It was likely an ambush hunter.",
-   "why": "It rewrites when South America's native predators disappeared.",
+   "why": "It shows South America's native predators lasted longer than thought.",
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-saber-toothed-predator-argentina-lineage.html",
    "source_ig": "",
