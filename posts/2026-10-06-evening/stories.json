@@ -23,7 +23,8 @@
    "source_name": "The Guardian",
    "source_url": "https://www.theguardian.com/world/2026/oct/05/new-zealand-worlds-heaviest-insect-breeding-programme",
    "source_ig": "",
-   "image_query": "Deinacrida heteracantha"
+   "image_query": "Deinacrida heteracantha",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "health",
@@ -51,7 +52,7 @@
    "source_name": "People",
    "source_url": "https://people.com/michigan-man-creates-prosthetic-legs-from-repurposed-bike-parts-12152651",
    "source_ig": "",
-   "image_query": "bicycle parts workshop"
+   "image_query": "below-knee prosthesis"
   },
   {
    "category": "kindness",
@@ -65,9 +66,9 @@
    "source_name": "Mongabay",
    "source_url": "https://news.mongabay.com/2026/09/tanzanias-first-official-wildlife-corridor-links-savanna-elephants-to-rainforest/",
    "source_ig": "",
-   "image_query": "Udzungwa elephant"
+   "image_query": "Loxodonta africana Tanzania"
   }
  ],
- "fun_fact": "Some Udzungwa elephants slide down steep slopes on their bums in the rainy season.",
+ "fun_fact": "Udzungwa elephants occasionally slide down steep slopes on their bums in the rainy season.",
  "hashtags": "#goodnews #positivenews #goodnewsglobe #insects #elephants"
 }
