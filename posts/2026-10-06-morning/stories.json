@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-06",
+ "handle": "@good_newsglobe",
+ "cover_hook": "NASA will check if this Moon hole hides a giant cave",
+ "cover_highlight": "giant cave",
+ "cover_kicker": "A future astronaut shelter",
+ "caption_hook": "🌕 NASA picked a mission to find out if a deep pit on the Moon opens into a huge lava-tube cave + 3 more wins you missed 👇",
+ "question": "Moon cave or clean fusion: which excites you more?",
+ "share_line": "Send this to the friend who loves space",
+ "reel_hook": "This hole on the Moon may hide a giant cave",
+ "first_comment": "Bonus: the team will set off seismic signals on the Moon, something essentially not done since the Apollo astronauts. Would you camp in a Moon cave? 🌕",
+ "stories": [
+  {
+   "category": "space",
+   "place": "Marius Hills, the Moon",
+   "emoji": "🌕",
+   "stat": "",
+   "stat_label": "",
+   "headline": "NASA's GIMLI mission will hunt for a cave under the Moon",
+   "summary": "A lander and rover will use radar, seismic sensors, a gravimeter and cameras to see if the Marius Hills pit opens into a vast lava tube, and measure how big it is.",
+   "why": "A cave could shield future astronauts from radiation and wild temperature swings.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
+   "source_ig": "",
+   "image_query": "Marius Hills pit"
+  },
+  {
+   "category": "kindness",
+   "place": "Miami, Florida, USA",
+   "emoji": "🎺",
+   "stat": "20,000",
+   "stat_label": "students get free music lessons",
+   "headline": "Free music classes now reach 20,000+ kids in Miami",
+   "summary": "A local nonprofit teaches instruments for free in 131 schools across Miami-Dade. Some former students now lead the classes, like trumpet teacher Reinaldo Velez.",
+   "why": "Kids gain friends, confidence and a lifelong skill, at no cost to families.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/nonprofit-brings-free-music-education-to-more-than-20000-miami-students-in-131-schools/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "children trumpet music class"
+  },
+  {
+   "category": "health",
+   "place": "London, UK",
+   "emoji": "🍎",
+   "stat": "50%",
+   "stat_label": "of heart failure is this hard-to-treat type",
+   "headline": "A pomegranate compound may help stiff hearts relax",
+   "summary": "King's College London found urolithin A, made in the body after eating pomegranates, walnuts and some berries, improved the heart's ability to relax and cut scarring.",
+   "why": "It has already been tested in people and looks safe, so treatments could follow.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/pomegranates-walnuts-and-berries-could-unlock-heart-failure-treatment-with-urolithin-a/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "pomegranate fruit"
+  },
+  {
+   "category": "energy",
+   "place": "China",
+   "emoji": "⚛️",
+   "stat": "1st",
+   "stat_label": "fusion with hydrogen-boron fuel",
+   "headline": "China achieves the 1st fusion with clean hydrogen-boron fuel",
+   "summary": "Engineers at ENN Group briefly fused hydrogen and boron-11 in a spherical tokamak. The reaction makes helium and energy without the high-energy neutrons of standard fusion fuel.",
+   "why": "Boron is abundant and the reaction makes no radioactive waste.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "spherical tokamak"
+  }
+ ],
+ "fun_fact": "Lava tubes are common on Earth; finding one on the Moon would let scientists use Earth caves as a guide.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #moon #space"
+}
