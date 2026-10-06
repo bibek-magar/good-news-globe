@@ -23,7 +23,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
    "source_ig": "",
-   "image_query": "Marius Hills pit"
+   "image_query": "Marius Hills pit",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "kindness",
@@ -51,7 +52,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/pomegranates-walnuts-and-berries-could-unlock-heart-failure-treatment-with-urolithin-a/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "pomegranate fruit"
+   "image_query": "pomegranate fruit",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "energy",
