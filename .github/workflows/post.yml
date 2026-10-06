@@ -30,61 +30,58 @@ jobs:
             f=$(git diff --name-only HEAD~1 HEAD -- 'posts/*/caption.txt' | xargs -r -n1 dirname | sort -u | tr '\n' ' ')
             echo "folders=$f" >> $GITHUB_OUTPUT
           fi
-      # If Instagram blocks/rate-limits the account, don't keep hammering it: post_to_instagram.py exits 42
-      # and we write .ig_blocked_until (now + 48 h). Runs during the cooldown skip Instagram entirely.
-      # To retry sooner (e.g. after the block is lifted in the app), delete .ig_blocked_until.
-      - name: Publish
-        id: pub
-        env:
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          FIRST_COMMENT: ${{ vars.FIRST_COMMENT }}
+      # If Instagram blocks/rate-limits the account, the post scripts exit 42 and we write .ig_blocked_until
+      # (now + 48 h). Every run during the cooldown skips Instagram entirely instead of failing and re-hitting
+      # the API. To retry sooner (e.g. after the block is lifted in the app), delete .ig_blocked_until.
+      - name: Check Instagram cooldown
+        id: cool
         run: |
-          now=$(date -u +%s)
-          if [ -f .ig_blocked_until ] && [ "$now" -lt "$(cat .ig_blocked_until)" ]; then
+          if [ -f .ig_blocked_until ] && [ "$(date -u +%s)" -lt "$(cat .ig_blocked_until)" ]; then
             echo "::warning::Instagram cooldown until $(date -u -d @"$(cat .ig_blocked_until)"). Not posting."
-            echo "blocked=1" >> "$GITHUB_OUTPUT"; exit 0
+            echo "blocked=1" >> "$GITHUB_OUTPUT"
           fi
-          for f in ${{ steps.find.outputs.folders }}; do
-            if [ -f "$f/POSTED" ]; then echo "$f already posted"; continue; fi
-            rc=0; python post_to_instagram.py "$f" || rc=$?
-            if [ "$rc" -eq 42 ]; then
-              echo $((now + 172800)) > .ig_blocked_until
-              echo "::error::Instagram blocked publishing. Cooling down 48 h; appeal in the Instagram app."
-              echo "blocked=1" >> "$GITHUB_OUTPUT"; exit 0
-            fi
-            [ "$rc" -eq 0 ] || exit 1
-            date -u > "$f/POSTED"; rm -f .ig_blocked_until
-          done
-      - name: Mark as posted
-        run: |
-          git config user.name "ggn-bot"; git config user.email "ggn-bot@users.noreply.github.com"
-          git add posts/*/POSTED 2>/dev/null || true
-          git add -A .ig_blocked_until 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "Mark posted [skip ci]" && git pull --rebase -q && git push)
-      # --- Reel with calm music (Reels tab only). Never blocks the carousel above. ---
       - name: Build reels
-        id: reel
-        if: steps.pub.outputs.blocked != '1'
+        if: steps.cool.outputs.blocked != '1'
         continue-on-error: true
         run: |
           command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
           for f in ${{ steps.find.outputs.folders }}; do
             [ -f "$f/REEL_POSTED" ] || python make_reel.py "$f"
           done
-      - name: Publish reels
-        if: steps.pub.outputs.blocked != '1' && steps.reel.outcome == 'success'
-        continue-on-error: true
+      # Reel first (it reaches far more people than the carousel), then the carousel.
+      # A failure in one never stops the other; a block from either starts the cooldown.
+      - name: Publish reel and carousel
+        id: pub
+        if: steps.cool.outputs.blocked != '1'
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          FIRST_COMMENT: ${{ vars.FIRST_COMMENT }}
         run: |
+          now=$(date -u +%s); fail=0
+          blocked() {
+            echo $((now + 172800)) > .ig_blocked_until
+            echo "::error::Instagram blocked publishing ($1). Cooling down 48 h; appeal in the Instagram app."
+            echo "blocked=1" >> "$GITHUB_OUTPUT"; exit 0
+          }
           for f in ${{ steps.find.outputs.folders }}; do
-            python post_reel.py "$f" || exit 1
+            if [ ! -f "$f/REEL_POSTED" ] && [ -f "$f/reel.mp4" ]; then
+              rc=0; python post_reel.py "$f" || rc=$?
+              [ "$rc" -eq 42 ] && blocked "reel $f"
+              if [ "$rc" -eq 0 ]; then rm -f .ig_blocked_until; else echo "::warning::Reel failed for $f; still trying the carousel"; fi
+            fi
+            if [ ! -f "$f/POSTED" ]; then
+              rc=0; python post_to_instagram.py "$f" || rc=$?
+              [ "$rc" -eq 42 ] && blocked "carousel $f"
+              if [ "$rc" -eq 0 ]; then date -u > "$f/POSTED"; rm -f .ig_blocked_until; else fail=1; fi
+            else
+              echo "$f carousel already posted"
+            fi
           done
+          exit $fail
       # Off unless the repo variable POST_STORY is "true": fewer automated actions per post = less spam risk.
       - name: Publish stories
-        if: steps.pub.outputs.blocked != '1' && vars.POST_STORY == 'true'
+        if: steps.cool.outputs.blocked != '1' && steps.pub.outputs.blocked != '1' && vars.POST_STORY == 'true'
         continue-on-error: true
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
@@ -93,8 +90,10 @@ jobs:
           for f in ${{ steps.find.outputs.folders }}; do
             python post_story.py "$f" || exit 1
           done
-      - name: Mark reels and stories posted
+      - name: Save posted markers and cooldown
         if: always()
         run: |
-          git add posts/*/REEL_POSTED 2>/dev/null || true; git add posts/*/STORY_POSTED 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "Mark reel/story posted [skip ci]" && git pull --rebase -q && git push)
+          git config user.name "ggn-bot"; git config user.email "ggn-bot@users.noreply.github.com"
+          for m in POSTED REEL_POSTED STORY_POSTED; do git add posts/*/$m 2>/dev/null || true; done
+          git add -A .ig_blocked_until 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Mark posted [skip ci]" && git pull --rebase -q && git push)

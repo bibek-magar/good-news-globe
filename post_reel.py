@@ -12,10 +12,19 @@ API = f"https://graph.facebook.com/{VER}"
 UID = os.environ["IG_USER_ID"]
 TOKEN = os.environ["IG_ACCESS_TOKEN"]
 
+BLOCKED = 42   # exit code: Instagram is rate-limiting / blocking this account; the workflow starts a cooldown
+
 def call(method, path, **params):
     params["access_token"] = TOKEN
     r = requests.request(method, f"{API}/{path}", params=params, timeout=120)
     if r.status_code >= 400:
+        try:
+            err = r.json().get("error", {})
+        except ValueError:
+            err = {}
+        if err.get("error_subcode") == 2207051 or err.get("code") in (4, 17, 32, 613):
+            print(f"BLOCKED by Instagram on {path}: {r.status_code} {r.text}")
+            sys.exit(BLOCKED)
         sys.exit(f"Instagram API error on {path}: {r.status_code} {r.text}")
     return r.json()
 
