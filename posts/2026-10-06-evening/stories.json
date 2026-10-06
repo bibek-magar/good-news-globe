@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-06",
+ "handle": "@good_newsglobe",
+ "cover_hook": "11,000 of the world's heaviest insects set free",
+ "cover_highlight": "11,000",
+ "cover_kicker": "As heavy as a mouse",
+ "caption_hook": "🦗 New Zealand has released 11,000 wētāpunga, the world's heaviest insect, and their numbers are rising + 3 more wins you missed 👇",
+ "question": "Giant insect or 529 elephants: which would you rather meet? 👇",
+ "share_line": "Send this to the friend who loves weird bugs",
+ "reel_hook": "11,000 of the world's heaviest insects set free",
+ "first_comment": "Bonus: wētāpunga is the largest of about 70 wētā species, and its leg span can reach 20 cm. Would you hold one? 🦗",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "North Island, New Zealand",
+   "emoji": "🦗",
+   "stat": "11,000",
+   "stat_label": "giant insects released into the wild",
+   "headline": "The world's heaviest insect is officially bouncing back",
+   "summary": "A breeding programme has released 11,000 wētāpunga, and the species is now listed as increasing. Females can weigh as much as a mouse and grow up to 10 cm long.",
+   "why": "Predators and lost habitat had pushed this giant insect to the brink.",
+   "source_name": "The Guardian",
+   "source_url": "https://www.theguardian.com/world/2026/oct/05/new-zealand-worlds-heaviest-insect-breeding-programme",
+   "source_ig": "",
+   "image_query": "Deinacrida heteracantha"
+  },
+  {
+   "category": "health",
+   "place": "Kenya",
+   "emoji": "🚑",
+   "stat": "800 km",
+   "stat_label": "driven across Kenya on sunshine",
+   "headline": "A solar-powered ambulance drove 800+ km across Kenya",
+   "summary": "Dutch students built Stella Juva, billed as the 1st solar ambulance. It carries vaccines, an ultrasound and X-ray gear, and is being trialled in Kenya with Amref Health Africa.",
+   "why": "It could bring a clinic to villages with no power or fuel.",
+   "source_name": "Geographical",
+   "source_url": "https://geographical.co.uk/news/solar-ambulance-brings-healthcare-to-off-grid-communities",
+   "source_ig": "",
+   "image_query": "Kenya rural road"
+  },
+  {
+   "category": "invention",
+   "place": "Michigan, USA",
+   "emoji": "🚲",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A prosthetist turns old bike parts into free-to-copy legs",
+   "summary": "Ben Hogan's Project Bike Leg makes prosthetic legs almost entirely from used bike parts. He taught students in Ghana to build them and isn't patenting the design.",
+   "why": "Low-cost legs could reach amputees who can't afford one.",
+   "source_name": "People",
+   "source_url": "https://people.com/michigan-man-creates-prosthetic-legs-from-repurposed-bike-parts-12152651",
+   "source_ig": "",
+   "image_query": "bicycle parts workshop"
+  },
+  {
+   "category": "kindness",
+   "place": "Kilombero Valley, Tanzania",
+   "emoji": "🐘",
+   "stat": "529",
+   "stat_label": "elephants filmed using the corridor",
+   "headline": "368 farmers gave up land so elephants could cross safely",
+   "summary": "Tanzania's first protected wildlife corridor links savanna and mountain rainforest. Cameras caught 529 elephants using it in 15 months, and 100,000 native trees have been planted.",
+   "why": "Elephants get their old route back and farmers keep their crops.",
+   "source_name": "Mongabay",
+   "source_url": "https://news.mongabay.com/2026/09/tanzanias-first-official-wildlife-corridor-links-savanna-elephants-to-rainforest/",
+   "source_ig": "",
+   "image_query": "Udzungwa elephant"
+  }
+ ],
+ "fun_fact": "Some Udzungwa elephants slide down steep slopes on their bums in the rainy season.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #insects #elephants"
+}
