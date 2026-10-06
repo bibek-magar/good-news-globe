@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-05 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-06 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-01: 2 → 10-02: 2 → 10-03: 2 → 10-04: 2 → 10-05: 2
+10-01: 2 → 10-02: 2 → 10-03: 2 → 10-04: 2 → 10-05: 2 → 10-06: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -11,27 +11,27 @@ _Updated 2026-10-05 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 | 2026-10-02 | midday | Moth swarms are back after a 99.5% crash | 3 | 1 | 0 | 1 | 166.67 |
 | 2026-10-04 | morning | A gorilla saved from traffickers is now a mum in the wild | 2 | 0 | 0 | 1 | 150.0 |
 | 2026-10-02 | midday | A 'lost' bird was filmed for the 1st time ever | 3 | 0 | 0 | 1 | 133.33 |
-| 2026-10-05 | morning | Rare monkeys just got their first-ever vaccines | 1 | 0 | 0 | 0 | 100.0 |
+| 2026-10-05 | morning | Rare monkeys just got their first-ever vaccines | 2 | 0 | 0 | 0 | 100.0 |
 
 ## Weakest carousels (avoid these patterns)
 | date | slot | hook | reach | shares | saves | comments | score |
 |---|---|---|---|---|---|---|---|
 | 2026-10-01 | midday | Sea turtles nested in California for the 1st time | 4 | 0 | 0 | 0 | 25.0 |
+| 2026-10-05 | evening | A 1-in-100-million ghost lobster went to college | 2 | 0 | 0 | 0 | 50.0 |
 | 2026-09-30 | evening | 🌍 4 good things happening in the world right now. | 2 | 0 | 0 | 0 | 100.0 |
-| 2026-09-30 | evening | In Kenya, a solar-powered shipping container now delivers up to 400 di | 2 | 0 | 0 | 0 | 100.0 |
 
 ## This week vs before
-- Last 7 days: 12 carousels, avg reach 2.5, avg score 122.9
+- Last 7 days: 13 carousels, avg reach 2.5, avg score 117.3
 - Earlier: avg reach 0, avg score 0
 
 ## By slot (Nepal time)
-- morning: 2 posts, avg reach 1.5, avg score 125.0
+- morning: 2 posts, avg reach 2, avg score 125.0
 - midday: 6 posts, avg reach 3, avg score 104.2
-- evening: 4 posts, avg reach 2.2, avg score 150.0
+- evening: 5 posts, avg reach 2.2, avg score 130.0
 
 ## Categories
-Cover (story #1) category → avg score: quirky 200.0 (2), kindness 150.0 (1), nature 105.0 (5), space 100.0 (1), archaeology 100.0 (1)
-Any position → avg score: quirky 138.3, nature 134.4, archaeology 130.6, science 125.0, kindness 125.0, space 119.4, invention 116.7, health 111.1
+Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), nature 105.0 (5), space 100.0 (1), archaeology 100.0 (1)
+Any position → avg score: nature 125.0, science 125.0, kindness 125.0, quirky 123.6, archaeology 122.5, space 119.4, invention 116.7, health 111.1, energy 50.0
 
 ## Best Reels
 | date | slot | hook | reach | shares | saves | comments | score | avg watch (ms) |
