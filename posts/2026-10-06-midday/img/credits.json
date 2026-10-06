@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Lake_Issyk-Kul%2C_Kyrgyzstan.jpg/1920px-Lake_Issyk-Kul%2C_Kyrgyzstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Issyk-Kul,_Kyrgyzstan.jpg",
+  "credit": "Bgag / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Issyk-Kul lake"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Issyk_kul_Lake_1.jpg/1920px-Issyk_kul_Lake_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Issyk_kul_Lake_1.jpg",
+  "credit": "Jaya govinda / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Issyk-Kul lake"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/White_Dwarf_Resurrection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:White_Dwarf_Resurrection.jpg",
+  "credit": "ESO / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "white dwarf star"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Artist%E2%80%99s_impression_of_debris_around_a_white_dwarf_star.jpg/1920px-Artist%E2%80%99s_impression_of_debris_around_a_white_dwarf_star.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_debris_around_a_white_dwarf_star.jpg",
+  "credit": "NASA, ESA, STScI, and G. Bacon (STScI) / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "white dwarf star"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Green_algae_under_a_microscope.jpg/1920px-Green_algae_under_a_microscope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Green_algae_under_a_microscope.jpg",
+  "credit": "Shyshko Viktoria / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "green algae microscope"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Spirogyra_algae_under_microscope.jpg/1920px-Spirogyra_algae_under_microscope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Spirogyra_algae_under_microscope.jpg",
+  "credit": "Stefan Thiesen (wikimedia Nick \"Buntrabe\") / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "green algae microscope"
+ }
+}
