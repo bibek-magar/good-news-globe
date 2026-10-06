@@ -16,7 +16,7 @@ SLIDE_SECONDS = 6.0      # slideshow: time each slide is fully visible (roughly)
 FADE = 0.6               # slideshow: crossfade between slides
 BG = "0xFFF8EE"          # brand background used to pad 4:5 slides to 9:16
 FPS = 30
-STORY_SECONDS = [2.0, 2.2, 4.0, 2.8]   # single-story: hook, number, what happened, why + follow (~10 s total)
+STORY_SECONDS = [1.8, 1.6, 3.6, 2.4]   # single-story: hook, number, what happened, why + follow (~8 s: short Reels get watched to the end and loop)
 STORY_FADE = 0.35
 
 def pick_track(folder):

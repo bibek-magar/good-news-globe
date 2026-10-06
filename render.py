@@ -366,14 +366,13 @@ def reel_frames(d):
     frames = []
     if img:
         bgp = (f'<div style="position:absolute;inset:0;background:url({img}) center 35%/cover"></div>'
-               '<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,16,12,.6) 0%,rgba(20,16,12,0) 18%,'
-               'rgba(20,16,12,.15) 42%,rgba(20,16,12,.9) 64%,rgba(20,16,12,.97) 100%)"></div>')
+               '<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,16,12,.6) 0%,rgba(20,16,12,0) 14%,'
+               'rgba(20,16,12,.2) 26%,rgba(20,16,12,.86) 42%,rgba(20,16,12,.92) 100%)"></div>')
         rc = f'<div class="rcr">Photo: {esc(cred)}</div>' if cred else ""
-        frames.append(f"""<div class="slide" style="justify-content:flex-end;padding-bottom:300px">{bgp}{brand}{rc}
+        frames.append(f"""<div class="slide" style="justify-content:flex-end;padding-bottom:720px">{bgp}{brand}{rc}
           <div class="kick" style="position:relative">{icon(s['category'], INK, 38, 6)}{esc((d.get('cover_kicker') or label).strip())}</div>
           <h1 style="position:relative;font:900 {hsize}px/1.03 Fraunces;margin-top:40px;letter-spacing:-.015em;text-shadow:0 2px 24px rgba(0,0,0,.5)">{hook_html(hook, hi)}</h1>
-          <div style="position:relative;margin-top:40px;font:700 40px Inter;color:#E9DFCF">{place}</div>
-          <div class="tag">Watch to the end</div></div>""")
+          <div style="position:relative;margin-top:40px;font:700 40px Inter;color:#E9DFCF">{place}</div></div>""")
         st = (s.get("stat") or "").strip()
         dim = (f'<div style="position:absolute;inset:0;background:url({img}) center/cover;filter:blur(6px) brightness(.32);transform:scale(1.08)"></div>')
         if st:
@@ -399,8 +398,7 @@ def reel_frames(d):
     frames.append(f"""<div class="slide"><div class="glow"></div>{brand}
       <div class="kick">{icon(s['category'], INK, 38, 6)}{esc((d.get('cover_kicker') or label).strip())}</div>
       <h1 style="font:900 {hsize}px/1.03 Fraunces;margin-top:48px;letter-spacing:-.015em">{hook_html(hook, hi)}</h1>
-      <div style="margin-top:56px;font:700 40px Inter;color:#E9DFCF">{place}</div>
-      <div class="tag">Watch to the end</div></div>""")
+      <div style="margin-top:56px;font:700 40px Inter;color:#E9DFCF">{place}</div></div>""")
     # 2 — the number (or the headline when there is no number)
     st = (s.get("stat") or "").strip()
     if st:
@@ -428,7 +426,7 @@ def why_frame(d, s, brand):
       <div style="margin-top:28px;font:900 74px/1.12 Fraunces">{esc(s['why'])}</div>
       <div style="margin-top:90px;background:{PAPER};color:{INK};border-radius:40px;padding:44px 48px;display:flex;align-items:center;gap:30px">
         {GLOBE.format(s=110, c=INK)}<div><div style="font:900 54px/1.1 Fraunces">Follow for daily good news</div>
-        <div style="margin-top:10px;font:700 34px Inter;color:{MUTED}">{esc(d['handle'])} · 3 more wins in our latest post</div></div></div></div>""")
+        <div style="margin-top:10px;font:700 34px Inter;color:{MUTED}">{esc(d['handle'])}</div></div></div></div>""")
 
 def reel_caption(d):
     s = d["stories"][0]

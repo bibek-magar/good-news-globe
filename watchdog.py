@@ -20,6 +20,14 @@ def check_edition(ed):
     f = pathlib.Path("posts") / f"{today.isoformat()}-{ed}"
     if (f / "POSTED").exists():
         print(f"{f}: posted"); return
+    cool = pathlib.Path(".ig_blocked_until")
+    if cool.exists() and dt.datetime.now(dt.timezone.utc).timestamp() < int(cool.read_text().split()[0]):
+        until = dt.datetime.fromtimestamp(int(cool.read_text().split()[0]), dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+        out.append(("Instagram is blocking automated posts",
+                    f"Posting is paused until {until} after Instagram blocked publishing (error 2207051). Open the Instagram app "
+                    "as @good_newsglobe, find the 'action blocked' notice and tap 'Tell us'. Delete `.ig_blocked_until` "
+                    "in the repo to retry sooner. Editions are still built in `posts/` for posting by hand."))
+        return
     if (f / "caption.txt").exists():
         why = "the caption was pushed but the Post workflow didn't finish. Check the Actions tab for the failed run."
     elif f.exists():
