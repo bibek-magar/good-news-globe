@@ -13,10 +13,20 @@ TOKEN = os.environ["IG_ACCESS_TOKEN"]
 REPO = os.environ["GITHUB_REPOSITORY"]
 SHA = os.environ.get("GITHUB_SHA", "main")
 
+BLOCKED = 42   # exit code: Instagram is rate-limiting / blocking this account; the workflow starts a cooldown
+
 def call(method, path, **params):
     params["access_token"] = TOKEN
     r = requests.request(method, f"{API}/{path}", params=params, timeout=60)
     if r.status_code >= 400:
+        try:
+            err = r.json().get("error", {})
+        except ValueError:
+            err = {}
+        if err.get("error_subcode") == 2207051 or err.get("code") in (4, 17, 32, 613):
+            print(f"BLOCKED by Instagram on {path}: {r.status_code} {r.text}")
+            print("Open the Instagram app as this account, find the 'action blocked' notice and tap 'Tell us'.")
+            sys.exit(BLOCKED)
         sys.exit(f"Instagram API error on {path}: {r.status_code} {r.text}")
     return r.json()
 
@@ -53,6 +63,8 @@ def main(folder):
 def first_comment(folder, media_id):
     """Best effort: post first_comment.txt under the new post (needs instagram_manage_comments). Never fails the run."""
     fc = folder / "first_comment.txt"
+    if os.environ.get("FIRST_COMMENT", "").lower() != "true":   # off by default: automated self-comments look spammy
+        return
     if not media_id or not fc.exists():
         return
     try:

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish posts/<folder>/reel.mp4 to Instagram as a Reel (Reels tab only, not the main feed grid).
+"""Publish posts/<folder>/reel.mp4 to Instagram as a Reel (shared to the feed and profile grid too).
 
 Uses the Instagram Graph API resumable upload, so the video doesn't need to be hosted anywhere.
 Env: IG_USER_ID, IG_ACCESS_TOKEN.  Usage: python post_reel.py posts/2026-10-01-morning
@@ -29,7 +29,7 @@ def main(folder):
     cap = folder / "reel_caption.txt"   # single-story Reel caption from the renderer; carousel caption as fallback
     caption = (cap if cap.exists() else folder / "caption.txt").read_text(encoding="utf-8")[:2200]
     cid = call("POST", f"{UID}/media", media_type="REELS", upload_type="resumable",
-               caption=caption, share_to_feed="false")["id"]
+               caption=caption, share_to_feed="true")["id"]
     data = video.read_bytes()
     up = requests.post(f"https://rupload.facebook.com/ig-api-upload/{VER}/{cid}",
                        headers={"Authorization": f"OAuth {TOKEN}", "offset": "0", "file_size": str(len(data))},
