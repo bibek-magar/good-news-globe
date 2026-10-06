@@ -28,24 +28,31 @@
   "query": "Kenya rural road"
  },
  "s3a": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Pozsonyi_Stra%C3%9Fe_25%2C_5._Obergeschoss%2C_2021_%C3%9Ajlip%C3%B3tv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "page": "https://commons.wikimedia.org/wiki/File:Pozsonyi_Stra%C3%9Fe_25,_5._Obergeschoss,_2021_%C3%9Ajlip%C3%B3tv%C3%A1ros.jpg",
-  "credit": "Globetrotter19 / Wikimedia Commons, CC BY-SA 3.0",
-  "license": "CC BY-SA 3.0",
-  "query": "bicycle parts workshop"
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_below-the-knee_amputee_dancer_with_a_prosthesis.jpg/1920px-A_below-the-knee_amputee_dancer_with_a_prosthesis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:A_below-the-knee_amputee_dancer_with_a_prosthesis.jpg",
+  "credit": "Axiles Bionics / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "below-knee prosthesis"
  },
  "s3b": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Pozsonyi_Stra%C3%9Fe_25%2C_Hof%2C_Fahrr%C3%A4der%2C_2021_%C3%9Ajlip%C3%B3tv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "page": "https://commons.wikimedia.org/wiki/File:Pozsonyi_Stra%C3%9Fe_25,_Hof,_Fahrr%C3%A4der,_2021_%C3%9Ajlip%C3%B3tv%C3%A1ros.jpg",
-  "credit": "Globetrotter19 / Wikimedia Commons, CC BY-SA 3.0",
-  "license": "CC BY-SA 3.0",
-  "query": "bicycle parts workshop"
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/KNEE_PROSTHESIS_-_NARA_-_17448589.jpg/1920px-KNEE_PROSTHESIS_-_NARA_-_17448589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:KNEE_PROSTHESIS_-_NARA_-_17448589.jpg",
+  "credit": "Unknown authorUnknown author or not provided / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "below-knee prosthesis"
  },
  "s4a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tazara_train_to_Mbeya.jpg/1920px-Tazara_train_to_Mbeya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Tazara_train_to_Mbeya.jpg",
-  "credit": "Erasmus Kamugisha / Wikimedia Commons, CC BY-SA 4.0",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Loxodonta_africana_%28Serengeti%2C_2009%29.jpg/1920px-Loxodonta_africana_%28Serengeti%2C_2009%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Loxodonta_africana_(Serengeti,_2009).jpg",
+  "credit": "Yathin S Krishnappa / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Loxodonta africana Tanzania"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_32.jpg/1920px-Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Elefante_africano_de_sabana_(Loxodonta_africana),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-24,_DD_32.jpg",
+  "credit": "Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
   "license": "CC BY-SA 4.0",
-  "query": "Udzungwa elephant"
+  "query": "Loxodonta africana Tanzania"
  }
 }
