@@ -23,7 +23,9 @@
    "source_name": "Africa Geographic",
    "source_url": "https://africageographic.com/stories/rhino-rewild-three-years-745-rhinos-trials-and-successes/",
    "source_ig": "",
-   "image_query": "Ceratotherium simum simum"
+   "image_query": "Ceratotherium simum simum",
+   "image": "img/s1a.jpg",
+   "image_credit": "William Crochot / Wikimedia Commons, CC BY-SA 4.0"
   },
   {
    "category": "energy",
@@ -31,13 +33,14 @@
    "emoji": "🚗",
    "stat": "49%",
    "stat_label": "of new cars sold were gas-only",
-   "headline": "Gas-only cars fell below half of new car sales for the 1st time",
+   "headline": "Gas-only cars dip below half of new car sales, a 1st",
    "summary": "Gasoline-only cars made up 49% of global new car sales in early 2026, down from 73% in 2021. Electric cars took 17% and hybrids 18%.",
-   "why": "Cleaner cars are now the majority of new sales worldwide.",
+   "why": "Electric and hybrid sales keep growing as gas-only sales fall.",
    "source_name": "Electrek",
    "source_url": "https://electrek.co/2026/10/05/gas-cars-fall-below-50-percent-global-new-car-sales/",
    "source_ig": "",
-   "image_query": "electric car charging"
+   "image_query": "electric car charging",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "kindness",
@@ -65,7 +68,8 @@
    "source_name": "BBC News",
    "source_url": "https://www.bbc.com/news/articles/cq203mymlvkeo",
    "source_ig": "",
-   "image_query": "IceCube Neutrino Observatory"
+   "image_query": "IceCube Neutrino Observatory",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Halzen first pitched catching neutrinos in South Pole ice in 1988.",
