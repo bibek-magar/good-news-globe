@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-07",
+ "handle": "@good_newsglobe",
+ "cover_hook": "745 rhinos moved back into the wild in 3 years",
+ "cover_highlight": "745 rhinos",
+ "cover_kicker": "89 calves born so far",
+ "caption_hook": "🦏 745 white rhinos have been moved from a breeding farm into 19 protected areas across Africa + 3 more wins you missed 👇",
+ "question": "Which made you smile most: 1, 2, 3 or 4?",
+ "share_line": "Send this to the friend who loves rhinos",
+ "reel_hook": "745 rhinos moved back into the wild in 3 years",
+ "first_comment": "Bonus: Rwanda's Akagera park received 70 rhinos in one go, flown and driven about 3,400 km. Its white rhino herd is now just over 100. Which country would you visit to see them? 🦏",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Rwanda, DRC, Uganda, South Africa",
+   "emoji": "🦏",
+   "stat": "745",
+   "stat_label": "rhinos moved to protected parks",
+   "headline": "745 rhinos moved from a farm into 19 wild parks",
+   "summary": "African Parks' Rhino Rewild has moved 745 southern white rhinos into 19 protected areas in 4 countries in 3 years. 89 calves have been born, though 61 rhinos died along the way.",
+   "why": "Spreading rhinos across many parks protects them from disease and poaching.",
+   "source_name": "Africa Geographic",
+   "source_url": "https://africageographic.com/stories/rhino-rewild-three-years-745-rhinos-trials-and-successes/",
+   "source_ig": "",
+   "image_query": "Ceratotherium simum simum"
+  },
+  {
+   "category": "energy",
+   "place": "Worldwide",
+   "emoji": "🚗",
+   "stat": "49%",
+   "stat_label": "of new cars sold were gas-only",
+   "headline": "Gas-only cars fell below half of new car sales for the 1st time",
+   "summary": "Gasoline-only cars made up 49% of global new car sales in early 2026, down from 73% in 2021. Electric cars took 17% and hybrids 18%.",
+   "why": "Cleaner cars are now the majority of new sales worldwide.",
+   "source_name": "Electrek",
+   "source_url": "https://electrek.co/2026/10/05/gas-cars-fall-below-50-percent-global-new-car-sales/",
+   "source_ig": "",
+   "image_query": "electric car charging"
+  },
+  {
+   "category": "kindness",
+   "place": "Wedweil, South Sudan",
+   "emoji": "📚",
+   "stat": "442+",
+   "stat_label": "refugee children now in school",
+   "headline": "A refugee teacher started a school in a camp with none",
+   "summary": "Isa fled war in Sudan and found no classrooms at a South Sudan settlement. He opened a school called \"the future\". Today more than 442 refugee children study across the camp's schools.",
+   "why": "Refugee and local kids now learn side by side.",
+   "source_name": "World Vision Canada",
+   "source_url": "https://www.worldvision.ca/en/stories/against-the-odds-isas-mission-to-protect-education",
+   "source_ig": "",
+   "image_query": "South Sudan classroom"
+  },
+  {
+   "category": "space",
+   "place": "South Pole, Antarctica",
+   "emoji": "🧊",
+   "stat": "1 km³",
+   "stat_label": "of Antarctic ice turned into a telescope",
+   "headline": "A telescope made of Antarctic ice wins the physics Nobel",
+   "summary": "Francis Halzen won for leading IceCube, which uses thousands of light sensors frozen into a cubic kilometre of ice to catch 'ghost particles' from distant galaxies.",
+   "why": "Neutrinos reveal places in the universe ordinary telescopes can't see.",
+   "source_name": "BBC News",
+   "source_url": "https://www.bbc.com/news/articles/cq203mymlvkeo",
+   "source_ig": "",
+   "image_query": "IceCube Neutrino Observatory"
+  }
+ ],
+ "fun_fact": "Halzen first pitched catching neutrinos in South Pole ice in 1988.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #rhinos #wildlife"
+}
