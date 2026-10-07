@@ -23,7 +23,8 @@
    "source_name": "Mongabay",
    "source_url": "https://news.mongabay.com/podcast/2026/09/iwi-and-community-led-effort-return-kiwi-to-wellington-for-first-time-in-over-a-century/",
    "source_ig": "",
-   "image_query": "Apteryx mantelli"
+   "image_query": "Apteryx mantelli",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "invention",
@@ -65,7 +66,8 @@
    "source_name": "Times of India",
    "source_url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
    "source_ig": "",
-   "image_query": "Lusatian Lake District"
+   "image_query": "Lusatian Lake District",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Kiwi chicks can usually fend off stoats once they reach about 1 kg.",
