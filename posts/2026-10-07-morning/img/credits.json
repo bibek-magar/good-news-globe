@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Apteryx_mantelli_-Rotorua%2C_North_Island%2C_New_Zealand-8a.jpg/1920px-Apteryx_mantelli_-Rotorua%2C_North_Island%2C_New_Zealand-8a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Apteryx_mantelli_-Rotorua,_North_Island,_New_Zealand-8a.jpg",
+  "credit": "The.Rohit / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Apteryx mantelli"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Apteryx_mantelli_3445654.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Apteryx_mantelli_3445654.jpg",
+  "credit": "Peter de Lange / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Apteryx mantelli"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Lemonade_Stand_%286664771423%29.jpg/1920px-Lemonade_Stand_%286664771423%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lemonade_Stand_(6664771423).jpg",
+  "credit": "Prayitno / Thank you for (12 millions +) view from Los Angel / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "lemonade stand"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Lemonade_Stand_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Lemonade_Stand_-_panoramio.jpg",
+  "credit": "Jon_York / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "lemonade stand"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lausitzer_Seenland_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Lausitzer_Seenland_2022.jpg",
+  "credit": "Dr. Steinhuber / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Lusatian Lake District"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/B%C3%A4rwalder_See_Lausitzer_Seenland_%282026-08-02%29.jpg/1920px-B%C3%A4rwalder_See_Lausitzer_Seenland_%282026-08-02%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:B%C3%A4rwalder_See_Lausitzer_Seenland_(2026-08-02).jpg",
+  "credit": "Olgierd Rudak / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Lusatian Lake District"
+ }
+}
