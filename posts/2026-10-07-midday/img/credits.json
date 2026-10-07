@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Ceratotherium_simum_simum_%28Rhinoc%C3%A9ros_blanc_du_Sud%29_-_385.jpg/1920px-Ceratotherium_simum_simum_%28Rhinoc%C3%A9ros_blanc_du_Sud%29_-_385.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ceratotherium_simum_simum_(Rhinoc%C3%A9ros_blanc_du_Sud)_-_385.jpg",
+  "credit": "Another one of my pictures:\n\n\n\nThis photograph was taken by  / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Ceratotherium simum simum"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Ceratotherium_simum_white_Rhinoceros_blanc_female_MNHN.jpg/1920px-Ceratotherium_simum_white_Rhinoceros_blanc_female_MNHN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ceratotherium_simum_white_Rhinoceros_blanc_female_MNHN.jpg",
+  "credit": "Jebulon / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Ceratotherium simum simum"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cologne_Germany_Electric-Car-Charging-Point-at-TUV-Rheinland-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Electric-Car-Charging-Point-at-TUV-Rheinland-02.jpg",
+  "credit": "CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "electric car charging"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cologne_Germany_Electric-Car-Charging-Point-at-TUV-Rheinland-01.jpg/1920px-Cologne_Germany_Electric-Car-Charging-Point-at-TUV-Rheinland-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Electric-Car-Charging-Point-at-TUV-Rheinland-01.jpg",
+  "credit": "CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "electric car charging"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Eduwiki_South_Sudan_classroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Eduwiki_South_Sudan_classroom.jpg",
+  "credit": "Lomoraronald / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "South Sudan classroom"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Boy_looking_out_of_the_window_in_South_Sudan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Boy_looking_out_of_the_window_in_South_Sudan.jpg",
+  "credit": "Steve Evans / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "South Sudan classroom"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/IceCube_Neutrino_Observatory_in_2023_02.jpg/1920px-IceCube_Neutrino_Observatory_in_2023_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:IceCube_Neutrino_Observatory_in_2023_02.jpg",
+  "credit": "Christopher Michel / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "IceCube Neutrino Observatory"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/IceCube_Neutrino_Observatory_in_2023_01.jpg/1920px-IceCube_Neutrino_Observatory_in_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:IceCube_Neutrino_Observatory_in_2023_01.jpg",
+  "credit": "Christopher Michel / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "IceCube Neutrino Observatory"
+ }
+}
