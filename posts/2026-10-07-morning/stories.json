@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-07",
+ "handle": "@good_newsglobe",
+ "cover_hook": "1st time in 150 years: kiwi back in Wellington",
+ "cover_highlight": "150 years",
+ "cover_kicker": "250+ birds brought home",
+ "caption_hook": "🥝 For the 1st time in 150 years, wild kiwi birds live in the hills around Wellington, New Zealand + 3 more wins you missed 👇",
+ "question": "Describe this news in one emoji 👇",
+ "share_line": "Send this to the friend who loves birds",
+ "reel_hook": "1st time in 150 years: kiwi back in Wellington",
+ "first_comment": "Bonus: to keep the chicks safe, the team set more than 5,300 stoat traps across about 24,000 hectares. Would you volunteer to check traps? 🥝",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Wellington, New Zealand",
+   "emoji": "🥝",
+   "stat": "250+",
+   "stat_label": "kiwi moved back to the hills",
+   "headline": "Kiwi live wild around Wellington for the 1st time in 150 years",
+   "summary": "The Capital Kiwi Project, led with iwi and local landowners, moved 250+ kiwi back after trapping stoats. With chicks, there are now an estimated 300+ birds.",
+   "why": "Whole communities now help care for a bird many had never seen.",
+   "source_name": "Mongabay",
+   "source_url": "https://news.mongabay.com/podcast/2026/09/iwi-and-community-led-effort-return-kiwi-to-wellington-for-first-time-in-over-a-century/",
+   "source_ig": "",
+   "image_query": "Apteryx mantelli"
+  },
+  {
+   "category": "invention",
+   "place": "China",
+   "emoji": "🛗",
+   "stat": "288 m",
+   "stat_label": "glass elevator up a cliff face",
+   "headline": "A 288 m cliff elevator cuts kids' school trip to 30 minutes",
+   "summary": "Children aged 6 to 15 used to spend about 6 hours a day walking to a mountaintop school and back. A glass elevator up the canyon wall now gets them there in about half an hour.",
+   "why": "Kids get hours of their day back, and a much safer route.",
+   "source_name": "New Atlas",
+   "source_url": "https://newatlas.com/engineering/watch-epic-cliff-elevator-china/",
+   "source_ig": "",
+   "image_query": "China karst canyon cliff"
+  },
+  {
+   "category": "kindness",
+   "place": "Ohio, USA",
+   "emoji": "🍋",
+   "stat": "$5M+",
+   "stat_label": "raised since one lemonade stand",
+   "headline": "A 6-year-old's $768 lemonade stand grew into $5M+ of help",
+   "summary": "Payton Obert set up a stand in 2018 to buy toys for kids in hospital, after a teddy bear comforted her there. Her nonprofit has since raised over $5 million in cash and goods.",
+   "why": "It now supports more than 40 local groups helping children.",
+   "source_name": "Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/us/at-age-6-ohio-girl-payton-obert-raised-768-at-one-lemonade-stand-to-buy-toys-for-hospital-patients-eight-years-later-her-nonprofit-had-raised-more-than-5-million-in-money-and-donated-goods/articleshow/134657030.cms",
+   "source_ig": "",
+   "image_query": "lemonade stand"
+  },
+  {
+   "category": "energy",
+   "place": "Lusatia, Germany",
+   "emoji": "🏞️",
+   "stat": "23",
+   "stat_label": "lakes made from old coal pits",
+   "headline": "Germany turned 23 old coal mines into a lake district",
+   "summary": "Flooded lignite pits in Lusatia now form 23 lakes with about 14,000 hectares of water. In 2026, five of them were linked into one connected waterway for boats.",
+   "why": "A scarred coal region is becoming a place for swimming, boating and wildlife.",
+   "source_name": "Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
+   "source_ig": "",
+   "image_query": "Lusatian Lake District"
+  }
+ ],
+ "fun_fact": "Kiwi chicks can usually fend off stoats once they reach about 1 kg.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #kiwi #newzealand"
+}
