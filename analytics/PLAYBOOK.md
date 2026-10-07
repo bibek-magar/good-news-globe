@@ -4,7 +4,7 @@ Every autoposter run reads this before picking stories and writing hooks. The gr
 twice a week from `analytics/posts.csv` and `analytics/REPORT.md`. Rules carry a confidence level, because the
 sample is still small; a rule is only dropped when new data contradicts it.
 
-_Last updated: 2026-10-06 (data: 10 Reels, 13 carousels, 2026-09-30 → 2026-10-05)._
+_Last updated: 2026-10-07 (data: 10 Reels, 13 carousels, 2026-09-30 → 2026-10-05; no new Reel data since)._
 
 ## What the numbers say
 - **Reels are the growth channel.** Reels averaged 56 reach; carousels averaged 2.5. Followers are still at 2,
@@ -45,4 +45,5 @@ _Last updated: 2026-10-06 (data: 10 Reels, 13 carousels, 2026-09-30 → 2026-10-
 - [ ] Evening-only carousel (shipped 2026-10-06). Watch: does Reel reach recover once the block lifts?
 
 ## Changelog
+- 2026-10-07: no new Reel insights since 10-04 (Instagram blocked publishing 10-05 → 10-07), so no rule changes. Posting note, not engagement data: on 10-07 the evening Reel was accepted (1st since 10-04) while the carousel posted a minute later was blocked again (error 2207051). Its reach will be the first test of the new hook layout and 8.4 s length.
 - 2026-10-06: first version, from 10 Reels and 13 carousels.
