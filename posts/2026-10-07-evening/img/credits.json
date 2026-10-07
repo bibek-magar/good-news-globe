@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Emydoidea_blandingii_-_Amerikanische_Sumpfschildkr%C3%B6te_134801056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Emydoidea_blandingii_-_Amerikanische_Sumpfschildkr%C3%B6te_134801056.jpg",
+  "credit": "Ethan Rose / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Emydoidea blandingii"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Emydoidea_blandingii_turtle.jpg/1920px-Emydoidea_blandingii_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Emydoidea_blandingii_turtle.jpg",
+  "credit": "Shannon Keith, U.S. Fish and Wildlife Service / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Emydoidea blandingii"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Researcher_holding_a_lab_mouse_-_Crimean_Federal_University_-_ANDY7392.jpg/1920px-Researcher_holding_a_lab_mouse_-_Crimean_Federal_University_-_ANDY7392.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Researcher_holding_a_lab_mouse_-_Crimean_Federal_University_-_ANDY7392.jpg",
+  "credit": "Andrey Chernogorodov / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "laboratory mouse"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Lab_mice_436262.jpg/1920px-Lab_mice_436262.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lab_mice_436262.jpg",
+  "credit": "Understanding Animal Research / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "laboratory mouse"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/HS_1360_05_bottom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:HS_1360_05_bottom.png",
+  "credit": "Unknown / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Ur III cuneiform tablet"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/HS_1360_01_top.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:HS_1360_01_top.png",
+  "credit": "Unknown / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Ur III cuneiform tablet"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Tesvolt_battery_energy_storage_system_Rheineck.jpg/1920px-Tesvolt_battery_energy_storage_system_Rheineck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Tesvolt_battery_energy_storage_system_Rheineck.jpg",
+  "credit": "Kecko from Eastern Switzerland / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "grid battery storage"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Battery_Energy_Storage_System_Manufacturers.jpg/1920px-Battery_Energy_Storage_System_Manufacturers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Battery_Energy_Storage_System_Manufacturers.jpg",
+  "credit": "Grevault / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "grid battery storage"
+ }
+}
