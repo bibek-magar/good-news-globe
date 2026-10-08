@@ -23,7 +23,9 @@
    "source_name": "SFGATE",
    "source_url": "https://www.sfgate.com/centralcoast/article/sunflower-star-release-monterey-22463590.php",
    "source_ig": "",
-   "image_query": "Pycnopodia helianthoides"
+   "image_query": "Pycnopodia helianthoides",
+   "image": "img/s1b.jpg",
+   "image_credit": "Ed Bowlby, NOAA / Wikimedia Commons, Public domain"
   },
   {
    "category": "space",
@@ -37,7 +39,8 @@
    "source_name": "Space.com",
    "source_url": "https://www.space.com/astronomy/black-holes/astronomers-detect-most-distant-supermassive-black-hole-powered-blazar-ever-a-cosmic-beacon-from-the-dawn-of-time",
    "source_ig": "",
-   "image_query": "MAGIC telescopes La Palma"
+   "image_query": "MAGIC telescopes La Palma",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "quirky",
