@@ -23,7 +23,8 @@
    "source_name": "The Korea Herald",
    "source_url": "https://biz.heraldcorp.com/article/10890952",
    "source_ig": "",
-   "image_query": "Korean Jindo dog"
+   "image_query": "Korean Jindo dog",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "health",
@@ -51,7 +52,9 @@
    "source_name": "DredgeWire",
    "source_url": "https://dredgewire.com/corps-of-engineers-celebrates-mcgregor-lake-restoration-project-completion/",
    "source_ig": "",
-   "image_query": "Upper Mississippi River backwater"
+   "image_query": "Upper Mississippi River backwater",
+   "image": "img/s3a.jpg",
+   "image_credit": "U.S. National Archives / Wikimedia Commons, Public domain"
   },
   {
    "category": "archaeology",
@@ -65,7 +68,8 @@
    "source_name": "Times of India",
    "source_url": "https://timesofindia.indiatimes.com/science/archaeology/2100-year-old-shipwreck-filled-with-122-varieties-of-ancient-roman-tableware-found-by-archaeologists-in-turkey-was-mentioned-in-a-letter-by-roman-statesman-cicero/articleshow/134584079.cms",
    "source_ig": "",
-   "image_query": "Adrasan Antalya coast"
+   "image_query": "Adrasan Antalya coast",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "Cicero wrote about ordering dishes from Rhosus in a letter around 50 BCE.",
