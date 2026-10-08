@@ -2,13 +2,13 @@
  "edition": "Morning",
  "date": "2026-10-08",
  "handle": "@good_newsglobe",
- "cover_hook": "This 194-year-old tortoise's genes stay young",
+ "cover_hook": "Scientists read a 194-year-old tortoise's DNA",
  "cover_highlight": "194-year-old",
  "cover_kicker": "Oldest known land animal",
  "caption_hook": "🐢 Jonathan the giant tortoise is at least 194, and scientists just found clues to his long life in his DNA + 3 more wins you missed 👇",
  "question": "Describe Jonathan in one emoji 👇",
  "share_line": "Send this to the oldest friend you have",
- "reel_hook": "This 194-year-old tortoise's genes stay young",
+ "reel_hook": "Scientists read a 194-year-old tortoise's DNA",
  "first_comment": "Bonus: his vet collected DNA with a cheek swab, because officials on Saint Helena didn't allow a blood draw from such an elderly, beloved tortoise. What would you ask Jonathan? 🐢",
  "stories": [
   {
@@ -23,7 +23,8 @@
    "source_name": "Scientific American",
    "source_url": "https://www.scientificamerican.com/article/scientists-unlock-the-longevity-secrets-of-194-year-old-jonathan-the-giant-tortoise/",
    "source_ig": "",
-   "image_query": "Jonathan tortoise Saint Helena"
+   "image_query": "Jonathan tortoise Saint Helena",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "health",
