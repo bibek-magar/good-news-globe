@@ -1,17 +1,17 @@
 # Good News Globe — performance report
-_Updated 2026-10-07 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-08 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-01: 2 → 10-02: 2 → 10-03: 2 → 10-04: 2 → 10-05: 2 → 10-06: 2 → 10-07: 2
+10-01: 2 → 10-02: 2 → 10-03: 2 → 10-04: 2 → 10-05: 2 → 10-06: 2 → 10-07: 2 → 10-08: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
 |---|---|---|---|---|---|---|---|
 | 2026-10-03 | evening | Elephants 'sing' together to decide what to do next | 2 | 1 | 0 | 2 | 300.0 |
 | 2026-10-02 | midday | Moth swarms are back after a 99.5% crash | 3 | 1 | 0 | 1 | 166.67 |
+| 2026-10-07 | evening | 16 years after kids raised her, she had babies | 2 | 0 | 0 | 0 | 150.0 |
 | 2026-10-04 | morning | A gorilla saved from traffickers is now a mum in the wild | 2 | 0 | 0 | 1 | 150.0 |
 | 2026-10-02 | midday | A 'lost' bird was filmed for the 1st time ever | 3 | 0 | 0 | 1 | 133.33 |
-| 2026-10-05 | morning | Rare monkeys just got their first-ever vaccines | 2 | 0 | 0 | 0 | 100.0 |
 
 ## Weakest carousels (avoid these patterns)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -21,17 +21,17 @@ _Updated 2026-10-07 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 | 2026-09-30 | evening | 🌍 4 good things happening in the world right now. | 2 | 0 | 0 | 0 | 100.0 |
 
 ## This week vs before
-- Last 7 days: 13 carousels, avg reach 2.5, avg score 117.3
-- Earlier: avg reach 0, avg score 0
+- Last 7 days: 12 carousels, avg reach 2.6, avg score 122.9
+- Earlier: avg reach 2, avg score 100.0
 
 ## By slot (Nepal time)
 - morning: 2 posts, avg reach 2, avg score 125.0
 - midday: 6 posts, avg reach 3, avg score 104.2
-- evening: 5 posts, avg reach 2.2, avg score 130.0
+- evening: 6 posts, avg reach 2.2, avg score 133.3
 
 ## Categories
-Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), nature 105.0 (5), space 100.0 (1), archaeology 100.0 (1)
-Any position → avg score: nature 125.0, science 125.0, kindness 125.0, quirky 123.6, archaeology 122.5, space 119.4, invention 116.7, health 111.1, energy 50.0
+Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), nature 112.5 (6), space 100.0 (1), archaeology 100.0 (1)
+Any position → avg score: nature 127.5, archaeology 125.0, science 125.0, kindness 125.0, quirky 123.6, health 120.8, space 119.4, invention 116.7, energy 100.0
 
 ## Best Reels
 | date | slot | hook | reach | shares | saves | comments | score | avg watch (ms) |
