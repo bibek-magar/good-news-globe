@@ -1,0 +1,51 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Korean_Jindo_dog.jpg/1920px-Korean_Jindo_dog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_Jindo_dog.jpg",
+  "credit": "bein_korean / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Korean Jindo dog"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/White_Korea_Jindo_Dog_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:White_Korea_Jindo_Dog_2.jpg",
+  "credit": "Canarian / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Korean Jindo dog"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Close-up_view_of_a_bioluminescent_beetle_Elateroidea.jpg/1920px-Close-up_view_of_a_bioluminescent_beetle_Elateroidea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Close-up_view_of_a_bioluminescent_beetle_Elateroidea.jpg",
+  "credit": "Basile Morin / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "human eye close up"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Close-up_photograph_of_the_eye_of_a_baby_with_reflection_of_the_scene_in_the_pupil.jpg/1920px-Close-up_photograph_of_the_eye_of_a_baby_with_reflection_of_the_scene_in_the_pupil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Close-up_photograph_of_the_eye_of_a_baby_with_reflection_of_the_scene_in_the_pupil.jpg",
+  "credit": "Basile Morin / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "human eye close up"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Great_River_Road_-_Backwater_Splendor_In_the_Upper_Mississippi_River_Refuge_-_NARA_-_7718961.jpg/1920px-Great_River_Road_-_Backwater_Splendor_In_the_Upper_Mississippi_River_Refuge_-_NARA_-_7718961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Great_River_Road_-_Backwater_Splendor_In_the_Upper_Mississippi_River_Refuge_-_NARA_-_7718961.jpg",
+  "credit": "Unknown authorUnknown author or not provided / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Upper Mississippi River backwater"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adrasan_Suluada.jpg/1920px-Adrasan_Suluada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Adrasan_Suluada.jpg",
+  "credit": "Erturkercin / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Adrasan Antalya coast"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Adrasan_Suluada_Drone.jpg/1920px-Adrasan_Suluada_Drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Adrasan_Suluada_Drone.jpg",
+  "credit": "Erturkercin / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Adrasan Antalya coast"
+ }
+}
