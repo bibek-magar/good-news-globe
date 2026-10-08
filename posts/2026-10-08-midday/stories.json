@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-08",
+ "handle": "@good_newsglobe",
+ "cover_hook": "70+ dogs rescued from a Korean dog meat farm",
+ "cover_highlight": "70+ dogs",
+ "cover_kicker": "Heading to new homes",
+ "caption_hook": "🐶 More than 70 dogs were rescued from a dog meat farm in South Korea and are flying to new families + 3 more wins you missed 👇",
+ "question": "Which made you smile most: 1, 2, 3 or 4?",
+ "share_line": "Send this to the friend who loves dogs",
+ "reel_hook": "70+ dogs rescued from a Korean dog meat farm",
+ "first_comment": "Bonus: the group behind this rescue has saved about 3,000 dogs from South Korean farms since 2015. Would you adopt one? 🐶",
+ "stories": [
+  {
+   "category": "kindness",
+   "place": "Gangjin, South Korea",
+   "emoji": "🐶",
+   "stat": "70+",
+   "stat_label": "dogs rescued from one farm",
+   "headline": "70+ dogs rescued from a farm months before Korea's ban",
+   "summary": "Humane World for Animals Korea took in the last 70+ dogs at a farm that once held up to 1,000. They go to shelters in the US and Canada to be adopted. A full ban on dog meat starts in 2027.",
+   "why": "The group calls it likely its last big rescue as the industry ends.",
+   "source_name": "The Korea Herald",
+   "source_url": "https://biz.heraldcorp.com/article/10890952",
+   "source_ig": "",
+   "image_query": "Korean Jindo dog"
+  },
+  {
+   "category": "health",
+   "place": "Basel, Switzerland",
+   "emoji": "👁️",
+   "stat": "6 of 10",
+   "stat_label": "blind patients saw more light",
+   "headline": "Gene therapy partly restored sight in blind patients",
+   "summary": "One eye injection made surviving retina cells sensitive to light, and special goggles feed them images. In a 10-person trial, 6 had meaningful gains, and some could find a door or touch a notebook.",
+   "why": "It works no matter which gene caused the blindness.",
+   "source_name": "The Guardian",
+   "source_url": "https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal",
+   "source_ig": "",
+   "image_query": "human eye close up"
+  },
+  {
+   "category": "nature",
+   "place": "Upper Mississippi River, USA",
+   "emoji": "🏝️",
+   "stat": "7",
+   "stat_label": "new islands built from river sand",
+   "headline": "River sand became 7 new wildlife islands on the Mississippi",
+   "summary": "Engineers used 500,000 cubic yards of sand dredged from the river channel to build 7 islands in McGregor Lake, and planted them to grow forest for eagles, herons and songbirds.",
+   "why": "Sand that had to be dredged anyway now shelters fish and birds.",
+   "source_name": "DredgeWire",
+   "source_url": "https://dredgewire.com/corps-of-engineers-celebrates-mcgregor-lake-restoration-project-completion/",
+   "source_ig": "",
+   "image_query": "Upper Mississippi River backwater"
+  },
+  {
+   "category": "archaeology",
+   "place": "Adrasan, Turkey",
+   "emoji": "🏺",
+   "stat": "122",
+   "stat_label": "types of dishes on one ship",
+   "headline": "A 2,100-year-old shipwreck held thousands of intact dishes",
+   "summary": "Divers off Turkey found a Rome-bound cargo ship carrying thousands of plates and bowls in 122 styles, packed in clay inside crates. They likely came from Rhosus, a town Cicero ordered dishes from.",
+   "why": "Careful ancient packing kept the cargo safe for over 2,000 years.",
+   "source_name": "Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/science/archaeology/2100-year-old-shipwreck-filled-with-122-varieties-of-ancient-roman-tableware-found-by-archaeologists-in-turkey-was-mentioned-in-a-letter-by-roman-statesman-cicero/articleshow/134584079.cms",
+   "source_ig": "",
+   "image_query": "Adrasan Antalya coast"
+  }
+ ],
+ "fun_fact": "Cicero wrote about ordering dishes from Rhosus in a letter around 50 BCE.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #dogs #rescuedogs"
+}
