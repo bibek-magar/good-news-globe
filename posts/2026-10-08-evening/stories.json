@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-08",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Sea stars that lost 6 billion are hunting again",
+ "cover_highlight": "6 billion",
+ "cover_kicker": "Test release in Monterey Bay",
+ "caption_hook": "⭐ A disease killed about 6 billion sunflower sea stars. Lab-raised ones just hunted urchins in Monterey Bay + 3 more wins 👇",
+ "question": "Sea stars or a barefoot runner: which story got you? 👇",
+ "share_line": "Send this to the friend who loves the ocean",
+ "reel_hook": "Sea stars that lost 6 billion are hunting again",
+ "first_comment": "Bonus: sunflower stars can grow as big as a manhole cover. Urchins nearby moved away fast once they arrived. Would you dive to see one? ⭐",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Monterey Bay, California, USA",
+   "emoji": "⭐",
+   "stat": "6 bn",
+   "stat_label": "sunflower stars lost to disease",
+   "headline": "Lab-raised sunflower sea stars hunted urchins in the wild",
+   "summary": "In a test release, a dozen-plus lab-raised stars quickly ate sea urchins in Monterey Bay. A disease killed about 6 billion of them, and since then urchins have chewed through kelp forests.",
+   "why": "If the stars return for good, they could help kelp forests grow back.",
+   "source_name": "SFGATE",
+   "source_url": "https://www.sfgate.com/centralcoast/article/sunflower-star-release-monterey-22463590.php",
+   "source_ig": "",
+   "image_query": "Pycnopodia helianthoides"
+  },
+  {
+   "category": "space",
+   "place": "La Palma, Spain",
+   "emoji": "🌌",
+   "stat": "8 bn",
+   "stat_label": "years the light traveled to us",
+   "headline": "Telescopes caught gamma rays from a blazar 8 billion light-years away",
+   "summary": "The LST-1 and MAGIC telescopes picked up high-energy gamma rays from blazar OP 313, a black hole firing a jet straight at Earth. We see it as it was 5 billion years after the Big Bang.",
+   "why": "It shows how giant black holes accelerated particles in the young universe.",
+   "source_name": "Space.com",
+   "source_url": "https://www.space.com/astronomy/black-holes/astronomers-detect-most-distant-supermassive-black-hole-powered-blazar-ever-a-cosmic-beacon-from-the-dawn-of-time",
+   "source_ig": "",
+   "image_query": "MAGIC telescopes La Palma"
+  },
+  {
+   "category": "quirky",
+   "place": "Ramgarh, Jharkhand, India",
+   "emoji": "🏃‍♀️",
+   "stat": "6:45",
+   "stat_label": "for 1,600 m, barefoot in a saree",
+   "headline": "A 39-year-old mum ran 1,600 m barefoot in a saree",
+   "summary": "Kavita, a widowed daily-wage worker with 2 kids, trains each morning for a Home Guard job. In a trial run she finished 1,600 metres in 6 minutes 45 seconds, barefoot and in a saree.",
+   "why": "She's chasing a steady job so her children can keep studying.",
+   "source_name": "ETV Bharat",
+   "source_url": "https://www.etvbharat.com/en/offbeat/jharkhand-ramgarh-kavita-barefoot-saree-run-for-home-guard-recruitment-enn26100701055",
+   "source_ig": "",
+   "image_query": "Ramgarh Jharkhand"
+  },
+  {
+   "category": "kindness",
+   "place": "Kolhapur, Maharashtra, India",
+   "emoji": "🎒",
+   "stat": "5 km",
+   "stat_label": "forest trek to teach 2 girls",
+   "headline": "A teacher treks 5 km through leopard forest to teach 2 girls",
+   "summary": "For 13 years Jeevan Mithari has walked a steep forest trail with gaurs, wild dogs and leopards to a hamlet school. Today it has 2 students: sisters aged 8 and 5. The older one wants to be a doctor.",
+   "why": "Without him, the nearest school is 8 km away and the girls would drop out.",
+   "source_name": "Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/city/pune/kolhapur-teacher-treks-5km-through-dense-forest-one-way-to-keep-two-girls-in-school/articleshow/133775671.cms",
+   "source_ig": "",
+   "image_query": "Western Ghats forest trail"
+  }
+ ],
+ "fun_fact": "Sunflower sea stars can have up to 24 arms.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #ocean #kelp"
+}
