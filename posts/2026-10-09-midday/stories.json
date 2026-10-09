@@ -23,7 +23,7 @@
    "source_name": "Euronews",
    "source_url": "https://www.euronews.com/2026/10/08/from-tigers-to-turtles-the-conservation-success-stories-that-prove-theres-still-hope-for-w",
    "source_ig": "",
-   "image_query": "Bengal tiger wild"
+   "image_query": "Panthera tigris tigris Ranthambore"
   },
   {
    "category": "history",
@@ -37,7 +37,8 @@
    "source_name": "Anatolian Archaeology",
    "source_url": "https://www.anatolianarchaeology.net/lost-hittite-royal-archive-reveals-3400-year-old-epidemic-princesss-death-and-military-crisis/",
    "source_ig": "",
-   "image_query": "Hittite cuneiform tablet"
+   "image_query": "Hittite cuneiform tablet",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "energy",
@@ -51,7 +52,7 @@
    "source_name": "pv magazine",
    "source_url": "https://www.pv-magazine.com/2026/09/30/cubas-pv-capacity-tops-1-4-gw/",
    "source_ig": "",
-   "image_query": "solar farm photovoltaic Cuba"
+   "image_query": "photovoltaic power station"
   },
   {
    "category": "health",
@@ -65,7 +66,7 @@
    "source_name": "ScienceAlert",
    "source_url": "https://www.sciencealert.com/ever-heard-of-the-nordic-diet-large-study-finds-it-could-help-you-live-longer",
    "source_ig": "",
-   "image_query": "blueberries lingonberries bowl"
+   "image_query": "lingonberries"
   }
  ],
  "fun_fact": "Every tiger's stripe pattern is unique, like a fingerprint.",
