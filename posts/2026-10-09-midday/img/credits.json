@@ -1,0 +1,30 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Bengal_Tiger_York%27s_Wild_Kingdom.jpg/1920px-Bengal_Tiger_York%27s_Wild_Kingdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Bengal_Tiger_York%27s_Wild_Kingdom.jpg",
+  "credit": "EgorovaSvetlana / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Bengal tiger wild"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/White_Bengal_Tiger_York%27s_Wild_Kingdom_Zoo_York_Maine.jpg/1920px-White_Bengal_Tiger_York%27s_Wild_Kingdom_Zoo_York_Maine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:White_Bengal_Tiger_York%27s_Wild_Kingdom_Zoo_York_Maine.jpg",
+  "credit": "EgorovaSvetlana / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Bengal tiger wild"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Hittite_Cuneiform_Tablet-_Legal_Deposition%28%3F%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Hittite_Cuneiform_Tablet-_Legal_Deposition(%3F).jpg",
+  "credit": "Mx. Granger / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Hittite cuneiform tablet"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Hittite_Cuneiform_Tablet-_Cultic_Festival_Script.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Hittite_Cuneiform_Tablet-_Cultic_Festival_Script.jpg",
+  "credit": "Mx. Granger / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Hittite cuneiform tablet"
+ }
+}
