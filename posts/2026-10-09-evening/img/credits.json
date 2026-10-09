@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Pahoeoe_fountain_edit2.jpg/1920px-Pahoeoe_fountain_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pahoeoe_fountain_edit2.jpg",
+  "credit": "J.D. Griggs / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Kilauea lava fountain"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Lava_fountain_dome_2.jpg/1920px-Lava_fountain_dome_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lava_fountain_dome_2.jpg",
+  "credit": "J.B. Judd - USGS / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Kilauea lava fountain"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Abri_Romani_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Abri_Romani_1.jpg",
+  "credit": "120 / V. Mourre / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Abric Romaní"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Abric_roman%C3%AD.jpg/1920px-Abric_roman%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Abric_roman%C3%AD.jpg",
+  "credit": "Teogomez / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Abric Romaní"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Anterone_%28cyproterone_acetate%29_tablets_in_Australia%2C_with_three_blister_packs.jpg/1920px-Anterone_%28cyproterone_acetate%29_tablets_in_Australia%2C_with_three_blister_packs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Anterone_(cyproterone_acetate)_tablets_in_Australia,_with_three_blister_packs.jpg",
+  "credit": "BlankEclair / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "medicine tablets blister pack"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Anterone_%28cyproterone_acetate%29_tablets_in_Australia%2C_with_two_obverse_and_one_reverse_blister_packs.jpg/1920px-Anterone_%28cyproterone_acetate%29_tablets_in_Australia%2C_with_two_obverse_and_one_reverse_blister_packs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Anterone_(cyproterone_acetate)_tablets_in_Australia,_with_two_obverse_and_one_reverse_blister_packs.jpg",
+  "credit": "BlankEclair / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "medicine tablets blister pack"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/World%E2%80%99s_largest_hydro-floating_solar_farm_experiment12.jpg/1920px-World%E2%80%99s_largest_hydro-floating_solar_farm_experiment12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:World%E2%80%99s_largest_hydro-floating_solar_farm_experiment12.jpg",
+  "credit": "Joe628 / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "floating solar farm"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/World%E2%80%99s_largest_hydro-floating_solar_farm_experiment11.jpg/1920px-World%E2%80%99s_largest_hydro-floating_solar_farm_experiment11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:World%E2%80%99s_largest_hydro-floating_solar_farm_experiment11.jpg",
+  "credit": "Joe628 / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "floating solar farm"
+ }
+}
