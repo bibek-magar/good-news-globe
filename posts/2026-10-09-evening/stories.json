@@ -23,7 +23,8 @@
    "source_name": "Science News",
    "source_url": "https://www.sciencenews.org/article/kilauea-why-volcanoes-spew-fountains",
    "source_ig": "",
-   "image_query": "Kilauea lava fountain"
+   "image_query": "Kilauea lava fountain",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "archaeology",
@@ -37,7 +38,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-rare-wooden-tools-reveal-neanderthals.html",
    "source_ig": "",
-   "image_query": "Abric Romaní"
+   "image_query": "Abric Romaní",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "health",
@@ -65,7 +67,7 @@
    "source_name": "Euronews",
    "source_url": "https://www.euronews.com/2026/10/02/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way",
    "source_ig": "",
-   "image_query": "floating solar farm"
+   "image_query": "solar park Germany"
   }
  ],
  "fun_fact": "Kilauea has been erupting almost continuously for nearly 200 years.",
