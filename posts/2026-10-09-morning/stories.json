@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-09",
+ "handle": "@good_newsglobe",
+ "cover_hook": "180,000 giant tortoises now live on one island",
+ "cover_highlight": "180,000",
+ "cover_kicker": "A record count",
+ "caption_hook": "🐢 A survey counted about 180,000 giant tortoises on Aldabra in the Seychelles, the highest number ever recorded + 3 more wins 👇",
+ "question": "Describe this many tortoises in one emoji 👇",
+ "share_line": "Send this to the friend who loves tortoises",
+ "reel_hook": "180,000 giant tortoises now live on one island",
+ "first_comment": "Bonus: that's more tortoises than there are people in the whole Seychelles. Would you visit Aldabra? 🐢",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Aldabra Atoll, Seychelles",
+   "emoji": "🐢",
+   "stat": "180,000",
+   "stat_label": "giant tortoises on one atoll",
+   "headline": "A record 180,000 giant tortoises roam one Seychelles atoll",
+   "summary": "A survey led by the Seychelles Islands Foundation and the University of Exeter counted about 180,000 Aldabra giant tortoises, the highest number ever recorded for the once-endangered species.",
+   "why": "Decades of protection brought this giant back from the brink.",
+   "source_name": "The Guardian",
+   "source_url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+   "source_ig": "",
+   "image_query": "Aldabrachelys gigantea Aldabra"
+  },
+  {
+   "category": "space",
+   "place": "Sydney, Australia",
+   "emoji": "📡",
+   "stat": "3 bn",
+   "stat_label": "years after the Big Bang",
+   "headline": "Webb traced the most distant fast radio burst yet",
+   "summary": "The MeerKAT telescope caught a millisecond radio flash, and Webb found its home: a tiny dwarf galaxy seen just 3 billion years after the Big Bang. Most such bursts come from far later.",
+   "why": "It's a big clue to what makes these mystery flashes.",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+   "source_ig": "",
+   "image_query": "MeerKAT radio telescope"
+  },
+  {
+   "category": "health",
+   "place": "Porto, Portugal",
+   "emoji": "🐕",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A Porto hospital lets patients' own pets visit them on the ward",
+   "summary": "Since July, São João hospital has let vaccinated, well-behaved pets visit long-stay patients on approval from their care team. It reports no infections so far.",
+   "why": "A visit from a beloved pet eases the loneliness of long hospital stays.",
+   "source_name": "Euronews",
+   "source_url": "https://www.euronews.com/2026/10/08/portuguese-hospital-lets-pets-visit-owners-on-wards-a-new-model",
+   "source_ig": "",
+   "image_query": "therapy dog hospital"
+  },
+  {
+   "category": "kindness",
+   "place": "Southampton, UK",
+   "emoji": "🏠",
+   "stat": "£72k",
+   "stat_label": "savings lost before volunteers stepped in",
+   "headline": "Hundreds of volunteers rebuilt a deaf family's ruined home",
+   "summary": "Ahmed and Rifat Ali lost £72,000 on an unsafe extension. Tradespeople and neighbours rebuilt the house for TV's DIY SOS, adding visual fire alarms and colour-changing alert lights.",
+   "why": "Strangers turned a family's worst loss into a home built around their needs.",
+   "source_name": "BBC News",
+   "source_url": "https://www.bbc.co.uk/news/articles/cm369pglxd98o",
+   "source_ig": "",
+   "image_query": "house construction volunteers"
+  }
+ ],
+ "fun_fact": "Aldabra giant tortoises are among the largest tortoises in the world.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #tortoise #seychelles"
+}
