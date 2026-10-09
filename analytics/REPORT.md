@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-08 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-09 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-01: 2 → 10-02: 2 → 10-03: 2 → 10-04: 2 → 10-05: 2 → 10-06: 2 → 10-07: 2 → 10-08: 2
+10-02: 2 → 10-03: 2 → 10-04: 2 → 10-05: 2 → 10-06: 2 → 10-07: 2 → 10-08: 2 → 10-09: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -21,8 +21,8 @@ _Updated 2026-10-08 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 | 2026-09-30 | evening | 🌍 4 good things happening in the world right now. | 2 | 0 | 0 | 0 | 100.0 |
 
 ## This week vs before
-- Last 7 days: 12 carousels, avg reach 2.6, avg score 122.9
-- Earlier: avg reach 2, avg score 100.0
+- Last 7 days: 10 carousels, avg reach 2.4, avg score 135.0
+- Earlier: avg reach 2.8, avg score 81.2
 
 ## By slot (Nepal time)
 - morning: 2 posts, avg reach 2, avg score 125.0
