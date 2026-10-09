@@ -23,7 +23,8 @@
    "source_name": "Euronews",
    "source_url": "https://www.euronews.com/2026/10/08/from-tigers-to-turtles-the-conservation-success-stories-that-prove-theres-still-hope-for-w",
    "source_ig": "",
-   "image_query": "Panthera tigris tigris Ranthambore"
+   "image_query": "Panthera tigris tigris Ranthambore",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "history",
@@ -52,7 +53,8 @@
    "source_name": "pv magazine",
    "source_url": "https://www.pv-magazine.com/2026/09/30/cubas-pv-capacity-tops-1-4-gw/",
    "source_ig": "",
-   "image_query": "photovoltaic power station"
+   "image_query": "photovoltaic power station",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "health",
@@ -66,7 +68,8 @@
    "source_name": "ScienceAlert",
    "source_url": "https://www.sciencealert.com/ever-heard-of-the-nordic-diet-large-study-finds-it-could-help-you-live-longer",
    "source_ig": "",
-   "image_query": "lingonberries"
+   "image_query": "lingonberries",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Every tiger's stripe pattern is unique, like a fingerprint.",
