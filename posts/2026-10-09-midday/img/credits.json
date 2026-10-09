@@ -1,18 +1,4 @@
 {
- "s1a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Bengal_Tiger_York%27s_Wild_Kingdom.jpg/1920px-Bengal_Tiger_York%27s_Wild_Kingdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Bengal_Tiger_York%27s_Wild_Kingdom.jpg",
-  "credit": "EgorovaSvetlana / Wikimedia Commons, CC BY-SA 4.0",
-  "license": "CC BY-SA 4.0",
-  "query": "Bengal tiger wild"
- },
- "s1b": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/White_Bengal_Tiger_York%27s_Wild_Kingdom_Zoo_York_Maine.jpg/1920px-White_Bengal_Tiger_York%27s_Wild_Kingdom_Zoo_York_Maine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:White_Bengal_Tiger_York%27s_Wild_Kingdom_Zoo_York_Maine.jpg",
-  "credit": "EgorovaSvetlana / Wikimedia Commons, CC BY-SA 4.0",
-  "license": "CC BY-SA 4.0",
-  "query": "Bengal tiger wild"
- },
  "s2a": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Hittite_Cuneiform_Tablet-_Legal_Deposition%28%3F%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "page": "https://commons.wikimedia.org/wiki/File:Hittite_Cuneiform_Tablet-_Legal_Deposition(%3F).jpg",
@@ -26,5 +12,47 @@
   "credit": "Mx. Granger / Wikimedia Commons, CC0",
   "license": "CC0",
   "query": "Hittite cuneiform tablet"
+ },
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Powerful_Yawn_of_a_Bengal_Tiger_at_Ranthambore_national_park.jpg/1920px-The_Powerful_Yawn_of_a_Bengal_Tiger_at_Ranthambore_national_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Powerful_Yawn_of_a_Bengal_Tiger_at_Ranthambore_national_park.jpg",
+  "credit": "Rohit Sharma / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Panthera tigris tigris Ranthambore"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Tiger_-_Panthera_tigris_-_Star_-_Ranthambore_%282%29.jpg/1920px-Tiger_-_Panthera_tigris_-_Star_-_Ranthambore_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Tiger_-_Panthera_tigris_-_Star_-_Ranthambore_(2).jpg",
+  "credit": "Swapnil V. Bhende / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Panthera tigris tigris Ranthambore"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Photovoltaic_power_station_in_Vila_Nova_de_Famalic%C3%A3o_%281%29.jpg/1920px-Photovoltaic_power_station_in_Vila_Nova_de_Famalic%C3%A3o_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Photovoltaic_power_station_in_Vila_Nova_de_Famalic%C3%A3o_(1).jpg",
+  "credit": "Joseolgon / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "photovoltaic power station"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Solar_Power_Station_at_LaLaport_Kadoma1.jpg/1920px-Solar_Power_Station_at_LaLaport_Kadoma1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Solar_Power_Station_at_LaLaport_Kadoma1.jpg",
+  "credit": "Mr.ちゅらさん / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "photovoltaic power station"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cowberry.jpg/1920px-Cowberry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cowberry.jpg",
+  "credit": "Jonas Bergsten / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "lingonberries"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Vaccinium_vitis-idaea_20060824_003.jpg/1920px-Vaccinium_vitis-idaea_20060824_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Vaccinium_vitis-idaea_20060824_003.jpg",
+  "credit": "Jonas Bergsten / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "lingonberries"
  }
 }
