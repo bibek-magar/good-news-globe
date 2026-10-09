@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-09",
+ "handle": "@good_newsglobe",
+ "cover_hook": "54 lava fountains in under 2 years",
+ "cover_highlight": "54 lava fountains",
+ "cover_kicker": "Never seen this often",
+ "caption_hook": "🌋 Hawaii's Kilauea volcano has shot 54 lava fountains since late 2024, some 457 m high, and scientists now know why + 3 more wins 👇",
+ "question": "Volcano, Neanderthals or solar: which story wins today? 👇",
+ "share_line": "Send this to your favourite science nerd",
+ "reel_hook": "54 lava fountains in under 2 years",
+ "first_comment": "Bonus: in nearly 200 years of records, Kilauea had only shown clusters of repeated fountains 3 times before. Would you go see one? 🌋",
+ "stories": [
+  {
+   "category": "science",
+   "place": "Hawaii, USA",
+   "emoji": "🌋",
+   "stat": "457 m",
+   "stat_label": "height of the tallest fountains",
+   "headline": "Kilauea has shot 54 lava fountains, and now we know why",
+   "summary": "Since December 2024, Hawaii's Kilauea has fired 54 separate lava fountains, more often than ever recorded. USGS scientists found trapped gas pushes the magma up and down like a piston.",
+   "why": "Knowing what drives the fountains helps experts read the volcano's next move.",
+   "source_name": "Science News",
+   "source_url": "https://www.sciencenews.org/article/kilauea-why-volcanoes-spew-fountains",
+   "source_ig": "",
+   "image_query": "Kilauea lava fountain"
+  },
+  {
+   "category": "archaeology",
+   "place": "Abric Romaní, Spain",
+   "emoji": "🪵",
+   "stat": "597",
+   "stat_label": "wooden pieces found at one site",
+   "headline": "Neanderthals were skilled woodworkers, rare finds show",
+   "summary": "Near Barcelona, researchers documented 597 wooden pieces up to 62,000 years old, kept as moulds in mineral crust. 13 were shaped by Neanderthals, including spears and a club.",
+   "why": "Wood almost never survives, so this fills a big gap in our ancestors' story.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-rare-wooden-tools-reveal-neanderthals.html",
+   "source_ig": "",
+   "image_query": "Abric Romaní"
+  },
+  {
+   "category": "health",
+   "place": "India",
+   "emoji": "💊",
+   "stat": "110",
+   "stat_label": "cancer drugs set for a margin cap",
+   "headline": "India plans to cut what patients pay for 110 cancer drugs",
+   "summary": "The government will cap trade margins at 30% on 110 costly cancer drugs. Officials say some prices could fall by up to 70%, after finding average markups of about 170%.",
+   "why": "Long cancer treatment could become far less ruinous for families.",
+   "source_name": "The Indian Express",
+   "source_url": "https://indianexpress.com/article/health-wellness/government-cap-trade-margins-cancer-drugs-price-mrp-10912604/",
+   "source_ig": "",
+   "image_query": "medicine tablets blister pack"
+  },
+  {
+   "category": "energy",
+   "place": "European Union",
+   "emoji": "☀️",
+   "stat": "€37.4bn",
+   "stat_label": "saved on gas imports",
+   "headline": "Solar has saved Europe €37.4 billion in gas imports",
+   "summary": "SolarPower Europe says sunshine cut gas demand enough to save €37.4 billion since gas prices spiked this year. In June, solar became the EU's largest power source, at 25%.",
+   "why": "Homegrown sunshine is shielding families from wild gas prices.",
+   "source_name": "Euronews",
+   "source_url": "https://www.euronews.com/2026/10/02/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way",
+   "source_ig": "",
+   "image_query": "floating solar farm"
+  }
+ ],
+ "fun_fact": "Kilauea has been erupting almost continuously for nearly 200 years.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #volcano #neanderthals"
+}
