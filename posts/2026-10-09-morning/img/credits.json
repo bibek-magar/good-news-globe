@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Aldabrachelys_gigantea_MHNT_CHE_1999_55.jpg/1920px-Aldabrachelys_gigantea_MHNT_CHE_1999_55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Aldabrachelys_gigantea_MHNT_CHE_1999_55.jpg",
+  "credit": "Roger Culos / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Aldabrachelys gigantea Aldabra"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Aldabra_giant_tortoise_%28Aldabrachelys_gigantea%29_in_Curieuse_Island_-_04.jpg/1920px-Aldabra_giant_tortoise_%28Aldabrachelys_gigantea%29_in_Curieuse_Island_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Aldabra_giant_tortoise_(Aldabrachelys_gigantea)_in_Curieuse_Island_-_04.jpg",
+  "credit": "NorbertNagel / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Aldabrachelys gigantea Aldabra"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2018-MeerKAT-4.png/1920px-2018-MeerKAT-4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2018-MeerKAT-4.png",
+  "credit": "Square Kilometre Array Organisation (SKAO) / South African R / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "MeerKAT radio telescope"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2018-MeerKAT-6.png/1920px-2018-MeerKAT-6.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2018-MeerKAT-6.png",
+  "credit": "Square Kilometre Array Organisation (SKAO) / South African R / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "MeerKAT radio telescope"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Oba_the_therapy_dog_at_Taipei_Veterans_General_Hospital.jpg/1920px-Oba_the_therapy_dog_at_Taipei_Veterans_General_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Oba_the_therapy_dog_at_Taipei_Veterans_General_Hospital.jpg",
+  "credit": "I Chen Lin / Office of the President, ROC (Taiwan) (中華民國總統府) / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "therapy dog hospital"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Langley_therapy_dog.jpg/1920px-Langley_therapy_dog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Langley_therapy_dog.jpg",
+  "credit": "U.S. Air Force photo/Airman 1st Class Zachary Wolf / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "therapy dog hospital"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/US_Navy_070315-N-2903M-001_Construction_Mechanic_2nd_Class_Aspen_Noles_and_Chief_Electronics_Technician_Carl_Tildwell%2C_from_Naval_Recruiting_District_Atlanta%2C_install_windows_in_a_new_house_as_volunteers_for_Habitat_for_Humanit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:US_Navy_070315-N-2903M-001_Construction_Mechanic_2nd_Class_Aspen_Noles_and_Chief_Electronics_Technician_Carl_Tildwell,_from_Naval_Recruiting_District_Atlanta,_install_windows_in_a_new_house_as_volunteers_for_Habitat_for_Humanit.jpg",
+  "credit": "U.S. Navy photo by Mass Communication Specialist 1st Class T / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "house construction volunteers"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Flickr_-_Official_U.S._Navy_Imagery_-_Sailor_watches_his_house_be_rebuilt_by_volunteers..jpg/1920px-Flickr_-_Official_U.S._Navy_Imagery_-_Sailor_watches_his_house_be_rebuilt_by_volunteers..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_Sailor_watches_his_house_be_rebuilt_by_volunteers..jpg",
+  "credit": "Official Navy Page from United States of America\n\nMC2 John P / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "house construction volunteers"
+ }
+}
