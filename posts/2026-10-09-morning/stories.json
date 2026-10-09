@@ -23,11 +23,12 @@
    "source_name": "The Guardian",
    "source_url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
    "source_ig": "",
-   "image_query": "Aldabrachelys gigantea Aldabra"
+   "image_query": "Aldabrachelys gigantea Aldabra",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "space",
-   "place": "Sydney, Australia",
+   "place": "MeerKAT, South Africa",
    "emoji": "📡",
    "stat": "3 bn",
    "stat_label": "years after the Big Bang",
@@ -37,7 +38,9 @@
    "source_name": "NASA",
    "source_url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
    "source_ig": "",
-   "image_query": "MeerKAT radio telescope"
+   "image_query": "MeerKAT radio telescope",
+   "image": "img/s2b.jpg",
+   "image_credit": "SKAO / SARAO / Wikimedia Commons, CC BY 3.0"
   },
   {
    "category": "health",
