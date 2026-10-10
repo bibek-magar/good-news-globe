@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ateles_chamek_SP_Zoo.jpg/1920px-Ateles_chamek_SP_Zoo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ateles_chamek_SP_Zoo.jpg",
+  "credit": "Miguelrangeljr / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Ateles chamek"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ateles_chamek.jpg/1920px-Ateles_chamek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ateles_chamek.jpg",
+  "credit": "Ivan Mlinaric / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Ateles chamek"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Kapersburg_Taunus_2021-04-02_05.jpg/1920px-Kapersburg_Taunus_2021-04-02_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Kapersburg_Taunus_2021-04-02_05.jpg",
+  "credit": "Leonhard Lenz / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Kastell Kapersburg"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kapersburg_Taunus_2021-04-02_02.jpg/1920px-Kapersburg_Taunus_2021-04-02_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Kapersburg_Taunus_2021-04-02_02.jpg",
+  "credit": "Leonhard Lenz / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Kastell Kapersburg"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/18650_and_21700_lithium_ion_battery_cell.jpg/1920px-18650_and_21700_lithium_ion_battery_cell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg",
+  "credit": "Sevenethics / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "lithium-ion battery cells"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lithium-Ion_Cell_cylindric.JPG/1920px-Lithium-Ion_Cell_cylindric.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lithium-Ion_Cell_cylindric.JPG",
+  "credit": "RudolfSimon / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "lithium-ion battery cells"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/James_Webb_Space_Telescope_Mirror37.jpg/1920px-James_Webb_Space_Telescope_Mirror37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg",
+  "credit": "NASA/MSFC/David Higginbotham/Emmett Given / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "James Webb Space Telescope"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg/1920px-James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_(30108124923).jpg",
+  "credit": "Chris Gunn / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "James Webb Space Telescope"
+ }
+}
