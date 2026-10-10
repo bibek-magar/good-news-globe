@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-10",
+ "handle": "@good_newsglobe",
+ "cover_hook": "3 million mangroves replanted in oil-hit Nigeria",
+ "cover_highlight": "3 million mangroves",
+ "cover_kicker": "Led by local women",
+ "caption_hook": "🌱 Women in Nigeria's Niger Delta have replanted 3 million mangroves on oil-damaged land, and the fish and crabs are back + 3 more wins 👇",
+ "question": "Reply with one emoji for today's best story 🌱🌕🧬🐶",
+ "share_line": "Send this to someone who plants things",
+ "reel_hook": "3 million mangroves replanted in oil-hit Nigeria",
+ "first_comment": "Bonus: the project's founder has trained more than 400 women, and many now run their own replanting teams. Would you join a planting day? 🌱",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Ogoniland, Nigeria",
+   "emoji": "🌱",
+   "stat": "3m",
+   "stat_label": "mangroves replanted since 2018",
+   "headline": "Women replant 3 million mangroves on oil-hit Niger Delta land",
+   "summary": "Since 2018, teams led by Martha Agbani have replanted 3 million mangroves and restored 190 hectares of swamp forest in Ogoniland, a region scarred by oil spills. Fish and crabs are returning.",
+   "why": "Local women are healing their own land and getting their food and income back.",
+   "source_name": "The Guardian",
+   "source_url": "https://www.theguardian.com/global-development/2026/oct/02/one-green-shoot-at-a-time-the-women-restoring-mangrove-forests-in-the-oil-ravaged-niger-delta",
+   "source_ig": "",
+   "image_query": "Rhizophora racemosa"
+  },
+  {
+   "category": "space",
+   "place": "Marius Hills, the Moon",
+   "emoji": "🌕",
+   "stat": "",
+   "stat_label": "",
+   "headline": "NASA picks a mission to look for a cave under the Moon",
+   "summary": "GIMLI will land by the Marius Hills pit and use radar, seismic sensors and a gravity meter to check whether an old lava tube runs underground. Such caves could shelter future astronauts.",
+   "why": "A natural lunar cave could protect a Moon base from radiation and temperature swings.",
+   "source_name": "Universe Today",
+   "source_url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
+   "source_ig": "",
+   "image_query": "Marius Hills pit"
+  },
+  {
+   "category": "health",
+   "place": "Manchester, UK",
+   "emoji": "🧬",
+   "stat": "14",
+   "stat_label": "patients with a newly explained cause",
+   "headline": "Scientists find a hidden cause of inherited blindness",
+   "summary": "An international team found that mild faults in the IDUA gene, known for a severe childhood illness, caused sight loss in 14 adults with retinitis pigmentosa who were otherwise healthy.",
+   "why": "Better diagnosis today, and a clue for treatments that could save sight.",
+   "source_name": "University of Manchester",
+   "source_url": "https://www.manchester.ac.uk/about/news/gene-link-to-inherited-blindness-discovered/",
+   "source_ig": "",
+   "image_query": "human eye iris"
+  },
+  {
+   "category": "kindness",
+   "place": "New York City, USA",
+   "emoji": "🐶",
+   "stat": "55+",
+   "stat_label": "shelter dogs taken on backpack rides",
+   "headline": "A New Yorker carries shelter dogs around the city in a backpack",
+   "summary": "Bryan Reisberg has given more than 55 adoptable dogs a backpack tour of New York and shared each ride online, putting shelter pups in front of a huge audience of possible owners.",
+   "why": "A fun day out is helping overlooked dogs get noticed and adopted.",
+   "source_name": "ABC7 New York",
+   "source_url": "https://abc7ny.com/post/bryan-reisbergs-nyc-dog-backpack-rides-go-viral-help-shelter-pups-find-homes/19914214/",
+   "source_ig": "",
+   "image_query": "dog in backpack"
+  }
+ ],
+ "fun_fact": "Mangrove roots trap mud and shelter young fish, which is why they're called nurseries of the sea.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #mangroves #nigeria"
+}
