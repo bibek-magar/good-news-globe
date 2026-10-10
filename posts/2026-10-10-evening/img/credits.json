@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Lady_Elliot_Island_SVII.jpg/1920px-Lady_Elliot_Island_SVII.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lady_Elliot_Island_SVII.jpg",
+  "credit": "© Underwater Earth / XL Catlin Seaview Survey / Aaron Spence / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Lady Elliot Island"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lady_Elliot_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Lady_Elliot_Island.jpg",
+  "credit": "LordDimwit at English Wikipedia / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Lady Elliot Island"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Crumble_and_ice_cream_at_Black_Horse_Inn%2C_Nuthurst%2C_West_Sussex%2C_England.jpg/1920px-Crumble_and_ice_cream_at_Black_Horse_Inn%2C_Nuthurst%2C_West_Sussex%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Crumble_and_ice_cream_at_Black_Horse_Inn,_Nuthurst,_West_Sussex,_England.jpg",
+  "credit": "Acabashi / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "vanilla ice cream scoop"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Aluminum_Oxide_Ice_Cream_IMG20250316190022.jpg/1920px-Aluminum_Oxide_Ice_Cream_IMG20250316190022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Aluminum_Oxide_Ice_Cream_IMG20250316190022.jpg",
+  "credit": "Kencf0618 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "vanilla ice cream scoop"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Cucuteni_Clay_Male_Figure.jpg/1920px-Cucuteni_Clay_Male_Figure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cucuteni_Clay_Male_Figure.jpg",
+  "credit": "CristianChirita / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Cucuteni figurine"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Cucuteni_IMG_3703.JPG/1920px-Cucuteni_IMG_3703.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cucuteni_IMG_3703.JPG",
+  "credit": "Cristian Chirita / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Cucuteni figurine"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Humpback_whale_%28Megaptera_novaeangliae%29_juvenile_Salish_Sea.jpg/1920px-Humpback_whale_%28Megaptera_novaeangliae%29_juvenile_Salish_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Humpback_whale_(Megaptera_novaeangliae)_juvenile_Salish_Sea.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Megaptera novaeangliae juvenile"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Megaptera_novaeangliae_australis_-_Nuqu%C3%AD%2C_Choc%C3%B3%2C_Colombia_-_22_Oct_2025_-_Diferoch_-_2.jpg/1920px-Megaptera_novaeangliae_australis_-_Nuqu%C3%AD%2C_Choc%C3%B3%2C_Colombia_-_22_Oct_2025_-_Diferoch_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Megaptera_novaeangliae_australis_-_Nuqu%C3%AD,_Choc%C3%B3,_Colombia_-_22_Oct_2025_-_Diferoch_-_2.jpg",
+  "credit": "Diferoch / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Megaptera novaeangliae juvenile"
+ }
+}
