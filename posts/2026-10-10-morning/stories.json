@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-10",
+ "handle": "@good_newsglobe",
+ "cover_hook": "15,000 safe crossings over an Amazon road",
+ "cover_highlight": "15,000 safe crossings",
+ "cover_kicker": "Zero roadkill in 15 months",
+ "caption_hook": "🐒 8 rope bridges over an Amazon road gave monkeys and marmosets 15,000 safe crossings, with zero roadkill + 3 more wins 👇",
+ "question": "Pick one: monkey bridge 🐒 or Roman temple 🏛️? 👇",
+ "share_line": "Send this to the friend who loves monkeys",
+ "reel_hook": "15,000 safe crossings over an Amazon road",
+ "first_comment": "Bonus: every bridge has 2 camera traps, one on the crossing and one on the forest, to see which animals use it and which turn back. Which animal would you want to spot? 🐒",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Alta Floresta, Brazil",
+   "emoji": "🐒",
+   "stat": "15,000",
+   "stat_label": "safe crossings by tree animals",
+   "headline": "Rope bridges gave Amazon animals 15,000 safe road crossings",
+   "summary": "Eight canopy bridges strung over a road near Alta Floresta let spider monkeys, marmosets and capuchins cross 15,000 times in 15 months, with not a single roadkill recorded.",
+   "why": "A simple rope bridge keeps rare primates alive and their forest connected.",
+   "source_name": "The Guardian",
+   "source_url": "https://www.theguardian.com/environment/2026/oct/09/animals-crossing-simple-solution-roadkill-amazon-brazil-alternatives",
+   "source_ig": "",
+   "image_query": "Ateles chamek"
+  },
+  {
+   "category": "archaeology",
+   "place": "Near Frankfurt, Germany",
+   "emoji": "🏛️",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A Roman temple to Mars turned up just under a forest floor",
+   "summary": "Digging beside the Kapersburg fort, archaeologists found a small temple with an inscription to Mars, part of a war-god statue and a winged figure of Victory.",
+   "why": "Storms and drought cleared the trees and revealed a frontier town's sacred spot.",
+   "source_name": "Smithsonian",
+   "source_url": "https://www.smithsonianmag.com/smart-news/just-inches-below-the-forest-floor-archaeologists-in-germany-unearthed-a-roman-temple-likely-dedicated-to-mars-the-god-of-war-180989650/",
+   "source_ig": "",
+   "image_query": "Kastell Kapersburg"
+  },
+  {
+   "category": "invention",
+   "place": "Gothenburg, Sweden",
+   "emoji": "🔋",
+   "stat": "20%+",
+   "stat_label": "longer battery life in models",
+   "headline": "A smarter battery skips weak cells to last 20% longer",
+   "summary": "Chalmers researchers modelled an EV battery pack that bypasses worn-out cells instead of letting them drag the whole pack down. In one typical case it delayed a battery swap by about 14 months.",
+   "why": "Longer-lived batteries mean cheaper EVs and less waste.",
+   "source_name": "Chalmers University",
+   "source_url": "https://www.chalmers.se/en/current/news/e2-new-battery-architecture-could-extend-ev-battery-life-and-lower-ownership-costs/",
+   "source_ig": "",
+   "image_query": "lithium-ion battery cells"
+  },
+  {
+   "category": "space",
+   "place": "WISE 0855, 7.5 light-years away",
+   "emoji": "☁️",
+   "stat": "1st",
+   "stat_label": "changing water clouds seen beyond us",
+   "headline": "Webb watched water clouds change on a world 7.5 light-years away",
+   "summary": "For 11 hours, the James Webb telescope tracked WISE 0855, the coldest known brown dwarf. Its water clouds grew thicker and thinner, the first such weather confirmed outside our solar system.",
+   "why": "It's like reading the weather report of another world.",
+   "source_name": "EurekAlert!",
+   "source_url": "https://www.eurekalert.org/news-releases/1147098",
+   "source_ig": "",
+   "image_query": "James Webb Space Telescope"
+  }
+ ],
+ "fun_fact": "WISE 0855 is about 265 K, colder than Earth's average surface temperature.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #monkeys #amazon"
+}
