@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-09 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-10 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-02: 2 → 10-03: 2 → 10-04: 2 → 10-05: 2 → 10-06: 2 → 10-07: 2 → 10-08: 2 → 10-09: 2
+10-03: 2 → 10-04: 2 → 10-05: 2 → 10-06: 2 → 10-07: 2 → 10-08: 2 → 10-09: 2 → 10-10: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -21,8 +21,8 @@ _Updated 2026-10-09 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 | 2026-09-30 | evening | 🌍 4 good things happening in the world right now. | 2 | 0 | 0 | 0 | 100.0 |
 
 ## This week vs before
-- Last 7 days: 10 carousels, avg reach 2.4, avg score 135.0
-- Earlier: avg reach 2.8, avg score 81.2
+- Last 7 days: 7 carousels, avg reach 2.1, avg score 135.7
+- Earlier: avg reach 2.9, avg score 103.6
 
 ## By slot (Nepal time)
 - morning: 2 posts, avg reach 2, avg score 125.0
@@ -38,9 +38,9 @@ Any position → avg score: nature 127.5, archaeology 125.0, science 125.0, kind
 |---|---|---|---|---|---|---|---|---|
 | 2026-10-02 | midday | Moth swarms are back after a 99.5% crash | 114 | 0 | 0 | 0 | 2.63 | 4770 |
 | 2026-10-02 | midday | A 'lost' bird was filmed for the 1st time ever | 104 | 0 | 0 | 0 | 2.88 | 4705 |
+| 2026-10-09 | evening | 54 lava fountains in under 2 years | 102 | 0 | 0 | 0 | 1.96 | 2002 |
 | 2026-10-02 | evening | Tiny cave crocs filmed hunting bats for the 1st time | 101 | 0 | 0 | 0 | 0.99 | 3603 |
 | 2026-10-03 | midday | These lemurs sing using an opera singer's trick | 76 | 0 | 0 | 0 | 0.0 | 2267 |
-| 2026-10-03 | evening | Elephants 'sing' together to decide what to do next | 55 | 0 | 0 | 0 | 1.82 | 3211 |
 
 ## How the scheduled runs should use this
 - Lead with the cover patterns and categories that score highest; drop the patterns in the weakest list.
