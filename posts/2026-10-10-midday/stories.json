@@ -23,7 +23,7 @@
    "source_name": "The Guardian",
    "source_url": "https://www.theguardian.com/global-development/2026/oct/02/one-green-shoot-at-a-time-the-women-restoring-mangrove-forests-in-the-oil-ravaged-niger-delta",
    "source_ig": "",
-   "image_query": "Rhizophora racemosa"
+   "image_query": "mangrove forest roots"
   },
   {
    "category": "space",
@@ -37,7 +37,8 @@
    "source_name": "Universe Today",
    "source_url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
    "source_ig": "",
-   "image_query": "Marius Hills pit"
+   "image_query": "Marius Hills pit",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "health",
@@ -51,7 +52,8 @@
    "source_name": "University of Manchester",
    "source_url": "https://www.manchester.ac.uk/about/news/gene-link-to-inherited-blindness-discovered/",
    "source_ig": "",
-   "image_query": "human eye iris"
+   "image_query": "human eye iris",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "kindness",
@@ -65,7 +67,7 @@
    "source_name": "ABC7 New York",
    "source_url": "https://abc7ny.com/post/bryan-reisbergs-nyc-dog-backpack-rides-go-viral-help-shelter-pups-find-homes/19914214/",
    "source_ig": "",
-   "image_query": "dog in backpack"
+   "image_query": "dog carried in backpack"
   }
  ],
  "fun_fact": "Mangrove roots trap mud and shelter young fish, which is why they're called nurseries of the sea.",
