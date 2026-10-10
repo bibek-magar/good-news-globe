@@ -23,7 +23,8 @@
    "source_name": "ABC News",
    "source_url": "https://www.abc.net.au/news/2026-10-10/guano-mine-rehabilitation-on-lady-elliot-island-birds-return/107138364",
    "source_ig": "",
-   "image_query": "Lady Elliot Island"
+   "image_query": "Lady Elliot Island",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "health",
@@ -51,7 +52,8 @@
    "source_name": "Ancientist",
    "source_url": "https://ancientist.com/a-6500-year-old-female-figurine-has-been-discovered-in-transylvania/",
    "source_ig": "",
-   "image_query": "Cucuteni figurine"
+   "image_query": "Cucuteni figurine",
+   "image": "img/s3b.jpg"
   },
   {
    "category": "kindness",
@@ -65,7 +67,8 @@
    "source_name": "ABC13",
    "source_url": "https://abc13.com/story/us-coast-guard-helps-rescue-juvenile-humpback-whale-stuck-sandbar-off-new-yorks-fire-island/19921301/",
    "source_ig": "",
-   "image_query": "Megaptera novaeangliae juvenile"
+   "image_query": "Megaptera novaeangliae juvenile",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Brazzein keeps its sweetness even when heated to 80 °C.",
