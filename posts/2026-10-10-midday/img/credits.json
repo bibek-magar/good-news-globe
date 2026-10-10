@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Rhizophora_racemosa_flowers.jpg/1920px-Rhizophora_racemosa_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Rhizophora_racemosa_flowers.jpg",
+  "credit": "Sommerluk / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Rhizophora racemosa"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Rhizophora_racemosa_reproduction.jpg/1920px-Rhizophora_racemosa_reproduction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Rhizophora_racemosa_reproduction.jpg",
+  "credit": "Sommerluk / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Rhizophora racemosa"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Marius_Hills_Pit_-_Lava_Tube_Skylight%3F_%28LROC202_-_M114328462R_thumb%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Marius_Hills_Pit_-_Lava_Tube_Skylight%3F_(LROC202_-_M114328462R_thumb).png",
+  "credit": "NASA/GSFC/Arizona State University / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Marius Hills pit"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Marius_Hills_Pit_-_Lava_Tube_Skylight%3F_%28LROC202_-_M114328462R_enlargement%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Marius_Hills_Pit_-_Lava_Tube_Skylight%3F_(LROC202_-_M114328462R_enlargement).png",
+  "credit": "NASA/GSFC/Arizona State University / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Marius Hills pit"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Eye_iris.jpg/1920px-Eye_iris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Eye_iris.jpg",
+  "credit": "che (Please credit as \"Petr Novák, Wikipedia\" in case you us / Wikimedia Commons, CC BY-SA 2.5",
+  "license": "CC BY-SA 2.5",
+  "query": "human eye iris"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Human_eye_in_dim_light.jpg/1920px-Human_eye_in_dim_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_eye_in_dim_light.jpg",
+  "credit": "Rapidreflex / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "human eye iris"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/BestFrend_dog_backpack-harness.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:BestFrend_dog_backpack-harness.jpg",
+  "credit": "Bestfrend-matchingdogowner / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "dog in backpack"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Missile_Dog_Backpack_%2815027020194%29.jpg/1920px-Missile_Dog_Backpack_%2815027020194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Missile_Dog_Backpack_(15027020194).jpg",
+  "credit": "Becky Stern from Brooklyn, USA / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "dog in backpack"
+ }
+}
