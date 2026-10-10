@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-10",
+ "handle": "@good_newsglobe",
+ "cover_hook": "100 years bare, now full of seabirds again",
+ "cover_highlight": "100 years bare",
+ "cover_kicker": "Replanted by hand",
+ "caption_hook": "🏝️ Guano miners left Lady Elliot Island on the Great Barrier Reef bare for 100 years. One family replanted it, and the seabirds are back + 3 more wins 👇",
+ "question": "Island, whale or ice cream: which made you smile most? 👇",
+ "share_line": "Send this to someone who loves islands",
+ "reel_hook": "100 years bare, now full of seabirds again",
+ "first_comment": "Bonus: 8 Pisonia trees the miners left behind are still standing, at least 160 years old. Would you visit? 🏝️",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Lady Elliot Island, Australia",
+   "emoji": "🏝️",
+   "stat": "20,000+",
+   "stat_label": "plants put in by hand",
+   "headline": "A family turned a mined-out reef island back into a bird haven",
+   "summary": "Guano mining in the 1860s left Lady Elliot Island bare for a century. From the 1960s the Adams family began replanting; now over 20,000 plants cover about 70% of it and seabirds nest again.",
+   "why": "Patient, hands-on work brought a whole ecosystem back to life.",
+   "source_name": "ABC News",
+   "source_url": "https://www.abc.net.au/news/2026-10-10/guano-mine-rehabilitation-on-lady-elliot-island-birds-return/107138364",
+   "source_ig": "",
+   "image_query": "Lady Elliot Island"
+  },
+  {
+   "category": "health",
+   "place": "West African fruit protein",
+   "emoji": "🍦",
+   "stat": "2,000x",
+   "stat_label": "sweeter than sugar",
+   "headline": "A super-sweet fruit protein halved blood sugar spikes",
+   "summary": "In a double-blind trial, ice cream sweetened with brazzein, a protein first found in a West African fruit, caused blood sugar rises about half as big as sugar ice cream did.",
+   "why": "Sweet treats that are kinder to blood sugar could help people with diabetes.",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/a-protein-2000-times-sweeter-than-sugar-halved-ice-creams-blood-sugar-response",
+   "source_ig": "",
+   "image_query": "vanilla ice cream scoop"
+  },
+  {
+   "category": "archaeology",
+   "place": "Harghita County, Romania",
+   "emoji": "🏺",
+   "stat": "6,500",
+   "stat_label": "years old",
+   "headline": "A 6,500-year-old clay figurine turns up in Transylvania",
+   "summary": "At the Dâmbul Cetății site, archaeologists found a Copper Age female figurine of the Cucuteni culture. It cracked exactly where its maker joined two pieces of clay, revealing how it was made.",
+   "why": "A crack 6,500 years in the making shows us an ancient artist's technique.",
+   "source_name": "Ancientist",
+   "source_url": "https://ancientist.com/a-6500-year-old-female-figurine-has-been-discovered-in-transylvania/",
+   "source_ig": "",
+   "image_query": "Cucuteni figurine"
+  },
+  {
+   "category": "kindness",
+   "place": "Fire Island, New York, USA",
+   "emoji": "🐋",
+   "stat": "2",
+   "stat_label": "young humpbacks back in open water",
+   "headline": "Rescuers helped stranded young humpbacks back to the sea",
+   "summary": "Two juvenile humpback whales got stuck on sandbars off Fire Island. With rising tides and help from crews including the US Coast Guard, both made it back to open water.",
+   "why": "Quick teamwork gave two young whales a second chance.",
+   "source_name": "ABC13",
+   "source_url": "https://abc13.com/story/us-coast-guard-helps-rescue-juvenile-humpback-whale-stuck-sandbar-off-new-yorks-fire-island/19921301/",
+   "source_ig": "",
+   "image_query": "Megaptera novaeangliae juvenile"
+  }
+ ],
+ "fun_fact": "Brazzein keeps its sweetness even when heated to 80 °C.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #greatbarrierreef #whales"
+}
