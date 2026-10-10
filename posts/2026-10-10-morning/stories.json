@@ -23,7 +23,8 @@
    "source_name": "The Guardian",
    "source_url": "https://www.theguardian.com/environment/2026/oct/09/animals-crossing-simple-solution-roadkill-amazon-brazil-alternatives",
    "source_ig": "",
-   "image_query": "Ateles chamek"
+   "image_query": "Ateles chamek",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "archaeology",
@@ -32,12 +33,13 @@
    "stat": "",
    "stat_label": "",
    "headline": "A Roman temple to Mars turned up just under a forest floor",
-   "summary": "Digging beside the Kapersburg fort, archaeologists found a small temple with an inscription to Mars, part of a war-god statue and a winged figure of Victory.",
+   "summary": "Beside the Kapersburg fort, archaeologists found a small temple with an inscription to Mars and a winged statuette of Victory.",
    "why": "Storms and drought cleared the trees and revealed a frontier town's sacred spot.",
    "source_name": "Smithsonian",
    "source_url": "https://www.smithsonianmag.com/smart-news/just-inches-below-the-forest-floor-archaeologists-in-germany-unearthed-a-roman-temple-likely-dedicated-to-mars-the-god-of-war-180989650/",
    "source_ig": "",
-   "image_query": "Kastell Kapersburg"
+   "image_query": "Kastell Kapersburg",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "invention",
@@ -45,13 +47,14 @@
    "emoji": "🔋",
    "stat": "20%+",
    "stat_label": "longer battery life in models",
-   "headline": "A smarter battery skips weak cells to last 20% longer",
-   "summary": "Chalmers researchers modelled an EV battery pack that bypasses worn-out cells instead of letting them drag the whole pack down. In one typical case it delayed a battery swap by about 14 months.",
+   "headline": "A smarter battery design could last 20% longer",
+   "summary": "Chalmers researchers modelled an EV battery pack that bypasses worn-out cells. In one typical case it delayed a battery swap by about 14 months.",
    "why": "Longer-lived batteries mean cheaper EVs and less waste.",
    "source_name": "Chalmers University",
    "source_url": "https://www.chalmers.se/en/current/news/e2-new-battery-architecture-could-extend-ev-battery-life-and-lower-ownership-costs/",
    "source_ig": "",
-   "image_query": "lithium-ion battery cells"
+   "image_query": "lithium-ion battery cells",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "space",
@@ -60,12 +63,13 @@
    "stat": "1st",
    "stat_label": "changing water clouds seen beyond us",
    "headline": "Webb watched water clouds change on a world 7.5 light-years away",
-   "summary": "For 11 hours, the James Webb telescope tracked WISE 0855, the coldest known brown dwarf. Its water clouds grew thicker and thinner, the first such weather confirmed outside our solar system.",
+   "summary": "Webb tracked WISE 0855, the coldest known brown dwarf, for 11 hours. Its water clouds grew thicker and thinner: the first such weather confirmed beyond our solar system.",
    "why": "It's like reading the weather report of another world.",
    "source_name": "EurekAlert!",
    "source_url": "https://www.eurekalert.org/news-releases/1147098",
    "source_ig": "",
-   "image_query": "James Webb Space Telescope"
+   "image_query": "James Webb Space Telescope",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "WISE 0855 is about 265 K, colder than Earth's average surface temperature.",
