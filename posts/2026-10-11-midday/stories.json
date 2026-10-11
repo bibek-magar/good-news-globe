@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-11",
+ "handle": "@good_newsglobe",
+ "cover_hook": "20% more corn under solar panels in a heatwave",
+ "cover_highlight": "20% more corn",
+ "cover_kicker": "Power and food, same field",
+ "caption_hook": "☀️🌽 Solar panels 5 m above a French corn field shaded the crop through a heatwave, and yields rose almost 20% + 3 more wins 👇",
+ "question": "Which would you rather see in your town: solar farms over fields or school gardens? 👇",
+ "share_line": "Send this to a farmer you know",
+ "reel_hook": "20% more corn under solar panels in a heatwave",
+ "first_comment": "Bonus: the shaded corn also grew 25% taller, 200 cm vs 160 cm in the open field. Would you put solar over farmland? ☀️",
+ "stories": [
+  {
+   "category": "energy",
+   "place": "Amance, France",
+   "emoji": "🌽",
+   "stat": "~20%",
+   "stat_label": "more corn under the panels",
+   "headline": "Solar canopies boosted corn yields by almost 20% in a heatwave",
+   "summary": "In eastern France, where it topped 35°C for weeks, 5,500 solar panels raised 5 m over a maize field shaded the crop. Yields rose almost 20% versus open ground, while the panels made clean power.",
+   "why": "One field can now feed people and power homes, even as summers get hotter.",
+   "source_name": "Good Green News",
+   "source_url": "https://goodgreen.news/a-solution-for-the-future-solar-canopies-produced-clean-energy-while-boosting-crop-yields-by-20-during-summer-heatwaves/",
+   "source_ig": "",
+   "image_query": "agrivoltaics solar panels field"
+  },
+  {
+   "category": "health",
+   "place": "Cambridge, UK",
+   "emoji": "🧬",
+   "stat": "2–3 days",
+   "stat_label": "for results, down from 4–6 weeks",
+   "headline": "A rapid gene test gives kids' cancer results in 2–3 days",
+   "summary": "At Addenbrooke's Hospital, fast whole-genome tests on 54 children returned results in 2–3 days instead of 4–6 weeks. Some children avoided surgery, and a national NHS trial of 200 kids has begun.",
+   "why": "Faster answers mean gentler, better-targeted treatment for young patients.",
+   "source_name": "The Independent",
+   "source_url": "https://www.independent.co.uk/news/uk/home-news/nhs-cancer-test-wgs-treatment-b3061971.html",
+   "source_ig": "",
+   "image_query": "DNA sequencing laboratory"
+  },
+  {
+   "category": "nature",
+   "place": "Harenna Forest, Ethiopia",
+   "emoji": "🐍",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A new egg-eating snake species was found in Ethiopia",
+   "summary": "Scientists described the white-throated egg-eater, an ink-black, harmless snake from Ethiopia's Harenna Forest that eats only bird eggs, cracking them with special bones in its throat.",
+   "why": "Even well-studied Africa still hides animals new to science.",
+   "source_name": "Herpetozoa (Pensoft)",
+   "source_url": "https://herpetozoa.pensoft.net/article/205043/",
+   "source_ig": "",
+   "image_query": "Harenna Forest Bale"
+  },
+  {
+   "category": "kindness",
+   "place": "Rural Canada",
+   "emoji": "🥬",
+   "stat": "264+",
+   "stat_label": "students fed at one school",
+   "headline": "Canadian students grow fresh salad indoors for school meals",
+   "summary": "In remote towns where lettuce arrives wilted, three schools use hydroponic towers. In Dinsmore, six towers gave 40 heads of lettuce in two months; in Eskasoni they feed 264+ students.",
+   "why": "Kids are solving food shortages in their own towns.",
+   "source_name": "Happy Eco News",
+   "source_url": "https://happyeconews.com/growing-without-soil-and-without-limits-how-canadian-schools-are-using-hydroponics-to-fight-food-insecurity/",
+   "source_ig": "",
+   "image_query": "hydroponic tower garden"
+  }
+ ],
+ "fun_fact": "Female white-throated egg-eaters grow up to 92 cm long, males only up to 58 cm.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #solar #farming"
+}
