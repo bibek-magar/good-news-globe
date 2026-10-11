@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Oyster_reef_Hunting_Island_SC.jpg/1920px-Oyster_reef_Hunting_Island_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Oyster_reef_Hunting_Island_SC.jpg",
+  "credit": "Jstuby at English Wikipedia / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "oyster reef"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Pone.0190914.g005.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Pone.0190914.g005.png",
+  "credit": "William Saville-Kent / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "oyster reef"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Aarhus_Harbour_around_1900.jpg/1920px-Aarhus_Harbour_around_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Aarhus_Harbour_around_1900.jpg",
+  "credit": "Peter Lars Elfelt (før Petersen) / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Aarhus harbour"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/-The_highrise_AArhus_nearing_completion.jpg/1920px--The_highrise_AArhus_nearing_completion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:-The_highrise_AArhus_nearing_completion.jpg",
+  "credit": "Smiley.toerist / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Aarhus harbour"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Noongar_Woman_Coolamon.JPG/1280px-Noongar_Woman_Coolamon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Noongar_Woman_Coolamon.JPG",
+  "credit": "IngridC-Curtin / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Noongar"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Noongar_kulunkga_looking_for_bush_fruit.jpg/1920px-Noongar_kulunkga_looking_for_bush_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Noongar_kulunkga_looking_for_bush_fruit.jpg",
+  "credit": "Jenreflect / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Noongar"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Pacific_Partnership_2024-1-_First_Aid_Training_Course_%288198619%29.jpg/1920px-Pacific_Partnership_2024-1-_First_Aid_Training_Course_%288198619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pacific_Partnership_2024-1-_First_Aid_Training_Course_(8198619).jpg",
+  "credit": "U.S. Navy photo by Seaman Apprentice Gavin Arnoldhendershot / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "infant first aid"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pacific_Partnership_2024-1-_First_Aid_Training_Course_%288198618%29.jpg/1920px-Pacific_Partnership_2024-1-_First_Aid_Training_Course_%288198618%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pacific_Partnership_2024-1-_First_Aid_Training_Course_(8198618).jpg",
+  "credit": "U.S. Navy photo by Seaman Apprentice Gavin Arnoldhendershot / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "infant first aid"
+ }
+}
