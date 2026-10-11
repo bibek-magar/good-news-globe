@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-10 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-11 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-03: 2 → 10-04: 2 → 10-05: 2 → 10-06: 2 → 10-07: 2 → 10-08: 2 → 10-09: 2 → 10-10: 2
+10-04: 2 → 10-05: 2 → 10-06: 2 → 10-07: 2 → 10-08: 2 → 10-09: 2 → 10-10: 2 → 10-11: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -16,29 +16,29 @@ _Updated 2026-10-10 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 ## Weakest carousels (avoid these patterns)
 | date | slot | hook | reach | shares | saves | comments | score |
 |---|---|---|---|---|---|---|---|
+| 2026-10-10 | evening | 100 years bare, now full of seabirds again | 1 | 0 | 0 | 0 | 0.0 |
 | 2026-10-01 | midday | Sea turtles nested in California for the 1st time | 4 | 0 | 0 | 0 | 25.0 |
 | 2026-10-05 | evening | A 1-in-100-million ghost lobster went to college | 2 | 0 | 0 | 0 | 50.0 |
-| 2026-09-30 | evening | 🌍 4 good things happening in the world right now. | 2 | 0 | 0 | 0 | 100.0 |
 
 ## This week vs before
-- Last 7 days: 7 carousels, avg reach 2.1, avg score 135.7
-- Earlier: avg reach 2.9, avg score 103.6
+- Last 7 days: 6 carousels, avg reach 1.8, avg score 91.7
+- Earlier: avg reach 2.8, avg score 125.0
 
 ## By slot (Nepal time)
 - morning: 2 posts, avg reach 2, avg score 125.0
 - midday: 6 posts, avg reach 3, avg score 104.2
-- evening: 6 posts, avg reach 2.2, avg score 133.3
+- evening: 7 posts, avg reach 2, avg score 114.3
 
 ## Categories
-Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), nature 112.5 (6), space 100.0 (1), archaeology 100.0 (1)
-Any position → avg score: nature 127.5, archaeology 125.0, science 125.0, kindness 125.0, quirky 123.6, health 120.8, space 119.4, invention 116.7, energy 100.0
+Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), space 100.0 (1), archaeology 100.0 (1), nature 96.4 (7)
+Any position → avg score: science 125.0, quirky 123.6, space 119.4, invention 116.7, nature 115.9, archaeology 114.6, energy 100.0, health 96.7, kindness 83.3
 
 ## Best Reels
 | date | slot | hook | reach | shares | saves | comments | score | avg watch (ms) |
 |---|---|---|---|---|---|---|---|---|
 | 2026-10-02 | midday | Moth swarms are back after a 99.5% crash | 114 | 0 | 0 | 0 | 2.63 | 4770 |
+| 2026-10-09 | evening | 54 lava fountains in under 2 years | 104 | 0 | 0 | 0 | 1.92 | 1988 |
 | 2026-10-02 | midday | A 'lost' bird was filmed for the 1st time ever | 104 | 0 | 0 | 0 | 2.88 | 4705 |
-| 2026-10-09 | evening | 54 lava fountains in under 2 years | 102 | 0 | 0 | 0 | 1.96 | 2002 |
 | 2026-10-02 | evening | Tiny cave crocs filmed hunting bats for the 1st time | 101 | 0 | 0 | 0 | 0.99 | 3603 |
 | 2026-10-03 | midday | These lemurs sing using an opera singer's trick | 76 | 0 | 0 | 0 | 0.0 | 2267 |
 
