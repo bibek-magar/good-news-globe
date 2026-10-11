@@ -2,13 +2,13 @@
  "edition": "Midday",
  "date": "2026-10-11",
  "handle": "@good_newsglobe",
- "cover_hook": "20% more corn under solar panels in a heatwave",
+ "cover_hook": "Nearly 20% more corn under solar panels",
  "cover_highlight": "20% more corn",
  "cover_kicker": "Power and food, same field",
  "caption_hook": "☀️🌽 Solar panels 5 m above a French corn field shaded the crop through a heatwave, and yields rose almost 20% + 3 more wins 👇",
  "question": "Which would you rather see in your town: solar farms over fields or school gardens? 👇",
  "share_line": "Send this to a farmer you know",
- "reel_hook": "20% more corn under solar panels in a heatwave",
+ "reel_hook": "Nearly 20% more corn under solar panels",
  "first_comment": "Bonus: the shaded corn also grew 25% taller, 200 cm vs 160 cm in the open field. Would you put solar over farmland? ☀️",
  "stories": [
   {
@@ -51,7 +51,8 @@
    "source_name": "Herpetozoa (Pensoft)",
    "source_url": "https://herpetozoa.pensoft.net/article/205043/",
    "source_ig": "",
-   "image_query": "Harenna Forest Bale"
+   "image_query": "Harenna Forest Bale",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "kindness",
