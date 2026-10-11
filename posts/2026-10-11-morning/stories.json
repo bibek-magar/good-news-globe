@@ -5,7 +5,7 @@
  "cover_hook": "Reviving oyster reefs could be worth $12 trillion",
  "cover_highlight": "$12 trillion",
  "cover_kicker": "85% have vanished",
- "caption_hook": "🦪 85% of the world's oyster reefs are gone, but a new study says restoring them could deliver $12 trillion in benefits + 3 more wins 👇",
+ "caption_hook": "🦪 85% of the world's oyster reefs are gone, but restoring them could deliver $12 trillion in benefits + 3 more wins 👇",
  "question": "Pick a number: which story is your favourite, 1, 2, 3 or 4? 👇",
  "share_line": "Send this to someone who loves the ocean",
  "reel_hook": "Reviving oyster reefs could be worth $12 trillion",
@@ -18,12 +18,13 @@
    "stat": "$12tn",
    "stat_label": "estimated value of restored reefs",
    "headline": "Restoring oyster reefs could deliver $12 trillion in benefits",
-   "summary": "About 85% of oyster reefs vanished in a century. A Tsinghua University study estimates that fully restored reefs in 10 countries would provide $12 trillion of clean water, carbon storage and coast protection.",
+   "summary": "85% of oyster reefs vanished in a century. A Tsinghua University study estimates restored reefs in 10 countries would give $12 trillion in clean water, carbon storage and coast protection.",
    "why": "Oysters filter water and shield coasts, and there's room to bring them back.",
    "source_name": "SciTechDaily",
    "source_url": "https://scitechdaily.com/scientists-reveal-a-staggering-12-trillion-potential-hidden-in-the-worlds-oyster-reefs/",
    "source_ig": "",
-   "image_query": "oyster reef"
+   "image_query": "oyster reef",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "energy",
@@ -32,12 +33,13 @@
    "stat": "1,900",
    "stat_label": "homes warmed by seawater",
    "headline": "Aarhus now heats 1,900 homes with water from its bay",
-   "summary": "Six seawater heat pumps on the Aarhus harbour front draw up to 1.2 million litres an hour and turn it into district heating for about 1,900 homes. Eight more are due from 2028.",
+   "summary": "Six seawater heat pumps on the harbour front draw up to 1.2 million litres an hour to heat about 1,900 homes. Eight more are due from 2028.",
    "why": "Cold seawater is replacing wood pellets as the city's heat source.",
    "source_name": "ECOnews",
    "source_url": "https://www.ecoticias.com/en/aarhus-in-denmark-switched-on-six-seawater-heat-pumps-that-pull-up-to-317000-gallons-of-bay-water-an-hour-to-warm-about-1900-homes-and-eight-more-are-coming-to-help-replace-wood-pellets/51819/",
    "source_ig": "",
-   "image_query": "Aarhus harbour"
+   "image_query": "Aarhus harbour",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "science",
@@ -46,7 +48,7 @@
    "stat": "250+",
    "stat_label": "Aboriginal languages once spoken",
    "headline": "Yarning circles help preschoolers learn an Aboriginal language",
-   "summary": "Curtin University researchers mixed traditional 'yarning' storytelling with songs and play to teach Noongar to preschoolers. The children joined in more actively and confidently.",
+   "summary": "Curtin researchers mixed traditional 'yarning' storytelling with songs and play to teach Noongar to preschoolers, who joined in more confidently.",
    "why": "It could help keep endangered languages alive in the next generation.",
    "source_name": "Curtin University",
    "source_url": "https://www.curtin.edu.au/research/news/new-teaching-method-could-help-aboriginal-languages-survive-and-thrive?type=media",
@@ -60,9 +62,9 @@
    "stat": "11",
    "stat_label": "months old, saved from choking",
    "headline": "Two NYPD officers saved a choking baby, then met him again",
-   "summary": "Flagged down by a frantic mum, Officer Julio Arias gave an unconscious 11-month-old back blows until he cried and breathed again. The boy later visited the precinct to say thanks.",
+   "summary": "Officer Julio Arias gave an unconscious 11-month-old back blows until he cried and breathed again. The boy later visited the precinct to say thanks.",
    "why": "Seconds of calm skill gave a family their baby back.",
-   "source_name": "Officer.com / NY Daily News",
+   "source_name": "Officer.com",
    "source_url": "https://www.officer.com/on-the-street/body-cameras/news/55409444/nypd-police-officers-reunite-with-baby-saved-during-dramatic-choking-emergency",
    "source_ig": "",
    "image_query": "infant first aid"
