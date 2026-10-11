@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Agrivoltaic_field_in_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Agrivoltaic_field_in_Israel.jpg",
+  "credit": "Kinglir2026 / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "agrivoltaics solar panels field"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Solar_Sharing_Power_Plant_in_Kamisu%2C_Ibaraki_01.jpg/1920px-Solar_Sharing_Power_Plant_in_Kamisu%2C_Ibaraki_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Solar_Sharing_Power_Plant_in_Kamisu,_Ibaraki_01.jpg",
+  "credit": "Σ64 / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "agrivoltaics solar panels field"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Armed_Forces_DNA_Identification_Laboratory_analysts_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Armed_Forces_DNA_Identification_Laboratory_analysts_2018.jpg",
+  "credit": "Air Force Staff Sgt. Nicole Leidholm, photographer / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "DNA sequencing laboratory"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/DNA_laboratory_equipment_in_Kharkiv_Oblast%2C_2022-12-19_%2801%29.jpg/1920px-DNA_laboratory_equipment_in_Kharkiv_Oblast%2C_2022-12-19_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:DNA_laboratory_equipment_in_Kharkiv_Oblast,_2022-12-19_(01).jpg",
+  "credit": "National Police of Ukraine / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "DNA sequencing laboratory"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Harenna_Forest_and_Bale_Mountains.jpg/1920px-Harenna_Forest_and_Bale_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Harenna_Forest_and_Bale_Mountains.jpg",
+  "credit": "Sabine's Sunbird / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Harenna Forest Bale"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Harenna_Forest%2C_Bale_Mountains_National_Park_%2818%29_%2828664897084%29.jpg/1920px-Harenna_Forest%2C_Bale_Mountains_National_Park_%2818%29_%2828664897084%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Harenna_Forest,_Bale_Mountains_National_Park_(18)_(28664897084).jpg",
+  "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Harenna Forest Bale"
+ }
+}
