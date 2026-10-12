@@ -23,7 +23,8 @@
    "source_name": "ECOnews",
    "source_url": "https://www.ecoticias.com/en/swiss-dam-solar-panels-winter-power/37035/",
    "source_ig": "",
-   "image_query": "Muttsee"
+   "image_query": "Muttsee",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "health",
@@ -51,7 +52,8 @@
    "source_name": "HeritageDaily",
    "source_url": "https://www.heritagedaily.com/2026/10/study-reveals-declining-inequality-in-bronze-age-city-of-mohenjo-daro/159546",
    "source_ig": "",
-   "image_query": "Mohenjo-daro"
+   "image_query": "Mohenjo-daro",
+   "image": "img/s3b.jpg"
   },
   {
    "category": "kindness",
