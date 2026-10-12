@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Muttsee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Muttsee.jpg",
+  "credit": "Wala / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Muttsee"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Building_site_Muttsee_as_seen_from_N%C3%BCschenstock.JPG/1920px-Building_site_Muttsee_as_seen_from_N%C3%BCschenstock.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Building_site_Muttsee_as_seen_from_N%C3%BCschenstock.JPG",
+  "credit": "Capricorn4049 / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Muttsee"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/A_man_carries_a_huge_hammerhead_through_the_streets_of_Mogadishu.jpg/1920px-A_man_carries_a_huge_hammerhead_through_the_streets_of_Mogadishu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:A_man_carries_a_huge_hammerhead_through_the_streets_of_Mogadishu.jpg",
+  "credit": "Marco Gualazzini / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Mogadishu"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mogadishu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Mogadishu.png",
+  "credit": "AMISOM, Welimo28, AU-UN IST / STUART PRICE. / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Mogadishu"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mohenjo-daro_complex_entrance_gate.JPG/1920px-Mohenjo-daro_complex_entrance_gate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohenjo-daro_complex_entrance_gate.JPG",
+  "credit": "Saqib Qayyum / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Mohenjo-daro"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mohenjodaro_-_view_of_the_stupa_mound.JPG/1920px-Mohenjodaro_-_view_of_the_stupa_mound.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+  "credit": "Saqib Qayyum / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Mohenjo-daro"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Families_find_new_furry_friends_at_adoption_event_140726-M-DN141-004.jpg/1920px-Families_find_new_furry_friends_at_adoption_event_140726-M-DN141-004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Families_find_new_furry_friends_at_adoption_event_140726-M-DN141-004.jpg",
+  "credit": "Sgt. Valerie Eppler / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "shelter cat adoption"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Families_find_new_furry_friends_at_adoption_event_140726-M-DN141-001.jpg/1920px-Families_find_new_furry_friends_at_adoption_event_140726-M-DN141-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Families_find_new_furry_friends_at_adoption_event_140726-M-DN141-001.jpg",
+  "credit": "Sgt. Valerie Eppler / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "shelter cat adoption"
+ }
+}
