@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-12",
+ "handle": "@good_newsglobe",
+ "cover_hook": "3 million kids get free hot school meals",
+ "cover_highlight": "3 million kids",
+ "cover_kicker": "Ukraine, even in wartime",
+ "caption_hook": "🍲 Ukraine now gives 3 million kids free hot school meals, served even in air-raid shelters + 3 more wins 👇",
+ "question": "Pick a number 1-4: which win would you share first? 👇",
+ "share_line": "Send this to a teacher who'd love it",
+ "reel_hook": "3 million kids get free hot school meals",
+ "first_comment": "Bonus: a UN food official tried a Ukrainian school lunch and said it beat the food he had as a kid. What was your school lunch like? 🍲",
+ "stories": [
+  {
+   "category": "health",
+   "place": "Ukraine",
+   "emoji": "🍲",
+   "stat": "3M",
+   "stat_label": "kids get a free hot school meal",
+   "headline": "Ukraine now feeds 3 million kids free hot school meals",
+   "summary": "Since September, pupils in grades 1-11 at municipal schools get a free hot lunch, about 3 million kids. In frontline Romny, one school cooks 350 meals a day and serves them in shelters during air raids.",
+   "why": "A hot meal brings kids to school and helps them learn, even in a war.",
+   "source_name": "UNITED24 Media",
+   "source_url": "https://united24media.com/life-in-ukraine/ukraine-feeds-3-million-schoolchildren-for-free-despite-russian-attacks-and-blackouts-23327",
+   "source_ig": "@united24.media",
+   "image_query": "school lunch Ukraine"
+  },
+  {
+   "category": "kindness",
+   "place": "Ethiopia",
+   "emoji": "🌱",
+   "stat": "47B",
+   "stat_label": "tree seedlings planted in 7 years",
+   "headline": "Ethiopians planted 47 billion tree seedlings in 7 years",
+   "summary": "Tens of millions of volunteers joined the Green Legacy drive, which aims for 50 billion by 2030. A 2026 study of 44,500 seedlings planted in the south found about 80% had survived.",
+   "why": "Trees hold soil and water on farms hit by floods and drought.",
+   "source_name": "Grist",
+   "source_url": "https://grist.org/solutions/fifty-billion-seedlings-can-ethiopia-replant-its-ravaged-forests/",
+   "source_ig": "",
+   "image_query": "Ethiopia tree planting"
+  },
+  {
+   "category": "science",
+   "place": "Puerto Rico & Tübingen, Germany",
+   "emoji": "🦐",
+   "stat": "32.2cm",
+   "stat_label": "long, a 'colossogiant' isopod",
+   "headline": "A giant sea 'woodlouse' in a drawer was a new species",
+   "summary": "A deep-sea isopod kept in a German university collection since the 1980s turned out to be unknown to science. Named Bathynomus tuebingoborikensis, it honours Tübingen and Puerto Rico's Taíno name.",
+   "why": "Old museum drawers can still hold brand-new species.",
+   "source_name": "PEOPLE",
+   "source_url": "https://people.com/giant-isopod-kept-in-museum-for-decades-identified-as-new-species-12166377",
+   "source_ig": "",
+   "image_query": "Bathynomus giant isopod"
+  },
+  {
+   "category": "nature",
+   "place": "Uttarakhand, India",
+   "emoji": "🐸",
+   "stat": "1985",
+   "stat_label": "the last time anyone recorded it",
+   "headline": "A frog lost since 1985 was found again in the Himalayas",
+   "summary": "Searching 14 sites for 424 hours, researchers found just two Chakrata torrent frogs, 65 km from where it was last seen, and read the species' DNA for the first time.",
+   "why": "A critically endangered frog is still out there, and can now be protected.",
+   "source_name": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/city/dehradun/critically-endangered-chakrata-torrent-frog-rediscovered-after-40-years-in-uttarkashi/articleshow/134876207.cms",
+   "source_ig": "",
+   "image_query": "Amolops chakrataensis"
+  }
+ ],
+ "fun_fact": "Giant isopods are cousins of garden woodlice, and some grow up to 50 cm long.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #ukraine #schoolmeals"
+}
