@@ -23,14 +23,15 @@
    "source_name": "New Age (AFP)",
    "source_url": "https://www.newagebd.net/post/asia/317496/indonesia-releases-eight-orangutans-rescued-from-fires-to-protected-forest",
    "source_ig": "",
-   "image_query": "Pongo pygmaeus mother baby"
+   "image_query": "Pongo pygmaeus mother baby",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "kindness",
    "place": "Batley, England",
    "emoji": "💛",
    "stat": "Year 7",
-   "stat_label": "pupil, praised by paramedics",
+   "stat_label": "pupil, praised by a paramedic",
    "headline": "A Year 7 pupil spent her pocket money on a hurt stranger",
    "summary": "When an elderly cyclist fell, Hannah Annakin stayed by his side until help came. Learning he hadn't eaten, she bought him food with her own pocket money. A paramedic asked her school to honour her.",
    "why": "Small kindness, big difference: the paramedic called it a powerful reminder.",
@@ -51,7 +52,8 @@
    "source_name": "Gizmodo",
    "source_url": "https://gizmodo.com/someone-posted-an-instagram-selfie-scientists-spotted-a-giant-new-species-in-the-background-2000823673",
    "source_ig": "",
-   "image_query": "Inírida river Colombia"
+   "image_query": "Inírida river Colombia",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "archaeology",
