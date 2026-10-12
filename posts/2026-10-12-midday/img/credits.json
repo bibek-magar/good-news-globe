@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://live.staticflickr.com/65535/52454627029_fdda4ecbe1_b.jpg",
+  "page": "https://www.flickr.com/photos/11054951@N04/52454627029",
+  "credit": "Center for the Study of Europe / Flickr, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "school lunch Ukraine"
+ },
+ "s1b": {
+  "url": "https://live.staticflickr.com/65535/52454626739_88935b4cf7_b.jpg",
+  "page": "https://www.flickr.com/photos/11054951@N04/52454626739",
+  "credit": "Center for the Study of Europe / Flickr, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "school lunch Ukraine"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Finch%2C_Dimma%2C_Ethiopia_%2810065946246%29%2C_crop.jpg/1920px-Finch%2C_Dimma%2C_Ethiopia_%2810065946246%29%2C_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Finch,_Dimma,_Ethiopia_(10065946246),_crop.jpg",
+  "credit": "Rod Waddington from Kergunyah, Australia / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Ethiopia tree planting"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Hilltop_with_Trees_and_Human_Figure_-_Lalibela_-_Ethiopia_%288724854545%29.jpg/1920px-Hilltop_with_Trees_and_Human_Figure_-_Lalibela_-_Ethiopia_%288724854545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Hilltop_with_Trees_and_Human_Figure_-_Lalibela_-_Ethiopia_(8724854545).jpg",
+  "credit": "Adam Jones from Kelowna, BC, Canada / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Ethiopia tree planting"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bathynomus_giganteus_hi-res.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Bathynomus_giganteus_hi-res.jpg",
+  "credit": "NOAA / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Bathynomus giant isopod"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bathynomus_kensleyi_and_Bathynomus_doederleinii_NMMBA.jpg/1920px-Bathynomus_kensleyi_and_Bathynomus_doederleinii_NMMBA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Bathynomus_kensleyi_and_Bathynomus_doederleinii_NMMBA.jpg",
+  "credit": "Tiouraren (Y.-C. Tsai) / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Bathynomus giant isopod"
+ }
+}
