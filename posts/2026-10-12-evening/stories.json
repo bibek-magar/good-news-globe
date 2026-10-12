@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-12",
+ "handle": "@good_newsglobe",
+ "cover_hook": "8 orangutans rescued from fires are free again",
+ "cover_highlight": "8 orangutans",
+ "cover_kicker": "3 mums with babies",
+ "caption_hook": "🦧 8 orangutans rescued from Borneo's wildfires, including 3 mums with babies, are back in the forest + 3 more wins 👇",
+ "question": "Drop a 🦧 if the orangutans made your day",
+ "share_line": "Send this to the friend who loves orangutans",
+ "reel_hook": "8 orangutans rescued from fires, now free",
+ "first_comment": "Bonus: rescuers picked this forest for its food, water and links to other forests, so the apes can roam. Which animal rescue would you love to see next? 🦧",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "West Kalimantan, Indonesia",
+   "emoji": "🦧",
+   "stat": "8",
+   "stat_label": "orangutans rescued and released",
+   "headline": "8 orangutans saved from Borneo's fires are back in the wild",
+   "summary": "Three mother-and-baby pairs and two teen males, rescued from burning plantations, were moved to the 23,000-hectare Batu Nyambu Protected Forest. Rescuers have saved 46 orangutans from fires since August.",
+   "why": "Every one counts: about 104,000 orangutans are left, down from 230,000 a century ago.",
+   "source_name": "New Age (AFP)",
+   "source_url": "https://www.newagebd.net/post/asia/317496/indonesia-releases-eight-orangutans-rescued-from-fires-to-protected-forest",
+   "source_ig": "",
+   "image_query": "Pongo pygmaeus mother baby"
+  },
+  {
+   "category": "kindness",
+   "place": "Batley, England",
+   "emoji": "💛",
+   "stat": "Year 7",
+   "stat_label": "pupil, praised by paramedics",
+   "headline": "A Year 7 pupil spent her pocket money on a hurt stranger",
+   "summary": "When an elderly cyclist fell, Hannah Annakin stayed by his side until help came. Learning he hadn't eaten, she bought him food with her own pocket money. A paramedic asked her school to honour her.",
+   "why": "Small kindness, big difference: the paramedic called it a powerful reminder.",
+   "source_name": "Telegraph & Argus",
+   "source_url": "https://www.thetelegraphandargus.co.uk/news/26618591.batley-schoolgirl-commended-yorkshire-ambulance-service/",
+   "source_ig": "",
+   "image_query": "Batley West Yorkshire"
+  },
+  {
+   "category": "quirky",
+   "place": "Inírida, Colombia",
+   "emoji": "🪷",
+   "stat": "7",
+   "stat_label": "plants found in two lakes",
+   "headline": "A selfie with a giant waterlily revealed a new species",
+   "summary": "A US plant grower posted a photo of himself beside a giant waterlily in Colombia. A Kew botanist spotted it was unusual, and an expedition found seven plants: Victoria colombiana.",
+   "why": "Even giant plants can hide in plain sight, and now this one can be protected.",
+   "source_name": "Gizmodo",
+   "source_url": "https://gizmodo.com/someone-posted-an-instagram-selfie-scientists-spotted-a-giant-new-species-in-the-background-2000823673",
+   "source_ig": "",
+   "image_query": "Inírida river Colombia"
+  },
+  {
+   "category": "archaeology",
+   "place": "Jotunheimen, Norway",
+   "emoji": "🏹",
+   "stat": "5,000+",
+   "stat_label": "artefacts found in the ice",
+   "headline": "Norway's ice has given up 5,000+ ancient artefacts",
+   "summary": "In 20 years at 73 sites, the Secrets of the Ice team has found bows, arrows, shoes and clothing. This year's finds include a slate arrowhead between 5,000 and 6,000 years old.",
+   "why": "Lost hunting gear shows how ancient people crossed Norway's high mountains.",
+   "source_name": "GB News",
+   "source_url": "https://gbnews.com/science/archeology-breakthrough-worlds-biggest-glacial-expedition-stone-age-discovery",
+   "source_ig": "",
+   "image_query": "Jotunheimen glacier archaeology"
+  }
+ ],
+ "fun_fact": "Giant Victoria waterlily pads can grow more than 3 m across.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #orangutan #wildlife"
+}
