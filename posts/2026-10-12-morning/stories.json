@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-12",
+ "handle": "@good_newsglobe",
+ "cover_hook": "4,872 solar panels on a dam high in the Alps",
+ "cover_highlight": "4,872 solar panels",
+ "cover_kicker": "43% of its power in winter",
+ "caption_hook": "☀️🏔️ 4,872 solar panels hang on a Swiss dam 2,500 m up, and they make 43% of their power in winter + 3 more wins 👇",
+ "question": "Either/or: mountain solar or shelter pets, which story made your day? 👇",
+ "share_line": "Send this to a friend who loves the mountains",
+ "reel_hook": "4,872 solar panels on a dam high in the Alps",
+ "first_comment": "Bonus: there's no road to the Muttsee dam, so every panel and even a dismantled crane were flown up by helicopter. Would you visit? 🏔️",
+ "stories": [
+  {
+   "category": "energy",
+   "place": "Muttsee dam, Switzerland",
+   "emoji": "🏔️",
+   "stat": "43%",
+   "stat_label": "of its power made in winter",
+   "headline": "Solar panels on an Alpine dam make 43% of their power in winter",
+   "summary": "4,872 panels hang on the Muttsee dam about 2,500 m up. In its first measured year the plant made 43% of its power in the winter half, 3.8 times a lowland plant's winter output.",
+   "why": "Mountain solar fills Switzerland's winter power gap, when it's needed most.",
+   "source_name": "ECOnews",
+   "source_url": "https://www.ecoticias.com/en/swiss-dam-solar-panels-winter-power/37035/",
+   "source_ig": "",
+   "image_query": "Muttsee"
+  },
+  {
+   "category": "health",
+   "place": "Somalia",
+   "emoji": "💧",
+   "stat": "93%",
+   "stat_label": "fewer cholera deaths",
+   "headline": "Somalia cut cholera deaths by 93%",
+   "summary": "The WHO's Eastern Mediterranean office says Somalia cut cholera deaths by 93% and re-established a national medicines regulator after more than 30 years.",
+   "why": "Fewer families losing loved ones to a disease that is fully preventable.",
+   "source_name": "Tanzania Times",
+   "source_url": "https://tanzaniatimes.net/somalia-cuts-down-cholera-deaths-by-93-percent-as-sudan-increases-vaccination-coverage-to-more-than-71-percent/",
+   "source_ig": "",
+   "image_query": "Mogadishu"
+  },
+  {
+   "category": "archaeology",
+   "place": "Mohenjo-daro, Pakistan",
+   "emoji": "🏛️",
+   "stat": "4,500",
+   "stat_label": "years ago, a fairer city",
+   "headline": "Mohenjo-daro grew fairer as it grew bigger, homes reveal",
+   "summary": "Comparing house sizes at the Indus city, researchers found inequality fell over time as homes lined up with its planned streets, hinting that shared public works kept wealth gaps small.",
+   "why": "Growing cities don't have to mean growing gaps between rich and poor.",
+   "source_name": "HeritageDaily",
+   "source_url": "https://www.heritagedaily.com/2026/10/study-reveals-declining-inequality-in-bronze-age-city-of-mohenjo-daro/159546",
+   "source_ig": "",
+   "image_query": "Mohenjo-daro"
+  },
+  {
+   "category": "kindness",
+   "place": "Wyoming, USA",
+   "emoji": "🐱",
+   "stat": "92%",
+   "stat_label": "of shelter pets saved for a year",
+   "headline": "Wyoming became the 6th US state where every shelter is no-kill",
+   "summary": "Every Wyoming shelter saved at least 90% of its pets for 12 straight months, 92% overall, Best Friends Animal Society says. A rescue taking in sick cats and kittens helped close the gap.",
+   "why": "Rural communities proved every healthy or treatable pet can be saved.",
+   "source_name": "Best Friends Animal Society",
+   "source_url": "https://bestfriends.org/who-we-are/media/wyoming-now-no-kill-state",
+   "source_ig": "",
+   "image_query": "shelter cat adoption"
+  }
+ ],
+ "fun_fact": "The Muttsee panels are tilted at 51 or 65 degrees so snow slides off them.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #solar #switzerland"
+}
