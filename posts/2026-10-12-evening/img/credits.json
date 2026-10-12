@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baby_Orangutan.jpg/1920px-Baby_Orangutan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Baby_Orangutan.jpg",
+  "credit": "Nngowen / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pongo pygmaeus mother baby"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Mother_and_Baby_Orangutan_at_the_Toledo_Zoo.jpg/1920px-Mother_and_Baby_Orangutan_at_the_Toledo_Zoo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Mother_and_Baby_Orangutan_at_the_Toledo_Zoo.jpg",
+  "credit": "DreamingKoala / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pongo pygmaeus mother baby"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Batley_Library%2C_Cambridge_Street%2C_Batley_%281st_December_2023%29_001.jpg/1920px-Batley_Library%2C_Cambridge_Street%2C_Batley_%281st_December_2023%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Batley_Library,_Cambridge_Street,_Batley_(1st_December_2023)_001.jpg",
+  "credit": "Mtaylor848 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Batley West Yorkshire"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Batley_Library%2C_Cambridge_Street%2C_Batley_%281st_December_2023%29_002.jpg/1920px-Batley_Library%2C_Cambridge_Street%2C_Batley_%281st_December_2023%29_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Batley_Library,_Cambridge_Street,_Batley_(1st_December_2023)_002.jpg",
+  "credit": "Mtaylor848 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Batley West Yorkshire"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Cerros_de_Mavecure_%28Guain%C3%ADa%2C_Colombia%29.JPG/1920px-Cerros_de_Mavecure_%28Guain%C3%ADa%2C_Colombia%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cerros_de_Mavecure_(Guain%C3%ADa,_Colombia).JPG",
+  "credit": "Friedrich Kircher / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Inírida river Colombia"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%C3%81rbol_rio_in%C3%ADrida_Puerto_In%C3%ADrida_Guain%C3%ADa_Colombia_2018_17.jpg/1920px-%C3%81rbol_rio_in%C3%ADrida_Puerto_In%C3%ADrida_Guain%C3%ADa_Colombia_2018_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:%C3%81rbol_rio_in%C3%ADrida_Puerto_In%C3%ADrida_Guain%C3%ADa_Colombia_2018_17.jpg",
+  "credit": "Sierraluisfer / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Inírida river Colombia"
+ }
+}
