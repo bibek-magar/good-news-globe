@@ -37,7 +37,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/statin-drugs-may-protect-people-from-glaucoma/",
    "source_ig": "",
-   "image_query": "human eye iris"
+   "image_query": "human eye iris",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "archaeology",
@@ -51,7 +52,8 @@
    "source_name": "La Brújula Verde",
    "source_url": "https://www.labrujulaverde.com/en/2026/10/archaeologists-unearth-a-complete-roman-window-grille-nails-and-all-at-augusta-raurica-the-oldest-colony-on-the-rhine/",
    "source_ig": "",
-   "image_query": "Augusta Raurica"
+   "image_query": "Augusta Raurica",
+   "image": "img/s3b.jpg"
   },
   {
    "category": "space",
