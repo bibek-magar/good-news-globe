@@ -2,29 +2,15 @@
  "edition": "Morning",
  "date": "2026-10-13",
  "handle": "@good_newsglobe",
- "cover_hook": "Her lemonade stand has raised $5 million for kids",
- "cover_highlight": "$5 million",
- "cover_kicker": "It started with $768",
- "caption_hook": "🍋 A girl's lemonade stand grew into a $5 million charity for kids in hospital and in need + 3 more wins 👇",
+ "cover_hook": "3 new national parks now protect gliders",
+ "cover_highlight": "3 new national parks",
+ "cover_kicker": "First big ones in 15 years",
+ "caption_hook": "🌳 Australia just opened 3 new national parks, 250+ square miles of forest for gliders, owls and platypuses + 3 more wins 👇",
  "question": "Either/or: lemonade stand or long-lost sister, which story got you? 👇",
- "share_line": "Send this to a kid with a big idea",
- "reel_hook": "Her lemonade stand raised $5 million",
- "first_comment": "Bonus: in 2025, 100 lemonade stands across Indiana, Ohio and Kentucky raised $150,000 in just 3 hours. Would you buy a cup? 🍋",
+ "share_line": "Send this to the friend who loves wildlife",
+ "reel_hook": "3 new national parks to protect gliders",
+ "first_comment": "Bonus: locals began campaigning for these parks in 2010, and volunteers wrote the ecology reports that made the case. Would you visit? 🌳",
  "stories": [
-  {
-   "category": "kindness",
-   "place": "Cincinnati, USA",
-   "emoji": "🍋",
-   "stat": "$5M",
-   "stat_label": "in gifts for kids in need",
-   "headline": "A girl's lemonade stand has raised $5 million for kids",
-   "summary": "At 8, Payton Obert sold lemonade to buy toys for kids in hospital, like the teddy that helped her as a baby. She raised $768. 8 years on, her stands have sent $5 million in toys, food and clothes to kids.",
-   "why": "One small idea, repeated every summer, now helps kids across the country.",
-   "source_name": "Good News Network",
-   "source_url": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
-   "source_ig": "",
-   "image_query": "glass of lemonade"
-  },
   {
    "category": "nature",
    "place": "Victoria, Australia",
@@ -37,7 +23,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/australia-announces-3-new-national-parks-to-protect-gliders-owls-and-other-victoria-wildlife/",
    "source_ig": "",
-   "image_query": "Petauroides volans"
+   "image_query": "Petauroides volans",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "archaeology",
@@ -51,7 +38,8 @@
    "source_name": "PEOPLE",
    "source_url": "https://people.com/divers-investigate-2-300-year-old-shipwreck-and-find-ancient-sailors-belongings-still-preserved-12170496",
    "source_ig": "",
-   "image_query": "Komiža Vis island"
+   "image_query": "Komiža Vis island",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "quirky",
@@ -66,8 +54,22 @@
    "source_url": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
    "source_ig": "",
    "image_query": "softball field Montana"
+  },
+  {
+   "category": "kindness",
+   "place": "Cincinnati, USA",
+   "emoji": "🍋",
+   "stat": "$5M",
+   "stat_label": "in gifts for kids in need",
+   "headline": "A girl's lemonade stand has raised $5 million for kids",
+   "summary": "At 8, Payton Obert sold lemonade to buy toys for kids in hospital, like the teddy that helped her as a baby. She raised $768. 8 years on, her stands have sent $5 million in toys, food and clothes to kids.",
+   "why": "One small idea, repeated every summer, now helps kids across the country.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
+   "source_ig": "",
+   "image_query": "glass of lemonade"
   }
  ],
  "fun_fact": "Greater gliders can glide up to 100 m in one leap between trees.",
- "hashtags": "#goodnews #positivenews #goodnewsglobe #kindness #lemonadestand"
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #australia #wildlife"
 }
