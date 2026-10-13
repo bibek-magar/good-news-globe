@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-13",
+ "handle": "@good_newsglobe",
+ "cover_hook": "A 50,000-year-old woolly rhino skull, teeth intact",
+ "cover_highlight": "50,000-year-old",
+ "cover_kicker": "Pulled from a cave",
+ "caption_hook": "🦏 A 50,000-year-old woolly rhino skull, teeth still intact, pulled from an English cave is now on show + 3 more wins 👇",
+ "question": "Either/or: ice age rhino or the $146K surprise, which one got you? 👇",
+ "share_line": "Send this to the friend who loves fossils",
+ "reel_hook": "50,000-year-old woolly rhino skull on show",
+ "first_comment": "Bonus: woolly rhinos carried a blade-like front horn about a metre long, plus a shorter second horn. Would you want to meet one? 🦏",
+ "stories": [
+  {
+   "category": "archaeology",
+   "place": "Mendip Hills, England",
+   "emoji": "🦏",
+   "stat": "50,000",
+   "stat_label": "years old, teeth mostly intact",
+   "headline": "A 50,000-year-old woolly rhino skull is now on show",
+   "summary": "Dug out of Fairy Cave Quarry in Somerset in 2025 with other bones, the skull is now at the Wells and Mendip Museum. Experts think the rhino was about 40 when it fell into the crevice where it lay.",
+   "why": "Ice age bones show how wildlife coped with climate change, clues that help nature restoration today.",
+   "source_name": "BBC News",
+   "source_url": "https://www.bbc.co.uk/news/articles/cm040z6712dro",
+   "source_ig": "",
+   "image_query": "Coelodonta antiquitatis skull"
+  },
+  {
+   "category": "health",
+   "place": "Australia & UK",
+   "emoji": "🧠",
+   "stat": "30",
+   "stat_label": "people in an encouraging trial",
+   "headline": "A new drug eased early Parkinson's signs in a small trial",
+   "summary": "30 people with a sleep disorder that often comes before Parkinson's took SNT-4728. Compared with 11 on a placebo, their movement improved, and the gain still held 12 weeks after they stopped.",
+   "why": "About 10 million people live with Parkinson's, and no drug yet slows it.",
+   "source_name": "Positive News",
+   "source_url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+   "source_ig": "",
+   "image_query": "medical research laboratory"
+  },
+  {
+   "category": "space",
+   "place": "Perseus Cluster",
+   "emoji": "🕳️",
+   "stat": "300",
+   "stat_label": "days from meal to radio burp",
+   "headline": "A giant black hole 'burped' jets about 300 days after a meal",
+   "summary": "Using NASA's Swift and radio telescopes, astronomers watched the black hole in galaxy NGC 1275 flare in X-rays, then found tentative signs its radio jets brightened roughly 300 days later.",
+   "why": "It's a rare chance to time how a black hole feeds, then fires its jets.",
+   "source_name": "Space.com",
+   "source_url": "https://www.space.com/astronomy/black-holes/nasa-spacecraft-sees-supermassive-black-hole-gorge-on-a-cosmic-meal-before-burping-radio-jets-300-days-later",
+   "source_ig": "",
+   "image_query": "NGC 1275 Perseus"
+  },
+  {
+   "category": "kindness",
+   "place": "Maryville, Tennessee, USA",
+   "emoji": "🎬",
+   "stat": "$146K",
+   "stat_label": "raised so she can retire",
+   "headline": "A moviegoer raised $146,000 for a theater worker's retirement",
+   "summary": "Brooklyn Green, 21, saw an older woman with a bent back hauling trash at her cinema and started a GoFundMe. It raised over $100,000 in a day for Mary, who has worked in theaters for 45+ years.",
+   "why": "One stranger noticed, and the internet answered.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/elderly-theater-worker-surprised-with-146000-for-retirement-crowdfunded-by-young-moviegoer/",
+   "source_ig": "",
+   "image_query": "movie theater seats"
+  }
+ ],
+ "fun_fact": "Woolly rhinos were about the size of a modern white rhino.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #iceage #woollyrhino"
+}
