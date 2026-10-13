@@ -23,7 +23,8 @@
    "source_name": "BBC News",
    "source_url": "https://www.bbc.co.uk/news/articles/cm040z6712dro",
    "source_ig": "",
-   "image_query": "Coelodonta antiquitatis skull"
+   "image_query": "Coelodonta antiquitatis skull",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "health",
@@ -51,7 +52,8 @@
    "source_name": "Space.com",
    "source_url": "https://www.space.com/astronomy/black-holes/nasa-spacecraft-sees-supermassive-black-hole-gorge-on-a-cosmic-meal-before-burping-radio-jets-300-days-later",
    "source_ig": "",
-   "image_query": "NGC 1275 Perseus"
+   "image_query": "NGC 1275 Perseus",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "kindness",
@@ -65,7 +67,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/elderly-theater-worker-surprised-with-146000-for-retirement-crowdfunded-by-young-moviegoer/",
    "source_ig": "",
-   "image_query": "movie theater seats"
+   "image_query": "movie theater seats",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "Woolly rhinos were about the size of a modern white rhino.",
