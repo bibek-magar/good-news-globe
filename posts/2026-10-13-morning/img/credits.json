@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Gerard_ter_Borch_%28II%29_-_The_Glass_of_Lemonade_-_WGA22118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_(II)_-_The_Glass_of_Lemonade_-_WGA22118.jpg",
+  "credit": "Gerard ter Borch / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "glass of lemonade"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Gerard_Terborch_II_and_Workshop_-_A_Glass_Of_Lemonade_-_Walters_37341_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Gerard_Terborch_II_and_Workshop_-_A_Glass_Of_Lemonade_-_Walters_37341_(2).jpg",
+  "credit": "Gerard ter Borch / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "glass of lemonade"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Greater_Glider_%28Petauroides_volans%29_in_a_Eucalypt.jpg/1920px-Greater_Glider_%28Petauroides_volans%29_in_a_Eucalypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Greater_Glider_(Petauroides_volans)_in_a_Eucalypt.jpg",
+  "credit": "Samrhorton / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Petauroides volans"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Petauroides_volans_437352882.jpg/1920px-Petauroides_volans_437352882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Petauroides_volans_437352882.jpg",
+  "credit": "Scott Warner / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Petauroides volans"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Komi%C5%BEa_Island_Vis.jpg/1920px-Komi%C5%BEa_Island_Vis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Komi%C5%BEa_Island_Vis.jpg",
+  "credit": "ModriDirkac / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Komiža Vis island"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Komi%C5%BEa_%28Vis_Island%29_in_Croatia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Komi%C5%BEa_(Vis_Island)_in_Croatia.JPG",
+  "credit": "August Dominus / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Komiža Vis island"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alabama_Crimson_Tide_softball.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Alabama_Crimson_Tide_softball.png",
+  "credit": "The University of Alabama / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "softball field Montana"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tedesco_Field%2C_Miles_City_%283987226237%29.jpg/1920px-Tedesco_Field%2C_Miles_City_%283987226237%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Tedesco_Field,_Miles_City_(3987226237).jpg",
+  "credit": "David Schott from Redmond, Washington, USA / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "softball field Montana"
+ }
+}
