@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-12 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-13 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-05: 2 → 10-06: 2 → 10-07: 2 → 10-08: 2 → 10-09: 2 → 10-10: 2 → 10-11: 2 → 10-12: 2
+10-06: 2 → 10-07: 2 → 10-08: 2 → 10-09: 2 → 10-10: 2 → 10-11: 2 → 10-12: 2 → 10-13: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -21,26 +21,26 @@ _Updated 2026-10-12 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 | 2026-10-05 | evening | A 1-in-100-million ghost lobster went to college | 2 | 0 | 0 | 0 | 50.0 |
 
 ## This week vs before
-- Last 7 days: 4 carousels, avg reach 2, avg score 75.0
-- Earlier: avg reach 2.6, avg score 125.0
+- Last 7 days: 3 carousels, avg reach 1.7, avg score 83.3
+- Earlier: avg reach 2.5, avg score 117.3
 
 ## By slot (Nepal time)
 - morning: 2 posts, avg reach 2, avg score 125.0
 - midday: 6 posts, avg reach 3, avg score 104.2
-- evening: 7 posts, avg reach 2.1, avg score 114.3
+- evening: 8 posts, avg reach 2, avg score 112.5
 
 ## Categories
-Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), space 100.0 (1), archaeology 100.0 (1), nature 96.4 (7)
-Any position → avg score: science 125.0, quirky 123.6, space 119.4, invention 116.7, nature 115.9, archaeology 114.6, energy 100.0, health 96.7, kindness 83.3
+Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), space 100.0 (1), archaeology 100.0 (1), nature 96.9 (8)
+Any position → avg score: science 125.0, quirky 120.2, space 119.4, invention 116.7, nature 114.6, archaeology 113.5, energy 100.0, health 96.7, kindness 87.5
 
 ## Best Reels
 | date | slot | hook | reach | shares | saves | comments | score | avg watch (ms) |
 |---|---|---|---|---|---|---|---|---|
 | 2026-10-02 | midday | Moth swarms are back after a 99.5% crash | 114 | 0 | 0 | 0 | 2.63 | 4770 |
+| 2026-10-12 | evening | 8 orangutans rescued from fires are free again | 112 | 0 | 0 | 0 | 1.79 | 1759 |
 | 2026-10-09 | evening | 54 lava fountains in under 2 years | 104 | 0 | 0 | 0 | 1.92 | 1988 |
 | 2026-10-02 | midday | A 'lost' bird was filmed for the 1st time ever | 104 | 0 | 0 | 0 | 2.88 | 4705 |
 | 2026-10-02 | evening | Tiny cave crocs filmed hunting bats for the 1st time | 101 | 0 | 0 | 0 | 0.99 | 3603 |
-| 2026-10-03 | midday | These lemurs sing using an opera singer's trick | 76 | 0 | 0 | 0 | 0.0 | 2267 |
 
 ## How the scheduled runs should use this
 - Lead with the cover patterns and categories that score highest; drop the patterns in the weakest list.
