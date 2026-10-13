@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-13",
+ "handle": "@good_newsglobe",
+ "cover_hook": "500+ thumb-sized mice returned to the wild",
+ "cover_highlight": "500+",
+ "cover_kicker": "Once thought extinct",
+ "caption_hook": "🐭 North America's tiniest mammal was thought extinct. Now 500+ Pacific pocket mice are back in the wild + 3 more wins 👇",
+ "question": "Pick a number 1-4: which win would you share first? 👇",
+ "share_line": "Send this to the friend who loves tiny animals",
+ "reel_hook": "500+ thumb-sized mice returned to the wild",
+ "first_comment": "Bonus: a Pacific pocket mouse weighs about as much as three pennies. Would you have guessed that light? 🐭",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "California, USA",
+   "emoji": "🐭",
+   "stat": "500+",
+   "stat_label": "tiny mice released since 2006",
+   "headline": "A mouse once thought extinct now has 3 new wild colonies",
+   "summary": "Pacific pocket mice, North America's smallest mammal, were thought extinct until 1993. San Diego Zoo has released 500+ since 2006, and a third new colony on a Marine Corps base is already breeding.",
+   "why": "A species we nearly lost is spreading out again, one thumb-sized mouse at a time.",
+   "source_name": "Popular Science",
+   "source_url": "https://www.popsci.com/environment/pacific-pocket-mice-california/",
+   "source_ig": "",
+   "image_query": "Perognathus longimembris pacificus"
+  },
+  {
+   "category": "health",
+   "place": "San Diego, USA",
+   "emoji": "👁️",
+   "stat": "36%",
+   "stat_label": "lower risk of glaucoma surgery",
+   "headline": "Common heart pills may help save sight from glaucoma",
+   "summary": "In a study of 420,000 people, glaucoma patients taking statins were 36% less likely to need incisional surgery within 5 years, and 55% less likely to need keyhole surgery, than those who didn't.",
+   "why": "A cheap, widely used pill could help slow a leading cause of blindness.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/statin-drugs-may-protect-people-from-glaucoma/",
+   "source_ig": "",
+   "image_query": "human eye iris"
+  },
+  {
+   "category": "archaeology",
+   "place": "Augusta Raurica, Switzerland",
+   "emoji": "🏛️",
+   "stat": "1.7 m",
+   "stat_label": "underground, still in one piece",
+   "headline": "A complete Roman window grille turned up, nails and all",
+   "summary": "At Augusta Raurica near Basel, diggers found an iron grille with five bars and two of its original nails still in place. Roman windows almost never survive whole, since wood rots and iron rusts.",
+   "why": "It shows how Romans secured their windows, a detail history almost always loses.",
+   "source_name": "La Brújula Verde",
+   "source_url": "https://www.labrujulaverde.com/en/2026/10/archaeologists-unearth-a-complete-roman-window-grille-nails-and-all-at-augusta-raurica-the-oldest-colony-on-the-rhine/",
+   "source_ig": "",
+   "image_query": "Augusta Raurica"
+  },
+  {
+   "category": "space",
+   "place": "Deep space",
+   "emoji": "🙂",
+   "stat": "",
+   "stat_label": "",
+   "headline": "Hubble spotted a smiley face made of galaxies",
+   "summary": "In a new Hubble image, two orange galaxies form the eyes and a white galaxy forms the nose and smile. The round face comes from gravitational lensing, where a cluster's mass bends light into an arc.",
+   "why": "Einstein's bent spacetime, drawn as a cosmic grin.",
+   "source_name": "FOX Weather",
+   "source_url": "https://www.foxweather.com/earth-space/cluster-orange-white-galaxies-form-smiley-face-deep-universe-captured-hubble-space-telescope",
+   "source_ig": "",
+   "image_query": "Hubble galaxy cluster lensing"
+  }
+ ],
+ "fun_fact": "A Pacific pocket mouse is about as long as a human thumb.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #wildlife #conservation"
+}
