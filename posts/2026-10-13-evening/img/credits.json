@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Coelodonta_antiquitatis_Crane.jpg/1920px-Coelodonta_antiquitatis_Crane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Coelodonta_antiquitatis_Crane.jpg",
+  "credit": "Unknown / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Coelodonta antiquitatis skull"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Coelodonta_antiquitatis%2C_skull%2C_teeth.JPG/1920px-Coelodonta_antiquitatis%2C_skull%2C_teeth.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Coelodonta_antiquitatis,_skull,_teeth.JPG",
+  "credit": "HTO / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Coelodonta antiquitatis skull"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Medical_Research_Council%2C_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3018493.jpg/1920px-Medical_Research_Council%2C_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3018493.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Medical_Research_Council,_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3018493.jpg",
+  "credit": "David P Howard / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "medical research laboratory"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Medical_Research_Council%2C_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3016826.jpg/1920px-Medical_Research_Council%2C_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3016826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Medical_Research_Council,_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3016826.jpg",
+  "credit": "David P Howard / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "medical research laboratory"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/NGC_1275_Hubble.jpg/1920px-NGC_1275_Hubble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:NGC_1275_Hubble.jpg",
+  "credit": "NASA, ESA, and the Hubble Heritage (STScI/AURA)-ESA/Hubble C / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "NGC 1275 Perseus"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/NGC_1275_Perseus_A_AGN_2024-12-30_J87.png/1920px-NGC_1275_Perseus_A_AGN_2024-12-30_J87.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:NGC_1275_Perseus_A_AGN_2024-12-30_J87.png",
+  "credit": "Juan Lacruz / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "NGC 1275 Perseus"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Luxury_Movie_Theater_Seats.jpg/1920px-Luxury_Movie_Theater_Seats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Luxury_Movie_Theater_Seats.jpg",
+  "credit": "Author0612 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "movie theater seats"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Movie_Theater_Seats_%2854279616727%29.jpg/1920px-Movie_Theater_Seats_%2854279616727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Movie_Theater_Seats_(54279616727).jpg",
+  "credit": "Eden, Janine and Jim from New York City / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "movie theater seats"
+ }
+}
