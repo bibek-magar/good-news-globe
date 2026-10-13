@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Photographs_of_%22Bobbity%22%2C_a_Perognathus_pacificus_%28pocket_mouse%29_-_cropped.jpg/1920px-Photographs_of_%22Bobbity%22%2C_a_Perognathus_pacificus_%28pocket_mouse%29_-_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Photographs_of_%22Bobbity%22,_a_Perognathus_pacificus_(pocket_mouse)_-_cropped.jpg",
+  "credit": "Vernon Orlando Bailey / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Perognathus longimembris pacificus"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Photographs_of_%22Bobbity%22%2C_a_Perognathus_pacificus_%28pocket_mouse%29.jpg/1920px-Photographs_of_%22Bobbity%22%2C_a_Perognathus_pacificus_%28pocket_mouse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Photographs_of_%22Bobbity%22,_a_Perognathus_pacificus_(pocket_mouse).jpg",
+  "credit": "Smithsonian Institution / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Perognathus longimembris pacificus"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Eye_iris.jpg/1920px-Eye_iris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Eye_iris.jpg",
+  "credit": "che (Please credit as \"Petr Novák, Wikipedia\" in case you us / Wikimedia Commons, CC BY-SA 2.5",
+  "license": "CC BY-SA 2.5",
+  "query": "human eye iris"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Human_eye_in_dim_light.jpg/1920px-Human_eye_in_dim_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_eye_in_dim_light.jpg",
+  "credit": "Rapidreflex / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "human eye iris"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Augusta_Raurica_-_Pratteln_%28CH%29_-_Amphiteatro.JPG/1920px-Augusta_Raurica_-_Pratteln_%28CH%29_-_Amphiteatro.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Augusta_Raurica_-_Pratteln_(CH)_-_Amphiteatro.JPG",
+  "credit": "Guido Radig / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Augusta Raurica"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Augusta_Raurica%2C_Switzerland_%289226985356%29.jpg/1920px-Augusta_Raurica%2C_Switzerland_%289226985356%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Augusta_Raurica,_Switzerland_(9226985356).jpg",
+  "credit": "Carole Raddato from FRANKFURT, Germany / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Augusta Raurica"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Gravitational_lensing_in_the_galaxy_cluster_Abell_370_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1920px-Gravitational_lensing_in_the_galaxy_cluster_Abell_370_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Gravitational_lensing_in_the_galaxy_cluster_Abell_370_(captured_by_the_Hubble_Space_Telescope).jpg",
+  "credit": "NASA, ESA, the Hubble SM4 ERO Team and ST-ECF / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Hubble galaxy cluster lensing"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lensed_Galaxy_Arc_in_Galaxy_Cluster_RCS2_032727-132623.jpg/1920px-Lensed_Galaxy_Arc_in_Galaxy_Cluster_RCS2_032727-132623.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lensed_Galaxy_Arc_in_Galaxy_Cluster_RCS2_032727-132623.jpg",
+  "credit": "NASA Hubble / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Hubble galaxy cluster lensing"
+ }
+}
