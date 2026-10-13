@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-13",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Her lemonade stand has raised $5 million for kids",
+ "cover_highlight": "$5 million",
+ "cover_kicker": "It started with $768",
+ "caption_hook": "🍋 A girl's lemonade stand grew into a $5 million charity for kids in hospital and in need + 3 more wins 👇",
+ "question": "Either/or: lemonade stand or long-lost sister, which story got you? 👇",
+ "share_line": "Send this to a kid with a big idea",
+ "reel_hook": "Her lemonade stand raised $5 million",
+ "first_comment": "Bonus: in 2025, 100 lemonade stands across Indiana, Ohio and Kentucky raised $150,000 in just 3 hours. Would you buy a cup? 🍋",
+ "stories": [
+  {
+   "category": "kindness",
+   "place": "Cincinnati, USA",
+   "emoji": "🍋",
+   "stat": "$5M",
+   "stat_label": "in gifts for kids in need",
+   "headline": "A girl's lemonade stand has raised $5 million for kids",
+   "summary": "At 8, Payton Obert sold lemonade to buy toys for kids in hospital, like the teddy that helped her as a baby. She raised $768. 8 years on, her stands have sent $5 million in toys, food and clothes to kids.",
+   "why": "One small idea, repeated every summer, now helps kids across the country.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
+   "source_ig": "",
+   "image_query": "glass of lemonade"
+  },
+  {
+   "category": "nature",
+   "place": "Victoria, Australia",
+   "emoji": "🌳",
+   "stat": "250+",
+   "stat_label": "square miles of forest protected",
+   "headline": "3 new national parks now protect gliders, owls and platypuses",
+   "summary": "More than 250 square miles of forest in central Victoria became Mount Buangor, Pyrenees and Wombat-Lerderderg national parks, the state's first big new parks in 15 years, after a campaign that began in 2010.",
+   "why": "Greater gliders, powerful owls and rare plants keep their forest home for good.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/australia-announces-3-new-national-parks-to-protect-gliders-owls-and-other-victoria-wildlife/",
+   "source_ig": "",
+   "image_query": "Petauroides volans"
+  },
+  {
+   "category": "archaeology",
+   "place": "Vis, Croatia",
+   "emoji": "🏺",
+   "stat": "2,300",
+   "stat_label": "years under the Adriatic",
+   "headline": "A 2,300-year-old shipwreck still holds its sailors' cups",
+   "summary": "Off the Croatian island of Vis, divers found part of the hull, coins and rare Greek drinking cups and plates. Some vessels bear scratched markings that may name the sailors who owned them.",
+   "why": "Personal items bring ancient sailors back to life as real people.",
+   "source_name": "PEOPLE",
+   "source_url": "https://people.com/divers-investigate-2-300-year-old-shipwreck-and-find-ancient-sailors-belongings-still-preserved-12170496",
+   "source_ig": "",
+   "image_query": "Komiža Vis island"
+  },
+  {
+   "category": "quirky",
+   "place": "Montana, USA",
+   "emoji": "🥎",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A softball player found her long-lost sister on the other team",
+   "summary": "Adopted as a baby, Samantha Rensvold was told a rival player looked just like her. The name on the roster matched her birth sister's, and both moms confirmed the same birth mother and hospital.",
+   "why": "They even played volleyball in the same position, wearing the same number.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
+   "source_ig": "",
+   "image_query": "softball field Montana"
+  }
+ ],
+ "fun_fact": "Greater gliders can glide up to 100 m in one leap between trees.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #kindness #lemonadestand"
+}
