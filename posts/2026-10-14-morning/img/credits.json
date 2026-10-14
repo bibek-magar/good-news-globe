@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Dinosaur_Isle_and_the_former_boating_lake%2C_Sandown_-_geograph.org.uk_-_5492728.jpg/1920px-Dinosaur_Isle_and_the_former_boating_lake%2C_Sandown_-_geograph.org.uk_-_5492728.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Dinosaur_Isle_and_the_former_boating_lake,_Sandown_-_geograph.org.uk_-_5492728.jpg",
+  "credit": "Paul Coueslant / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Isle of Wight dinosaur coast"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Here_Be_Dinosaurs%5E_-_geograph.org.uk_-_5164164.jpg/1920px-Here_Be_Dinosaurs%5E_-_geograph.org.uk_-_5164164.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Here_Be_Dinosaurs%5E_-_geograph.org.uk_-_5164164.jpg",
+  "credit": "Dr Duncan Pepper / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Isle of Wight dinosaur coast"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Arhbalou_High_Atlas_Al_Haouz_Morocco_Oct25_A7CR_08381.jpg/1920px-Arhbalou_High_Atlas_Al_Haouz_Morocco_Oct25_A7CR_08381.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Arhbalou_High_Atlas_Al_Haouz_Morocco_Oct25_A7CR_08381.jpg",
+  "credit": "This Photo was taken by Timothy A. Gonsalves.  Feel free to  / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Atlas Mountains Morocco"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Djebel_Ayachi%2C_Eastern_High_Atlas%2C_Morocco.jpg/1920px-Djebel_Ayachi%2C_Eastern_High_Atlas%2C_Morocco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Djebel_Ayachi,_Eastern_High_Atlas,_Morocco.jpg",
+  "credit": "Mounir Neddi / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Atlas Mountains Morocco"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg/1920px-Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg",
+  "credit": "CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Yunnan forest"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Guizhou_%26_Yunnan_Subtropical_Forest_Plateaus_Bioregion.png/1920px-Guizhou_%26_Yunnan_Subtropical_Forest_Plateaus_Bioregion.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Guizhou_%26_Yunnan_Subtropical_Forest_Plateaus_Bioregion.png",
+  "credit": "Z3lvs / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Yunnan forest"
+ }
+}
