@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-14",
+ "handle": "@good_newsglobe",
+ "cover_hook": "A once-in-a-decade photo: a jaguar crossing borders",
+ "cover_highlight": "once-in-a-decade",
+ "cover_kicker": "Guatemala to Honduras",
+ "caption_hook": "🐆 Camera traps caught a wild jaguar using the forest corridor between Guatemala and Honduras, a once-a-decade sight + 3 more wins 👇",
+ "question": "Pick a number 1-4: which win would you share first? 👇",
+ "share_line": "Send this to the friend who loves big cats",
+ "reel_hook": "A once-in-a-decade jaguar photo",
+ "first_comment": "Bonus: this same forest corridor is also the water source for more than 200,000 people. Protect the cats, protect the water 🐆",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Guatemala & Honduras",
+   "emoji": "🐆",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A rare jaguar was photographed crossing a vital forest corridor",
+   "summary": "Panthera's camera traps caught a male jaguar in the corridor linking Guatemala and Honduras. Experts call photos like this a once-a-decade treat, proof big cats still use the route.",
+   "why": "Linked forests keep jaguar groups from becoming isolated and inbred.",
+   "source_name": "PEOPLE",
+   "source_url": "https://people.com/rare-photos-show-male-jaguar-in-guatemala-wildlife-corridor-12160157",
+   "source_ig": "",
+   "image_query": "Panthera onca"
+  },
+  {
+   "category": "archaeology",
+   "place": "Helfta, Germany",
+   "emoji": "🏰",
+   "stat": "1,000+",
+   "stat_label": "years old, with its staircase intact",
+   "headline": "A 10th-century building turned up at Otto the Great's palace",
+   "summary": "Beside the royal palace at Helfta, diggers found a stone building with a cellar and a well-preserved staircase. Other finds include silver coins and an almost playable bone flute.",
+   "why": "Bit by bit, a lost emperor's palace is coming back to light.",
+   "source_name": "HeritageDaily",
+   "source_url": "https://www.heritagedaily.com/2026/10/archaeologists-uncover-new-buildings-at-lost-royal-palace-of-otto-the-great/159554",
+   "source_ig": "",
+   "image_query": "Helfta Eisleben"
+  },
+  {
+   "category": "kindness",
+   "place": "Cape Town, South Africa",
+   "emoji": "🧶",
+   "stat": "567",
+   "stat_label": "handmade dolls for kids in need",
+   "headline": "10 women, most over 70, knitted 567 dolls for children in need",
+   "summary": "Meeting monthly in Cape Town, the group knitted 567 IZZY Dolls with their own wool. 11 groups, including a cancer charity helping kids in chemo, will hand them out.",
+   "why": "A small doll to hold can comfort a frightened child.",
+   "source_name": "IOL",
+   "source_url": "https://iol.co.za/lifestyle/2026-10-14-567-handmade-dolls-10-women-and-one-powerful-act-of-kindness/",
+   "source_ig": "",
+   "image_query": "knitted dolls"
+  },
+  {
+   "category": "space",
+   "place": "Deep space",
+   "emoji": "📡",
+   "stat": "10B+",
+   "stat_label": "years travelling to reach Earth",
+   "headline": "The most distant radio flash ever traced was found with Webb",
+   "summary": "South Africa's MeerKAT caught a radio flash lasting milliseconds. A University of Sydney-led team used Webb to trace it to a tiny galaxy from when the universe was ~3 billion years old.",
+   "why": "It more than doubles the old record, opening a new window on the early universe.",
+   "source_name": "Mashable",
+   "source_url": "https://mashable.com/science/james-webb-space-telescope-most-distant-fast-radio-burst-confirmed",
+   "source_ig": "",
+   "image_query": "MeerKAT radio telescope"
+  }
+ ],
+ "fun_fact": "Jaguars are the largest cats in the Americas, living in 18 countries.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #jaguar #wildlife"
+}
