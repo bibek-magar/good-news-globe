@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Jaguar_%28Panthera_onca_palustris%29_male_Rio_Negro_2.JPG/1920px-Jaguar_%28Panthera_onca_palustris%29_male_Rio_Negro_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Rio_Negro_2.JPG",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Panthera onca"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg/1920px-Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River_2.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Panthera onca"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Eisleben-Helfta%2C_Provinzstein.jpg/1920px-Eisleben-Helfta%2C_Provinzstein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Eisleben-Helfta,_Provinzstein.jpg",
+  "credit": "Manfred Schröter, Berga / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Helfta Eisleben"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Klimadiagramm-deutsch-Eisleben-Helfta_%28ST%29-Deutschland.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Klimadiagramm-deutsch-Eisleben-Helfta_(ST)-Deutschland.png",
+  "credit": "Hedwig in Washington / Wikimedia Commons, CC BY 2.5",
+  "license": "CC BY 2.5",
+  "query": "Helfta Eisleben"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Jane_Iverson%2C_Knitted_Doll%2C_1935-1942%2C_NGA_27695.jpg/1920px-Jane_Iverson%2C_Knitted_Doll%2C_1935-1942%2C_NGA_27695.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jane_Iverson,_Knitted_Doll,_1935-1942,_NGA_27695.jpg",
+  "credit": "Jane Iverson / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "knitted dolls"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Jane_Iverson%2C_Knitted_Doll%2C_c._1936%2C_NGA_27698.jpg/1920px-Jane_Iverson%2C_Knitted_Doll%2C_c._1936%2C_NGA_27698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jane_Iverson,_Knitted_Doll,_c._1936,_NGA_27698.jpg",
+  "credit": "Jane Iverson / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "knitted dolls"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2018-MeerKAT-4.png/1920px-2018-MeerKAT-4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2018-MeerKAT-4.png",
+  "credit": "Square Kilometre Array Organisation (SKAO) / South African R / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "MeerKAT radio telescope"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2018-MeerKAT-6.png/1920px-2018-MeerKAT-6.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2018-MeerKAT-6.png",
+  "credit": "Square Kilometre Array Organisation (SKAO) / South African R / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "MeerKAT radio telescope"
+ }
+}
