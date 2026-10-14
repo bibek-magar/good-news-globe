@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-14",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Overlooked for 100 years, it was a new dinosaur",
+ "cover_highlight": "100 years",
+ "cover_kicker": "Europe's 1st megaraptor",
+ "caption_hook": "🦖 A dinosaur skull sat in a museum drawer for ~100 years. It's a new species, and Europe's 1st megaraptor + 3 more wins 👇",
+ "question": "Drop a 🦖 if you'd visit the Isle of Wight to hunt fossils",
+ "share_line": "Send this to the friend who loves dinosaurs",
+ "reel_hook": "Overlooked for 100 years: a new dinosaur",
+ "first_comment": "Bonus: its name, Invictibellatrix, means 'unconquered female warrior', chosen to give hope to anyone who is bullied. Love it? 🦖",
+ "stories": [
+  {
+   "category": "archaeology",
+   "place": "Isle of Wight, UK",
+   "emoji": "🦖",
+   "stat": "1924",
+   "stat_label": "when the museum got the skull",
+   "headline": "A skull in a museum drawer since 1924 is a new dinosaur",
+   "summary": "Invictibellatrix amberina, a 3-4 m hunter with claws up to 20 cm, lived 120 million years ago. It is the first megaraptor, a T. rex relative, ever found in Europe.",
+   "why": "Old museum drawers are still full of brand-new discoveries.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html",
+   "source_ig": "",
+   "image_query": "Isle of Wight dinosaur coast"
+  },
+  {
+   "category": "energy",
+   "place": "South Korea",
+   "emoji": "☀️",
+   "stat": "436",
+   "stat_label": "villages that will share solar income",
+   "headline": "436 Korean villages will share income from their own solar",
+   "summary": "Residents co-own local solar projects and split the revenue, which pays for higher incomes, welfare and community projects. One region alone now has 125 villages signed up.",
+   "why": "Clean power that pays villagers directly, not just power companies.",
+   "source_name": "Seoul Economic Daily",
+   "source_url": "https://en.sedaily.com/society/2026/10/13/jeonnam-gwangju-picks-125-solar-income-villages-most-in",
+   "source_ig": "",
+   "image_query": "solar panels Korea village"
+  },
+  {
+   "category": "science",
+   "place": "Atlas Mountains, Morocco",
+   "emoji": "🐊",
+   "stat": "170M",
+   "stat_label": "years old, a new croc relative",
+   "headline": "A 170-million-year-old croc relative had needle-thin teeth",
+   "summary": "Fossils from Morocco's Atlas Mountains revealed Ctenosuchus tenuidens, a long-snouted reptile whose unusually thin teeth suggest it hunted shrimp and small fish.",
+   "why": "Morocco's rocks keep revealing new branches of the croc family tree.",
+   "source_name": "BBC News",
+   "source_url": "https://www.bbc.co.uk/news/articles/c6vg0px1dkmmo",
+   "source_ig": "",
+   "image_query": "Atlas Mountains Morocco"
+  },
+  {
+   "category": "nature",
+   "place": "Yunnan, China",
+   "emoji": "🍄",
+   "stat": "50 cm",
+   "stat_label": "tall, a record for its fungus group",
+   "headline": "Meet 'D-rex', a giant new fungus that stands 50 cm tall",
+   "summary": "Found on oak roots in Yunnan's forests, Dianjunus rex weighs up to 2.2 kg, the biggest in its group of 64,000+ species. Its family line began about 65 million years ago.",
+   "why": "Even giants can hide in plain sight in the world's forests.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html",
+   "source_ig": "",
+   "image_query": "Yunnan forest"
+  }
+ ],
+ "fun_fact": "D-rex's family arose about 1 million years after the asteroid that ended the dinosaurs.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #dinosaur #fossil"
+}
