@@ -23,7 +23,8 @@
    "source_name": "The Guardian",
    "source_url": "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull",
    "source_ig": "",
-   "image_query": "Karl Bushby"
+   "image_query": "Karl Bushby",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "science",
@@ -65,7 +66,8 @@
    "source_name": "Nature Conservation Council of NSW",
    "source_url": "https://www.nature.org.au/great_koala_national_park_legislation_historic_victory_for_nature_nsw",
    "source_ig": "",
-   "image_query": "Phascolarctos cinereus"
+   "image_query": "Phascolarctos cinereus",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "Bushby set out in 1998 with about $500 and no sponsors.",
