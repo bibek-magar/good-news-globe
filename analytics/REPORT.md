@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-13 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-14 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-06: 2 → 10-07: 2 → 10-08: 2 → 10-09: 2 → 10-10: 2 → 10-11: 2 → 10-12: 2 → 10-13: 2
+10-07: 2 → 10-08: 2 → 10-09: 2 → 10-10: 2 → 10-11: 2 → 10-12: 2 → 10-13: 2 → 10-14: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
