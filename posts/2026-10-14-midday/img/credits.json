@@ -1,0 +1,51 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Karl_Bshby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Karl_Bshby.jpg",
+  "credit": "NapoleoqqBonaparte / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Karl Bushby"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Altamira_Ambre_MHNT.PRE.2012.0.615.jpg/1920px-Altamira_Ambre_MHNT.PRE.2012.0.615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Altamira_Ambre_MHNT.PRE.2012.0.615.jpg",
+  "credit": "Didier Descouens / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Altamira cave paintings"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Altamira_Ocre_MHNT.PRE.2012.0.611.jpg/1920px-Altamira_Ocre_MHNT.PRE.2012.0.611.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Altamira_Ocre_MHNT.PRE.2012.0.611.jpg",
+  "credit": "Didier Descouens / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Altamira cave paintings"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/DUSAFO_planting_trees.jpg/1920px-DUSAFO_planting_trees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:DUSAFO_planting_trees.jpg",
+  "credit": "Christian Anold Mosha / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "volunteers planting trees"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Walmart_volunteers_planting_trees_-_DPLA_-_072cbd0ae599f5a9edb4433beb047c76.jpg/1920px-Walmart_volunteers_planting_trees_-_DPLA_-_072cbd0ae599f5a9edb4433beb047c76.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Walmart_volunteers_planting_trees_-_DPLA_-_072cbd0ae599f5a9edb4433beb047c76.jpg",
+  "credit": "Department of the Interior. U.S. Fish and Wildlife Service.  / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "volunteers planting trees"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Koala_in_Zoo_Duisburg.jpg/1920px-Koala_in_Zoo_Duisburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Koala_in_Zoo_Duisburg.jpg",
+  "credit": "Till Niermann / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Phascolarctos cinereus"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Koala_climbing_tree.jpg",
+  "credit": "Diliff / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Phascolarctos cinereus"
+ }
+}
