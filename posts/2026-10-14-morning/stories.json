@@ -23,7 +23,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html",
    "source_ig": "",
-   "image_query": "Isle of Wight dinosaur coast"
+   "image_query": "Isle of Wight dinosaur coast",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "energy",
@@ -51,7 +52,8 @@
    "source_name": "BBC News",
    "source_url": "https://www.bbc.co.uk/news/articles/c6vg0px1dkmmo",
    "source_ig": "",
-   "image_query": "Atlas Mountains Morocco"
+   "image_query": "Atlas Mountains Morocco",
+   "image": "img/s3b.jpg"
   },
   {
    "category": "nature",
