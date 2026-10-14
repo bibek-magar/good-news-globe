@@ -23,7 +23,8 @@
    "source_name": "PEOPLE",
    "source_url": "https://people.com/rare-photos-show-male-jaguar-in-guatemala-wildlife-corridor-12160157",
    "source_ig": "",
-   "image_query": "Panthera onca"
+   "image_query": "Panthera onca",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "archaeology",
@@ -65,7 +66,8 @@
    "source_name": "Mashable",
    "source_url": "https://mashable.com/science/james-webb-space-telescope-most-distant-fast-radio-burst-confirmed",
    "source_ig": "",
-   "image_query": "MeerKAT radio telescope"
+   "image_query": "MeerKAT radio telescope",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "Jaguars are the largest cats in the Americas, living in 18 countries.",
