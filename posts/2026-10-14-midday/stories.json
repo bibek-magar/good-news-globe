@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-14",
+ "handle": "@good_newsglobe",
+ "cover_hook": "28 years walking home, he's back in Britain",
+ "cover_highlight": "28 years",
+ "cover_kicker": "30,000+ miles on foot",
+ "caption_hook": "🚶 After 28 years and 30,000+ miles on foot from Chile, Karl Bushby is back in Britain, almost home + 3 more wins 👇",
+ "question": "Pick a number 1-4: which win made you smile most? 👇",
+ "share_line": "Send this to the friend who never gives up",
+ "reel_hook": "28 years walking home, he's back in Britain",
+ "first_comment": "Bonus: his mum told the BBC she has kept buying him a Christmas present every year he's been away. Would you have waited? 🎁",
+ "stories": [
+  {
+   "category": "quirky",
+   "place": "Dover, UK",
+   "emoji": "🚶",
+   "stat": "28",
+   "stat_label": "years walking home from Chile",
+   "headline": "After 28 years walking home, Karl Bushby is back in Britain",
+   "summary": "He left Chile in 1998 vowing never to use transport. He crossed the frozen Bering Strait on foot, swam the Caspian Sea and the English Channel, and now has about 250 miles left to Hull.",
+   "why": "A promise kept, one step at a time, across 29 countries.",
+   "source_name": "The Guardian",
+   "source_url": "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull",
+   "source_ig": "",
+   "image_query": "Karl Bushby"
+  },
+  {
+   "category": "science",
+   "place": "Spain & Portugal",
+   "emoji": "🧬",
+   "stat": "4,000+",
+   "stat_label": "years old, DNA from a cave wall",
+   "headline": "Ancient human DNA was found on cave walls for the 1st time",
+   "summary": "Testing 24 rock art panels in 11 caves, scientists found ancient human DNA in 5 wall samples. At Portugal's Escoural cave, sealed until 1963, it is at least 4,000 to 5,000 years old.",
+   "why": "Cave walls could reveal who touched them, and maybe who made the art.",
+   "source_name": "Discover Magazine",
+   "source_url": "https://www.discovermagazine.com/ancient-human-dna-on-cave-walls-could-reveal-who-touched-these-sites-and-their-art-49289",
+   "source_ig": "",
+   "image_query": "Altamira cave paintings"
+  },
+  {
+   "category": "kindness",
+   "place": "New York, USA",
+   "emoji": "🎤",
+   "stat": "180K",
+   "stat_label": "fans signed up to volunteer",
+   "headline": "180,000 fans signed up to volunteer for concert tickets",
+   "summary": "Harry Styles fans can earn tickets by volunteering through EARNT. In under 48 hours, 180,000 signed up, and in New York they've served food, helped seniors and planted trees.",
+   "why": "Fandom turned into real help for neighbours, with up to a million hours pledged.",
+   "source_name": "PEOPLE",
+   "source_url": "https://people.com/harry-styles-fans-are-turning-volunteering-into-concert-memories-it-felt-so-much-more-meaningful-exclusive-12164887",
+   "source_ig": "",
+   "image_query": "volunteers planting trees"
+  },
+  {
+   "category": "nature",
+   "place": "New South Wales, Australia",
+   "emoji": "🐨",
+   "stat": "12,000",
+   "stat_label": "koalas in the planned park",
+   "headline": "A 178,000-hectare park for 12,000 koalas heads into law",
+   "summary": "NSW has introduced the bill to create the Great Koala National Park, after 10+ years of campaigning. It protects habitat for about 12,000 koalas, 36,000 gliders and 100+ threatened species.",
+   "why": "One of the biggest new national parks in NSW, built to keep koalas off the extinction path.",
+   "source_name": "Nature Conservation Council of NSW",
+   "source_url": "https://www.nature.org.au/great_koala_national_park_legislation_historic_victory_for_nature_nsw",
+   "source_ig": "",
+   "image_query": "Phascolarctos cinereus"
+  }
+ ],
+ "fun_fact": "Bushby set out in 1998 with about $500 and no sponsors.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #adventure #koala"
+}
