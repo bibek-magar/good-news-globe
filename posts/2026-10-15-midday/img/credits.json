@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Brown_Bluff-2016-Tabarin_Peninsula%E2%80%93Gentoo_penguin_%28Pygoscelis_papua%29_03.jpg/1920px-Brown_Bluff-2016-Tabarin_Peninsula%E2%80%93Gentoo_penguin_%28Pygoscelis_papua%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Brown_Bluff-2016-Tabarin_Peninsula%E2%80%93Gentoo_penguin_(Pygoscelis_papua)_03.jpg",
+  "credit": "Godot13 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pygoscelis papua"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pygoscelis_papua_MHNT.ZOO.2010.11.43.17.jpg/1920px-Pygoscelis_papua_MHNT.ZOO.2010.11.43.17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pygoscelis_papua_MHNT.ZOO.2010.11.43.17.jpg",
+  "credit": "Roger Culos / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pygoscelis papua"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Wild_water_buffalo_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_07.jpg/1920px-Wild_water_buffalo_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Wild_water_buffalo_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_07.jpg",
+  "credit": "Tisha Mukherjee / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Bubalus arnee"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Wild_water_buffalo_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_04.jpg/1920px-Wild_water_buffalo_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Wild_water_buffalo_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_04.jpg",
+  "credit": "Tisha Mukherjee / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Bubalus arnee"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Elm_Tree_Inn%2C_Elm_Tree_Square_-_geograph.org.uk_-_6103827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Elm_Tree_Inn,_Elm_Tree_Square_-_geograph.org.uk_-_6103827.jpg",
+  "credit": "Roger Templeman / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "English elm tree"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Elm_Tree_-_geograph.org.uk_-_7651120.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Elm_Tree_-_geograph.org.uk_-_7651120.jpg",
+  "credit": "N Chadwick / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "English elm tree"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Dung_Beetle_Tanzania_2025.jpg/1920px-Dung_Beetle_Tanzania_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Dung_Beetle_Tanzania_2025.jpg",
+  "credit": "AmyAbroad / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "dung beetle rolling ball"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Dung_Beetle_%28Gymnopleurus_virens%29_rolling_a_ball_%2813738596023%29.jpg/1920px-Dung_Beetle_%28Gymnopleurus_virens%29_rolling_a_ball_%2813738596023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Dung_Beetle_(Gymnopleurus_virens)_rolling_a_ball_(13738596023).jpg",
+  "credit": "Bernard DUPONT from FRANCE / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "dung beetle rolling ball"
+ }
+}
