@@ -23,7 +23,8 @@
    "source_name": "ZME Science",
    "source_url": "https://www.zmescience.com/science/news-science/new-penguin-species-discovered-after-more-than-100-years/",
    "source_ig": "",
-   "image_query": "Pygoscelis papua"
+   "image_query": "Pygoscelis papua",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "nature",
@@ -37,14 +38,15 @@
    "source_name": "ThePrint",
    "source_url": "https://theprint.in/india/wild-buffaloes-return-to-mp-after-century-state-targets-50-in-three-years/3068769/",
    "source_ig": "",
-   "image_query": "Bubalus arnee"
+   "image_query": "Bubalus arnee",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "kindness",
    "place": "London, UK",
    "emoji": "🌳",
-   "stat": "200 km",
-   "stat_label": "ring of trees planned around London",
+   "stat": "200",
+   "stat_label": "km ring of trees planned around London",
    "headline": "Volunteers will plant a 200 km ring of trees around London",
    "summary": "The London Tree Ring invites schools and community groups to plant and care for a green corridor over 25 years. Pilots already planted 1,500 trees, including rare disease-resistant elm.",
    "why": "Cooler streets, more wildlife, and neighbours who watch their trees grow.",
@@ -65,7 +67,8 @@
    "source_name": "PEOPLE",
    "source_url": "https://people.com/wildlife-photographer-of-the-year-2026-winners-see-photos-12173016",
    "source_ig": "",
-   "image_query": "dung beetle rolling ball"
+   "image_query": "dung beetle rolling ball",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Before this, the last new penguin species was named in 1921: the northern rockhopper.",
