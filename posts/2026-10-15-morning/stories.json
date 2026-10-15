@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-15",
+ "handle": "@good_newsglobe",
+ "cover_hook": "7 years, 7 surgeries: a sea turtle goes home",
+ "cover_highlight": "7 surgeries",
+ "cover_kicker": "Rescued from fishing nets",
+ "caption_hook": "🐢 A loggerhead sea turtle tangled in fishing nets in 2019 heads back to the sea after 7 surgeries + 3 more wins you missed 👇",
+ "question": "Drop a 🐢 if you'd cheer this turtle back into the waves",
+ "share_line": "Send this to the friend who loves sea turtles",
+ "reel_hook": "7 years, 7 surgeries: a sea turtle goes home",
+ "first_comment": "Bonus: it goes back without a tracker or tag, so nothing slows it down. The beach was picked so it can crawl to the water on its own. Would you watch? 🐢",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Jeju Island, South Korea",
+   "emoji": "🐢",
+   "stat": "7",
+   "stat_label": "surgeries to heal its wounds",
+   "headline": "After 7 years of care, a rescued sea turtle goes home",
+   "summary": "Found on a Jeju beach in 2019, its shoulder and throat hurt by fishing gear, the loggerhead needed 7 surgeries at Aqua Planet Jeju. Now healthy, it returns to the sea near where it was found.",
+   "why": "Loggerheads are vulnerable, so every one returned to the ocean counts.",
+   "source_name": "Korea JoongAng Daily",
+   "source_url": "https://www.koreajoongangdaily.com/korea/loggerhead-sea-turtle-to-return-to-sea-after-seven-surgeries/12920271",
+   "source_ig": "",
+   "image_query": "Caretta caretta"
+  },
+  {
+   "category": "archaeology",
+   "place": "Taunus, Germany",
+   "emoji": "🏛️",
+   "stat": "150",
+   "stat_label": "years this Roman fort held the border",
+   "headline": "A Roman temple to Mars was hiding just under a forest floor",
+   "summary": "At Kapersburg fort near Frankfurt, diggers found a village with workshops and a temple likely for Mars, plus pieces of a statue of Victoria. Untouched by farming, the forest kept the layers intact.",
+   "why": "A rare, complete look at daily life on Rome's frontier.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/inches-below-the-forest-floor-archeologists-in-germany-unearthed-a-roman-temple-to-the-war-god/",
+   "source_ig": "",
+   "image_query": "Kastell Kapersburg"
+  },
+  {
+   "category": "science",
+   "place": "Lake Kariba, Zimbabwe",
+   "emoji": "🦕",
+   "stat": "210M",
+   "stat_label": "years old, a dinosaur new to science",
+   "headline": "A 210-million-year-old dinosaur shows Zimbabwe's lost world",
+   "summary": "Musango, a 4.5 m, 220 kg plant-eater that walked on 2 legs, was found on Lake Kariba's shore. It and its relatives are unique to Zimbabwe, not copies of South Africa's dinosaurs.",
+   "why": "Africa's early dinosaur story is richer than anyone thought.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
+   "source_ig": "",
+   "image_query": "Matusadona National Park"
+  },
+  {
+   "category": "kindness",
+   "place": "Georgia, USA",
+   "emoji": "🚲",
+   "stat": "400",
+   "stat_label": "donated bikes for families in need",
+   "headline": "A 17-year-old raised $30,000 to give kids bikes and lessons",
+   "summary": "Triathlete Jonathan Thai started Pedal Forward after a free bike workshop closed. He has handed out 400 donated bikes and 500 helmets, and his clinics now run in 3 US states.",
+   "why": "A bike can mean getting to school, groceries or a job.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/teen-triathlete-raises-more-than-30000-to-donate-bikes-and-riding-lessons-to-low-income-families/",
+   "source_ig": "",
+   "image_query": "child learning to ride bicycle"
+  }
+ ],
+ "fun_fact": "Loggerheads are named for their big heads, which power jaws strong enough to crush shellfish.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #seaturtle #wildlife"
+}
