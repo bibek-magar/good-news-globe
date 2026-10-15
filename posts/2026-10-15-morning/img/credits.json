@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg/1920px-Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg",
+  "credit": "João D'Andretta / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Caretta caretta"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/1920px-Loggerhead_sea_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Loggerhead_sea_turtle.jpg",
+  "credit": "ukanda / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Caretta caretta"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Kapersburg_Taunus_2021-04-02_05.jpg/1920px-Kapersburg_Taunus_2021-04-02_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Kapersburg_Taunus_2021-04-02_05.jpg",
+  "credit": "Leonhard Lenz / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Kastell Kapersburg"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kapersburg_Taunus_2021-04-02_03.jpg/1920px-Kapersburg_Taunus_2021-04-02_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Kapersburg_Taunus_2021-04-02_03.jpg",
+  "credit": "Leonhard Lenz / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Kastell Kapersburg"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Zimbabwe_relief_location_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Zimbabwe_relief_location_map.jpg",
+  "credit": "Carport / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Matusadona National Park"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ISS039-E-20078_-_View_of_Zimbabwe.jpg/1920px-ISS039-E-20078_-_View_of_Zimbabwe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:ISS039-E-20078_-_View_of_Zimbabwe.jpg",
+  "credit": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Spa / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Matusadona National Park"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Parent_helping_child_learning_to_ride_a_bike.jpg/1920px-Parent_helping_child_learning_to_ride_a_bike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Parent_helping_child_learning_to_ride_a_bike.jpg",
+  "credit": "Alextredz / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "child learning to ride bicycle"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Mum_teaching_child_how_to_ride_a_bike.jpg/1920px-Mum_teaching_child_how_to_ride_a_bike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Mum_teaching_child_how_to_ride_a_bike.jpg",
+  "credit": "Alextredz / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "child learning to ride bicycle"
+ }
+}
