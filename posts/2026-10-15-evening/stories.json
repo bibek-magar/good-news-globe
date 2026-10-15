@@ -23,7 +23,8 @@
    "source_name": "PEOPLE",
    "source_url": "https://people.com/nearly-183000-giant-tortoises-roam-seychelles-aldabra-atoll-12164811",
    "source_ig": "",
-   "image_query": "Aldabrachelys gigantea"
+   "image_query": "Aldabrachelys gigantea",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "archaeology",
@@ -37,7 +38,8 @@
    "source_name": "Earth.com",
    "source_url": "https://www.earth.com/science/neanderthal-wooden-club-abric-romani/",
    "source_ig": "",
-   "image_query": "Abric Romaní"
+   "image_query": "Abric Romaní",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "quirky",
@@ -51,7 +53,8 @@
    "source_name": "PEOPLE",
    "source_url": "https://uk.news.yahoo.com/11-000-world-heaviest-insects-200314229.html",
    "source_ig": "",
-   "image_query": "Deinacrida heteracantha"
+   "image_query": "Deinacrida heteracantha",
+   "image": "img/s3b.jpg"
   },
   {
    "category": "science",
