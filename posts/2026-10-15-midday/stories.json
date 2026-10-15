@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-15",
+ "handle": "@good_newsglobe",
+ "cover_hook": "1st new penguin species in over 100 years",
+ "cover_highlight": "100 years",
+ "cover_kicker": "Hiding in plain sight",
+ "caption_hook": "🐧 Scientists named the 1st new penguin species in over 100 years, hiding among gentoo penguins + 3 more wins you missed 👇",
+ "question": "Either/or: secret penguins or 100-year buffalo comeback? 👇",
+ "share_line": "Send this to the friend who loves penguins",
+ "reel_hook": "1st new penguin species in over 100 years",
+ "first_comment": "Bonus: the reference specimen for the new species was collected in 1897 and has sat in a New York museum ever since. What else is hiding in museum drawers? 🐧",
+ "stories": [
+  {
+   "category": "science",
+   "place": "Kerguelen Islands, Indian Ocean",
+   "emoji": "🐧",
+   "stat": "100+",
+   "stat_label": "years since a new penguin was named",
+   "headline": "Gentoo penguins were secretly 4 species, and 1 is brand new",
+   "summary": "Reading the genomes of 64 gentoos from 10 colonies, scientists found 4 separate species. One, the southeastern gentoo of the remote Kerguelen Islands, is new to science.",
+   "why": "Naming each species helps protect the ones most at risk from warming seas.",
+   "source_name": "ZME Science",
+   "source_url": "https://www.zmescience.com/science/news-science/new-penguin-species-discovered-after-more-than-100-years/",
+   "source_ig": "",
+   "image_query": "Pygoscelis papua"
+  },
+  {
+   "category": "nature",
+   "place": "Kanha, Madhya Pradesh, India",
+   "emoji": "🐃",
+   "stat": "100",
+   "stat_label": "years since wild buffalo lived here",
+   "headline": "Wild buffalo are back in an Indian state after about 100 years",
+   "summary": "8 wild buffalo, 6 females and 2 males, travelled ~2,200 km from Kaziranga and now roam a 17-hectare enclosure in Kanha Tiger Reserve. The goal: 50 animals in 3 years.",
+   "why": "Big grazers keep grasslands and wetlands healthy for everyone else.",
+   "source_name": "ThePrint",
+   "source_url": "https://theprint.in/india/wild-buffaloes-return-to-mp-after-century-state-targets-50-in-three-years/3068769/",
+   "source_ig": "",
+   "image_query": "Bubalus arnee"
+  },
+  {
+   "category": "kindness",
+   "place": "London, UK",
+   "emoji": "🌳",
+   "stat": "200 km",
+   "stat_label": "ring of trees planned around London",
+   "headline": "Volunteers will plant a 200 km ring of trees around London",
+   "summary": "The London Tree Ring invites schools and community groups to plant and care for a green corridor over 25 years. Pilots already planted 1,500 trees, including rare disease-resistant elm.",
+   "why": "Cooler streets, more wildlife, and neighbours who watch their trees grow.",
+   "source_name": "Positive News",
+   "source_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+   "source_ig": "@positivenewsuk",
+   "image_query": "English elm tree"
+  },
+  {
+   "category": "quirky",
+   "place": "Zambezi National Park, Zimbabwe",
+   "emoji": "🪲",
+   "stat": "65,403",
+   "stat_label": "entries, a contest record",
+   "headline": "A teen lay in the dirt to win with a dung beetle photo",
+   "summary": "Oscar Whitfield shot a dung beetle rolling its ball at eye level, flat on the ground. It won Young Wildlife Photographer of the Year in a contest with a record 65,403 entries.",
+   "why": "Patience and a low angle turned a tiny beetle into a winner.",
+   "source_name": "PEOPLE",
+   "source_url": "https://people.com/wildlife-photographer-of-the-year-2026-winners-see-photos-12173016",
+   "source_ig": "",
+   "image_query": "dung beetle rolling ball"
+  }
+ ],
+ "fun_fact": "Before this, the last new penguin species was named in 1921: the northern rockhopper.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #penguins #wildlife"
+}
