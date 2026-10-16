@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-16",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Astronomers found the 1st green star ever",
+ "cover_highlight": "1st green star",
+ "cover_kicker": "Never credibly seen before",
+ "caption_hook": "🟢 Astronomers found the 1st green star ever: a dead star tinted green by sodium from old planets + 3 more wins you missed 👇",
+ "question": "One-word reply: what colour star would you want in your sky? 👇",
+ "share_line": "Send this to the friend who loves space",
+ "reel_hook": "Astronomers found the 1st green star ever",
+ "first_comment": "Bonus: the same team found what may be the reddest star ever recorded, only 48 light-years away. Green or red, which would you pick? ✨",
+ "stories": [
+  {
+   "category": "space",
+   "place": "Warwick, UK",
+   "emoji": "🟢",
+   "stat": "284",
+   "stat_label": "light-years away, a green star",
+   "headline": "Astronomers found the 1st green star ever seen",
+   "summary": "White dwarf WD J1330+6435 swallowed rocky debris from its old planets. Sodium in its dense atmosphere absorbs orange light, so to human eyes it would glow a ghostly green.",
+   "why": "No star, living or dead, had ever been credibly reported as green.",
+   "source_name": "Space.com",
+   "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween",
+   "source_ig": "",
+   "image_query": "white dwarf star"
+  },
+  {
+   "category": "nature",
+   "place": "Mar del Plata Canyon, Argentina",
+   "emoji": "🐙",
+   "stat": "57",
+   "stat_label": "new deep-sea species in 2 weeks",
+   "headline": "A deep-sea canyon off Argentina held 57 new species",
+   "summary": "Taxonomists found 57 new species and 5 new genera, including a horned sea cucumber nicknamed Loki, 2,577 m down. Of the copepods checked, every single one was new to science.",
+   "why": "Over 4 million people watched the dives live, and the deep sea still hides more.",
+   "source_name": "Mongabay",
+   "source_url": "https://news.mongabay.com/2026/10/patrick-sea-star-went-viral-but-argentine-deep-sea-canyon-held-57-new-species/",
+   "source_ig": "@mongabay",
+   "image_query": "deep sea cucumber"
+  },
+  {
+   "category": "health",
+   "place": "Basel, Switzerland",
+   "emoji": "👁️",
+   "stat": "7 of 10",
+   "stat_label": "blind patients sensed more light",
+   "headline": "A gene therapy helped blind patients find objects again",
+   "summary": "In a trial for advanced retinitis pigmentosa, one injection made surviving eye cells sense light. With special goggles, 7 of 10 patients saw more light, and some found doors and objects.",
+   "why": "It works whatever the faulty gene, so one approach could help many forms of blindness.",
+   "source_name": "AllSci",
+   "source_url": "https://allsci.com/news/clinical-trials/optogenetic-therapy-for-advanced-retinitis/",
+   "source_ig": "",
+   "image_query": "human eye iris"
+  },
+  {
+   "category": "science",
+   "place": "St Helena, South Atlantic",
+   "emoji": "🐢",
+   "stat": "194",
+   "stat_label": "years old, and gene switches look young",
+   "headline": "A 194-year-old tortoise has gene switches that look young",
+   "summary": "Scientists read the DNA of Jonathan, the oldest known land animal. Gene switches for energy and DNA repair looked like a 5-year-old tortoise's, and he carries 287 unusual gene variants.",
+   "why": "Clues from a near-200-year-old could guide research into healthy ageing.",
+   "source_name": "Popular Mechanics",
+   "source_url": "https://www.popularmechanics.com/science/a74103821/jonathan-the-tortoise/",
+   "source_ig": "",
+   "image_query": "Jonathan tortoise St Helena"
+  }
+ ],
+ "fun_fact": "Jonathan arrived on St Helena in 1882, already fully grown.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #space #astronomy"
+}
