@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/White_Dwarf_Resurrection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:White_Dwarf_Resurrection.jpg",
+  "credit": "ESO / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "white dwarf star"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Artist%E2%80%99s_impression_of_debris_around_a_white_dwarf_star.jpg/1920px-Artist%E2%80%99s_impression_of_debris_around_a_white_dwarf_star.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_debris_around_a_white_dwarf_star.jpg",
+  "credit": "NASA, ESA, STScI, and G. Bacon (STScI) / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "white dwarf star"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Sea_cucumber_swimming_near_Puerto_Rico_April_2015.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Sea_cucumber_swimming_near_Puerto_Rico_April_2015.png",
+  "credit": "NOAA Office of Ocean Exploration and Research / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "deep sea cucumber"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Deep_sea_hydrothermal_sea_vent_cucumber_Chiridota_heheva.jpg/1920px-Deep_sea_hydrothermal_sea_vent_cucumber_Chiridota_heheva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Deep_sea_hydrothermal_sea_vent_cucumber_Chiridota_heheva.jpg",
+  "credit": "Yujin Pu, Yang Zhou, Jun Liu, Haibin Zhang / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "deep sea cucumber"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Eye_iris.jpg/1920px-Eye_iris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Eye_iris.jpg",
+  "credit": "che (Please credit as \"Petr Novák, Wikipedia\" in case you us / Wikimedia Commons, CC BY-SA 2.5",
+  "license": "CC BY-SA 2.5",
+  "query": "human eye iris"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Human_eye_in_dim_light.jpg/1920px-Human_eye_in_dim_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_eye_in_dim_light.jpg",
+  "credit": "Rapidreflex / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "human eye iris"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Saint-Helena-Plantation-House-Jonathan-the-Tortoise-by-kevin-gepford-02.jpg/1920px-Saint-Helena-Plantation-House-Jonathan-the-Tortoise-by-kevin-gepford-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Saint-Helena-Plantation-House-Jonathan-the-Tortoise-by-kevin-gepford-02.jpg",
+  "credit": "Kevin Gepford / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Jonathan tortoise St Helena"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Tourists_and_travel_writers_photographing_the_giant_tortoise_Jonathan%2C_St_Helena.jpg/1920px-Tourists_and_travel_writers_photographing_the_giant_tortoise_Jonathan%2C_St_Helena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Tourists_and_travel_writers_photographing_the_giant_tortoise_Jonathan,_St_Helena.jpg",
+  "credit": "Luke McKernan / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Jonathan tortoise St Helena"
+ }
+}
