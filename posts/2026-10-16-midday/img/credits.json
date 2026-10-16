@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Szczenie_Jack_Russell_Terrier3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Szczenie_Jack_Russell_Terrier3.jpg",
+  "credit": "Szczenie Jack Russell Terrier.jpg: Siristru\nderivative work: / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Jack Russell terrier"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Jack_Russell_terrier_puppy.jpg/1920px-Jack_Russell_terrier_puppy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jack_Russell_terrier_puppy.jpg",
+  "credit": "3steph14 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Jack Russell terrier"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Village_of_Rhodes%2C_South_Africa.jpg/1920px-Village_of_Rhodes%2C_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Village_of_Rhodes,_South_Africa.jpg",
+  "credit": "SA-Venues.com / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Rhodes Eastern Cape"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rhodes_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Rhodes_Hotel_-_panoramio.jpg",
+  "credit": "Hendrik van den Berg / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Rhodes Eastern Cape"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Classroom_in_East_Sikkim%2C_India_%283848315549%29.jpg/1920px-Classroom_in_East_Sikkim%2C_India_%283848315549%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Classroom_in_East_Sikkim,_India_(3848315549).jpg",
+  "credit": "dhillan chandramowli / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "children classroom India"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Free_Education_for_Underprivileged_children.jpg/1920px-Free_Education_for_Underprivileged_children.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Free_Education_for_Underprivileged_children.jpg",
+  "credit": "TAPAS KUMAR HALDER / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "children classroom India"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/South_Georgia_Island_as_seen_by_Sentinel-2.jpg/1920px-South_Georgia_Island_as_seen_by_Sentinel-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:South_Georgia_Island_as_seen_by_Sentinel-2.jpg",
+  "credit": "European Space Agency / Wikimedia Commons, CC BY-SA 3.0 igo",
+  "license": "CC BY-SA 3.0 igo",
+  "query": "Sentinel-3 satellite"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Central-eastern_Brazil%2C_by_Copernicus_Sentinel-2A_satellite.jpg/1920px-Central-eastern_Brazil%2C_by_Copernicus_Sentinel-2A_satellite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Central-eastern_Brazil,_by_Copernicus_Sentinel-2A_satellite.jpg",
+  "credit": "ESA / Copernicus Sentinel-2A / Wikimedia Commons, CC BY-SA 3.0 igo",
+  "license": "CC BY-SA 3.0 igo",
+  "query": "Sentinel-3 satellite"
+ }
+}
