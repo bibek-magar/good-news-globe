@@ -23,7 +23,8 @@
    "source_name": "AP News",
    "source_url": "https://apnews.com/article/yellowstone-lost-dog-national-parks-24a0c2c74d7455ae5b07ba6de133ff52",
    "source_ig": "",
-   "image_query": "Jack Russell terrier"
+   "image_query": "Jack Russell terrier",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "nature",
