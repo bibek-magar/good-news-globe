@@ -37,7 +37,8 @@
    "source_name": "Mongabay",
    "source_url": "https://news.mongabay.com/2026/10/patrick-sea-star-went-viral-but-argentine-deep-sea-canyon-held-57-new-species/",
    "source_ig": "@mongabay",
-   "image_query": "deep sea cucumber"
+   "image_query": "deep sea cucumber",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "health",
@@ -51,7 +52,8 @@
    "source_name": "AllSci",
    "source_url": "https://allsci.com/news/clinical-trials/optogenetic-therapy-for-advanced-retinitis/",
    "source_ig": "",
-   "image_query": "human eye iris"
+   "image_query": "human eye iris",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "science",
@@ -65,7 +67,8 @@
    "source_name": "Popular Mechanics",
    "source_url": "https://www.popularmechanics.com/science/a74103821/jonathan-the-tortoise/",
    "source_ig": "",
-   "image_query": "Jonathan tortoise St Helena"
+   "image_query": "Jonathan tortoise St Helena",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Jonathan arrived on St Helena in 1882, already fully grown.",
