@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Turkey%2C_Kekova_island%2C_near_Simena_-_panoramio.jpg/1920px-Turkey%2C_Kekova_island%2C_near_Simena_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Turkey,_Kekova_island,_near_Simena_-_panoramio.jpg",
+  "credit": "Alx R / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Kekova island Turkey"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2023-11-05_Kekova_Island_17.jpg/1920px-2023-11-05_Kekova_Island_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2023-11-05_Kekova_Island_17.jpg",
+  "credit": "Alexkom000 / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Kekova island Turkey"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1920px-Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Grand_star-forming_region_R136_in_NGC_2070_(captured_by_the_Hubble_Space_Telescope).jpg",
+  "credit": "NASA, ESA, F. Paresce (INAF-IASF, Bologna, Italy), R. O'Conn / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Hubble Space Telescope"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1920px-UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:UGC_1810_and_UGC_1813_in_Arp_273_(captured_by_the_Hubble_Space_Telescope).jpg",
+  "credit": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA) / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Hubble Space Telescope"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Conulariid03.jpg/1920px-Conulariid03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Conulariid03.jpg",
+  "credit": "Mark A. Wilson (Department of Geology, The College of Wooste / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "conulariid fossil"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Conulariid_%28probably_Mississippian%3B_stream_in_Mansfield_area%2C_Ohio%2C_USA%29_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Conulariid_(probably_Mississippian;_stream_in_Mansfield_area,_Ohio,_USA)_4.jpg",
+  "credit": "James St. John / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "conulariid fossil"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cervus_canadensis_nannodes_at_Tomales_Point.jpg/1920px-Cervus_canadensis_nannodes_at_Tomales_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cervus_canadensis_nannodes_at_Tomales_Point.jpg",
+  "credit": "Frank Schulenburg / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Cervus canadensis elk"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Rocky_Mountain_elk_%28Cervus_canadensis_nelsoni%29_juvenile_Banff.jpg/1920px-Rocky_Mountain_elk_%28Cervus_canadensis_nelsoni%29_juvenile_Banff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Rocky_Mountain_elk_(Cervus_canadensis_nelsoni)_juvenile_Banff.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Cervus canadensis elk"
+ }
+}
