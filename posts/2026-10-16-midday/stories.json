@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-16",
+ "handle": "@good_newsglobe",
+ "cover_hook": "34 days lost in Yellowstone, Luna is home",
+ "cover_highlight": "34 days",
+ "cover_kicker": "Bears, wolves, and winter",
+ "caption_hook": "🐶 A little dog survived 34 days lost in Yellowstone, among bears and wolves, and is finally home + 3 more wins you missed 👇",
+ "question": "Drop a 🐾 if you'd have joined the search for Luna",
+ "share_line": "Send this to the friend who loves dogs",
+ "reel_hook": "34 days lost in Yellowstone, Luna is home",
+ "first_comment": "Bonus: Luna lived on the streets for her first year before she was adopted, and her rescuer thinks those street skills kept her alive. Would your pet last 34 days? 🐶",
+ "stories": [
+  {
+   "category": "quirky",
+   "place": "Yellowstone, USA",
+   "emoji": "🐶",
+   "stat": "34",
+   "stat_label": "days alone in the wilderness",
+   "headline": "A 10-year-old terrier survived 34 days lost in Yellowstone",
+   "summary": "Luna slipped out of a cabin and spent weeks dodging bears and wolves, even walking into lodges through automatic doors. Volunteers caught her in a trap baited with her family's clothes.",
+   "why": "Strangers, rangers and tourists all looked out for one little dog.",
+   "source_name": "AP News",
+   "source_url": "https://apnews.com/article/yellowstone-lost-dog-national-parks-24a0c2c74d7455ae5b07ba6de133ff52",
+   "source_ig": "",
+   "image_query": "Jack Russell terrier"
+  },
+  {
+   "category": "nature",
+   "place": "Eastern Cape, South Africa",
+   "emoji": "🏞️",
+   "stat": "10,225",
+   "stat_label": "hectares of highland grassland",
+   "headline": "South Africa created a new national park for its grasslands",
+   "summary": "Grasslands National Park protects 10,225 ha across 18 farms near Rhodes. Farmers keep their land but sign on to protect it, guarding rare birds and a key water source.",
+   "why": "High mountain grasslands soak up rain and feed rivers far downstream.",
+   "source_name": "The Herald",
+   "source_url": "https://theherald.co.za/news/2026-10-14-high-lying-corner-of-eastern-cape-home-to-sa-s-newest-national-park/",
+   "source_ig": "",
+   "image_query": "Rhodes Eastern Cape"
+  },
+  {
+   "category": "kindness",
+   "place": "Asansol, India",
+   "emoji": "📚",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A former child worker now teaches school dropouts",
+   "summary": "Sanjali Soren nearly left school to work at brick kilns until a social worker helped her finish. Now she runs a centre in Asansol, teaching dropouts in their own Santhali language.",
+   "why": "One person given a chance is now giving the same chance to others.",
+   "source_name": "ETV Bharat",
+   "source_url": "https://www.etvbharat.com/en/state/tribal-woman-opens-school-in-bengals-asansol-to-bring-dropouts-back-to-education-enn26101504414",
+   "source_ig": "",
+   "image_query": "children classroom India"
+  },
+  {
+   "category": "space",
+   "place": "Europe",
+   "emoji": "🛰️",
+   "stat": "2",
+   "stat_label": "weeks in orbit, first images sent",
+   "headline": "Europe's new satellite sent its first stunning views of Earth",
+   "summary": "Just 2 weeks after launch, Sentinel-3C beamed back colour images of Italy and the Canadian Arctic. It will track sea ice, wildfires, drought and ocean heatwaves.",
+   "why": "Better eyes in orbit mean earlier warnings for heat, fire and floods.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/esas-new-sentinel-3c-satellite-makes-its-debut-with-sumptuous-images-of-italy-and-the-arctic/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Sentinel-3 satellite"
+  }
+ ],
+ "fun_fact": "Yellowstone covers about 3,500 square miles across Wyoming, Montana and Idaho.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #dogs #yellowstone"
+}
