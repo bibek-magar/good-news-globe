@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Phoenicopterus_roseus_Luc_Viatour.jpg/1920px-Phoenicopterus_roseus_Luc_Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_roseus_Luc_Viatour.jpg",
+  "credit": "Luc Viatour / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Phoenicopterus chilensis"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Chilean_Flamingo_at_Chungara_Lake_01.jpg/1920px-Chilean_Flamingo_at_Chungara_Lake_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Chilean_Flamingo_at_Chungara_Lake_01.jpg",
+  "credit": "Satdeep Gill / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Phoenicopterus chilensis"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/The_first_Large-Sized_Telescope_%28LST-1%29_of_the_Cherenkov_Telescope_Array_Observatory.jpg/1920px-The_first_Large-Sized_Telescope_%28LST-1%29_of_the_Cherenkov_Telescope_Array_Observatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:The_first_Large-Sized_Telescope_(LST-1)_of_the_Cherenkov_Telescope_Array_Observatory.jpg",
+  "credit": "BigSlave / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Large-Sized Telescope La Palma"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/La_Palma_%26_La_Gomera_Islands%2C_Canary_Islands.jpg/1920px-La_Palma_%26_La_Gomera_Islands%2C_Canary_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Palma_%26_La_Gomera_Islands,_Canary_Islands.jpg",
+  "credit": "O.V.E.R.V.I.E.W. / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Large-Sized Telescope La Palma"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Alaska_sept_20_2010.jpg/1920px-Alaska_sept_20_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Alaska_sept_20_2010.jpg",
+  "credit": "NASA image by Jeff Schmaltz, MODIS Rapid Response Team at NA / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Alaska Range Tanana Valley"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Fairbanks_range_flooded.jpg/1920px-Fairbanks_range_flooded.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Fairbanks_range_flooded.jpg",
+  "credit": "JKBrooks85 (talk) / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Alaska Range Tanana Valley"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Birla_Institute_of_Technology%2C_Mesra_%282026-09-01%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Birla_Institute_of_Technology,_Mesra_(2026-09-01).jpg",
+  "credit": "Md Sabir Hussain/Prince Kumar Bharti / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Birla Institute of Technology Mesra"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Drill_bits_2017_G1.jpg/1920px-Drill_bits_2017_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Drill_bits_2017_G1.jpg",
+  "credit": "George Chernilevsky / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Birla Institute of Technology Mesra"
+ }
+}
