@@ -24,7 +24,8 @@
    "source_name": "PEOPLE",
    "source_url": "https://people.com/nearly-183000-giant-tortoises-roam-seychelles-aldabra-atoll-12164811",
    "source_ig": "",
-   "image_query": "Aldabrachelys gigantea"
+   "image_query": "Aldabrachelys gigantea",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "archaeology",
@@ -52,7 +53,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/99-yo-woman-snags-worlds-oldest-wing-walker-title/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "wing walking biplane"
+   "image_query": "wing walking biplane",
+   "image": "img/s3b.jpg"
   },
   {
    "category": "space",
@@ -80,7 +82,8 @@
    "source_name": "Onmanorama",
    "source_url": "https://www.onmanorama.com/news/kerala/2026/10/16/autorickshaw-driver-saves-woman-from-well-in-kasaragod.html",
    "source_ig": "@onmanorama",
-   "image_query": "Kasaragod Kerala"
+   "image_query": "Kasaragod Kerala",
+   "image": "img/s5a.jpg"
   },
   {
    "category": "nature",
@@ -94,7 +97,8 @@
    "source_name": "Korea JoongAng Daily",
    "source_url": "https://www.koreajoongangdaily.com/korea/loggerhead-sea-turtle-to-return-to-sea-after-seven-surgeries/12920271",
    "source_ig": "",
-   "image_query": "Caretta caretta"
+   "image_query": "Caretta caretta",
+   "image": "img/s6b.jpg"
   },
   {
    "category": "health",
@@ -108,7 +112,8 @@
    "source_name": "AllSci",
    "source_url": "https://allsci.com/news/clinical-trials/optogenetic-therapy-for-advanced-retinitis/",
    "source_ig": "",
-   "image_query": "human eye iris"
+   "image_query": "human eye iris",
+   "image": "img/s7a.jpg"
   },
   {
    "category": "nature",
@@ -122,7 +127,8 @@
    "source_name": "The Colorado Sun",
    "source_url": "https://coloradosun.com/2026/10/14/i25-wildlife-overpass-collisions-drop/",
    "source_ig": "@thecoloradosun",
-   "image_query": "Cervus canadensis elk"
+   "image_query": "Cervus canadensis elk",
+   "image": "img/s8a.jpg"
   }
  ],
  "fun_fact": "Aldabra giant tortoises can live for well over 100 years.",
