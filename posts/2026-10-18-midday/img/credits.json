@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Pony_Express_statue_in_Sacramento.jpg/1920px-Pony_Express_statue_in_Sacramento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pony_Express_statue_in_Sacramento.jpg",
+  "credit": "R3tr0BoiDX / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pony Express statue"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Pony-express-statue.jpg/1920px-Pony-express-statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pony-express-statue.jpg",
+  "credit": "Unknown / Wikimedia Commons, CC BY-SA 2.5",
+  "license": "CC BY-SA 2.5",
+  "query": "Pony Express statue"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Einstein_cross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Einstein_cross.jpg",
+  "credit": "NASA, ESA, and STScI / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "gravitational lens Einstein ring"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/SDSSJ0946%2B1006.jpg/1920px-SDSSJ0946%2B1006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:SDSSJ0946%2B1006.jpg",
+  "credit": "Daag / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "gravitational lens Einstein ring"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Shikara_-_Sukhna_Lake_-_Chandigarh_2016-08-07_%28edit%29.jpg/1920px-Shikara_-_Sukhna_Lake_-_Chandigarh_2016-08-07_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Shikara_-_Sukhna_Lake_-_Chandigarh_2016-08-07_(edit).jpg",
+  "credit": "Original:  Biswarup Ganguly\n\nDerivative work:  UnpetitproleX / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Sukhna Lake Chandigarh"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Sukhna_Lake_Chandigarh_Evening.jpg/1920px-Sukhna_Lake_Chandigarh_Evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Sukhna_Lake_Chandigarh_Evening.jpg",
+  "credit": "Navneet Sharma / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Sukhna Lake Chandigarh"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Cairo_skyline%2C_Nile_River%2C_Egypt.jpg/1920px-Cairo_skyline%2C_Nile_River%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cairo_skyline,_Nile_River,_Egypt.jpg",
+  "credit": "Vyacheslav Argenberg / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Cairo skyline Nile"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Cairo_skyline%2C_Panoramic_view%2C_Egypt.jpg/1920px-Cairo_skyline%2C_Panoramic_view%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cairo_skyline,_Panoramic_view,_Egypt.jpg",
+  "credit": "Vyacheslav Argenberg / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Cairo skyline Nile"
+ }
+}
