@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/02._Old_English_Bulldog%2C_1863._Paris%2C_France._2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:02._Old_English_Bulldog,_1863._Paris,_France._2.png",
+  "credit": "L. CREMIÈRE, PHOT / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "English bulldog"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/English_Bulldog_-Dog-220489-1280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:English_Bulldog_-Dog-220489-1280.jpg",
+  "credit": "https://pixabay.com/pt/users/kaz-19203/ / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "English bulldog"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_44.jpg/1920px-Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Archaeological_Ruins_of_Tabaqat_Fahl_(Pella)_44.jpg",
+  "credit": "Mohammad hajeer / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pella Jordan ruins"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_51.jpg/1920px-Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_51.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Archaeological_Ruins_of_Tabaqat_Fahl_(Pella)_51.jpg",
+  "credit": "Mohammad hajeer / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pella Jordan ruins"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Group_of_strawberry_pickers_in_a_strawberry_field_in_Bell%2C_California%2C_ca.1910_%28CHS-1130%29.jpg/1920px-Group_of_strawberry_pickers_in_a_strawberry_field_in_Bell%2C_California%2C_ca.1910_%28CHS-1130%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Group_of_strawberry_pickers_in_a_strawberry_field_in_Bell,_California,_ca.1910_(CHS-1130).jpg",
+  "credit": "Unknown authorUnknown author / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "strawberry field California"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Strawberry_field_with_plastic.jpg/1920px-Strawberry_field_with_plastic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Strawberry_field_with_plastic.jpg",
+  "credit": "Downtowngal / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "strawberry field California"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/1920px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+  "credit": "NASA, ESA, M. Robberto (Space Telescope Science Institute/ES / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Pa 30 nebula"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/A_New_View_of_the_Tarantula_Nebula.jpg/1920px-A_New_View_of_the_Tarantula_Nebula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:A_New_View_of_the_Tarantula_Nebula.jpg",
+  "credit": "NASA / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Pa 30 nebula"
+ }
+}
