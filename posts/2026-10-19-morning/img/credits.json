@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/11-Peruvian_Hairless_Dog-nX-3.jpg/1920px-11-Peruvian_Hairless_Dog-nX-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:11-Peruvian_Hairless_Dog-nX-3.jpg",
+  "credit": "PsamatheM / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Peruvian Hairless Dog"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/11-Peruvian_Hairless_Dog-nX-1.jpg/1920px-11-Peruvian_Hairless_Dog-nX-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:11-Peruvian_Hairless_Dog-nX-1.jpg",
+  "credit": "PsamatheM / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Peruvian Hairless Dog"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/3rd_St_between_Main_and_Angel_%28Beaverton%2C_Oregon_Historical_Photo_Gallery%29_%28261%29.jpg/1920px-3rd_St_between_Main_and_Angel_%28Beaverton%2C_Oregon_Historical_Photo_Gallery%29_%28261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:3rd_St_between_Main_and_Angel_(Beaverton,_Oregon_Historical_Photo_Gallery)_(261).jpg",
+  "credit": "Unknown photographer / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Beaverton Oregon"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Westgate_Theater_site_-_Beaverton%2C_Oregon.JPG/1920px-Westgate_Theater_site_-_Beaverton%2C_Oregon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Westgate_Theater_site_-_Beaverton,_Oregon.JPG",
+  "credit": "M.O. Stevens / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Beaverton Oregon"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Fillongley_1a07.JPG/1920px-Fillongley_1a07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Fillongley_1a07.JPG",
+  "credit": "Original uploader was Snowmanradio at en.wikipedia\n\n(Origina / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Fillongley"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Fillongley%2C_Warwickshire%2C_St_Mary_%5E_All_Saints_-_geograph.org.uk_-_5919574.jpg/1920px-Fillongley%2C_Warwickshire%2C_St_Mary_%5E_All_Saints_-_geograph.org.uk_-_5919574.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Fillongley,_Warwickshire,_St_Mary_%5E_All_Saints_-_geograph.org.uk_-_5919574.jpg",
+  "credit": "Dave Kelly / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Fillongley"
+ }
+}
