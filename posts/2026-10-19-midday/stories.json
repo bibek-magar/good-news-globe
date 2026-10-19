@@ -23,7 +23,8 @@
    "source_name": "CBC News",
    "source_url": "https://www.cbc.ca/news/world/emma-mazzenga-italian-sprinter-longevity-9.7383784",
    "source_ig": "@cbc",
-   "image_query": "Emma Mazzenga"
+   "image_query": "Emma Mazzenga",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "archaeology",
@@ -51,7 +52,8 @@
    "source_name": "CNN",
    "source_url": "https://www.cnn.com/science/bili-gorilla-relocation-nigeria-republic-of-congo-c2e-spc",
    "source_ig": "@cnn",
-   "image_query": "western lowland gorilla juvenile"
+   "image_query": "western lowland gorilla juvenile",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "science",
@@ -65,7 +67,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/coral-bleaching-reversed-at-record-speed-using-new-stanford-method/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "bleached coral"
+   "image_query": "bleached coral",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "The Kikai-Akahoya eruption was the largest volcanic eruption on Earth in the last 10,000 years.",
