@@ -23,7 +23,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "English bulldog"
+   "image_query": "English bulldog",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "archaeology",
@@ -37,7 +38,8 @@
    "source_name": "Arkeonews",
    "source_url": "https://arkeonews.net/3000-year-old-tomb-in-jordan-reveals-phoenician-ivory-rare-phrygian-belt-and-exotic-spices/",
    "source_ig": "@arkeo_news",
-   "image_query": "Pella Jordan ruins"
+   "image_query": "Pella Jordan ruins",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "invention",
@@ -51,7 +53,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/simple-soil-steaming-found-as-effective-replacement-for-chemicals-in-organic-strawberry-farming/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "strawberry field California"
+   "image_query": "strawberry field California",
+   "image": "img/s3b.jpg"
   },
   {
    "category": "space",
