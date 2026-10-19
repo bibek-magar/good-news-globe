@@ -2,13 +2,13 @@
  "edition": "Morning",
  "date": "2026-10-19",
  "handle": "@good_newsglobe",
- "cover_hook": "Dead 1,200 years, it still has its ears",
- "cover_highlight": "1,200 years",
- "cover_kicker": "A dog mummy from ancient Peru",
- "caption_hook": "🐕 Dead for at least 1,200 years, a dog mummy from ancient Peru still has its hairless skin and ears + 3 more wins 👇",
+ "cover_hook": "1,200 years ago, Peru already had hairless dogs",
+ "cover_highlight": "1,200 years ago",
+ "cover_kicker": "Found: a hairless dog mummy",
+ "caption_hook": "🐕 1,200 years ago, Peru already had hairless dogs: a dog mummy from a Wari Empire site still has its bald skin and ears + 3 more wins 👇",
  "question": "Which story made you smile most? Answer with 🐕, 🪱, 🔥 or 🧶",
  "share_line": "Send this to the friend who loves weird history",
- "reel_hook": "Dead 1,200 years, it still has its ears",
+ "reel_hook": "1,200 years ago, Peru already had hairless dogs",
  "first_comment": "Bonus: the dogs' missing first premolars point to the same gene that makes today's Peruvian Hairless Dog bald. The breed was named part of Peru's cultural heritage in 2000. 🐕",
  "stories": [
   {
@@ -23,7 +23,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261016070644.htm",
    "source_ig": "",
-   "image_query": "Peruvian Hairless Dog"
+   "image_query": "Peruvian Hairless Dog",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "nature",
@@ -65,7 +66,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/village-installs-knitted-traffic-cops-to-slow-speeding-drivers/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "Fillongley"
+   "image_query": "Fillongley",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "The Peruvian Hairless Dog is one of only a few hairless dog breeds in the world.",
