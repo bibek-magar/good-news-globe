@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-19",
+ "handle": "@good_newsglobe",
+ "cover_hook": "70 lb bulldog: 20 lb lighter, now adopted",
+ "cover_highlight": "20 lb lighter",
+ "cover_kicker": "She collapsed after a few steps",
+ "caption_hook": "🐶 Peggy Sue the bulldog weighed 70 lb and couldn't walk. Now she's 20 lb lighter and has a forever home + 3 more wins 👇",
+ "question": "Adopt or foster? Answer with 🏠 or 🤝",
+ "share_line": "Send this to the friend who loves bulldogs",
+ "reel_hook": "70 lb bulldog: 20 lb lighter, now adopted",
+ "first_comment": "Bonus: Peggy Sue turned out to be a water-baby who loves rock pools and streams, and she's her new family's 6th rescue dog. What's your rescue pet's name? 🐶",
+ "stories": [
+  {
+   "category": "kindness",
+   "place": "Somerset, England",
+   "emoji": "🐶",
+   "stat": "70 lb",
+   "stat_label": "when she arrived at the shelter",
+   "headline": "A 70 lb bulldog who couldn't walk lost 20 lb and got adopted",
+   "summary": "Peggy Sue was so heavy the RSPCA had to carry her in a crate. A foster carer slowly built up her walks, and she dropped from 32.5 kg to 23.5 kg before a family in Taunton took her home.",
+   "why": "Now she loves walks, car trips and splashing in streams.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "English bulldog"
+  },
+  {
+   "category": "archaeology",
+   "place": "Pella, Jordan",
+   "emoji": "🏺",
+   "stat": "3,000",
+   "stat_label": "years old, and still holding clues",
+   "headline": "3,000-year-old cups in Jordan may hold traces of Indian pepper",
+   "summary": "Chemists tested 7 burial cups from a tomb at Pella holding at least 82 people. 3 contained piperine, the compound in black pepper, a spice from India's Western Ghats, hinting at long-distance trade.",
+   "why": "The cups were dug up in 1987. Their walls kept the secret for decades.",
+   "source_name": "Arkeonews",
+   "source_url": "https://arkeonews.net/3000-year-old-tomb-in-jordan-reveals-phoenician-ivory-rare-phrygian-belt-and-exotic-spices/",
+   "source_ig": "@arkeo_news",
+   "image_query": "Pella Jordan ruins"
+  },
+  {
+   "category": "invention",
+   "place": "California, USA",
+   "emoji": "🍓",
+   "stat": "4",
+   "stat_label": "organic farms tested steam",
+   "headline": "Steam could replace toxic chemicals on strawberry farms",
+   "summary": "UC Santa Cruz researchers injected steam into strawberry beds to kill soil fungi, bacteria and weeds before planting. Farmers in the 4-farm trial reported bigger, healthier plants and more fruit.",
+   "why": "Organic growers finally get a way to protect crops without fumigants.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/simple-soil-steaming-found-as-effective-replacement-for-chemicals-in-organic-strawberry-farming/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "strawberry field California"
+  },
+  {
+   "category": "space",
+   "place": "Cassiopeia, Milky Way",
+   "emoji": "💫",
+   "stat": "1181",
+   "stat_label": "the year people saw it explode",
+   "headline": "A star exploded in 1181, and it's still alive",
+   "summary": "Astronomers in Japan, China and the Arab world recorded a new light in 1181. Now Gemini North shows its remnant, Pa 30, in sharp detail, with the star that survived the blast sitting right at its centre.",
+   "why": "It's the only known star in our galaxy to survive this type of explosion.",
+   "source_name": "Futurism",
+   "source_url": "https://futurism.com/space/weird-conditions-star-exploded-japanese-samurai",
+   "source_ig": "@futurism",
+   "image_query": "Pa 30 nebula"
+  }
+ ],
+ "fun_fact": "The 1181 supernova stayed visible in the night sky for at least 185 days.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #rescuedog #adoptdontshop"
+}
