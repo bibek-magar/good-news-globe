@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-19",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Dead 1,200 years, it still has its ears",
+ "cover_highlight": "1,200 years",
+ "cover_kicker": "A dog mummy from ancient Peru",
+ "caption_hook": "🐕 Dead for at least 1,200 years, a dog mummy from ancient Peru still has its hairless skin and ears + 3 more wins 👇",
+ "question": "Which story made you smile most? Answer with 🐕, 🪱, 🔥 or 🧶",
+ "share_line": "Send this to the friend who loves weird history",
+ "reel_hook": "Dead 1,200 years, it still has its ears",
+ "first_comment": "Bonus: the dogs' missing first premolars point to the same gene that makes today's Peruvian Hairless Dog bald. The breed was named part of Peru's cultural heritage in 2000. 🐕",
+ "stories": [
+  {
+   "category": "archaeology",
+   "place": "Castillo de Huarmey, Peru",
+   "emoji": "🐕",
+   "stat": "1,200",
+   "stat_label": "years old, at least",
+   "headline": "A 1,200-year-old dog mummy still has its hairless skin and ears",
+   "summary": "At a Wari Empire site north of Lima, scientists studied bones from at least 19 dogs. One naturally mummified skull, painted red with cinnabar, kept its hairless skin and ears.",
+   "why": "It may be early proof of today's Peruvian Hairless Dog, a national treasure.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261016070644.htm",
+   "source_ig": "",
+   "image_query": "Peruvian Hairless Dog"
+  },
+  {
+   "category": "nature",
+   "place": "Christmas Island, Australia",
+   "emoji": "🪱",
+   "stat": "3",
+   "stat_label": "species in a brand-new genus",
+   "headline": "Deep-sea 'spaghetti worms' with suckers get a new genus",
+   "summary": "Worms collected 467 to 674 m down off Christmas Island and the Cocos (Keeling) Islands have sucker-like pads no other spaghetti worm has. DNA showed they form a whole new genus.",
+   "why": "One voyage's haul held 7 new species in this paper alone, and more to come.",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/new-genus-of-nightmare-spaghetti-worms-found-deep-under-the-indian-ocean",
+   "source_ig": "@sciencealert",
+   "image_query": "Terebellidae spaghetti worm"
+  },
+  {
+   "category": "kindness",
+   "place": "Beaverton, Oregon, USA",
+   "emoji": "🔥",
+   "stat": "$16k",
+   "stat_label": "heating system, free",
+   "headline": "A retired couple's broken furnace was replaced for free",
+   "summary": "Diane and Brian Johnsen's old system couldn't be fixed, and Diane was working 3 jobs to cover the mortgage. Lennox's Feel the Love program and Aviator Heating & Cooling installed a new one at no cost.",
+   "why": "The program has helped over 3,100 families since 2009.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Beaverton Oregon"
+  },
+  {
+   "category": "community",
+   "place": "Fillongley, England",
+   "emoji": "🧶",
+   "stat": "4",
+   "stat_label": "months of knitting",
+   "headline": "A village knitted fake traffic cops, and drivers hit the brakes",
+   "summary": "After crashes near a primary school, Fillongley's Knit and Natter group made life-size knitted officers and speed cameras. The mayor says you can see brake lights come on as cars pass.",
+   "why": "11 crashes in 4 years at one junction got the knitters to act.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/village-installs-knitted-traffic-cops-to-slow-speeding-drivers/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Fillongley"
+  }
+ ],
+ "fun_fact": "The Peruvian Hairless Dog is one of only a few hairless dog breeds in the world.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #archaeology #peru"
+}
