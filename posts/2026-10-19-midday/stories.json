@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-19",
+ "handle": "@good_newsglobe",
+ "cover_hook": "At 93, her muscle fibres look 20-something",
+ "cover_highlight": "At 93",
+ "cover_kicker": "A world-record sprinter",
+ "caption_hook": "🏃‍♀️ At 93, sprinter Emma Mazzenga has muscle fibres as big as a woman in her 20s, scientists found + 3 more wins 👇",
+ "question": "What's your secret to staying young? Reply with one word",
+ "share_line": "Send this to the friend who says they're too old to start",
+ "reel_hook": "At 93, her muscle fibres look 20-something",
+ "first_comment": "Bonus: Emma took a 30-year break from running, then came back at 53 and kept going while her friends quit. She still trains 3 times a week. What would you start at 53? 🏃‍♀️",
+ "stories": [
+  {
+   "category": "health",
+   "place": "Padua, Italy",
+   "emoji": "🏃‍♀️",
+   "stat": "93",
+   "stat_label": "years old, and still racing",
+   "headline": "At 93, a sprinter's muscle fibres match a woman in her 20s",
+   "summary": "Emma Mazzenga holds the over-90 world record for 200 m. Scientists found her fitness level matches someone in their 50s, and her fatigue-resistant muscle fibres are as big as a 20-something's.",
+   "why": "She restarted running at 53. Researchers hope she shows how much ageing is avoidable.",
+   "source_name": "CBC News",
+   "source_url": "https://www.cbc.ca/news/world/emma-mazzenga-italian-sprinter-longevity-9.7383784",
+   "source_ig": "@cbc",
+   "image_query": "Emma Mazzenga"
+  },
+  {
+   "category": "archaeology",
+   "place": "Kyushu, Japan",
+   "emoji": "🌋",
+   "stat": "7,300",
+   "stat_label": "years ago, a volcano hit Japan",
+   "headline": "After a 7,300-year-old eruption, some ancient Japanese thrived",
+   "summary": "The undersea Kikai-Akahoya eruption buried Japan in ash. A new study finds Jomon survivors moved to the northern Kyushu coast, turned to the sea for food, and their population kept growing.",
+   "why": "Even after a catastrophe, people adapted and built new lives.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
+   "source_ig": "",
+   "image_query": "Kikai caldera Satsuma Iwojima"
+  },
+  {
+   "category": "nature",
+   "place": "Pointe-Noire, Republic of Congo",
+   "emoji": "🦍",
+   "stat": "3",
+   "stat_label": "years after traffickers took her",
+   "headline": "Bili, a gorilla seized from traffickers, is heading back to the wild",
+   "summary": "Rescued as a sick baby in a 2023 sting in Nigeria, Bili was flown to a Jane Goodall Institute sanctuary in Congo. She raced into the forest and climbed trees. The plan: a gorilla friend, then the wild.",
+   "why": "Over 80% of trafficked baby gorillas don't survive. Bili did.",
+   "source_name": "CNN",
+   "source_url": "https://www.cnn.com/science/bili-gorilla-relocation-nigeria-republic-of-congo-c2e-spc",
+   "source_ig": "@cnn",
+   "image_query": "western lowland gorilla juvenile"
+  },
+  {
+   "category": "science",
+   "place": "Stanford, California, USA",
+   "emoji": "🪸",
+   "stat": "7",
+   "stat_label": "weeks from bleached to healthy",
+   "headline": "Ghost-white corals fully recovered in 7 weeks, a record",
+   "summary": "Stanford scientists let bleached corals touch healthy clones from the same colony. Their tissues fused, life-giving algae flowed in, and the bleached corals fully recovered. Those not touching died.",
+   "why": "It's the fastest coral recovery ever documented.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/coral-bleaching-reversed-at-record-speed-using-new-stanford-method/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "bleached coral"
+  }
+ ],
+ "fun_fact": "The Kikai-Akahoya eruption was the largest volcanic eruption on Earth in the last 10,000 years.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #healthyaging #coralreef"
+}
