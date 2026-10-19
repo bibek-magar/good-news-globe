@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Emma_Mazzenga.jpg/1920px-Emma_Mazzenga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Emma_Mazzenga.jpg",
+  "credit": "Vale93b / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Emma Mazzenga"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Emma_Mazzenga.jpg",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=175635629",
+  "credit": "Vale93b / Wikimedia, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Emma Mazzenga"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Young_western_lowland_gorilla_in_tree.jpg/1920px-Young_western_lowland_gorilla_in_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Young_western_lowland_gorilla_in_tree.jpg",
+  "credit": "JosepMGracia / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "western lowland gorilla juvenile"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Gorilla_gorilla_western_lowland_gorilla_LoroParque_IMG_4904_juvenile.JPG/1920px-Gorilla_gorilla_western_lowland_gorilla_LoroParque_IMG_4904_juvenile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_western_lowland_gorilla_LoroParque_IMG_4904_juvenile.JPG",
+  "credit": "Bjoertvedt / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "western lowland gorilla juvenile"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Coral_reef_with_healthy_corals_and_corals_with_signs_of_bleaching.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Coral_reef_with_healthy_corals_and_corals_with_signs_of_bleaching.png",
+  "credit": "Unidentified NOAA photographer / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "bleached coral"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Coral_bleaching_Florida_Keys_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Coral_bleaching_Florida_Keys_2023.jpg",
+  "credit": "NOAA / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "bleached coral"
+ }
+}
