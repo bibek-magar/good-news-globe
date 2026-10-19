@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-18 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-19 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-11: 2 → 10-12: 2 → 10-13: 2 → 10-14: 2 → 10-15: 2 → 10-16: 2 → 10-17: 2 → 10-18: 2
+10-12: 2 → 10-13: 2 → 10-14: 2 → 10-15: 2 → 10-16: 2 → 10-17: 2 → 10-18: 2 → 10-19: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -21,17 +21,17 @@ _Updated 2026-10-18 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 | 2026-10-12 | evening | 8 orangutans rescued from fires are free again | 3 | 0 | 0 | 0 | 33.33 |
 
 ## This week vs before
-- Last 7 days: 2 carousels, avg reach 2.5, avg score 116.7
+- Last 7 days: 3 carousels, avg reach 2.3, avg score 111.1
 - Earlier: avg reach 2.6, avg score 113.0
 
 ## By slot (Nepal time)
 - morning: 3 posts, avg reach 2.3, avg score 127.8
 - midday: 6 posts, avg reach 3, avg score 104.2
-- evening: 9 posts, avg reach 2.3, avg score 114.8
+- evening: 10 posts, avg reach 2.3, avg score 113.3
 
 ## Categories
-Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), nature 104.2 (10), space 100.0 (1), archaeology 100.0 (1)
-Any position → avg score: science 136.9, quirky 121.9, space 119.4, nature 117.3, invention 116.7, archaeology 116.1, energy 111.1, health 96.7, kindness 70.8
+Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), nature 103.8 (11), space 100.0 (1), archaeology 100.0 (1)
+Any position → avg score: science 136.9, quirky 119.4, space 116.7, invention 116.7, archaeology 115.1, nature 114.2, energy 111.1, health 97.2, kindness 76.7
 
 ## Best Reels
 | date | slot | hook | reach | shares | saves | comments | score | avg watch (ms) |
