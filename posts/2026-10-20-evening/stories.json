@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-20",
+ "handle": "@good_newsglobe",
+ "cover_hook": "45 km on Mars: a new off-world driving record",
+ "cover_highlight": "45 km",
+ "cover_kicker": "Done in 5.5 years, not 15",
+ "caption_hook": "🚙 NASA's Perseverance rover has now driven 45 km on Mars, farther than any vehicle on another world + 3 more wins 👇",
+ "question": "Which is cooler: a self-driving Mars rover or a 131 dB bird? Answer 🚙 or 🐦",
+ "share_line": "Send this to the friend who loves Mars",
+ "reel_hook": "45 km on Mars: a new off-world driving record",
+ "first_comment": "Bonus: the rover was only meant to drive about 20 km (12.4 miles). It picked its own path for over 90% of the journey. Where would you drive it next? 🚙",
+ "stories": [
+  {
+   "category": "space",
+   "place": "Jezero Crater, Mars",
+   "emoji": "🚙",
+   "stat": "45.22",
+   "stat_label": "km driven, a record on any world",
+   "headline": "Perseverance has now driven farther than any vehicle off Earth",
+   "summary": "NASA's rover passed Opportunity's 45.16 km on Mars, covering in 5.5 years what took its predecessor almost 15. It steered itself for more than 90% of the drive.",
+   "why": "It has already beaten the Apollo 17 Moon buggy and the Soviet Lunokhod 2 rover too.",
+   "source_name": "Earth.com",
+   "source_url": "https://www.earth.com/space/nasas-perseverance-rover-has-now-driven-farther-than-any-vehicle-on-another-world/",
+   "source_ig": "@earthdotcom",
+   "image_query": "Perseverance rover Mars"
+  },
+  {
+   "category": "science",
+   "place": "Atlantic Forest, Brazil",
+   "emoji": "🐦",
+   "stat": "131 dB",
+   "stat_label": "the loudest peaks recorded",
+   "headline": "2 new contenders for the world's loudest bird",
+   "summary": "Biologists measured 123 bird species in the wild. The bare-throated bellbird and the red-legged seriema joined the white bellbird above 120 decibels, with peaks of about 127 to 131 dB.",
+   "why": "That's jackhammer-loud, from birds that call to mates perched nearby.",
+   "source_name": "Earth.com",
+   "source_url": "https://www.earth.com/animals/what-is-the-worlds-loudest-bird-scientists-identify-two-new-contenders/",
+   "source_ig": "@earthdotcom",
+   "image_query": "Procnias nudicollis"
+  },
+  {
+   "category": "nature",
+   "place": "Kanchanaburi, Thailand",
+   "emoji": "🖤",
+   "stat": "<50",
+   "stat_label": "plants known in the world",
+   "headline": "Botanists named a black, horned 'devil flower' in Thailand",
+   "summary": "Thismia daemona makes no chlorophyll and lives off fungi in the soil, rising only to flower. Fewer than 50 plants are known, all on one hillside in Thong Pha Phum National Park.",
+   "why": "It's Thailand's 16th fairy-lantern species, found higher up than any expected.",
+   "source_name": "Earth.com",
+   "source_url": "https://www.earth.com/plants/devil-flower-new-species-thailand/",
+   "source_ig": "@earthdotcom",
+   "image_query": "Thismia fairy lantern"
+  },
+  {
+   "category": "archaeology",
+   "place": "Brighton, England",
+   "emoji": "📜",
+   "stat": "6",
+   "stat_label": "lost pages found in an archive",
+   "headline": "6 lost pages of a medieval book turned up in an English archive",
+   "summary": "Mislabelled papers in Brighton turned out to be missing pages of a 15th-century religious book now at Yale. Its owner, a Henry VIII official, kept it while he was meant to destroy such books.",
+   "why": "The match came from paging through Yale's free online scan of the book.",
+   "source_name": "Earth.com",
+   "source_url": "https://www.earth.com/science/lost-pages-of-a-medieval-manuscript-reveal-a-secret-hidden-for-centuries/",
+   "source_ig": "@earthdotcom",
+   "image_query": "Nicholas Love Mirror manuscript"
+  }
+ ],
+ "fun_fact": "Before Perseverance, NASA's first Mars rover, Sojourner, drove only about 100 m in 1997.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #mars #perseverance"
+}
