@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Phobos_colour_2008.jpg/1920px-Phobos_colour_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Phobos_colour_2008.jpg",
+  "credit": "NASA / JPL-Caltech / University of Arizona / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Phobos moon Mars"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Phobos_edit_2.jpg/1920px-Phobos_edit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Phobos_edit_2.jpg",
+  "credit": "NASA/JPL-Caltech/University of Arizona / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Phobos moon Mars"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%22Paradise_of_Bhaisajyaguru%22_Buddha_wall_mural_in_the_Met_museum.JPG/1920px-%22Paradise_of_Bhaisajyaguru%22_Buddha_wall_mural_in_the_Met_museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:%22Paradise_of_Bhaisajyaguru%22_Buddha_wall_mural_in_the_Met_museum.JPG",
+  "credit": "NickDupree / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Medicine Buddha mural Metropolitan Museum"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Pure_Land_of_Bhaisajyaguru%2C_detail_2%2C_Yuan_Dynasty.JPG/1920px-Pure_Land_of_Bhaisajyaguru%2C_detail_2%2C_Yuan_Dynasty.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pure_Land_of_Bhaisajyaguru,_detail_2,_Yuan_Dynasty.JPG",
+  "credit": "Anonymous artist(s) in China / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Medicine Buddha mural Metropolitan Museum"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Australian_grayling.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Australian_grayling.JPG",
+  "credit": "Codman at English Wikipedia / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Prototroctes maraena"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Australian_Grayling_%28Prototroctes_maraena%29_%2849779834561%29.jpg/1920px-Australian_Grayling_%28Prototroctes_maraena%29_%2849779834561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Australian_Grayling_(Prototroctes_maraena)_(49779834561).jpg",
+  "credit": "Tim Binns from Tomahawk, Australia / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Prototroctes maraena"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mount_Mabu%2C_Mozambique_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Mount_Mabu,_Mozambique_(ASTER).jpg",
+  "credit": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Sci / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Mount Mabu Mozambique"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Marble_Berry_%28Pollia_condensata%29%2C_Mount_Mabu%2C_Mozambique_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Marble_Berry_(Pollia_condensata),_Mount_Mabu,_Mozambique_1.jpg",
+  "credit": "timharris / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Mount Mabu Mozambique"
+ }
+}
