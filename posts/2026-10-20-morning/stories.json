@@ -23,7 +23,8 @@
    "source_name": "Space.com",
    "source_url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
    "source_ig": "",
-   "image_query": "Phobos moon Mars"
+   "image_query": "Phobos moon Mars",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "quirky",
@@ -33,11 +34,12 @@
    "stat_label": "the Buddha's head was off",
    "headline": "Copying a 700-year-old mural revealed the Buddha's head was off",
    "summary": "Chinese artists spent 3 years copying the Met's 50-foot Medicine Buddha mural crack by crack. They found museum mounters had placed the Buddha's head 2 cm out of line.",
-   "why": "The replica now fills the temple wall in China where the original once hung.",
+   "why": "The life-size replica made its debut at a museum in Beijing.",
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "Medicine Buddha mural Metropolitan Museum"
+   "image_query": "Medicine Buddha mural Metropolitan Museum",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "science",
@@ -51,7 +53,8 @@
    "source_name": "Inside State Government",
    "source_url": "https://www.insidestategovernment.com.au/nsw-leads-world-first-breakthrough-in-endangered-fish-conservation/",
    "source_ig": "",
-   "image_query": "Prototroctes maraena"
+   "image_query": "Prototroctes maraena",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "nature",
@@ -65,7 +68,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/mozambique-protects-the-butterfly-forest-of-mount-mabu-home-to-200-species/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "Mount Mabu Mozambique"
+   "image_query": "Mount Mabu Mozambique",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "Phobos is only about 22 km wide and circles Mars 3 times a day.",
