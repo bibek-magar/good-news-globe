@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/NASA%27s_Ingenuity_helicopter_on_Mars_by_Perseverance_Mastcam-Z%2C_Sol_768_%2853475637956%29.jpg/1920px-NASA%27s_Ingenuity_helicopter_on_Mars_by_Perseverance_Mastcam-Z%2C_Sol_768_%2853475637956%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:NASA%27s_Ingenuity_helicopter_on_Mars_by_Perseverance_Mastcam-Z,_Sol_768_(53475637956).jpg",
+  "credit": "semeion.photo Credit: NASA/JPL-Caltech/ASU/Simeon Schmauß / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Perseverance rover Mars"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Perseverance_Landing_Skycrane.jpg/1920px-Perseverance_Landing_Skycrane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Perseverance_Landing_Skycrane.jpg",
+  "credit": "NASA / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Perseverance rover Mars"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Procnias_nudicollis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Procnias_nudicollis.jpg",
+  "credit": "Ben Tavener / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Procnias nudicollis"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Procnias_nudicollis_248196419_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Procnias_nudicollis_248196419_crop.jpg",
+  "credit": "Alessandher Piva / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Procnias nudicollis"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Thismia_rodwayi_%28Fairy_lantern%29_Bouton.JPG/1920px-Thismia_rodwayi_%28Fairy_lantern%29_Bouton.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Thismia_rodwayi_(Fairy_lantern)_Bouton.JPG",
+  "credit": "Thouny / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Thismia fairy lantern"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Thismia_rodwayi_%28Fairy_lantern%29_1.JPG/1920px-Thismia_rodwayi_%28Fairy_lantern%29_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Thismia_rodwayi_(Fairy_lantern)_1.JPG",
+  "credit": "Thouny / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Thismia fairy lantern"
+ }
+}
