@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/X_hypoxylon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:X_hypoxylon.jpg",
+  "credit": "Alisa Atamanchuk / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Xylariaceae stroma"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Xylaria_lindericola_%2810.3897-mycokeys.86.71623%29_Figure_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Xylaria_lindericola_(10.3897-mycokeys.86.71623)_Figure_3.jpg",
+  "credit": "Pan X-Y, Song Z-K, Qu Z, Liu T-D, Ma H-X (2022) ﻿Three new X / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Xylariaceae stroma"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Nosy_Be_mouse_lemur_%28Microcebus_mamiratra%29_sleeping_site.jpg/1920px-Nosy_Be_mouse_lemur_%28Microcebus_mamiratra%29_sleeping_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Nosy_Be_mouse_lemur_(Microcebus_mamiratra)_sleeping_site.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "sleeping mouse"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sleeping_Buffalo_Rock-_dead_mouse.jpg/1920px-Sleeping_Buffalo_Rock-_dead_mouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Sleeping_Buffalo_Rock-_dead_mouse.jpg",
+  "credit": "Thayne Tuason, user name:Biscuitroot / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "sleeping mouse"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Paranal_and_the_Pacific_at_sunset_%28dsc4088%2C_retouched%2C_cropped%29.jpg/1920px-Paranal_and_the_Pacific_at_sunset_%28dsc4088%2C_retouched%2C_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Paranal_and_the_Pacific_at_sunset_(dsc4088,_retouched,_cropped).jpg",
+  "credit": "ESO/G. Hüdepohl (atacamaphoto.com) / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Very Large Telescope Paranal"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Carina_Nebula.jpg/1920px-Carina_Nebula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Carina_Nebula.jpg",
+  "credit": "ESO/T. Preibisch / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Very Large Telescope Paranal"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Staten_Island_Ferry_terminal.jpg/1920px-Staten_Island_Ferry_terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Staten_Island_Ferry_terminal.jpg",
+  "credit": "Daniel Schwen / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Isla de los Estados"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Isla-de-los-Estados.png/1920px-Isla-de-los-Estados.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Isla-de-los-Estados.png",
+  "credit": "United Kingdom Hydrographic Office / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Isla de los Estados"
+ }
+}
