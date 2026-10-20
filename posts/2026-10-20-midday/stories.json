@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-20",
+ "handle": "@good_newsglobe",
+ "cover_hook": "A 2.2 kg fungus needed a whole new family",
+ "cover_highlight": "2.2 kg",
+ "cover_kicker": "New to science in China",
+ "caption_hook": "🍄 A giant fungus up to 50 cm tall and 2.2 kg was found in China, and it's so unique it got a brand-new family + 3 more wins 👇",
+ "question": "Mushroom: love it or hate it? Answer with 🍄 or 🙅",
+ "share_line": "Send this to the friend who loves mushrooms",
+ "reel_hook": "A 2.2 kg fungus needed a whole new family",
+ "first_comment": "Bonus: its family may have split from its relatives about 65 million years ago, around the time the dinosaurs died out. Yunnan may hold 100,000+ fungi species still unnamed. Spotted any odd ones? 🍄",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Yunnan, China",
+   "emoji": "🍄",
+   "stat": "2.2 kg",
+   "stat_label": "the heaviest one found",
+   "headline": "A 2.2 kg fungus in China was so unique it got its own family",
+   "summary": "Dianjunus rex pushes pale yellow columns up through the forest floor, reaching about 50 cm with its buried black stalk. DNA showed it belongs to a brand-new fungal family.",
+   "why": "Even a fungus big enough to hold in 2 hands was unknown to science.",
+   "source_name": "Earth.com",
+   "source_url": "https://www.earth.com/plants/scientists-discover-a-massive-fungus-with-a-towering-body-that-belongs-to-a-whole-new-family-born-just-after-the-dinosaurs-went-extinct/",
+   "source_ig": "@earthdotcom",
+   "image_query": "Xylariaceae stroma"
+  },
+  {
+   "category": "health",
+   "place": "Kentucky, USA",
+   "emoji": "😴",
+   "stat": "2 hrs",
+   "stat_label": "more sleep a day, in mice",
+   "headline": "Calming brain immune cells gave Alzheimer's mice 2+ hours of sleep",
+   "summary": "University of Kentucky scientists found overactive immune cells, not plaques, drove sleep loss. Removing most of them gave the mice over 2 extra hours of deep sleep a day.",
+   "why": "It points to a new way to help sleep in Alzheimer's, though it's not tested in people yet.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+   "source_ig": "",
+   "image_query": "sleeping mouse"
+  },
+  {
+   "category": "space",
+   "place": "Milky Way",
+   "emoji": "🌟",
+   "stat": "30,500",
+   "stat_label": "kelvin, its surface heat now",
+   "headline": "A dying star that came back to life is heating up again",
+   "summary": "Sakurai's Object reignited in the 1990s and hid behind dust. Using the Very Large Telescope, astronomers measured it again: about 30,500 K, its 1st temperature reading since 1998.",
+   "why": "Only 2 'born-again' stars have ever been caught changing in a human lifetime.",
+   "source_name": "Earth.com",
+   "source_url": "https://www.earth.com/space/a-dying-star-has-come-back-to-life-and-scientists-are-watching/",
+   "source_ig": "@earthdotcom",
+   "image_query": "Very Large Telescope Paranal"
+  },
+  {
+   "category": "archaeology",
+   "place": "Isla de los Estados, Argentina",
+   "emoji": "⚓",
+   "stat": "1873",
+   "stat_label": "the year the ship wrecked",
+   "headline": "A ship wrecked in 1873 may have been found near Patagonia",
+   "summary": "On a remote island, archaeologists found a 19th-century ship's timbers and a castaway camp with bottles, buttons and tools. They likely belong to Luis Piedra Buena's stranded crew.",
+   "why": "The castaways built a boat from the wreck and sailed to safety in Chile.",
+   "source_name": "VICE",
+   "source_url": "https://www.vice.com/en/article/archaeologists-uncovered-a-150-year-old-shipwreck-that-may-have-belonged-to-stranded-penguin-hunters/",
+   "source_ig": "@vice",
+   "image_query": "Isla de los Estados"
+  }
+ ],
+ "fun_fact": "Only 2 'born-again' stars have been seen reigniting: Sakurai's Object and V605 Aquilae.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #fungi #newspecies"
+}
