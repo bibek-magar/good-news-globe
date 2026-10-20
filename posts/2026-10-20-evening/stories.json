@@ -23,7 +23,8 @@
    "source_name": "Earth.com",
    "source_url": "https://www.earth.com/space/nasas-perseverance-rover-has-now-driven-farther-than-any-vehicle-on-another-world/",
    "source_ig": "@earthdotcom",
-   "image_query": "Perseverance rover Mars"
+   "image_query": "Perseverance rover Mars",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "science",
@@ -37,7 +38,8 @@
    "source_name": "Earth.com",
    "source_url": "https://www.earth.com/animals/what-is-the-worlds-loudest-bird-scientists-identify-two-new-contenders/",
    "source_ig": "@earthdotcom",
-   "image_query": "Procnias nudicollis"
+   "image_query": "Procnias nudicollis",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "nature",

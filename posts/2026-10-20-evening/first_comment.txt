@@ -1,0 +1,1 @@
+Bonus: the rover was only meant to drive about 20 km (12.4 miles). It picked its own path for over 90% of the journey. Where would you drive it next? 🚙
