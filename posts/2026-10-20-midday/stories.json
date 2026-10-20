@@ -31,7 +31,7 @@
    "emoji": "😴",
    "stat": "2 hrs",
    "stat_label": "more sleep a day, in mice",
-   "headline": "Calming brain immune cells gave Alzheimer's mice 2+ hours of sleep",
+   "headline": "Removing brain immune cells gave Alzheimer's mice 2+ hrs of sleep",
    "summary": "University of Kentucky scientists found overactive immune cells, not plaques, drove sleep loss. Removing most of them gave the mice over 2 extra hours of deep sleep a day.",
    "why": "It points to a new way to help sleep in Alzheimer's, though it's not tested in people yet.",
    "source_name": "ScienceDaily",
@@ -51,7 +51,8 @@
    "source_name": "Earth.com",
    "source_url": "https://www.earth.com/space/a-dying-star-has-come-back-to-life-and-scientists-are-watching/",
    "source_ig": "@earthdotcom",
-   "image_query": "Very Large Telescope Paranal"
+   "image_query": "Very Large Telescope Paranal",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "archaeology",
