@@ -1,18 +1,4 @@
 {
- "s1a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Spearfish_Formation_redbeds_%28Permian_and-or_Triassic%3B_construction_cut_in_Sundance%2C_Wyoming%2C_USA%29_3_%2819238491420%29.jpg/1920px-Spearfish_Formation_redbeds_%28Permian_and-or_Triassic%3B_construction_cut_in_Sundance%2C_Wyoming%2C_USA%29_3_%2819238491420%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Spearfish_Formation_redbeds_(Permian_and-or_Triassic;_construction_cut_in_Sundance,_Wyoming,_USA)_3_(19238491420).jpg",
-  "credit": "James St. John / Wikimedia Commons, CC BY 2.0",
-  "license": "CC BY 2.0",
-  "query": "Sundance Formation Wyoming"
- },
- "s1b": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Spearfish_Formation_redbeds_%28Permian_and-or_Triassic%3B_construction_cut_in_Sundance%2C_Wyoming%2C_USA%29_1_%2819400055056%29.jpg/1920px-Spearfish_Formation_redbeds_%28Permian_and-or_Triassic%3B_construction_cut_in_Sundance%2C_Wyoming%2C_USA%29_1_%2819400055056%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Spearfish_Formation_redbeds_(Permian_and-or_Triassic;_construction_cut_in_Sundance,_Wyoming,_USA)_1_(19400055056).jpg",
-  "credit": "James St. John / Wikimedia Commons, CC BY 2.0",
-  "license": "CC BY 2.0",
-  "query": "Sundance Formation Wyoming"
- },
  "s2a": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/LargeBinoTelescope_NASA.jpg/1920px-LargeBinoTelescope_NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "page": "https://commons.wikimedia.org/wiki/File:LargeBinoTelescope_NASA.jpg",
@@ -40,5 +26,33 @@
   "credit": "Ping an Chang / Wikimedia Commons, CC BY-SA 4.0",
   "license": "CC BY-SA 4.0",
   "query": "Yunnan karst cave"
+ },
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Velociraptor_Wyoming_Dinosaur_Center_White_Background.jpg/1920px-Velociraptor_Wyoming_Dinosaur_Center_White_Background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Velociraptor_Wyoming_Dinosaur_Center_White_Background.jpg",
+  "credit": "Ben Townsend from Blacksburg, Virginia / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Wyoming Dinosaur Center"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Wyoming_Dinosaur_Center_sign_-_panoramio.jpg/1920px-Wyoming_Dinosaur_Center_sign_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Wyoming_Dinosaur_Center_sign_-_panoramio.jpg",
+  "credit": "charkes / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Wyoming Dinosaur Center"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/M._xanthus_development.png/1920px-M._xanthus_development.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:M._xanthus_development.png",
+  "credit": "Trance Gemini on de.wikipedia.org / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Myxococcus xanthus"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Myxococcus-xanthus-schwarm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Myxococcus-xanthus-schwarm.jpg",
+  "credit": "Ronald Garcia / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Myxococcus xanthus"
  }
 }
