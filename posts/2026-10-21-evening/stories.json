@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-21",
+ "handle": "@good_newsglobe",
+ "cover_hook": "A 160M-year-old 'squid' is the fattest ever found",
+ "cover_highlight": "fattest ever",
+ "cover_kicker": "Only 2 fossils exist",
+ "caption_hook": "🦑 Wyoming fossils revealed the chunkiest 'squid' relative ever found, from 160 million years ago + 3 more wins you missed 👇",
+ "question": "Which would you rather see in person: 🦑 the fossil or 🐌 the cave snail?",
+ "share_line": "Send this to the friend who collects fossils",
+ "reel_hook": "A 160M-year-old 'squid' is the fattest ever found",
+ "first_comment": "Bonus: in Wyoming, these bullet-shaped fossils are so common that locals nickname them 'squid butts'. Have you ever found a fossil? 🦑",
+ "stories": [
+  {
+   "category": "science",
+   "place": "Wyoming, USA",
+   "emoji": "🦑",
+   "stat": "6 cm",
+   "stat_label": "wide, 3x its common cousins",
+   "headline": "Wyoming fossils revealed the 'fattest' squid relative ever",
+   "summary": "Most belemnite fossils in Wyoming are 1-2 cm wide. This new 160-million-year-old species is 6 cm across. A fossil collector found one of only 2 specimens and donated it.",
+   "why": "It belongs to a family scientists thought had died out millions of years earlier.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+   "source_ig": "",
+   "image_query": "Sundance Formation Wyoming"
+  },
+  {
+   "category": "space",
+   "place": "Arizona, USA",
+   "emoji": "🌌",
+   "stat": "0.5%",
+   "stat_label": "uncertainty, 3x sharper than before",
+   "headline": "Astronomers measured the Big Bang's helium more precisely than ever",
+   "summary": "In 130 hours of telescope time, a team studied 15 untouched galaxies to measure the helium made in the universe's first 5 minutes, to within 0.5%.",
+   "why": "A lead astronomer called it one of the biggest findings of his 40-year career.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
+   "source_ig": "",
+   "image_query": "Large Binocular Telescope"
+  },
+  {
+   "category": "health",
+   "place": "Saarbrücken, Germany",
+   "emoji": "🦠",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A soil microbe's weapon kills a dangerous gut bug and spares the good ones",
+   "summary": "Argyrin B, made by soil bacteria, cleared C. difficile in infected mice while barely touching helpful gut microbes. Taken by mouth, most of it stayed in the gut.",
+   "why": "It could one day spare patients repeat infections and even stool transplants.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093353.htm",
+   "source_ig": "",
+   "image_query": "myxobacteria fruiting bodies"
+  },
+  {
+   "category": "nature",
+   "place": "Yunnan, China",
+   "emoji": "🐌",
+   "stat": "1st",
+   "stat_label": "freshwater cave snail found in China",
+   "headline": "China's 1st known cave snail has no eyes and a see-through shell",
+   "summary": "Found 2,062 m up in a Yunnan cave, the tiny snail lives in total darkness and hides from light. It's named after a faceless god from an ancient Chinese text.",
+   "why": "It's the highest cave snail of its family ever recorded.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
+   "source_ig": "",
+   "image_query": "Yunnan karst cave"
+  }
+ ],
+ "fun_fact": "The new 'squid' fossil's name, Wyoteuthis, simply means 'a squid from Wyoming'.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #fossil #space"
+}
