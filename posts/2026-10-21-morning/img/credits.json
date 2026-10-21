@@ -1,0 +1,51 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Automated_teller_machine_downtown_Harrisonburg_VA_July_2012.jpg/1280px-Automated_teller_machine_downtown_Harrisonburg_VA_July_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Automated_teller_machine_downtown_Harrisonburg_VA_July_2012.jpg",
+  "credit": "Artaxerxes / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "automated teller machine"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bankomat_with_folding_lid.jpg/1920px-Bankomat_with_folding_lid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Bankomat_with_folding_lid.jpg",
+  "credit": "Per Ivar Lindekrantz / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "automated teller machine"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Expo-franco-cantabrian-art-502.jpg/1920px-Expo-franco-cantabrian-art-502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Expo-franco-cantabrian-art-502.jpg",
+  "credit": "Luistxo / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Abauntz cave Navarre"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dinornis_maximus_fossil_bird_%28moa%29_%28Quaternary%3B_New_Zealand%29_2_%2815429296712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Dinornis_maximus_fossil_bird_(moa)_(Quaternary;_New_Zealand)_2_(15429296712).jpg",
+  "credit": "James St. John / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "moa egg Dinornis"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Dinornis_maximus_fossil_bird_%28moa%29_%28Quaternary%3B_New_Zealand%29_4_%2815429633915%29.jpg/1920px-Dinornis_maximus_fossil_bird_%28moa%29_%28Quaternary%3B_New_Zealand%29_4_%2815429633915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Dinornis_maximus_fossil_bird_(moa)_(Quaternary;_New_Zealand)_4_(15429633915).jpg",
+  "credit": "James St. John / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "moa egg Dinornis"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Eastern_Lowland_Gorilla_Infant_in_Kahuzi_Biega_National_Park.jpg/1920px-Eastern_Lowland_Gorilla_Infant_in_Kahuzi_Biega_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Eastern_Lowland_Gorilla_Infant_in_Kahuzi_Biega_National_Park.jpg",
+  "credit": "Joe McKenna from San Diego, California / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Gorilla beringei graueri"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Eastern_Lowland_Gorilla_ZOO_Antwerp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Eastern_Lowland_Gorilla_ZOO_Antwerp.jpg",
+  "credit": "SpaceMusk / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Gorilla beringei graueri"
+ }
+}
