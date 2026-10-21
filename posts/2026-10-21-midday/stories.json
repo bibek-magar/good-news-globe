@@ -23,7 +23,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "Kettle Moraine State Forest"
+   "image_query": "Kettle Moraine State Forest",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "archaeology",
@@ -37,7 +38,8 @@
    "source_name": "Smithsonian Magazine",
    "source_url": "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/",
    "source_ig": "",
-   "image_query": "Brattahlid Greenland"
+   "image_query": "Brattahlid Greenland",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "science",
@@ -62,10 +64,11 @@
    "headline": "A rescue dog who sniffs out 'sea vomit' won Animal of the Year",
    "summary": "Sgiath, a 6-year-old Labrador, swapped mountain rescue for the coast. She smells out an invasive sea squirt nicknamed 'sea vomit' and has found hundreds of colonies.",
    "why": "Finding invaders early by nose is faster and cheaper than lab tests.",
-   "source_name": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/science/nature/a-labrador-once-trained-for-mountain-rescue-becomes-a-marine-conservation-detection-dog-sgiath-can-sniff-out-the-invasive-organism-known-as-sea-vomit-and-wins-ifaws-2026-animal-of-the-year-award/articleshow/135028213.cms",
+   "source_name": "The Independent",
+   "source_url": "https://www.independent.co.uk/bulletin/news/sea-vomit-dog-iwaf-award-b3067292.html",
    "source_ig": "",
-   "image_query": "Didemnum vexillum"
+   "image_query": "Didemnum vexillum",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "When Sgiath finds sea vomit, she doesn't bark: she freezes and stares at it.",
