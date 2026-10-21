@@ -18,12 +18,13 @@
    "stat": "6 cm",
    "stat_label": "wide, 3x its common cousins",
    "headline": "Wyoming fossils revealed the 'fattest' squid relative ever",
-   "summary": "Most belemnite fossils in Wyoming are 1-2 cm wide. This new 160-million-year-old species is 6 cm across. A fossil collector found one of only 2 specimens and donated it.",
+   "summary": "Most belemnite fossils in Wyoming are 1-2 cm wide. This new 160-million-year-old species is 6 cm across. Both known fossils are on show at the Wyoming Dinosaur Center.",
    "why": "It belongs to a family scientists thought had died out millions of years earlier.",
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
    "source_ig": "",
-   "image_query": "Wyoming Dinosaur Center"
+   "image_query": "Wyoming Dinosaur Center",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "space",
@@ -37,7 +38,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
    "source_ig": "",
-   "image_query": "Large Binocular Telescope"
+   "image_query": "Large Binocular Telescope",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "health",
@@ -65,7 +67,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
    "source_ig": "",
-   "image_query": "Yunnan karst cave"
+   "image_query": "Yunnan karst cave",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "The new 'squid' fossil's name, Wyoteuthis, simply means 'a squid from Wyoming'.",
