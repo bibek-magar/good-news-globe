@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-21",
+ "handle": "@good_newsglobe",
+ "cover_hook": "She restarted his heart twice. Then he proposed",
+ "cover_highlight": "heart twice",
+ "cover_kicker": "Struck by lightning",
+ "caption_hook": "⚡ Lightning hit their hike. She restarted her boyfriend's heart twice before rescuers came, and he proposed + 3 more wins 👇",
+ "question": "Pick one: 💍 the love story, ⛪ the lost church, 🕷️ the spiders or 🐕 the dog?",
+ "share_line": "Send this to the person who'd save you",
+ "reel_hook": "She restarted his heart twice. Then he proposed",
+ "first_comment": "Bonus: just before the strike, she turned to him and asked, 'What if we get struck by lightning?' Minutes later it happened. Would you have kept hiking or turned back? ⚡",
+ "stories": [
+  {
+   "category": "kindness",
+   "place": "Wisconsin, USA",
+   "emoji": "⚡",
+   "stat": "50 min",
+   "stat_label": "before rescuers reached them",
+   "headline": "Lightning stopped his heart. She restarted it twice",
+   "summary": "A lightning strike's ground current hit a couple on a forest hike. Eva gave Nick CPR for the 50 minutes rescuers needed to find them. After 3 days in hospital, he proposed.",
+   "why": "They're now married, and her local fire department gave her a lifesaving award.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Kettle Moraine State Forest"
+  },
+  {
+   "category": "archaeology",
+   "place": "Qinngua, Greenland",
+   "emoji": "⛪",
+   "stat": "60+",
+   "stat_label": "years since the last one was found",
+   "headline": "A lost Viking-era church was found near Erik the Red's farm",
+   "summary": "Archaeologists studied a stone ruin for 20 years without proof. Then a grave facing east, the Christian way, confirmed it: the first new Norse church found in Greenland in over 60 years.",
+   "why": "It may be a church that medieval texts call the 'Church under the Sunny Mountains'.",
+   "source_name": "Smithsonian Magazine",
+   "source_url": "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/",
+   "source_ig": "",
+   "image_query": "Brattahlid Greenland"
+  },
+  {
+   "category": "science",
+   "place": "Guizhou, China",
+   "emoji": "🕷️",
+   "stat": "12",
+   "stat_label": "new species of 'living fossil' spider",
+   "headline": "12 new species of 'living fossil' spiders were found in China",
+   "summary": "These trapdoor spiders still have 12 armour plates on their backs, a trait most spiders lost long ago. The finds lift their genus from 43 known species to 55.",
+   "why": "They belong to the oldest surviving branch of the spider family tree.",
+   "source_name": "Nature World News",
+   "source_url": "https://www.natureworldnews.com/articles/73594/20261021/twelve-new-segmented-trapdoor-spiders-guizhou-push-ancient-genus-55-known-species.htm",
+   "source_ig": "",
+   "image_query": "Songthela spider"
+  },
+  {
+   "category": "nature",
+   "place": "Scottish Highlands, UK",
+   "emoji": "🐕",
+   "stat": "1st",
+   "stat_label": "dog trained to sniff out 'sea vomit'",
+   "headline": "A rescue dog who sniffs out 'sea vomit' won Animal of the Year",
+   "summary": "Sgiath, a 6-year-old Labrador, swapped mountain rescue for the coast. She smells out an invasive sea squirt nicknamed 'sea vomit' and has found hundreds of colonies.",
+   "why": "Finding invaders early by nose is faster and cheaper than lab tests.",
+   "source_name": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/science/nature/a-labrador-once-trained-for-mountain-rescue-becomes-a-marine-conservation-detection-dog-sgiath-can-sniff-out-the-invasive-organism-known-as-sea-vomit-and-wins-ifaws-2026-animal-of-the-year-award/articleshow/135028213.cms",
+   "source_ig": "",
+   "image_query": "Didemnum vexillum"
+  }
+ ],
+ "fun_fact": "When Sgiath finds sea vomit, she doesn't bark: she freezes and stares at it.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #lovestory #archaeology"
+}
