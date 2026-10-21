@@ -23,7 +23,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/texas-man-finds-more-than-128000-on-top-of-a-banks-atm-and-returns-every-dollar/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "automated teller machine"
+   "image_query": "automated teller machine",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "archaeology",
@@ -51,7 +52,8 @@
    "source_name": "Los Angeles Times",
    "source_url": "https://www.latimes.com/science/story/2026-10-20/biotech-firm-colossal-set-to-return-extinct-birds-egg-to-new-zealand",
    "source_ig": "@latimes",
-   "image_query": "moa egg Dinornis"
+   "image_query": "moa egg Dinornis",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "nature",
@@ -65,7 +67,8 @@
    "source_name": "AP via Yahoo News",
    "source_url": "https://www.yahoo.com/news/world/articles/reintroduced-grauers-gorilla-raising-baby-194810268.html",
    "source_ig": "",
-   "image_query": "Gorilla beringei graueri"
+   "image_query": "Gorilla beringei graueri",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "The tallest moa could stand nearly 12 feet (3.6 m) tall with its neck stretched up.",
