@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-21",
+ "handle": "@good_newsglobe",
+ "cover_hook": "$128,514 on an ATM. He returned every dollar",
+ "cover_highlight": "$128,514",
+ "cover_kicker": "Not a dollar was missing",
+ "caption_hook": "💵 A barber in Texas found a bag with $128,514 sitting on top of an ATM, called the police and returned every dollar + 3 more wins 👇",
+ "question": "Would you have called the police right away? Answer ✅ or 🤔",
+ "share_line": "Send this to the most honest person you know",
+ "reel_hook": "$128,514 on an ATM. He returned every dollar",
+ "first_comment": "Bonus: police counted the cash twice, then ran it through a machine. Exactly $128,514. He agreed to be honoured only if the ceremony stayed private. What would you do first? 💵",
+ "stories": [
+  {
+   "category": "kindness",
+   "place": "Lewisville, Texas, USA",
+   "emoji": "💵",
+   "stat": "$128,514",
+   "stat_label": "returned, down to the dollar",
+   "headline": "A barber found $128,514 on top of an ATM and returned it all",
+   "summary": "A bag stuffed with cash and 19 checks sat on a bank's ATM, apparently left by a repair technician. The man called police at once and handed it over. Police counted every dollar.",
+   "why": "A detective said nobody had ever turned in that much money before.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/texas-man-finds-more-than-128000-on-top-of-a-banks-atm-and-returns-every-dollar/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "automated teller machine"
+  },
+  {
+   "category": "archaeology",
+   "place": "Navarre, Spain",
+   "emoji": "✋",
+   "stat": "46,000",
+   "stat_label": "years old, with DNA intact",
+   "headline": "A 46,000-year-old Neanderthal hand was found in a Spanish cave",
+   "summary": "6 bone fragments from Abauntz cave belong to a Neanderthal man's right hand, the first Neanderthal remains ever found in Navarre. His DNA survived well enough to study.",
+   "why": "He lived near the very end of the Neanderthals, about 6,000 years before they vanished.",
+   "source_name": "People",
+   "source_url": "https://people.com/46-000-year-old-bone-fragments-found-in-groundbreaking-discovery-12184511",
+   "source_ig": "@people",
+   "image_query": "Abauntz cave Navarre"
+  },
+  {
+   "category": "quirky",
+   "place": "Canterbury, New Zealand",
+   "emoji": "🥚",
+   "stat": "60",
+   "stat_label": "years away from home",
+   "headline": "A rare egg from an extinct giant bird is going home to New Zealand",
+   "summary": "Found in 1966, the moa egg spent about 60 years in a US private collection. Colossal Biosciences bought it at auction to return it to Ngāi Tahu, the Māori people whose ancestors lived with moa.",
+   "why": "Restored, it may become only the 9th nearly intact moa egg known.",
+   "source_name": "Los Angeles Times",
+   "source_url": "https://www.latimes.com/science/story/2026-10-20/biotech-firm-colossal-set-to-return-extinct-birds-egg-to-new-zealand",
+   "source_ig": "@latimes",
+   "image_query": "moa egg Dinornis"
+  },
+  {
+   "category": "nature",
+   "place": "Virunga National Park, DR Congo",
+   "emoji": "🦍",
+   "stat": "18",
+   "stat_label": "months old when she was rescued",
+   "headline": "A gorilla rescued from traffickers is now a mother in the wild",
+   "summary": "Lulingu, a critically endangered Grauer's gorilla, was saved from traffickers as a baby and raised at the GRACE sanctuary. Released near Mt. Tshiaberimu, she has given birth and is raising her baby.",
+   "why": "Her success has her carers planning to return more rescued gorillas to the wild.",
+   "source_name": "AP via Yahoo News",
+   "source_url": "https://www.yahoo.com/news/world/articles/reintroduced-grauers-gorilla-raising-baby-194810268.html",
+   "source_ig": "",
+   "image_query": "Gorilla beringei graueri"
+  }
+ ],
+ "fun_fact": "The tallest moa could stand nearly 12 feet (3.6 m) tall with its neck stretched up.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #honesty #kindness"
+}
