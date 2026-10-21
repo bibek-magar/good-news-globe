@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Spearfish_Formation_redbeds_%28Permian_and-or_Triassic%3B_construction_cut_in_Sundance%2C_Wyoming%2C_USA%29_3_%2819238491420%29.jpg/1920px-Spearfish_Formation_redbeds_%28Permian_and-or_Triassic%3B_construction_cut_in_Sundance%2C_Wyoming%2C_USA%29_3_%2819238491420%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Spearfish_Formation_redbeds_(Permian_and-or_Triassic;_construction_cut_in_Sundance,_Wyoming,_USA)_3_(19238491420).jpg",
+  "credit": "James St. John / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Sundance Formation Wyoming"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Spearfish_Formation_redbeds_%28Permian_and-or_Triassic%3B_construction_cut_in_Sundance%2C_Wyoming%2C_USA%29_1_%2819400055056%29.jpg/1920px-Spearfish_Formation_redbeds_%28Permian_and-or_Triassic%3B_construction_cut_in_Sundance%2C_Wyoming%2C_USA%29_1_%2819400055056%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Spearfish_Formation_redbeds_(Permian_and-or_Triassic;_construction_cut_in_Sundance,_Wyoming,_USA)_1_(19400055056).jpg",
+  "credit": "James St. John / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Sundance Formation Wyoming"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/LargeBinoTelescope_NASA.jpg/1920px-LargeBinoTelescope_NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:LargeBinoTelescope_NASA.jpg",
+  "credit": "NASA (Transfered by Quantanew/Original uploaded by Mohamed O / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Large Binocular Telescope"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Large_Binocular_Telescope_-_November_2006.jpg/1920px-Large_Binocular_Telescope_-_November_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Large_Binocular_Telescope_-_November_2006.jpg",
+  "credit": "No machine-readable author provided. GreatInca assumed (base / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Large Binocular Telescope"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/%E9%98%BF%E5%BB%AC%E5%8F%A4%E6%B4%9E_Alu_karst_cave_20191224112417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:%E9%98%BF%E5%BB%AC%E5%8F%A4%E6%B4%9E_Alu_karst_cave_20191224112417.jpg",
+  "credit": "Ping an Chang / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Yunnan karst cave"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/%E9%98%BF%E5%BB%AC%E5%8F%A4%E6%B4%9E_Alu_karst_cave_20191218102435_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:%E9%98%BF%E5%BB%AC%E5%8F%A4%E6%B4%9E_Alu_karst_cave_20191218102435_07.jpg",
+  "credit": "Ping an Chang / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Yunnan karst cave"
+ }
+}
