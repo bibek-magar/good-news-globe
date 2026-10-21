@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/20030216_10_Jackie_%40_Kettle_Moraine_State_Forest_%285596245055%29.jpg/1920px-20030216_10_Jackie_%40_Kettle_Moraine_State_Forest_%285596245055%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:20030216_10_Jackie_@_Kettle_Moraine_State_Forest_(5596245055).jpg",
+  "credit": "David Wilson from Oak Park, Illinois, USA / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Kettle Moraine State Forest"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Kettle_Moraine_State_Forest_Sign_Southern_Unit_Looking_North.jpg/1920px-Kettle_Moraine_State_Forest_Sign_Southern_Unit_Looking_North.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Kettle_Moraine_State_Forest_Sign_Southern_Unit_Looking_North.jpg",
+  "credit": "Royalbroil / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Kettle Moraine State Forest"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Ruiner_Brattahlid.JPG/1920px-Ruiner_Brattahlid.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ruiner_Brattahlid.JPG",
+  "credit": "PederM at Danish Wikipedia / Wikimedia Commons, CC BY-SA 2.5",
+  "license": "CC BY-SA 2.5",
+  "query": "Brattahlid Greenland"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Reproduction_of_brattahl%C3%AD%C3%B0_viking_church_%286141364662%29.jpg/1920px-Reproduction_of_brattahl%C3%AD%C3%B0_viking_church_%286141364662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Reproduction_of_brattahl%C3%AD%C3%B0_viking_church_(6141364662).jpg",
+  "credit": "claire rowland from london, uk / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Brattahlid Greenland"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Songthela_xiangnan_%2810.3897-zookeys.937.50548%29_Figure_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Songthela_xiangnan_(10.3897-zookeys.937.50548)_Figure_4.jpg",
+  "credit": "Li DQ, Liu FX, Li D, Xu X (2020) Two new species of the prim / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Songthela spider"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Songthela_xiangnan_%2810.3897-zookeys.937.50548%29_Figure_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Songthela_xiangnan_(10.3897-zookeys.937.50548)_Figure_5.jpg",
+  "credit": "Li DQ, Liu FX, Li D, Xu X (2020) Two new species of the prim / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Songthela spider"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Tunicate_colony_of_Didemnum_vexillum_overgrowing_gravel.JPG/1920px-Tunicate_colony_of_Didemnum_vexillum_overgrowing_gravel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Tunicate_colony_of_Didemnum_vexillum_overgrowing_gravel.JPG",
+  "credit": "U.S. Geological Survey/photo by Dann Blackwood (USGS) / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Didemnum vexillum"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Didemnum_vexillum_Kott%2C_2002_3400581414.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Didemnum_vexillum_Kott,_2002_3400581414.jpg",
+  "credit": "The Norwegian Biodiversity Information Centre (NBIC) (undefi / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Didemnum vexillum"
+ }
+}
