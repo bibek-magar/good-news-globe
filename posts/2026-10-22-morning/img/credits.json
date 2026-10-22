@@ -27,20 +27,6 @@
   "license": "CC BY-SA 3.0",
   "query": "Çayönü"
  },
- "s3a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Planta_Solar_PS20.jpg/1920px-Planta_Solar_PS20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Planta_Solar_PS20.jpg",
-  "credit": "kallerna / Wikimedia Commons, CC BY-SA 4.0",
-  "license": "CC BY-SA 4.0",
-  "query": "solar power plant Spain"
- },
- "s3b": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/PS20_%26_PS10_solar_power_plants.jpg/1920px-PS20_%26_PS10_solar_power_plants.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:PS20_%26_PS10_solar_power_plants.jpg",
-  "credit": "kallerna / Wikimedia Commons, CC BY-SA 4.0",
-  "license": "CC BY-SA 4.0",
-  "query": "solar power plant Spain"
- },
  "s4a": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Puerto_Rico_Municipal_Maritime_Police_-_U.S._Coast_Guard.jpg/1920px-Puerto_Rico_Municipal_Maritime_Police_-_U.S._Coast_Guard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "page": "https://commons.wikimedia.org/wiki/File:Puerto_Rico_Municipal_Maritime_Police_-_U.S._Coast_Guard.jpg",
@@ -54,5 +40,19 @@
   "credit": "The Eloquent Peasant / Wikimedia Commons, CC BY-SA 4.0",
   "license": "CC BY-SA 4.0",
   "query": "Puerto Rico coast"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/SevillaPV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:SevillaPV.jpg",
+  "credit": "afloresm / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "photovoltaic power station Spain"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Barcelona%2C_Spain_%28Unsplash_HCha-UHkIg8%29.jpg/1920px-Barcelona%2C_Spain_%28Unsplash_HCha-UHkIg8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Barcelona,_Spain_(Unsplash_HCha-UHkIg8).jpg",
+  "credit": "Biel Morro bielmb / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "photovoltaic power station Spain"
  }
 }
