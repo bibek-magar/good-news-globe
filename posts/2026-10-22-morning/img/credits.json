@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Stone_ball_Xujiayao.jpg/1920px-Stone_ball_Xujiayao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Stone_ball_Xujiayao.jpg",
+  "credit": "Jonathan Chen / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Xujiayao site"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Xujiayao-Houjiayao.png/1920px-Xujiayao-Houjiayao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Xujiayao-Houjiayao.png",
+  "credit": "Hua Tu, Guanjun Shen, Haixu Li, Fei Xie, Darryl E. Granger / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Xujiayao site"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Cay%C3%B6n%C3%BC_-_Zellplangeb%C3%A4ude.jpg/1920px-Cay%C3%B6n%C3%BC_-_Zellplangeb%C3%A4ude.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cay%C3%B6n%C3%BC_-_Zellplangeb%C3%A4ude.jpg",
+  "credit": "Krähenstein / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Çayönü"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Cay%C3%B6n%C3%BC_-_r%C3%B6mische_Gr%C3%A4ber.jpg/1920px-Cay%C3%B6n%C3%BC_-_r%C3%B6mische_Gr%C3%A4ber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cay%C3%B6n%C3%BC_-_r%C3%B6mische_Gr%C3%A4ber.jpg",
+  "credit": "Krähenstein / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Çayönü"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Planta_Solar_PS20.jpg/1920px-Planta_Solar_PS20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Planta_Solar_PS20.jpg",
+  "credit": "kallerna / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "solar power plant Spain"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/PS20_%26_PS10_solar_power_plants.jpg/1920px-PS20_%26_PS10_solar_power_plants.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:PS20_%26_PS10_solar_power_plants.jpg",
+  "credit": "kallerna / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "solar power plant Spain"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Puerto_Rico_Municipal_Maritime_Police_-_U.S._Coast_Guard.jpg/1920px-Puerto_Rico_Municipal_Maritime_Police_-_U.S._Coast_Guard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Puerto_Rico_Municipal_Maritime_Police_-_U.S._Coast_Guard.jpg",
+  "credit": "Tomás Del Coro / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Puerto Rico coast"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Puerto_Rico_highway_6685_in_Manat%C3%AD%2C_Puerto_Rico.jpg/1920px-Puerto_Rico_highway_6685_in_Manat%C3%AD%2C_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Puerto_Rico_highway_6685_in_Manat%C3%AD,_Puerto_Rico.jpg",
+  "credit": "The Eloquent Peasant / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Puerto Rico coast"
+ }
+}
