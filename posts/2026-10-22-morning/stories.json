@@ -37,7 +37,8 @@
    "source_name": "Türkiye Today",
    "source_url": "https://www.turkiyetoday.com/culture/archaeologists-in-turkiye-find-9000-year-old-copper-workshop-3230729",
    "source_ig": "",
-   "image_query": "Çayönü"
+   "image_query": "Çayönü",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "energy",
@@ -51,7 +52,8 @@
    "source_name": "Vozpópuli",
    "source_url": "https://www.vozpopuli.com/economia/energia/la-energia-solar-ha-ahorrado-mas-de-17000-millones-de-euros-a-los-consumidores-espanoles-en-solo-18-meses.html",
    "source_ig": "@vozpopuli",
-   "image_query": "photovoltaic power station Spain"
+   "image_query": "photovoltaic power station Spain",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "nature",
@@ -61,7 +63,7 @@
    "stat_label": "filed under the wrong name",
    "headline": "A giant sea bug in a museum for decades is a new species",
    "summary": "Caught off Puerto Rico in the 1980s, this 32 cm giant isopod sat in a German collection under the wrong name. A CT scan revealed a comb of 15 bristles on its legs no relative has.",
-   "why": "Its makers say more new species may be hiding in museum drawers.",
+   "why": "The researchers say more new species may be hiding in museum drawers.",
    "source_name": "Nature World News",
    "source_url": "https://www.natureworldnews.com/articles/73601/20261021/puerto-ricos-newly-named-giant-isopod-points-15-million-year-journey-through-vanished-panama.htm",
    "source_ig": "",
