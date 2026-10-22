@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-22",
+ "handle": "@good_newsglobe",
+ "cover_hook": "150 years on, a mystery skeleton may have a name",
+ "cover_highlight": "150 years on",
+ "cover_kicker": "Found in a Roman coffin",
+ "caption_hook": "💀 A skeleton found in a Roman coffin at Westminster Abbey in 1869 may finally have a name: a medieval abbot + 3 more wins 👇",
+ "question": "Which would you rather see in person: 🏰 the abbey coffin or ☄️ the new comet?",
+ "share_line": "Send this to the friend who loves a good mystery",
+ "reel_hook": "150 years on, a mystery skeleton may have a name",
+ "first_comment": "Bonus: the coffin was made for a wealthy Roman Briton, Valerius Amandinus, whose name is still carved on it. About 600 years later, someone else was put inside. Who would you guess? 🏰",
+ "stories": [
+  {
+   "category": "archaeology",
+   "place": "London, UK",
+   "emoji": "🏰",
+   "stat": "1869",
+   "stat_label": "the year the coffin was dug up",
+   "headline": "Westminster Abbey's mystery skeleton may be a medieval abbot",
+   "summary": "The skeleton in a Roman stone coffin dates to 987-1052 AD, centuries after the coffin was made. An expert now names 2 abbots who fit: Ælfwig, who died around 1020, or Wulfnoth.",
+   "why": "New tests found he was 35-49 years old, not under 30 as Victorians thought.",
+   "source_name": "People",
+   "source_url": "https://people.com/150-year-old-mystery-of-skeleton-found-in-roman-coffin-at-westminster-abbey-may-finally-be-solved-12186110",
+   "source_ig": "@people",
+   "image_query": "Westminster Abbey"
+  },
+  {
+   "category": "space",
+   "place": "Euclid space telescope, ESA",
+   "emoji": "☄️",
+   "stat": "1st",
+   "stat_label": "comet found by Euclid",
+   "headline": "A galaxy-mapping telescope found its 1st comet by accident",
+   "summary": "Euclid wasn't built to hunt comets, but a PhD student's software spotted one streaking through 5 sets of its images. The comet is about 1.3 billion km away and loops over the solar system.",
+   "why": "Its orbit takes thousands of years, so this may be its 1st visit since telescopes were invented.",
+   "source_name": "BBC Sky at Night Magazine",
+   "source_url": "https://www.skyatnightmagazine.com/news/comet-c-2026-s1-euclid",
+   "source_ig": "",
+   "image_query": "Euclid spacecraft"
+  },
+  {
+   "category": "kindness",
+   "place": "Jim Corbett National Park, India",
+   "emoji": "🐅",
+   "stat": "3",
+   "stat_label": "strikes of a stick to save a friend",
+   "headline": "A forest worker fought off a tiger with a stick to save his friend",
+   "summary": "On patrol in Corbett, Ramnath turned to see a tiger on top of his young colleague Pitambar. He hit it 3 times with his wooden stick; it let go, and Pitambar survived with bite wounds.",
+   "why": "The two are so close that Pitambar calls Ramnath 'uncle'.",
+   "source_name": "ThePrint (PTI)",
+   "source_url": "https://theprint.in/india/galat-jagah-pakad-liya-forest-guards-split-second-courage-saves-colleague-from-tiger/3078395",
+   "source_ig": "@theprintindia",
+   "image_query": "Jim Corbett National Park"
+  },
+  {
+   "category": "nature",
+   "place": "Florida Keys, USA",
+   "emoji": "🐋",
+   "stat": "17",
+   "stat_label": "months of care before going home",
+   "headline": "After 17 months of care, an orphaned manatee swam free",
+   "summary": "Cullen was hit by a boat in May 2025 alongside his mother, who didn't survive. After rehab in Miami, the Keys and Jacksonville, he was released back into the sea at Tavernier.",
+   "why": "He was nursed back to strength across 3 different rescue sites.",
+   "source_name": "WSVN 7News",
+   "source_url": "https://wsvn.com/news/local/florida/rescued-manatee-returns-wild",
+   "source_ig": "",
+   "image_query": "Trichechus manatus latirostris"
+  }
+ ],
+ "fun_fact": "Before the abbey skeleton, its Roman coffin's lid was recarved with a big cross, around 1,000 years ago.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #archaeology #space"
+}
