@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Westminster_Abbey_-_02.jpg/1920px-Westminster_Abbey_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey_-_02.jpg",
+  "credit": "Carlos Delgado / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Westminster Abbey"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/London%2C_Westminster_Abbey_--_2016_--_4811.jpg/1920px-London%2C_Westminster_Abbey_--_2016_--_4811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:London,_Westminster_Abbey_--_2016_--_4811.jpg",
+  "credit": "Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Westminster Abbey"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Euclid_spacecraft_ESA24912474.jpg/1920px-Euclid_spacecraft_ESA24912474.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Euclid_spacecraft_ESA24912474.jpg",
+  "credit": "European Space Agency / Wikimedia Commons, CC BY-SA 3.0 igo",
+  "license": "CC BY-SA 3.0 igo",
+  "query": "Euclid spacecraft"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Euclid_Spacecraft_in_Cleanroom_%28PIA25783%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Euclid_Spacecraft_in_Cleanroom_(PIA25783)_(cropped).jpg",
+  "credit": "NASA Jet Propulsion Laboratory / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Euclid spacecraft"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/001_Golden_jackal_and_azureum_flowers_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg/1920px-001_Golden_jackal_and_azureum_flowers_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:001_Golden_jackal_and_azureum_flowers_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg",
+  "credit": "Giles Laurent / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Jim Corbett National Park"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/023_Indian_peafowl_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg/1920px-023_Indian_peafowl_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:023_Indian_peafowl_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg",
+  "credit": "Giles Laurent / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Jim Corbett National Park"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Manatee_trichechus_manatus_latirostris_close_up_underwater_photo.jpg/1920px-Manatee_trichechus_manatus_latirostris_close_up_underwater_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Manatee_trichechus_manatus_latirostris_close_up_underwater_photo.jpg",
+  "credit": "Ramos Keith, U.S. Fish and Wildlife Service / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Trichechus manatus latirostris"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Trichechus_manatus_latirostris_florida_manatee.jpg/1920px-Trichechus_manatus_latirostris_florida_manatee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Trichechus_manatus_latirostris_florida_manatee.jpg",
+  "credit": "Hillebrand Steve, U.S. Fish and Wildlife Service / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Trichechus manatus latirostris"
+ }
+}
