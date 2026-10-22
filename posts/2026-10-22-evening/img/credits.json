@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Casuarius_casuarius_MHNT.ZOO.2010.11.1.9.jpg/1920px-Casuarius_casuarius_MHNT.ZOO.2010.11.1.9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Casuarius_casuarius_MHNT.ZOO.2010.11.1.9.jpg",
+  "credit": "Roger Culos / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Casuarius casuarius"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Skull_of_cassowary_%28Casuarius_casuarius%29%2C_Paris_-_2025.jpg/1920px-Skull_of_cassowary_%28Casuarius_casuarius%29%2C_Paris_-_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Skull_of_cassowary_(Casuarius_casuarius),_Paris_-_2025.jpg",
+  "credit": "Titlutin / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Casuarius casuarius"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/2014-07-24_Landesbeh%C3%B6rdenhaus%2C_Bonn-Gronau_IMG_2200.jpg/1920px-2014-07-24_Landesbeh%C3%B6rdenhaus%2C_Bonn-Gronau_IMG_2200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2014-07-24_Landesbeh%C3%B6rdenhaus,_Bonn-Gronau_IMG_2200.jpg",
+  "credit": "Eckhard Henkel / Wikimedia Commons, CC BY-SA 3.0 de",
+  "license": "CC BY-SA 3.0 de",
+  "query": "University of Bonn"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bonn%2C_Hofgarten_%28und_Akademisches_Kunstmuseum%29_--_2016_--_4005.jpg/1920px-Bonn%2C_Hofgarten_%28und_Akademisches_Kunstmuseum%29_--_2016_--_4005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg",
+  "credit": "Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "University of Bonn"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/2008_at_Exeter_St_Davids_-_station_frontage.jpg/1920px-2008_at_Exeter_St_Davids_-_station_frontage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2008_at_Exeter_St_Davids_-_station_frontage.jpg",
+  "credit": "Geof Sheppard / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Exeter St Davids railway station"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Exeter_St_Davids_railway_station_2018_2.jpg/1920px-Exeter_St_Davids_railway_station_2018_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Exeter_St_Davids_railway_station_2018_2.jpg",
+  "credit": "Smiley.toerist / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Exeter St Davids railway station"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Postcard_showing_wheelchair_and_crutches%2C_Mineral_Wells%2C_Texas_%2810001284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Postcard_showing_wheelchair_and_crutches,_Mineral_Wells,_Texas_(10001284).jpg",
+  "credit": "The Albertype Co. (Brooklyn) / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Mineral Wells Texas"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Greetings_from_Mineral_Wells%2C_Texas_-_Large_Letter_Postcard_%289132866137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Greetings_from_Mineral_Wells,_Texas_-_Large_Letter_Postcard_(9132866137).jpg",
+  "credit": "Steve Shook from Moscow, Idaho, USA / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Mineral Wells Texas"
+ }
+}
