@@ -23,7 +23,8 @@
    "source_name": "People",
    "source_url": "https://people.com/150-year-old-mystery-of-skeleton-found-in-roman-coffin-at-westminster-abbey-may-finally-be-solved-12186110",
    "source_ig": "@people",
-   "image_query": "Westminster Abbey"
+   "image_query": "Westminster Abbey",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "space",
@@ -37,7 +38,8 @@
    "source_name": "BBC Sky at Night Magazine",
    "source_url": "https://www.skyatnightmagazine.com/news/comet-c-2026-s1-euclid",
    "source_ig": "",
-   "image_query": "Euclid spacecraft"
+   "image_query": "Euclid spacecraft",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "kindness",
@@ -65,9 +67,10 @@
    "source_name": "WSVN 7News",
    "source_url": "https://wsvn.com/news/local/florida/rescued-manatee-returns-wild",
    "source_ig": "",
-   "image_query": "Trichechus manatus latirostris"
+   "image_query": "Trichechus manatus latirostris",
+   "image": "img/s4a.jpg"
   }
  ],
- "fun_fact": "Before the abbey skeleton, its Roman coffin's lid was recarved with a big cross, around 1,000 years ago.",
+ "fun_fact": "The Roman coffin's lid was recarved with a big cross about 1,000 years ago, a clue it had been reused.",
  "hashtags": "#goodnews #positivenews #goodnewsglobe #archaeology #space"
 }
