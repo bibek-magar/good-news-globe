@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-22",
+ "handle": "@good_newsglobe",
+ "cover_hook": "34 years later, bright green cassowary eggs",
+ "cover_highlight": "34 years later",
+ "cover_kicker": "A zoo first since 1992",
+ "caption_hook": "🥚 Adelaide Zoo's cassowaries laid bright green eggs, the zoo's first in 34 years + 3 more wins you missed 👇",
+ "question": "Either/or: 🥚 the cassowary eggs or ⛵ the backyard boat?",
+ "share_line": "Send this to the friend who never gives up",
+ "reel_hook": "34 years later, bright green cassowary eggs",
+ "first_comment": "Bonus: if the eggs hatch, it's the dad who does the work. Male cassowaries sit on the eggs for about 50 days and raise the chicks. Would you guess that? 🥚",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Adelaide, Australia",
+   "emoji": "🥚",
+   "stat": "34",
+   "stat_label": "years since the zoo's last eggs",
+   "headline": "Adelaide Zoo's cassowaries laid their 1st eggs in 34 years",
+   "summary": "Martina, 10, and Jeffrey, 13, were paired for the 1st time and soon 2 bright green eggs appeared. Keepers don't know yet if they're fertile, but they're watching closely.",
+   "why": "The vivid green shell is camouflage, hiding the eggs from predators in the forest.",
+   "source_name": "FOX via Yahoo News",
+   "source_url": "https://www.yahoo.com/news/world/articles/adelaide-zoo-celebrates-1st-bright-013655949.html",
+   "source_ig": "",
+   "image_query": "Casuarius casuarius"
+  },
+  {
+   "category": "health",
+   "place": "Bonn, Germany",
+   "emoji": "🧬",
+   "stat": "60+",
+   "stat_label": "years of cell aging reversed",
+   "headline": "Blood cells from an 80-year-old were reset to under 20",
+   "summary": "Scientists turned an 80-year-old's blood cells into brain stem cells whose molecular age read under 20. The change happened slowly enough to track for over 100 days.",
+   "why": "It's a lab model, not a treatment, but it lets scientists study how cells get younger.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
+   "source_ig": "",
+   "image_query": "University of Bonn"
+  },
+  {
+   "category": "space",
+   "place": "Exeter, UK",
+   "emoji": "🚂",
+   "stat": "16 min",
+   "stat_label": "train delay caused by a solar storm",
+   "headline": "A 178-year-old solar storm mystery was solved by a typo",
+   "summary": "An 1871 report said a solar storm delayed an Exeter train by 16 minutes in 1841. But that rail line only opened in 1846. Old records show it really happened in 1848.",
+   "why": "It's still one of the 1st times space weather is known to have disrupted technology.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+   "source_ig": "",
+   "image_query": "Exeter St Davids railway station"
+  },
+  {
+   "category": "kindness",
+   "place": "Mineral Wells, Texas, USA",
+   "emoji": "⛵",
+   "stat": "1987",
+   "stat_label": "when he started building his boat",
+   "headline": "Strangers are helping an 86-year-old finish his 62-foot boat",
+   "summary": "Dale has welded a steel boat in his yard since 1987, dreaming of sailing to Alaska. 3 visitors from England started a fundraiser, and 1,500+ people gave over $41,000 in days.",
+   "why": "The money will help finish the boat and move it down a steep hill to the water.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/total-strangers-help-86-year-old-man-make-40-year-dream-reality/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Mineral Wells Texas"
+  }
+ ],
+ "fun_fact": "Dale's backyard boat already has 4 staterooms and is about 75% finished.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #cassowary #kindness"
+}
