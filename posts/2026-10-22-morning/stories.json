@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-22",
+ "handle": "@good_newsglobe",
+ "cover_hook": "50 years later, mystery fossils got a face",
+ "cover_highlight": "50 years later",
+ "cover_kicker": "130,000+ years old",
+ "caption_hook": "🦴 Fossils dug up in China in the 1970s turned out to be Denisovans, a lost human group, and now we know their face + 3 more wins 👇",
+ "question": "Pick a number: which story surprised you most, 1, 2, 3 or 4?",
+ "share_line": "Send this to the friend who loves human history",
+ "reel_hook": "50 years later, mystery fossils got a face",
+ "first_comment": "Bonus: the proof came from proteins, not DNA. Proteins can survive longer than DNA, so they can unlock fossils too old for DNA tests. What should scientists test next? 🧬",
+ "stories": [
+  {
+   "category": "science",
+   "place": "Xujiayao, China",
+   "emoji": "🦴",
+   "stat": "130,000",
+   "stat_label": "years old, at least",
+   "headline": "Fossils found in the 1970s turned out to be Denisovans",
+   "summary": "20 fossils from Xujiayao in northern China were a puzzle for decades. Ancient proteins now show they're Denisovans, an extinct human group with a sloping forehead and a huge brow ridge.",
+   "why": "Denisovans were first known from just a finger bone in 2010. Now we can picture their faces.",
+   "source_name": "Nature",
+   "source_url": "https://www.nature.com/articles/d41586-026-03360-0",
+   "source_ig": "",
+   "image_query": "Xujiayao site"
+  },
+  {
+   "category": "archaeology",
+   "place": "Diyarbakır, Türkiye",
+   "emoji": "⛏️",
+   "stat": "9,000",
+   "stat_label": "years old, copper beads inside",
+   "headline": "A 9,000-year-old copper workshop was found in Türkiye",
+   "summary": "At Çayönü, archaeologists uncovered a 5 m² stone-paved work area where early farmers shaped green malachite and copper into beads. About 42 malachite and copper finds came out of it.",
+   "why": "It shows people there were working copper for about 2,000 years.",
+   "source_name": "Türkiye Today",
+   "source_url": "https://www.turkiyetoday.com/culture/archaeologists-in-turkiye-find-9000-year-old-copper-workshop-3230729",
+   "source_ig": "",
+   "image_query": "Çayönü"
+  },
+  {
+   "category": "energy",
+   "place": "Spain",
+   "emoji": "☀️",
+   "stat": "€17bn",
+   "stat_label": "saved on power bills in 18 months",
+   "headline": "Solar power saved Spain €17 billion in 18 months",
+   "summary": "From January 2025 to June 2026, solar cut Spain's average wholesale power price to €60 a MWh, versus about €112 without it, a study by the national solar association found.",
+   "why": "Rooftop panels on homes and firms made up €2.8 billion of the savings, helping everyone's bill.",
+   "source_name": "Vozpópuli",
+   "source_url": "https://www.vozpopuli.com/economia/energia/la-energia-solar-ha-ahorrado-mas-de-17000-millones-de-euros-a-los-consumidores-espanoles-en-solo-18-meses.html",
+   "source_ig": "@vozpopuli",
+   "image_query": "solar power plant Spain"
+  },
+  {
+   "category": "nature",
+   "place": "Puerto Rico",
+   "emoji": "🦐",
+   "stat": "40 yrs",
+   "stat_label": "filed under the wrong name",
+   "headline": "A giant sea bug in a museum for decades is a new species",
+   "summary": "Caught off Puerto Rico in the 1980s, this 32 cm giant isopod sat in a German collection under the wrong name. A CT scan revealed a comb of 15 bristles on its legs no relative has.",
+   "why": "Its makers say more new species may be hiding in museum drawers.",
+   "source_name": "Nature World News",
+   "source_url": "https://www.natureworldnews.com/articles/73601/20261021/puerto-ricos-newly-named-giant-isopod-points-15-million-year-journey-through-vanished-panama.htm",
+   "source_ig": "",
+   "image_query": "Puerto Rico coast"
+  }
+ ],
+ "fun_fact": "The new isopod's name honours Boríken, the Indigenous Taíno name for Puerto Rico.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #archaeology #science"
+}
