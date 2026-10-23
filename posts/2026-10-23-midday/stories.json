@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-23",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Unseen by science since the 1930s, it's back",
+ "cover_highlight": "since the 1930s",
+ "cover_kicker": "A venomous primate",
+ "caption_hook": "🐒 The Bangka slow loris, a venomous primate missing from science since the 1930s, is alive in Indonesia + 3 more wins 👇",
+ "question": "Either/or: 🐒 the lost loris or 🐶 the Yellowstone dog?",
+ "share_line": "Send this to the friend who loves weird animals",
+ "reel_hook": "Unseen by science since the 1930s, it's back",
+ "first_comment": "Bonus: slow lorises are the only venomous primates. They lick a gland on their arm and mix it with saliva, so their bite can swell. Did you know primates could be venomous? 🐒",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Bangka Island, Indonesia",
+   "emoji": "🐒",
+   "stat": "90+",
+   "stat_label": "rescues proving it still lives",
+   "headline": "A primate missing from science since the 1930s is alive",
+   "summary": "The Bangka slow loris was listed as 'possibly extinct'. But a rescue centre had saved 90+ of them from gardens, roads and power lines since 2015, and released 86 back to forest.",
+   "why": "Locals never lost it: their rescue records finally put it back on the scientific map.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-venomous-primate-thought-lost-science.html",
+   "source_ig": "",
+   "image_query": "Nycticebus bancanus"
+  },
+  {
+   "category": "invention",
+   "place": "Zurich, Switzerland",
+   "emoji": "♻️",
+   "stat": "98%",
+   "stat_label": "of Plexiglass turned back into raw material",
+   "headline": "A cheap trick recycles Plexiglass back to new, up to 98%",
+   "summary": "ETH Zurich chemists broke acrylic glass back into its building blocks with one cheap chemical, no solvents, at about half the heat older methods need. Even dyed scraps came back pure.",
+   "why": "The recycled plastic is as good as new, and it works with existing factory equipment.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "acrylic glass sheets"
+  },
+  {
+   "category": "space",
+   "place": "Valles Marineris, Mars",
+   "emoji": "🪐",
+   "stat": "2021",
+   "stat_label": "the year InSight felt the quake",
+   "headline": "The solar system's biggest canyon is still quaking on Mars",
+   "summary": "A marsquake picked up by NASA's InSight lander came from a fault slipping 20-40 km beneath Valles Marineris. No impact or landslide could explain it.",
+   "why": "Mars has no moving plates, yet billion-year-old faults there can still break.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-giant-canyon-mars-tectonically-today.html",
+   "source_ig": "",
+   "image_query": "Valles Marineris"
+  },
+  {
+   "category": "kindness",
+   "place": "Yellowstone National Park, USA",
+   "emoji": "🐶",
+   "stat": "1+ mo",
+   "stat_label": "alone in the wild before rescue",
+   "headline": "A 10-year-old dog survived a month alone in Yellowstone",
+   "summary": "Luna, a Jack Russell, bolted from a cabin and spent over a month among bears and wolves. A volunteer caught her in a trap baited with her family's T-shirt and pillowcase.",
+   "why": "Sightings suggest she kept retracing her family's steps around the park.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/10-year-old-dog-found-month-lost-in-yellowstone/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Jack Russell Terrier"
+  }
+ ],
+ "fun_fact": "Valles Marineris is nearly 3,900 km long, wider than the continental USA from coast to coast.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #wildlife #mars"
+}
