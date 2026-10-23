@@ -4,7 +4,7 @@
  "handle": "@good_newsglobe",
  "cover_hook": "A wild seahorse filmed in Ireland for the 1st time",
  "cover_highlight": "1st time",
- "cover_kicker": "Last seen alive in 1956",
+ "cover_kicker": "Only 8 earlier records",
  "caption_hook": "🐴 Night divers in Cork filmed a wild long-snouted seahorse, believed to be a 1st for Irish waters + 3 more wins 👇",
  "question": "Reply with one emoji for the story you'd tell a friend first 🐴🎲🥥🐦",
  "share_line": "Send this to the friend who loves the ocean",
@@ -18,12 +18,13 @@
    "stat": "1st",
    "stat_label": "wild seahorse filmed in Irish waters",
    "headline": "Night divers filmed a rare seahorse in Ireland's seagrass",
-   "summary": "A long-snouted seahorse just 4-5 cm long was spotted in Cork seagrass. Ireland has only 8 earlier records, most over 100 years old, the latest live one in 1956.",
+   "summary": "A long-snouted seahorse just 4-5 cm long was spotted in Cork seagrass. Ireland has only 8 earlier seahorse records, the first in 1837 and most over 100 years old.",
    "why": "It's believed to be the 1st time a wild seahorse has been caught on video in Irish waters.",
    "source_name": "The Irish Times",
    "source_url": "https://www.irishtimes.com/environment/2026/10/22/night-divers-in-cork-make-rare-sighting-of-long-snouted-seahorse/",
    "source_ig": "",
-   "image_query": "Hippocampus guttulatus"
+   "image_query": "Hippocampus guttulatus",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "archaeology",
@@ -51,7 +52,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/coconut-oil-could-make-great-sustainable-jet-fuel-pioneering-experiments-demonstrate/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "coconut halves"
+   "image_query": "coconut halves",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "nature",
@@ -65,7 +67,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "Nuutele island Samoa"
+   "image_query": "Nuutele island Samoa",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "The ancient dice were 2-sided, like a coin: one marked face counted as the scoring side.",
