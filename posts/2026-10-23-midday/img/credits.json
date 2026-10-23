@@ -1,0 +1,44 @@
+{
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bromine_vial_in_acrylic_cube.jpg/1920px-Bromine_vial_in_acrylic_cube.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Bromine_vial_in_acrylic_cube.jpg",
+  "credit": "Alchemist-hp (pse-mendelejew.de) / Wikimedia Commons, CC BY-SA 3.0 de",
+  "license": "CC BY-SA 3.0 de",
+  "query": "acrylic glass sheets"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Colorful_interior_acrylic_photo_display.jpg/1920px-Colorful_interior_acrylic_photo_display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Colorful_interior_acrylic_photo_display.jpg",
+  "credit": "Helene.3160 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "acrylic glass sheets"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mars_Valles_Marineris_EDIT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris_EDIT.jpg",
+  "credit": "Mars_Valles_Marineris.jpeg: NASA picture\nderivative work: Lo / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Valles Marineris"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/TerraformedMarsGlobeRealistic.jpg/1920px-TerraformedMarsGlobeRealistic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:TerraformedMarsGlobeRealistic.jpg",
+  "credit": "Daein Ballard / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Valles Marineris"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Szczenie_Jack_Russell_Terrier3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Szczenie_Jack_Russell_Terrier3.jpg",
+  "credit": "Szczenie Jack Russell Terrier.jpg: Siristru\nderivative work: / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Jack Russell Terrier"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Jack_Russell_terrier_puppy.jpg/1920px-Jack_Russell_terrier_puppy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jack_Russell_terrier_puppy.jpg",
+  "credit": "3steph14 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Jack Russell Terrier"
+ }
+}
