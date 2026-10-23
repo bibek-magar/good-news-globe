@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-23",
+ "handle": "@good_newsglobe",
+ "cover_hook": "74 then, up to 89 now: a rare ape rebounds",
+ "cover_highlight": "up to 89",
+ "cover_kicker": "Once feared extinct",
+ "caption_hook": "🐒 The world's 2nd-rarest ape is growing: a new count found up to 89 cao vit gibbons, up from 74 + 3 more wins you missed 👇",
+ "question": "Pick a number: which story made your day, 1, 2, 3 or 4?",
+ "share_line": "Send this to the friend who loves wild animals",
+ "reel_hook": "74 then, up to 89 now: a rare ape rebounds",
+ "first_comment": "Bonus: the gibbons were counted partly by their songs. Each male has a unique call, recorded at nearly 30 listening posts. Would you recognise a friend just by their voice? 🎶",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Vietnam-China border",
+   "emoji": "🐒",
+   "stat": "89",
+   "stat_label": "gibbons counted, up from 74",
+   "headline": "The world's 2nd-rarest ape grew to as many as 89",
+   "summary": "Rangers, villagers and Fauna & Flora counted 77 to 89 cao vit gibbons in about 14 families, up from 74. Babies were seen in 2024 and 2025.",
+   "why": "Once thought extinct, the species was rediscovered in 2002 and has had no hunting in 15 years.",
+   "source_name": "Nature World News",
+   "source_url": "https://www.natureworldnews.com/articles/73608/20261022/survey-finds-many-89-cao-vit-gibbons-hinting-worlds-second-rarest-ape-slowly-recovering.htm",
+   "source_ig": "",
+   "image_query": "Nomascus nasutus"
+  },
+  {
+   "category": "science",
+   "place": "Papua New Guinea",
+   "emoji": "🪨",
+   "stat": "90 km",
+   "stat_label": "deep this rock sank, then came back",
+   "headline": "A rock that sank 90 km into Earth came back with a secret",
+   "summary": "Tiny crystals inside a Papua New Guinea rock show it plunged over 90 km down about 4 million years ago, hitting 800°C. It got hot surprisingly early on the way down.",
+   "why": "It's the clearest record yet of a hot-to-cool switch deep in a subduction zone, challenging models.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261020084816.htm",
+   "source_ig": "",
+   "image_query": "Papua New Guinea mountains"
+  },
+  {
+   "category": "health",
+   "place": "Copenhagen, Denmark",
+   "emoji": "🍊",
+   "stat": "1,000 mg",
+   "stat_label": "of vitamin C a day for a year",
+   "headline": "A daily vitamin C pill was linked to better survival in a trial",
+   "summary": "In a trial of 109 people with blood conditions that can lead to leukemia, those on vitamin C had fewer adverse events and were more likely to be alive after about 3 years.",
+   "why": "It's early: researchers say a larger trial must confirm the survival benefit.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
+   "source_ig": "",
+   "image_query": "vitamin C tablets"
+  },
+  {
+   "category": "space",
+   "place": "Houston, Texas, USA",
+   "emoji": "🚀",
+   "stat": "365",
+   "stat_label": "days living on a pretend Mars",
+   "headline": "4 volunteers just passed a full year on a simulated Mars",
+   "summary": "Inside NASA's 1,700 sq ft 3D-printed habitat, the crew grew food, fixed staged breakdowns and took 'Marswalks', with messages to Earth delayed like real Mars calls.",
+   "why": "Their data will help keep real Mars crews healthy. They step out on October 31.",
+   "source_name": "India Today",
+   "source_url": "https://www.indiatoday.in/science/story/these-four-humans-have-spent-a-year-living-in-isolation-as-martians-on-earth-3021197-2026-10-20",
+   "source_ig": "@indiatoday",
+   "image_query": "Mars Dune Alpha"
+  }
+ ],
+ "fun_fact": "The Mars crew can only email their families, with Mars-style delays on every message.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #wildlife #mars"
+}
