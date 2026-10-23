@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nomascus_nasutus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Nomascus_nasutus.jpg",
+  "credit": "Laura Flamme / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Nomascus nasutus"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nomascus_nasutus_hainanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Nomascus_nasutus_hainanus.jpg",
+  "credit": "User:Anna Frodesiak / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Nomascus nasutus"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Dark_Days_Are_Coming.jpg/1920px-Dark_Days_Are_Coming.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Dark_Days_Are_Coming.jpg",
+  "credit": "Taro Taylor from Sydney, Australia / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Papua New Guinea mountains"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Golden_Ridges%2C_Wau_Papua_New_Guinea.jpg/1920px-Golden_Ridges%2C_Wau_Papua_New_Guinea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Golden_Ridges,_Wau_Papua_New_Guinea.jpg",
+  "credit": "LeglessGoat / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Papua New Guinea mountains"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vitamin_C_supplements_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Vitamin_C_supplements_1.jpg",
+  "credit": "Mx. Granger / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "vitamin C tablets"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Vitamin_C_supplements_2.jpg/1920px-Vitamin_C_supplements_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Vitamin_C_supplements_2.jpg",
+  "credit": "Mx. Granger / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "vitamin C tablets"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/CHAPEA_habitat_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:CHAPEA_habitat_(6).jpg",
+  "credit": "NASA/Bill Stafford / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Mars Dune Alpha"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/CHAPEA_habitat_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:CHAPEA_habitat_(3).jpg",
+  "credit": "NASA/Bill Stafford / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Mars Dune Alpha"
+ }
+}
