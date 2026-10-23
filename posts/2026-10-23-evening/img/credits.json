@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/LongSnoutedSeahorse1600ppx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:LongSnoutedSeahorse1600ppx.jpg",
+  "credit": "FASTILY (TALK) / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Hippocampus guttulatus"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Hippocampus_guttulatus_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Hippocampus_guttulatus_France.jpg",
+  "credit": "jujurenoult / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Hippocampus guttulatus"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Solitaire_Game_MET_173639.jpg/1920px-Solitaire_Game_MET_173639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Solitaire_Game_MET_173639.jpg",
+  "credit": "Unknown / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Native American gaming pieces"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Round_the_World_with_Nellie_Bly_%281890%29.jpg/1920px-Round_the_World_with_Nellie_Bly_%281890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Round_the_World_with_Nellie_Bly_(1890).jpg",
+  "credit": "J.A. Grozier, active late 19th century; copy after H. A. May / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Native American gaming pieces"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Coconut_halves.JPG/1920px-Coconut_halves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Coconut_halves.JPG",
+  "credit": "Clockery / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "coconut halves"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kokosnuss-Coconut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Kokosnuss-Coconut.jpg",
+  "credit": "Robert Wetzlmayr / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "coconut halves"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Nu%27utele_island_-_Samoa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Nu%27utele_island_-_Samoa.jpg",
+  "credit": "Stephen Glauser / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Nuutele island Samoa"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Nu%27utele_island_seen_from_Lalomanu_beach%2C_Upolu%2C_Samoa_-_August_2016.jpg/1920px-Nu%27utele_island_seen_from_Lalomanu_beach%2C_Upolu%2C_Samoa_-_August_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Nu%27utele_island_seen_from_Lalomanu_beach,_Upolu,_Samoa_-_August_2016.jpg",
+  "credit": "Rickard Törnblad / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Nuutele island Samoa"
+ }
+}
