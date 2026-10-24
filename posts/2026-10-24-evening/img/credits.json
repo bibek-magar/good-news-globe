@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Asian_Golden_cat.jpg/1920px-Asian_Golden_cat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Asian_Golden_cat.jpg",
+  "credit": "Karen Stout / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Catopuma temminckii"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Asian_golden_cat_at_Edinburgh_Zoo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Asian_golden_cat_at_Edinburgh_Zoo_(cropped).jpg",
+  "credit": "Marie Hale / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Catopuma temminckii"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Palaeoloxodon_antiquus_map_without_borders.png/1920px-Palaeoloxodon_antiquus_map_without_borders.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Palaeoloxodon_antiquus_map_without_borders.png",
+  "credit": "User:Myrhonon / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Palaeoloxodon antiquus"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/P%C5%82ocka_metro_station_-_straight-tusked_elephant_bone.jpg/1920px-P%C5%82ocka_metro_station_-_straight-tusked_elephant_bone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:P%C5%82ocka_metro_station_-_straight-tusked_elephant_bone.jpg",
+  "credit": "Szczureq / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Palaeoloxodon antiquus"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/StateLibQld_1_157653_Railway_Bridge_over_the_Caboolture_River%2C_1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_157653_Railway_Bridge_over_the_Caboolture_River,_1907.jpg",
+  "credit": "Unknown / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Caboolture River Queensland"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Caboolture_River%2C_Caboolture_1930s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Caboolture_River,_Caboolture_1930s.jpg",
+  "credit": "John Robert McPherson / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Caboolture River Queensland"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Female_elk_at_Grand_Canyon.jpg/1920px-Female_elk_at_Grand_Canyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Female_elk_at_Grand_Canyon.jpg",
+  "credit": "Kdub828 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "elk Grand Canyon"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Grand_Canyon_Nat_Park_Elk_%28Cervus_canadensis%29_in_Winter.jpg/1920px-Grand_Canyon_Nat_Park_Elk_%28Cervus_canadensis%29_in_Winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Nat_Park_Elk_(Cervus_canadensis)_in_Winter.jpg",
+  "credit": "Grand Canyon NPS photo by Michael Quinn / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "elk Grand Canyon"
+ }
+}
