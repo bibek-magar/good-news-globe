@@ -1,18 +1,4 @@
 {
- "s1a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Oil_drilling_rig_in_Peru_next_to_Ucayali_River_2021.jpg/1920px-Oil_drilling_rig_in_Peru_next_to_Ucayali_River_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Oil_drilling_rig_in_Peru_next_to_Ucayali_River_2021.jpg",
-  "credit": "Editorq35 / Wikimedia Commons, CC BY-SA 4.0",
-  "license": "CC BY-SA 4.0",
-  "query": "Peruvian Amazon river"
- },
- "s1b": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Amazon_River_Rising_in_Peru.jpg/1920px-Amazon_River_Rising_in_Peru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Amazon_River_Rising_in_Peru.jpg",
-  "credit": "Coordenação-Geral de Observação da Terra/INPE / Wikimedia Commons, CC BY-SA 2.0",
-  "license": "CC BY-SA 2.0",
-  "query": "Peruvian Amazon river"
- },
  "s2a": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seabird_Nesting_%2814097767700%29.jpg/1920px-Seabird_Nesting_%2814097767700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "page": "https://commons.wikimedia.org/wiki/File:Seabird_Nesting_(14097767700).jpg",
@@ -54,5 +40,19 @@
   "credit": "H. Zell / Wikimedia Commons, CC BY-SA 3.0",
   "license": "CC BY-SA 3.0",
   "query": "Odobenus rosmarus divergens"
+ },
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Amazon_rainforest_near_Puerto_Maldonado.jpg/1920px-Amazon_rainforest_near_Puerto_Maldonado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Amazon_rainforest_near_Puerto_Maldonado.jpg",
+  "credit": "Ivan Mlinaric / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Amazon rainforest Peru"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tamshiyacu_Tahuayo_Regional_Conservation_Area_Iquitos_Amazon_Rainforest_Peru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Tamshiyacu_Tahuayo_Regional_Conservation_Area_Iquitos_Amazon_Rainforest_Peru.jpg",
+  "credit": "EdwinJs / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Amazon rainforest Peru"
  }
 }
