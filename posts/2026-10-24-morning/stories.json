@@ -23,7 +23,8 @@
    "source_name": "Positive News",
    "source_url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
    "source_ig": "",
-   "image_query": "Amazon rainforest Peru"
+   "image_query": "Amazon rainforest Peru",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "science",
@@ -37,7 +38,8 @@
    "source_name": "Positive News",
    "source_url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
    "source_ig": "",
-   "image_query": "seabird colony atoll"
+   "image_query": "seabird colony atoll",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "energy",
@@ -65,7 +67,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/rescuers-ensure-orphaned-baby-walrus-gets-a-second-chance-look/",
    "source_ig": "@goodnewsnetwork",
-   "image_query": "Odobenus rosmarus divergens"
+   "image_query": "Odobenus rosmarus divergens",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "The walrus calf's name, Annautaq, means 'axe' in Iñupiaq, honouring his rescuer's father.",
