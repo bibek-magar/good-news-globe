@@ -30,9 +30,10 @@ jobs:
             f=$(git diff --name-only HEAD~1 HEAD -- 'posts/*/caption.txt' | xargs -r -n1 dirname | sort -u | tr '\n' ' ')
             echo "folders=$f" >> $GITHUB_OUTPUT
           fi
-      # If Instagram blocks/rate-limits the account, the post scripts exit 42 and we write .ig_blocked_until
-      # (now + 48 h). Every run during the cooldown skips Instagram entirely instead of failing and re-hitting
-      # the API. To retry sooner (e.g. after the block is lifted in the app), delete .ig_blocked_until.
+      # If Instagram blocks/rate-limits a Reel, the post scripts exit 42 and we write .ig_blocked_until
+      # (now + 48 h). Every run during that cooldown skips Instagram entirely instead of failing and re-hitting
+      # the API. A blocked carousel only writes .ig_carousel_blocked_until, which pauses carousels, never Reels.
+      # To retry sooner (e.g. after the block is lifted in the app), delete the file.
       - name: Check Instagram cooldown
         id: cool
         run: |
@@ -48,11 +49,11 @@ jobs:
           for f in ${{ steps.find.outputs.folders }}; do
             [ -f "$f/REEL_POSTED" ] || python make_reel.py "$f"
           done
-      # Reel first: Reels reach 20-50x more people than carousels on this account (analytics/REPORT.md).
-      # Carousels go out only in the slots listed in the repo variable CAROUSEL_SLOTS (default "evening weekly bonus"),
-      # so the account makes fewer automated posts a day (less spam risk). In the other slots the Reel alone counts as
-      # the post; if that Reel fails for any reason except a block, the carousel is posted instead so the slot isn't empty.
-      # A block from either starts the cooldown.
+      # Reels only by default: Reels reach 20-50x more people than carousels on this account (analytics/REPORT.md),
+      # and every automated carousel so far (7 of 7) was blocked by Instagram. Carousels are posted only when the repo
+      # variable ALLOW_CAROUSELS is "true", and then only in the slots in CAROUSEL_SLOTS (default "evening weekly bonus")
+      # and not during a carousel cooldown. With carousels off, the Reel alone is the post; if it fails, the slot is
+      # left unposted (the edition's images and captions stay in posts/ for posting by hand).
       - name: Publish reel and carousel
         id: pub
         if: steps.cool.outputs.blocked != '1'
@@ -61,27 +62,46 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           FIRST_COMMENT: ${{ vars.FIRST_COMMENT }}
           CAROUSEL_SLOTS: ${{ vars.CAROUSEL_SLOTS }}
+          ALLOW_CAROUSELS: ${{ vars.ALLOW_CAROUSELS }}
         run: |
           now=$(date -u +%s); fail=0
           blocked() {
             echo $((now + 172800)) > .ig_blocked_until
-            echo "::error::Instagram blocked publishing ($1). Cooling down 48 h; appeal in the Instagram app."
+            echo "::error::Instagram blocked a Reel ($1). Cooling down 48 h; appeal in the Instagram app."
             echo "blocked=1" >> "$GITHUB_OUTPUT"; exit 0
           }
+          carousel_ok=0
+          if [ "$ALLOW_CAROUSELS" = "true" ]; then
+            carousel_ok=1
+            if [ -f .ig_carousel_blocked_until ] && [ "$now" -lt "$(cat .ig_carousel_blocked_until)" ]; then
+              echo "::warning::Carousel cooldown until $(date -u -d @"$(cat .ig_carousel_blocked_until)"). Reels only."
+              carousel_ok=0
+            fi
+          fi
           for f in ${{ steps.find.outputs.folders }}; do
             slot=${f##*-}; carousel=0
-            case " ${CAROUSEL_SLOTS:-evening weekly bonus} " in *" $slot "*) carousel=1;; esac
+            if [ "$carousel_ok" -eq 1 ]; then
+              case " ${CAROUSEL_SLOTS:-evening weekly bonus} " in *" $slot "*) carousel=1;; esac
+            fi
             if [ ! -f "$f/REEL_POSTED" ] && [ -f "$f/reel.mp4" ]; then
               rc=0; python post_reel.py "$f" || rc=$?
               [ "$rc" -eq 42 ] && blocked "reel $f"
-              if [ "$rc" -eq 0 ]; then rm -f .ig_blocked_until; else echo "::warning::Reel failed for $f; posting the carousel"; fi
+              if [ "$rc" -eq 0 ]; then rm -f .ig_blocked_until; else echo "::warning::Reel failed for $f"; fi
             fi
-            if [ ! -f "$f/POSTED" ] && [ "$carousel" -eq 0 ] && [ -f "$f/REEL_POSTED" ]; then
-              echo "reel only ($slot slot), $(date -u)" > "$f/POSTED"; echo "$f: Reel posted; no carousel in the $slot slot"
+            if [ ! -f "$f/POSTED" ] && [ "$carousel" -eq 0 ]; then
+              if [ -f "$f/REEL_POSTED" ]; then
+                echo "reel only ($slot slot), $(date -u)" > "$f/POSTED"; echo "$f: Reel posted; no carousel"
+              else
+                echo "::error::$f: Reel not posted and carousels are off; post this edition by hand"; fail=1
+              fi
             elif [ ! -f "$f/POSTED" ]; then
               rc=0; python post_to_instagram.py "$f" || rc=$?
-              [ "$rc" -eq 42 ] && blocked "carousel $f"
-              if [ "$rc" -eq 0 ]; then date -u > "$f/POSTED"; rm -f .ig_blocked_until; else fail=1; fi
+              if [ "$rc" -eq 42 ]; then
+                echo $((now + 172800)) > .ig_carousel_blocked_until
+                echo "::warning::Instagram blocked the carousel for $f. Carousels paused 48 h; Reels keep posting."
+                if [ -f "$f/REEL_POSTED" ]; then echo "reel only (carousel blocked), $(date -u)" > "$f/POSTED"; else fail=1; fi
+              elif [ "$rc" -eq 0 ]; then date -u > "$f/POSTED"; rm -f .ig_carousel_blocked_until
+              else fail=1; fi
             else
               echo "$f carousel already posted"
             fi
@@ -103,5 +123,5 @@ jobs:
         run: |
           git config user.name "ggn-bot"; git config user.email "ggn-bot@users.noreply.github.com"
           for m in POSTED REEL_POSTED STORY_POSTED; do git add posts/*/$m 2>/dev/null || true; done
-          git add -A .ig_blocked_until 2>/dev/null || true
+          git add -A .ig_blocked_until .ig_carousel_blocked_until 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "Mark posted [skip ci]" && git pull --rebase -q && git push)
