@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-24",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Food insecurity fell from 73% to 26%",
+ "cover_highlight": "73% to 26%",
+ "cover_kicker": "About £2 a day, no strings",
+ "caption_hook": "🌿 A no-strings cash trial in the Peruvian Amazon cut food insecurity from 73% to 26% + 3 more wins you missed 👇",
+ "question": "Pick a number: which story made you smile most, 1, 2, 3 or 4?",
+ "share_line": "Send this to the friend who loves big ideas",
+ "reel_hook": "Food insecurity fell from 73% to 26%",
+ "first_comment": "Bonus: many people in the Amazon trial spent part of the money on education and solar power. What would you spend an extra £2 a day on? 🌿",
+ "stories": [
+  {
+   "category": "health",
+   "place": "Peruvian Amazon, Peru",
+   "emoji": "🌿",
+   "stat": "73→26%",
+   "stat_label": "food insecurity, before and after",
+   "headline": "A no-strings cash trial cut food insecurity from 73% to 26%",
+   "summary": "For 2 years, 211 people in 3 Indigenous Amazon communities got about £2 a day to spend freely. Food insecurity dropped sharply and 90% took up greener farming practices.",
+   "why": "It was small, with no control group, but the charity behind it plans to expand.",
+   "source_name": "Positive News",
+   "source_url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
+   "source_ig": "",
+   "image_query": "Peruvian Amazon river"
+  },
+  {
+   "category": "science",
+   "place": "Pacific & Indian Oceans",
+   "emoji": "🐦",
+   "stat": "2.5x",
+   "stat_label": "faster reef growth near seabirds",
+   "headline": "Seabird poo helps reefs grow up to 2.5 times faster",
+   "summary": "On 28 tropical islands, reefs beside thriving seabird colonies grew up to 2.5x faster than those near rat-infested atolls, and made more sand to build the islands.",
+   "why": "Bringing back seabirds and native plants could help some atolls keep pace with rising seas.",
+   "source_name": "Positive News",
+   "source_url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
+   "source_ig": "",
+   "image_query": "seabird colony atoll"
+  },
+  {
+   "category": "energy",
+   "place": "Rangpur, Bangladesh",
+   "emoji": "🌱",
+   "stat": "",
+   "stat_label": "",
+   "headline": "A plant-covered Bangladeshi rug factory won a top world prize",
+   "summary": "Draped in plants and gardens, Rangpur's Green Field factory cools itself naturally and gives workers views, a medical centre, daycare and a canteen. It won the RIBA International Prize.",
+   "why": "Its architect says a factory should restore people's energy, not drain it.",
+   "source_name": "Positive News",
+   "source_url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
+   "source_ig": "",
+   "image_query": "Rangpur Bangladesh"
+  },
+  {
+   "category": "nature",
+   "place": "Northern Alaska, USA",
+   "emoji": "🦭",
+   "stat": "4,000",
+   "stat_label": "miles flown to his new family",
+   "headline": "An orphaned baby walrus found alone on a beach was saved",
+   "summary": "Annautaq, a 5-month-old calf, was hiding beside the remains of 2 adult walruses on a remote Alaska beach. Rescuers cared for him, then flew him 4,000 miles to join 3 walruses in Florida.",
+   "why": "Calves need their mothers for a year, so he'll grow up with an experienced walrus 'aunt'.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/rescuers-ensure-orphaned-baby-walrus-gets-a-second-chance-look/",
+   "source_ig": "@goodnewsnetwork",
+   "image_query": "Odobenus rosmarus divergens"
+  }
+ ],
+ "fun_fact": "The walrus calf's name, Annautaq, means 'axe' in Iñupiaq, honouring his rescuer's father.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #amazon #walrus"
+}
