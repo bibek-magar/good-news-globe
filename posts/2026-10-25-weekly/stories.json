@@ -24,7 +24,8 @@
    "source_name": "FOX via Yahoo News",
    "source_url": "https://www.yahoo.com/news/world/articles/adelaide-zoo-celebrates-1st-bright-013655949.html",
    "source_ig": "",
-   "image_query": "Southern cassowary"
+   "image_query": "Southern cassowary",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "archaeology",
@@ -38,7 +39,8 @@
    "source_name": "Gizmodo",
    "source_url": "https://gizmodo.com/record-viking-hoard-yields-a-coin-not-found-in-over-100-years-2000829598",
    "source_ig": "",
-   "image_query": "Viking silver coins hoard"
+   "image_query": "Viking silver coins hoard",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "nature",
@@ -66,7 +68,8 @@
    "source_name": "Positive News",
    "source_url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
    "source_ig": "",
-   "image_query": "Amazon rainforest Peru"
+   "image_query": "Amazon rainforest Peru",
+   "image": "img/s4a.jpg"
   },
   {
    "category": "science",
@@ -108,7 +111,8 @@
    "source_name": "AP News",
    "source_url": "https://apnews.com/article/van-gogh-starry-night-space-6385c8e37f748bddc4137cdda5c76887",
    "source_ig": "",
-   "image_query": "The Starry Night"
+   "image_query": "The Starry Night",
+   "image": "img/s7b.jpg"
   },
   {
    "category": "nature",
@@ -122,7 +126,8 @@
    "source_name": "Santa Cruz Sentinel",
    "source_url": "https://santacruzsentinel.com/2026/10/24/river-otter-spotted-on-san-mateo-coast-is-believed-to-be-first-since-1800s",
    "source_ig": "",
-   "image_query": "Lontra canadensis"
+   "image_query": "Lontra canadensis",
+   "image": "img/s8a.jpg"
   }
  ],
  "fun_fact": "River otters can live 8 to 15 years in the wild, and a female can have up to 6 pups in a litter.",
