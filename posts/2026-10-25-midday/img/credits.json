@@ -1,0 +1,51 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/LutraCanadensis_fullres.jpg/1920px-LutraCanadensis_fullres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:LutraCanadensis_fullres.jpg",
+  "credit": "Dmitry Azovtsev / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Lontra canadensis"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/River_Otter_%28Lontra_canadensis%29.jpg/1920px-River_Otter_%28Lontra_canadensis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:River_Otter_(Lontra_canadensis).jpg",
+  "credit": "Neal Herbert / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Lontra canadensis"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/IMG-20261015-WA0000%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:IMG-20261015-WA0000(1).jpg",
+  "credit": "Antonio R. Mihaila / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Yuezhuornis"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ranunculus_lyallii_in_Fiordland_National_Park.jpg/1920px-Ranunculus_lyallii_in_Fiordland_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ranunculus_lyallii_in_Fiordland_National_Park.jpg",
+  "credit": "Krzysztof Golik / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Fiordland National Park"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mountains_in_Fiordland_National_Park_01.jpg/1920px-Mountains_in_Fiordland_National_Park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Mountains_in_Fiordland_National_Park_01.jpg",
+  "credit": "Krzysztof Golik / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Fiordland National Park"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/I_believe_in_love_and_kindness._CcZ9401W0AA3tmr.jpg-large.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:I_believe_in_love_and_kindness._CcZ9401W0AA3tmr.jpg-large.jpg",
+  "credit": "Hillary Clinton / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "kindness hearts"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Undertale_Hearts_Determination_and_Kindness_%2848499218997%29.jpg/1920px-Undertale_Hearts_Determination_and_Kindness_%2848499218997%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Undertale_Hearts_Determination_and_Kindness_(48499218997).jpg",
+  "credit": "Douglas Muth from Philadelphia, PA, USA / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "kindness hearts"
+ }
+}
