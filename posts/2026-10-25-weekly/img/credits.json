@@ -1,18 +1,4 @@
 {
- "s1a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Casuarius_casuarius_MHNT.ZOO.2010.11.1.9.jpg/1920px-Casuarius_casuarius_MHNT.ZOO.2010.11.1.9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Casuarius_casuarius_MHNT.ZOO.2010.11.1.9.jpg",
-  "credit": "Roger Culos / Wikimedia Commons, CC BY-SA 4.0",
-  "license": "CC BY-SA 4.0",
-  "query": "Casuarius casuarius"
- },
- "s1b": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Skull_of_cassowary_%28Casuarius_casuarius%29%2C_Paris_-_2025.jpg/1920px-Skull_of_cassowary_%28Casuarius_casuarius%29%2C_Paris_-_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Skull_of_cassowary_(Casuarius_casuarius),_Paris_-_2025.jpg",
-  "credit": "Titlutin / Wikimedia Commons, CC BY-SA 4.0",
-  "license": "CC BY-SA 4.0",
-  "query": "Casuarius casuarius"
- },
  "s2a": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Coins_Spilling_Silver_Hoard_2_closeup.jpg/1920px-Coins_Spilling_Silver_Hoard_2_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "page": "https://commons.wikimedia.org/wiki/File:Coins_Spilling_Silver_Hoard_2_closeup.jpg",
@@ -96,5 +82,19 @@
   "credit": "Neal Herbert / Wikimedia Commons, Public domain",
   "license": "Public domain",
   "query": "Lontra canadensis"
+ },
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Double-wattled_Cassowary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Double-wattled_Cassowary.jpg",
+  "credit": "en:User:Cburnett / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Southern cassowary"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Double-wattled_Cassowary_mirror.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Double-wattled_Cassowary_mirror.jpg",
+  "credit": "en:User:Cburnett / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Southern cassowary"
  }
 }
