@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/VanGogh-starry_night_ballance1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:VanGogh-starry_night_ballance1.jpg",
+  "credit": "Vincent van Gogh / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "The Starry Night"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1920px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+  "credit": "Vincent van Gogh / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "The Starry Night"
+ },
+ "s2a": {
+  "url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3471342be1e4e412aa004b9ea8d963666",
+  "page": "https://n2t.net/ark:/65665/398a47864-c01e-463b-bcca-0346be5ba4a7",
+  "credit": "L. Pierre / Smithsonian_National_Museum_Of_Natural_History, CC0",
+  "license": "CC0",
+  "query": "Ardisia colorata"
+ },
+ "s2b": {
+  "url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3cad018664aa8482588f2f0967f9bc790",
+  "page": "https://n2t.net/ark:/65665/3115e7258-3c1c-4b74-b0d4-bfdbeed8d2b7",
+  "credit": "Fr. Scortechini / Smithsonian_National_Museum_Of_Natural_History, CC0",
+  "license": "CC0",
+  "query": "Ardisia colorata"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg/1920px-Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Eurasian_brown_bear_(Ursus_arctos_arctos)_female_1.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Ursus arctos"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Brown_bear_%28Ursus_arctos_arctos%29_running.jpg/1920px-Brown_bear_%28Ursus_arctos_arctos%29_running.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Brown_bear_(Ursus_arctos_arctos)_running.jpg",
+  "credit": "Malene Thyssen / Wikimedia Commons, CC BY 2.5",
+  "license": "CC BY 2.5",
+  "query": "Ursus arctos"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Ouachita_Parish_Schools_school_bus_at_Swartz_Elementary.jpeg/1920px-Ouachita_Parish_Schools_school_bus_at_Swartz_Elementary.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ouachita_Parish_Schools_school_bus_at_Swartz_Elementary.jpeg",
+  "credit": "Ktkvtsh / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "yellow school bus"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/A_yellow_school_stock_bus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:A_yellow_school_stock_bus.jpg",
+  "credit": "QUOI Media Group / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "yellow school bus"
+ }
+}
