@@ -13,20 +13,6 @@
   "license": "CC BY-SA 4.0",
   "query": "Pongo pygmaeus"
  },
- "s2a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg/1920px-Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg",
-  "credit": "CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
-  "license": "CC BY-SA 3.0",
-  "query": "Yunnan forest"
- },
- "s2b": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Guizhou_%26_Yunnan_Subtropical_Forest_Plateaus_Bioregion.png/1920px-Guizhou_%26_Yunnan_Subtropical_Forest_Plateaus_Bioregion.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Guizhou_%26_Yunnan_Subtropical_Forest_Plateaus_Bioregion.png",
-  "credit": "Z3lvs / Wikimedia Commons, CC BY-SA 4.0",
-  "license": "CC BY-SA 4.0",
-  "query": "Yunnan forest"
- },
  "s3a": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/RIKEN_Wako_Campus_P4208301.jpg/1920px-RIKEN_Wako_Campus_P4208301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "page": "https://commons.wikimedia.org/wiki/File:RIKEN_Wako_Campus_P4208301.jpg",
@@ -54,5 +40,19 @@
   "credit": "Steve Shook from Moscow, Idaho, USA / Wikimedia Commons, CC BY 2.0",
   "license": "CC BY 2.0",
   "query": "University of Illinois Urbana-Champaign"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Quercus_variabilis_JPG1a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Quercus_variabilis_JPG1a.JPG",
+  "credit": "Jean-Pol GRANDMONT / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Quercus variabilis"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Chinese_cork_oak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_cork_oak.jpg",
+  "credit": "Velela / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Quercus variabilis"
  }
 }
