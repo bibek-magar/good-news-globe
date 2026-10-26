@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-25 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-26 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-18: 2 → 10-19: 2 → 10-20: 2 → 10-21: 2 → 10-22: 2 → 10-23: 2 → 10-24: 2 → 10-25: 2
+10-19: 2 → 10-20: 2 → 10-21: 2 → 10-22: 2 → 10-23: 2 → 10-24: 2 → 10-25: 2 → 10-26: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -21,8 +21,8 @@ _Updated 2026-10-25 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 | 2026-10-12 | evening | 8 orangutans rescued from fires are free again | 3 | 0 | 0 | 0 | 33.33 |
 
 ## This week vs before
-- Last 7 days: 3 carousels, avg reach 2, avg score 83.3
-- Earlier: avg reach 2.6, avg score 113.4
+- Last 7 days: 2 carousels, avg reach 2, avg score 75.0
+- Earlier: avg reach 2.5, avg score 112.7
 
 ## By slot (Nepal time)
 - morning: 3 posts, avg reach 2.3, avg score 127.8
@@ -36,11 +36,11 @@ Any position → avg score: science 132.3, quirky 119.4, invention 116.7, archae
 ## Best Reels
 | date | slot | hook | reach | shares | saves | comments | score | avg watch (ms) |
 |---|---|---|---|---|---|---|---|---|
+| 2026-10-25 | evening | 34 years later, bright green cassowary eggs | 124 | 0 | 0 | 0 | 1.61 | 4259 |
 | 2026-10-02 | midday | Moth swarms are back after a 99.5% crash | 114 | 0 | 0 | 0 | 2.63 | 4770 |
 | 2026-10-12 | evening | 8 orangutans rescued from fires are free again | 113 | 0 | 0 | 0 | 1.77 | 1769 |
 | 2026-10-22 | evening | 34 years later, bright green cassowary eggs | 104 | 0 | 0 | 0 | 0.96 | 4146 |
 | 2026-10-09 | evening | 54 lava fountains in under 2 years | 104 | 0 | 0 | 0 | 1.92 | 1988 |
-| 2026-10-02 | midday | A 'lost' bird was filmed for the 1st time ever | 104 | 0 | 0 | 0 | 2.88 | 4705 |
 
 ## How the scheduled runs should use this
 - Lead with the cover patterns and categories that score highest; drop the patterns in the weakest list.
