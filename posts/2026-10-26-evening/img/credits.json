@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Orangutan_Kalimantan.jpg/1920px-Orangutan_Kalimantan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Orangutan_Kalimantan.jpg",
+  "credit": "Ridwan0810 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pongo pygmaeus"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_02.jpg/1920px-Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_02.jpg",
+  "credit": "Thomas Fuhrmann / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pongo pygmaeus"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg/1920px-Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg",
+  "credit": "CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Yunnan forest"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Guizhou_%26_Yunnan_Subtropical_Forest_Plateaus_Bioregion.png/1920px-Guizhou_%26_Yunnan_Subtropical_Forest_Plateaus_Bioregion.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Guizhou_%26_Yunnan_Subtropical_Forest_Plateaus_Bioregion.png",
+  "credit": "Z3lvs / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Yunnan forest"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/RIKEN_Wako_Campus_P4208301.jpg/1920px-RIKEN_Wako_Campus_P4208301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:RIKEN_Wako_Campus_P4208301.jpg",
+  "credit": "Kestrel / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "RIKEN Wako"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/RIKEN_Wako_Campus_Main_Gate_P4208293.jpg/1920px-RIKEN_Wako_Campus_Main_Gate_P4208293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:RIKEN_Wako_Campus_Main_Gate_P4208293.jpg",
+  "credit": "Kestrel / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "RIKEN Wako"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Sean_Astin_1.jpg/1920px-Sean_Astin_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Sean_Astin_1.jpg",
+  "credit": "Daniel Schwen / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "University of Illinois Urbana-Champaign"
+ },
+ "s4b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Greetings_from_University_of_Illinois%2C_Champaign-Urbana%2C_Illinois_-_Large_Letter_Postcard_%287621067340%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Greetings_from_University_of_Illinois,_Champaign-Urbana,_Illinois_-_Large_Letter_Postcard_(7621067340).jpg",
+  "credit": "Steve Shook from Moscow, Idaho, USA / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "University of Illinois Urbana-Champaign"
+ }
+}
