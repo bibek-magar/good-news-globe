@@ -4,7 +4,7 @@
  "handle": "@good_newsglobe",
  "cover_hook": "From wildfire to wild again: 53 orangutans",
  "cover_highlight": "53 orangutans",
- "cover_kicker": "Saved from Borneo's fires since August",
+ "cover_kicker": "Rescued since August",
  "caption_hook": "🦧 Since August, a Borneo rescue team has saved 53 orangutans from wildfires, and many are already back in the forest + 3 more wins you missed 👇",
  "question": "Which would you share first: 1, 2, 3 or 4?",
  "share_line": "Send this to the friend who loves orangutans",
@@ -24,7 +24,7 @@
    "source_url": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
    "source_ig": "",
    "image_query": "Pongo pygmaeus",
-   "image": ""
+   "image": "img/s1b.jpg"
   },
   {
    "category": "nature",
@@ -39,7 +39,7 @@
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
    "source_ig": "",
    "image_query": "Quercus variabilis",
-   "image": ""
+   "image": "img/s2a.jpg"
   },
   {
    "category": "science",
@@ -54,7 +54,7 @@
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
    "source_ig": "",
    "image_query": "RIKEN Wako",
-   "image": ""
+   "image": "img/s3a.jpg"
   },
   {
    "category": "invention",
@@ -69,7 +69,7 @@
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
    "source_ig": "",
    "image_query": "University of Illinois Urbana-Champaign",
-   "image": ""
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "D-rex is named after the ancient Dian kingdom of Yunnan, and 'rex' for its king-sized build.",
