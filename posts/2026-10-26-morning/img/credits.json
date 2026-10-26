@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Canada_lynx_by_Michael_Zahra.jpg/1920px-Canada_lynx_by_Michael_Zahra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Canada_lynx_by_Michael_Zahra.jpg",
+  "credit": "Michael Zahra / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Lynx canadensis"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg/1920px-Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Canada_lynx_by_Michael_Zahra_(cropped).jpg",
+  "credit": "Michael Zahra / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Lynx canadensis"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Pseudorabdion_longiceps%2C_Dwarf_reed_snake_-_Bang_Lang_National_Park_%2850769352423%29.jpg/1920px-Pseudorabdion_longiceps%2C_Dwarf_reed_snake_-_Bang_Lang_National_Park_%2850769352423%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pseudorabdion_longiceps,_Dwarf_reed_snake_-_Bang_Lang_National_Park_(50769352423).jpg",
+  "credit": "Rushen / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Pseudorabdion"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pseudorabdion_longiceps%2C_Dwarf_reed_snake_-_Bang_Lang_National_Park_%2850770216747%29.jpg/1920px-Pseudorabdion_longiceps%2C_Dwarf_reed_snake_-_Bang_Lang_National_Park_%2850770216747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pseudorabdion_longiceps,_Dwarf_reed_snake_-_Bang_Lang_National_Park_(50770216747).jpg",
+  "credit": "Rushen / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Pseudorabdion"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Carina_Nebula.jpg/1920px-Carina_Nebula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Carina_Nebula.jpg",
+  "credit": "ESO/T. Preibisch / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Very Large Telescope"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Paranal_and_the_Pacific_at_sunset_%28dsc4088%2C_retouched%2C_cropped%29.jpg/1920px-Paranal_and_the_Pacific_at_sunset_%28dsc4088%2C_retouched%2C_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Paranal_and_the_Pacific_at_sunset_(dsc4088,_retouched,_cropped).jpg",
+  "credit": "ESO/G. Hüdepohl (atacamaphoto.com) / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Very Large Telescope"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Kekova_island_and_Kalekoey_village.jpg/1920px-Kekova_island_and_Kalekoey_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Kekova_island_and_Kalekoey_village.jpg",
+  "credit": "Bjørn Christian Tørrissen / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Kekova Island"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2023-11-05_Kekova_Island_4.jpg/1920px-2023-11-05_Kekova_Island_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2023-11-05_Kekova_Island_4.jpg",
+  "credit": "Alexkom000 / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Kekova Island"
+ }
+}
