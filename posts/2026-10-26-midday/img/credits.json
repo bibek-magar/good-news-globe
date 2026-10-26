@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/African_bush_elephant_%28Loxodonta_africana%29_calf_Serengeti.jpg/1920px-African_bush_elephant_%28Loxodonta_africana%29_calf_Serengeti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_calf_Serengeti.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Loxodonta africana calf"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/African_bush_elephant_%28Loxodonta_africana%29_with_calf_Serengeti.jpg/1920px-African_bush_elephant_%28Loxodonta_africana%29_with_calf_Serengeti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_with_calf_Serengeti.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Loxodonta africana calf"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1920px-Hubble_ultra_deep_field.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field.jpg",
+  "credit": "NASA and the European Space Agency. / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Hubble deep field galaxies"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1920px-UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:UGC_1810_and_UGC_1813_in_Arp_273_(captured_by_the_Hubble_Space_Telescope).jpg",
+  "credit": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA) / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Hubble deep field galaxies"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Great_dome_of_MIT%2C_Feb_2021.jpg/1920px-Great_dome_of_MIT%2C_Feb_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Great_dome_of_MIT,_Feb_2021.jpg",
+  "credit": "Peacearth / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "MIT Great Dome"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Great_dome_of_MIT%2C_Feb_2021_%282%29_%28cropped%29.jpg/1920px-Great_dome_of_MIT%2C_Feb_2021_%282%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Great_dome_of_MIT,_Feb_2021_(2)_(cropped).jpg",
+  "credit": "Peacearth / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "MIT Great Dome"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/New_Zealand_pigeon_%28Hemiphaga_novaeseelandiae%29_Waitakere.jpg/1920px-New_Zealand_pigeon_%28Hemiphaga_novaeseelandiae%29_Waitakere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Zealand_pigeon_(Hemiphaga_novaeseelandiae)_Waitakere.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Hemiphaga novaeseelandiae"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/New_Zealand_pigeon_%28Hemiphaga_novaeseelandiae%29_on_nikau_%28Rhopalostylis_sapida%29_Waitakere.jpg/1920px-New_Zealand_pigeon_%28Hemiphaga_novaeseelandiae%29_on_nikau_%28Rhopalostylis_sapida%29_Waitakere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Zealand_pigeon_(Hemiphaga_novaeseelandiae)_on_nikau_(Rhopalostylis_sapida)_Waitakere.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Hemiphaga novaeseelandiae"
+ }
+}
