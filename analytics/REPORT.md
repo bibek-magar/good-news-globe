@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-26 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-27 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-19: 2 → 10-20: 2 → 10-21: 2 → 10-22: 2 → 10-23: 2 → 10-24: 2 → 10-25: 2 → 10-26: 2
+10-20: 2 → 10-21: 2 → 10-22: 2 → 10-23: 2 → 10-24: 2 → 10-25: 2 → 10-26: 2 → 10-27: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -36,7 +36,7 @@ Any position → avg score: science 132.3, quirky 119.4, invention 116.7, archae
 ## Best Reels
 | date | slot | hook | reach | shares | saves | comments | score | avg watch (ms) |
 |---|---|---|---|---|---|---|---|---|
-| 2026-10-25 | evening | 34 years later, bright green cassowary eggs | 124 | 0 | 0 | 0 | 1.61 | 4259 |
+| 2026-10-25 | evening | 34 years later, bright green cassowary eggs | 124 | 0 | 0 | 0 | 1.61 | 4240 |
 | 2026-10-02 | midday | Moth swarms are back after a 99.5% crash | 114 | 0 | 0 | 0 | 2.63 | 4770 |
 | 2026-10-12 | evening | 8 orangutans rescued from fires are free again | 113 | 0 | 0 | 0 | 1.77 | 1769 |
 | 2026-10-22 | evening | 34 years later, bright green cassowary eggs | 104 | 0 | 0 | 0 | 0.96 | 4146 |
