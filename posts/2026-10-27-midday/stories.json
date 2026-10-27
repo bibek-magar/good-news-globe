@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-27",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Jumping spiders have REM-like sleep, like us",
+ "cover_highlight": "REM-like sleep",
+ "cover_kicker": "Caught on night-vision video",
+ "caption_hook": "🕷️ Jumping spiders twitch their legs and eyes in a REM-like sleep stage, a new study filmed + 3 more wins you missed 👇",
+ "question": "Reply with one emoji: 🕷️ 🌌 🦎 or 🥐 for your favourite today",
+ "share_line": "Send this to the friend who's scared of spiders",
+ "reel_hook": "Jumping spiders have REM-like sleep, like us",
+ "first_comment": "To test if they were truly asleep, the team woke the spiders with a loud sound. In REM-like sleep, some didn't respond at all. Would you watch a sleeping spider? 🕷️",
+ "stories": [
+  {
+   "category": "quirky",
+   "place": "Northern Australia",
+   "emoji": "🕷️",
+   "stat": "2",
+   "stat_label": "sleep stages, including REM-like",
+   "headline": "A jumping spider sleeps in 2 stages, one with twitches",
+   "summary": "Filming Portia fimbriata over many nights, a University of Bonn team saw a still, droopy phase, then a REM-like stage with leg curls and eye flickers while hanging upside down.",
+   "why": "An expert called it the most complete case for sleep in any spider, hinting sleep is very ancient.",
+   "source_name": "ABC News",
+   "source_url": "https://www.abc.net.au/news/science/2026-10-27/jumping-spider-rem-sleep/107309370",
+   "source_ig": "",
+   "image_query": "Portia fimbriata"
+  },
+  {
+   "category": "space",
+   "place": "310 million light-years away",
+   "emoji": "🌌",
+   "stat": "2 bn",
+   "stat_label": "suns' worth of gas, but no starlight",
+   "headline": "2 radio telescopes found a possible galaxy with no stars",
+   "summary": "China's FAST and the old Arecibo dish both detected AGC 322753: a rotating cloud with about 2 billion suns' worth of hydrogen, yet deep images show no matching glow.",
+   "why": "If it holds no stars, it could be a rare 'dark galaxy', a long-sought kind of object.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-fast-arecibo-dark-galaxy-vast.html",
+   "source_ig": "",
+   "image_query": "FAST radio telescope"
+  },
+  {
+   "category": "science",
+   "place": "Hukawng Valley, Myanmar",
+   "emoji": "🦎",
+   "stat": "99M",
+   "stat_label": "years old, in a fingertip of amber",
+   "headline": "A 99-million-year-old lizard tail proves an escape trick",
+   "summary": "An 18 mm piece of amber holds a lizard tail with a clean break and a ring of muscle, the same set-up modern lizards use to drop their tails and flee predators.",
+   "why": "It is the best direct fossil proof yet that lizards shed tails in the age of dinosaurs.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-lizard-tail-amber-million-year.html",
+   "source_ig": "",
+   "image_query": "Burmese amber"
+  },
+  {
+   "category": "kindness",
+   "place": "Buenos Aires, Argentina",
+   "emoji": "🥐",
+   "stat": "",
+   "stat_label": "",
+   "headline": "She caught a tip-jar thief, then gave him a croissant",
+   "summary": "Café worker Luciana Gabriela Acevedo saw a man take her tips and made him give them back. Then she called him over and handed him a pastry instead of calling the police.",
+   "why": "The security video went viral, and she said empathy for others is a value she learned young.",
+   "source_name": "Fox News",
+   "source_url": "https://www.foxnews.com/video/6407384515112",
+   "source_ig": "",
+   "image_query": "Saavedra Buenos Aires"
+  }
+ ],
+ "fun_fact": "Portia jumping spiders hunt other spiders, and an adult is only about 10 mm long.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #spiders #science"
+}
