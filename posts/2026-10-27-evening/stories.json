@@ -23,7 +23,8 @@
    "source_name": "Natural History Museum",
    "source_url": "https://www.nhm.ac.uk/press-office/press-releases/new-uk-dinosaur-named-after-devoted-dad-and-husband.html",
    "source_ig": "",
-   "image_query": "Natural History Museum London"
+   "image_query": "Natural History Museum London",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "science",
@@ -51,7 +52,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-false-lingzhi-unmasked-scientists-year.html",
    "source_ig": "",
-   "image_query": "Ganoderma lingzhi"
+   "image_query": "Ganoderma lingzhi",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "nature",
@@ -65,7 +67,8 @@
    "source_name": "Inquirer",
    "source_url": "https://newsinfo.inquirer.net/2330314/5-female-green-sea-turtles-rescued-from-fish-corrals-in-aurora",
    "source_ig": "",
-   "image_query": "Chelonia mydas"
+   "image_query": "Chelonia mydas",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "The new dinosaur's name, Paludohadros, comes from 'palus', Latin for swamp.",
