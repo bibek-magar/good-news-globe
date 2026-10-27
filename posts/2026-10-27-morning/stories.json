@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-27",
+ "handle": "@good_newsglobe",
+ "cover_hook": "6 new calves lift Mekong dolphins to 118",
+ "cover_highlight": "6 new calves",
+ "cover_kicker": "A sacred river comeback",
+ "caption_hook": "🐬 6 baby Irrawaddy dolphins were born on Cambodia's Mekong River, lifting the population to 118 + 3 more wins you missed 👇",
+ "question": "Dolphins or a lost monastery: which one made your day? 🐬 or ⛪",
+ "share_line": "Send this to the friend who loves dolphins",
+ "reel_hook": "6 new calves lift Mekong dolphins to 118",
+ "first_comment": "Many people along the river see these dolphins as reincarnated ancestors, and some say the dolphins once saved drowning villagers. Have you ever seen a wild dolphin? 🐬",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Mekong River, Cambodia",
+   "emoji": "🐬",
+   "stat": "118",
+   "stat_label": "Irrawaddy dolphins after 6 births",
+   "headline": "6 baby dolphins were born on Cambodia's Mekong River",
+   "summary": "This calving season brought 6 Irrawaddy dolphin calves, taking the group on a 75-mile stretch of the Mekong to 118. It is the largest population of the species still living in a river.",
+   "why": "Since 2014, WWF has helped riverside families earn more beyond fishing, which threatens calves.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/numbers-of-endangered-and-sacred-river-dolphin-grow-by-6-after-successful-breeding-season/",
+   "source_ig": "",
+   "image_query": "Orcaella brevirostris"
+  },
+  {
+   "category": "science",
+   "place": "Guizhou, China",
+   "emoji": "🦎",
+   "stat": "237M",
+   "stat_label": "years old, from an ancient seafloor",
+   "headline": "The 1st amphibian known to live fully at sea was found",
+   "summary": "No living amphibian survives in the ocean. But 2 near-complete skeletons from China show Gerrothorax maritimus, an armoured, 3-foot bottom-dweller, lived its whole life at sea.",
+   "why": "Its bony armour sealed its skin, so it could drink seawater and filter salt with its gills.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-armored-amphibian-sea-million-years.html",
+   "source_ig": "",
+   "image_query": "Gerrothorax fossil"
+  },
+  {
+   "category": "kindness",
+   "place": "Crown Heights, New York, USA",
+   "emoji": "🧹",
+   "stat": "10",
+   "stat_label": "bags of trash he cleared himself",
+   "headline": "Told to 'go clean it yourself', a New Yorker did",
+   "summary": "Joshua Service filmed a dumping site under a rail bridge. Commenters dared him to fix it, so he came back with gloves and a rake and filled 10 trash bags in about 2 hours.",
+   "why": "A local councilmember planned to honour him at the very spot he cleaned.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/man-named-service-cleans-up-nyc-dumping-site-on-his-own-initiative/",
+   "source_ig": "",
+   "image_query": "Crown Heights Brooklyn"
+  },
+  {
+   "category": "archaeology",
+   "place": "Isle of Lismore, Scotland, UK",
+   "emoji": "⛪",
+   "stat": "1,000",
+   "stat_label": "bits of early precious-metal work",
+   "headline": "Islanders crowdfunded a dig and found a lost monastery",
+   "summary": "Many of Lismore's 170 residents paid for a dig at their church. It revealed a 6th-century monastery with burials, carved crosses and crucibles likely used for gold and silver.",
+   "why": "It may have rivalled famous Iona, one of Britain's most important early Christian sites.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
+   "source_ig": "",
+   "image_query": "Isle of Lismore"
+  }
+ ],
+ "fun_fact": "Irrawaddy dolphins have no beak: their round, blunt heads make them look more like small belugas.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #dolphins #archaeology"
+}
