@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-27",
+ "handle": "@good_newsglobe",
+ "cover_hook": "25 years after it was dug up, a new dinosaur",
+ "cover_highlight": "25 years",
+ "cover_kicker": "Named for a quarry manager",
+ "caption_hook": "🦕 A dinosaur dug up in a Surrey brick quarry in 2001 has just been named a brand-new species + 3 more wins you missed 👇",
+ "question": "Pick a number: which story would you share first, 1, 2, 3 or 4?",
+ "share_line": "Send this to the friend who loves dinosaurs",
+ "reel_hook": "25 years after it was dug up, a new dinosaur",
+ "first_comment": "It was found just 100 metres from where the famous Baryonyx was dug up in 1983, and Baryonyx's last meal included a baby iguanodontian. Which dinosaur was your childhood favourite? 🦕",
+ "stories": [
+  {
+   "category": "archaeology",
+   "place": "Surrey, England, UK",
+   "emoji": "🦕",
+   "stat": "125M",
+   "stat_label": "years ago it roamed muddy wetlands",
+   "headline": "A dinosaur found in 2001 is a brand-new species",
+   "summary": "Dug from a Surrey brick quarry and kept at London's Natural History Museum, Paludohadros proudlovii was a rhino-sized young plant-eater, about 5 m long and up to 2 tonnes.",
+   "why": "It honours Will Proudlove, the quarry's manager, who died aged 35 shortly before it was dug up.",
+   "source_name": "Natural History Museum",
+   "source_url": "https://www.nhm.ac.uk/press-office/press-releases/new-uk-dinosaur-named-after-devoted-dad-and-husband.html",
+   "source_ig": "",
+   "image_query": "Natural History Museum London"
+  },
+  {
+   "category": "science",
+   "place": "Tsukuba, Japan",
+   "emoji": "💎",
+   "stat": "80",
+   "stat_label": "years the theory waited for proof",
+   "headline": "Diamond flaws just proved an 80-year-old physics theory",
+   "summary": "Using tiny quantum sensors inside a lab-grown diamond, a NIMS team mapped the stress around a single atomic flaw, about 10 times more precisely than older methods. It matched the theory.",
+   "why": "Better crystals could mean more reliable power and quantum devices.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-diamond-defects-year-theory-crystal.html",
+   "source_ig": "",
+   "image_query": "synthetic diamond crystal"
+  },
+  {
+   "category": "quirky",
+   "place": "Kew, London, UK",
+   "emoji": "🍄",
+   "stat": "245",
+   "stat_label": "years of mushroom mix-ups solved",
+   "headline": "Kew solved a 245-year mix-up over a famous medicinal mushroom",
+   "summary": "Since 1781, Europe's Ganoderma lucidum and East Asia's prized lingzhi, or reishi, were often treated as one. Old Kew specimens show they split at least 16 million years ago.",
+   "why": "The team proposes calling the European one 'false lingzhi', helping buyers know what they get.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-false-lingzhi-unmasked-scientists-year.html",
+   "source_ig": "",
+   "image_query": "Ganoderma lingzhi"
+  },
+  {
+   "category": "nature",
+   "place": "Casiguran, Aurora, Philippines",
+   "emoji": "🐢",
+   "stat": "5",
+   "stat_label": "endangered green turtles set free",
+   "headline": "Fishers raised the alarm, and 5 sea turtles swam free",
+   "summary": "Five female green sea turtles got caught in fish corrals. Local fishers reported them, and rescuers tagged and released them unhurt; the largest shell was 78 cm long.",
+   "why": "Green turtles are endangered, and quick reports from fishers are helping them survive.",
+   "source_name": "Inquirer",
+   "source_url": "https://newsinfo.inquirer.net/2330314/5-female-green-sea-turtles-rescued-from-fish-corrals-in-aurora",
+   "source_ig": "",
+   "image_query": "Chelonia mydas"
+  }
+ ],
+ "fun_fact": "The new dinosaur's name, Paludohadros, comes from 'palus', Latin for swamp.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #dinosaurs #seaturtles"
+}
