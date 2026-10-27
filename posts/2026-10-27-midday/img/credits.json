@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Portia_fimbriata_%2815857541765%29.jpg/1920px-Portia_fimbriata_%2815857541765%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Portia_fimbriata_(15857541765).jpg",
+  "credit": "Donald Hobern from Copenhagen, Denmark / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Portia fimbriata"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Portia_fimbriata_1.jpg/1920px-Portia_fimbriata_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Portia_fimbriata_1.jpg",
+  "credit": "Charles Lam from Hong Kong, China / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Portia fimbriata"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/202508_FAST_%28Five-hundred-meter_Aperture_Spherical_radio_Telescope%29.jpg/1920px-202508_FAST_%28Five-hundred-meter_Aperture_Spherical_radio_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:202508_FAST_(Five-hundred-meter_Aperture_Spherical_radio_Telescope).jpg",
+  "credit": "SCJiang / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "FAST radio telescope"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/FAST_Radio_Telescope_%28captured_from_video%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:FAST_Radio_Telescope_(captured_from_video).jpg",
+  "credit": "Absolute Cosmos / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "FAST radio telescope"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Elcanidae_Burmese_amber_NMNS.jpg/1920px-Elcanidae_Burmese_amber_NMNS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Elcanidae_Burmese_amber_NMNS.jpg",
+  "credit": "Tiouraren (Y.-C. Tsai) / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Burmese amber"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Kalligrammatidae_Burmese_amber_NMNS.jpg/1920px-Kalligrammatidae_Burmese_amber_NMNS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Kalligrammatidae_Burmese_amber_NMNS.jpg",
+  "credit": "Tiouraren (Y.-C. Tsai) / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Burmese amber"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Avenida_San_Isidro_Labrador_en_Buenos_Aires.jpg/1920px-Avenida_San_Isidro_Labrador_en_Buenos_Aires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Avenida_San_Isidro_Labrador_en_Buenos_Aires.jpg",
+  "credit": "Lombardia1 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Saavedra Buenos Aires"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Puente_Saavedra%2C_Buenos_Aires.jpg/1920px-Puente_Saavedra%2C_Buenos_Aires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Puente_Saavedra,_Buenos_Aires.jpg",
+  "credit": "Lombardia1 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Saavedra Buenos Aires"
+ }
+}
