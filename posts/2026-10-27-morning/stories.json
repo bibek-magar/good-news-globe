@@ -6,7 +6,7 @@
  "cover_highlight": "6 new calves",
  "cover_kicker": "A sacred river comeback",
  "caption_hook": "🐬 6 baby Irrawaddy dolphins were born on Cambodia's Mekong River, lifting the population to 118 + 3 more wins you missed 👇",
- "question": "Dolphins or a lost monastery: which one made your day? 🐬 or ⛪",
+ "question": "Dolphins or a lost monastery: which one made your day?",
  "share_line": "Send this to the friend who loves dolphins",
  "reel_hook": "6 new calves lift Mekong dolphins to 118",
  "first_comment": "Many people along the river see these dolphins as reincarnated ancestors, and some say the dolphins once saved drowning villagers. Have you ever seen a wild dolphin? 🐬",
@@ -23,7 +23,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/numbers-of-endangered-and-sacred-river-dolphin-grow-by-6-after-successful-breeding-season/",
    "source_ig": "",
-   "image_query": "Orcaella brevirostris"
+   "image_query": "Orcaella brevirostris",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "science",
@@ -51,7 +52,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/man-named-service-cleans-up-nyc-dumping-site-on-his-own-initiative/",
    "source_ig": "",
-   "image_query": "Crown Heights Brooklyn"
+   "image_query": "Crown Heights Brooklyn",
+   "image": "img/s3b.jpg"
   },
   {
    "category": "archaeology",
@@ -65,7 +67,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
    "source_ig": "",
-   "image_query": "Isle of Lismore"
+   "image_query": "Isle of Lismore",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "Irrawaddy dolphins have no beak: their round, blunt heads make them look more like small belugas.",
