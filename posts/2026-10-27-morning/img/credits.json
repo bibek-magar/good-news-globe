@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Orcaella_brevirostris_1878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Orcaella_brevirostris_1878.jpg",
+  "credit": "C. Berjeau / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Orcaella brevirostris"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Orcaella_brevirostris_-_Long_Vu_-_99590731.jpeg/1920px-Orcaella_brevirostris_-_Long_Vu_-_99590731.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Orcaella_brevirostris_-_Long_Vu_-_99590731.jpeg",
+  "credit": "Long Vu / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Orcaella brevirostris"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Gerrothorax_pustuloglomeratus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Gerrothorax_pustuloglomeratus.JPG",
+  "credit": "Ghedoghedo / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Gerrothorax fossil"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gerrothorax_pulcherrimus_783.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Gerrothorax_pulcherrimus_783.jpg",
+  "credit": "Ghedoghedo / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Gerrothorax fossil"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Crown_Heights%2C_Brooklyn%2C_NY%2C_USA_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Crown_Heights,_Brooklyn,_NY,_USA_-_panoramio_(1).jpg",
+  "credit": "Arnab Majumdar / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Crown Heights Brooklyn"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Albany_Av%2C_Crown_Heights%2C_Brooklyn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Albany_Av,_Crown_Heights,_Brooklyn.jpg",
+  "credit": "~ggvic~ / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Crown Heights Brooklyn"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lismore_topographic_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Lismore_topographic_map.png",
+  "credit": "Clydiee / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Isle of Lismore"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Isle_of_Lismore_Post_Office_-_geograph.org.uk_-_8244374.jpg/1920px-Isle_of_Lismore_Post_Office_-_geograph.org.uk_-_8244374.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Isle_of_Lismore_Post_Office_-_geograph.org.uk_-_8244374.jpg",
+  "credit": "Colin Park / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Isle of Lismore"
+ }
+}
