@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Museo_de_Historia_Natural%2C_Londres%2C_Inglaterra%2C_2022-11-25%2C_DD_50-52_HDR.jpg/1920px-Museo_de_Historia_Natural%2C_Londres%2C_Inglaterra%2C_2022-11-25%2C_DD_50-52_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Museo_de_Historia_Natural,_Londres,_Inglaterra,_2022-11-25,_DD_50-52_HDR.jpg",
+  "credit": "Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Natural History Museum London"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg/1920px-Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg",
+  "credit": "Diliff / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Natural History Museum London"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/First_synthetic_diamonds_by_ASEA_1953.jpg/1920px-First_synthetic_diamonds_by_ASEA_1953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:First_synthetic_diamonds_by_ASEA_1953.jpg",
+  "credit": "Erik Lundblad / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "synthetic diamond crystal"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Diamond_cuboctahedron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Diamond_cuboctahedron.jpg",
+  "credit": "Ludvig14 / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "synthetic diamond crystal"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ganoderma_lingzhi_Wu%2C_Cao_%26_Dai_574883.jpg/1920px-Ganoderma_lingzhi_Wu%2C_Cao_%26_Dai_574883.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ganoderma_lingzhi_Wu,_Cao_%26_Dai_574883.jpg",
+  "credit": "This image was created by user TecheOldFox (Techieoldfox) at / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Ganoderma lingzhi"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2014-02-26_Ganoderma_lingzhi_Sheng_H._Wu%2C_Y._Cao_%26_Y.C._Dai_574882.jpg/1920px-2014-02-26_Ganoderma_lingzhi_Sheng_H._Wu%2C_Y._Cao_%26_Y.C._Dai_574882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2014-02-26_Ganoderma_lingzhi_Sheng_H._Wu,_Y._Cao_%26_Y.C._Dai_574882.jpg",
+  "credit": "This image was created by user TecheOldFox (Techieoldfox) at / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Ganoderma lingzhi"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg/1920px-Total_internal_reflection_of_Chelonia_mydas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Total_internal_reflection_of_Chelonia_mydas.jpg",
+  "credit": "Brocken Inaglory / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Chelonia mydas"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chelonia_mydas_albino_p1440273.jpg/1920px-Chelonia_mydas_albino_p1440273.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Chelonia_mydas_albino_p1440273.jpg",
+  "credit": "David Monniaux / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Chelonia mydas"
+ }
+}
