@@ -23,7 +23,8 @@
    "source_name": "ABC News",
    "source_url": "https://www.abc.net.au/news/science/2026-10-27/jumping-spider-rem-sleep/107309370",
    "source_ig": "",
-   "image_query": "Portia fimbriata"
+   "image_query": "Portia fimbriata",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "space",
@@ -37,7 +38,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-fast-arecibo-dark-galaxy-vast.html",
    "source_ig": "",
-   "image_query": "FAST radio telescope"
+   "image_query": "FAST radio telescope",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "science",
@@ -65,7 +67,8 @@
    "source_name": "Fox News",
    "source_url": "https://www.foxnews.com/video/6407384515112",
    "source_ig": "",
-   "image_query": "Saavedra Buenos Aires"
+   "image_query": "Saavedra Buenos Aires",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Portia jumping spiders hunt other spiders, and an adult is only about 10 mm long.",
