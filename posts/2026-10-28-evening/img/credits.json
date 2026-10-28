@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Angry_Ant_%28Explored%29_%2831456859231%29.jpg/1920px-Angry_Ant_%28Explored%29_%2831456859231%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Angry_Ant_(Explored)_(31456859231).jpg",
+  "credit": "AJC1 from UK / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "ant colony macro"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Aphid_Farm_%2855206291839%29.jpg/1920px-Aphid_Farm_%2855206291839%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Aphid_Farm_(55206291839).jpg",
+  "credit": "Willie Luker from USA / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "ant colony macro"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/James_Webb_Space_Telescope_Mirror37.jpg/1920px-James_Webb_Space_Telescope_Mirror37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg",
+  "credit": "NASA/MSFC/David Higginbotham/Emmett Given / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "James Webb Space Telescope"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg/1920px-James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_(30108124923).jpg",
+  "credit": "Chris Gunn / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "James Webb Space Telescope"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Frontier_Supercomputer_%282%29.jpg/1920px-Frontier_Supercomputer_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Frontier_Supercomputer_(2).jpg",
+  "credit": "OLCF at ORNL / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Frontier supercomputer"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Frontier_supercomputer_%2815%29.jpg/1920px-Frontier_supercomputer_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Frontier_supercomputer_(15).jpg",
+  "credit": "Oak Ridge National Laboratory / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Frontier supercomputer"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Korean_barbecue_with_seafood-01.jpg/1920px-Korean_barbecue_with_seafood-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_barbecue_with_seafood-01.jpg",
+  "credit": "Mar del Este / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Korean barbecue"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Korean_barbecue_with_seafood-03.jpg/1920px-Korean_barbecue_with_seafood-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_barbecue_with_seafood-03.jpg",
+  "credit": "Mar del Este / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Korean barbecue"
+ }
+}
