@@ -1,18 +1,4 @@
 {
- "s1a": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ursus_arctos_horribilis_-_Shoshone_National_Forest_-_September_2017_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "page": "https://commons.wikimedia.org/wiki/File:Ursus_arctos_horribilis_-_Shoshone_National_Forest_-_September_2017_02.jpg",
-  "credit": "Danielle Flint, US Forest Service / Wikimedia Commons, Public domain",
-  "license": "Public domain",
-  "query": "Ursus arctos forest"
- },
- "s1b": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ursus_arctos_horribilis_-_Shoshone_National_Forest_-_September_2017_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "page": "https://commons.wikimedia.org/wiki/File:Ursus_arctos_horribilis_-_Shoshone_National_Forest_-_September_2017_01.jpg",
-  "credit": "Danielle Flint, US Forest Service / Wikimedia Commons, Public domain",
-  "license": "Public domain",
-  "query": "Ursus arctos forest"
- },
  "s2a": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Longipteryx_chaoyangensis_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "page": "https://commons.wikimedia.org/wiki/File:Longipteryx_chaoyangensis_2.JPG",
@@ -54,5 +40,19 @@
   "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
   "license": "CC BY-SA 4.0",
   "query": "Panthera onca"
+ },
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg/1920px-Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Eurasian_brown_bear_(Ursus_arctos_arctos)_female_1.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Ursus arctos arctos"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Brown_bear_%28Ursus_arctos_arctos%29_running.jpg/1920px-Brown_bear_%28Ursus_arctos_arctos%29_running.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Brown_bear_(Ursus_arctos_arctos)_running.jpg",
+  "credit": "Malene Thyssen / Wikimedia Commons, CC BY 2.5",
+  "license": "CC BY 2.5",
+  "query": "Ursus arctos arctos"
  }
 }
