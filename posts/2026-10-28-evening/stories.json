@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-28",
+ "handle": "@good_newsglobe",
+ "cover_hook": "66M years ago, the dino-killing asteroid helped ants win",
+ "cover_highlight": "66M years ago",
+ "cover_kicker": "Hidden in 163 ant genomes",
+ "caption_hook": "🐜 The asteroid that wiped out the dinosaurs may have helped ants take over the world, a study of 163 ant species finds + 3 more 👇",
+ "question": "One-word answer: which story would you tell your friends about first?",
+ "share_line": "Send this to the friend who's obsessed with ants",
+ "reel_hook": "66M years ago, an asteroid helped ants win",
+ "first_comment": "Jumping genes also helped ants grow more smell receptors, which they use to find food and recognise their own colony. Ever watched an ant trail for too long? 🐜",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Münster, Germany",
+   "emoji": "🐜",
+   "stat": "15,000",
+   "stat_label": "ant species alive today",
+   "headline": "The asteroid that ended the dinosaurs helped ants boom",
+   "summary": "Comparing the genomes of 163 ant species, scientists found bursts of 'jumping genes' about 66 million years ago, just before major ant groups split into thousands of species.",
+   "why": "DNA once called a genetic parasite may have helped one of Earth's most successful animals rise.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
+   "source_ig": "",
+   "image_query": "ant colony macro"
+  },
+  {
+   "category": "space",
+   "place": "280 light-years away",
+   "emoji": "🌋",
+   "stat": "75%",
+   "stat_label": "of starlight bounced back",
+   "headline": "A lava planet keeps cool behind a 'sunscreen' of clouds",
+   "summary": "Watching TOI-561 b over 37 hours, the James Webb telescope found this molten world reflects about 75% of its starlight, likely from clouds of rock-like minerals in a thick atmosphere.",
+   "why": "Its sky should have been blasted away billions of years ago, so it may be fed by its lava ocean.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+   "source_ig": "",
+   "image_query": "James Webb Space Telescope"
+  },
+  {
+   "category": "science",
+   "place": "Cambridge, Massachusetts, USA",
+   "emoji": "🌌",
+   "stat": "2 bn",
+   "stat_label": "years of cosmic history rebuilt",
+   "headline": "Scientists rebuilt the universe's first 2 billion years",
+   "summary": "Running on more than 15,000 graphics chips, the Lumina simulation models a cube of space about 1.5 billion light-years wide, over 100 times bigger than similar earlier projects.",
+   "why": "It lets astronomers check what Webb sees against how the first stars and galaxies should have formed.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+   "source_ig": "",
+   "image_query": "Frontier supercomputer"
+  },
+  {
+   "category": "kindness",
+   "place": "Incheon, South Korea",
+   "emoji": "🍖",
+   "stat": "27",
+   "stat_label": "people treated to lunch",
+   "headline": "A stranger secretly paid a $420 lunch for 27 people",
+   "summary": "A group of disabled residents and carers stopped for barbecue in Incheon. Before leaving, another diner added premium beef to their order, paid the whole bill and left without a word.",
+   "why": "A volunteer said it reminded everyone there are still many warm-hearted people around.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/",
+   "source_ig": "",
+   "image_query": "Korean barbecue"
+  }
+ ],
+ "fun_fact": "TOI-561 b races around its star in under 11 hours.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #ants #space"
+}
