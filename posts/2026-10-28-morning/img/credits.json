@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Front_of_4th_century_CE_Roman_Lycurgus_Cup%2C_British_Museum_%281958%2C1202.1%29.jpg/1920px-Front_of_4th_century_CE_Roman_Lycurgus_Cup%2C_British_Museum_%281958%2C1202.1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Front_of_4th_century_CE_Roman_Lycurgus_Cup,_British_Museum_(1958,1202.1).jpg",
+  "credit": "Chappsnet / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Lycurgus Cup"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/British_Museum_The_Lycurgus_Cup_07_15022019_4359.jpg/1920px-British_Museum_The_Lycurgus_Cup_07_15022019_4359.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:British_Museum_The_Lycurgus_Cup_07_15022019_4359.jpg",
+  "credit": "Vassil / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Lycurgus Cup"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/James_Webb_Space_Telescope_Mirror37.jpg/1920px-James_Webb_Space_Telescope_Mirror37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg",
+  "credit": "NASA/MSFC/David Higginbotham/Emmett Given / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "James Webb Space Telescope"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg/1920px-James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_(30108124923).jpg",
+  "credit": "Chris Gunn / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "James Webb Space Telescope"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Pan_paniscus_%28female%29.jpg/1920px-Pan_paniscus_%28female%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pan_paniscus_(female).jpg",
+  "credit": "Hans Hillewaert / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pan paniscus"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pan_paniscus_in_Ouwehands_Dierenpark.jpg/1920px-Pan_paniscus_in_Ouwehands_Dierenpark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pan_paniscus_in_Ouwehands_Dierenpark.jpg",
+  "credit": "FakirNL / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Pan paniscus"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Letter_from_James_E._Love%2C_camp_near_Alpine%2C_Chatooga_%28Chattooga%29_County%2C_Georgia%2C_to_Molly%2C_September_12%2C_1863.jpg/1920px-Letter_from_James_E._Love%2C_camp_near_Alpine%2C_Chatooga_%28Chattooga%29_County%2C_Georgia%2C_to_Molly%2C_September_12%2C_1863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Letter_from_James_E._Love,_camp_near_Alpine,_Chatooga_(Chattooga)_County,_Georgia,_to_Molly,_September_12,_1863.jpg",
+  "credit": "Love, James Edwin, 1830-1905 / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Chattooga County Georgia"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chattooga_County%2C_Georgia_-_Sunset.jpg/1920px-Chattooga_County%2C_Georgia_-_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Chattooga_County,_Georgia_-_Sunset.jpg",
+  "credit": "Shane Clements / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "Chattooga County Georgia"
+ }
+}
