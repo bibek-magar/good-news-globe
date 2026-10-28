@@ -23,7 +23,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
    "source_ig": "",
-   "image_query": "ant colony macro"
+   "image_query": "ant colony macro",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "space",
@@ -37,7 +38,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
    "source_ig": "",
-   "image_query": "James Webb Space Telescope"
+   "image_query": "James Webb Space Telescope",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "science",
@@ -51,7 +53,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
    "source_ig": "",
-   "image_query": "Frontier supercomputer"
+   "image_query": "Frontier supercomputer",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "kindness",
@@ -65,7 +68,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/",
    "source_ig": "",
-   "image_query": "Korean barbecue"
+   "image_query": "Korean barbecue",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "TOI-561 b races around its star in under 11 hours.",
