@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ursus_arctos_horribilis_-_Shoshone_National_Forest_-_September_2017_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Ursus_arctos_horribilis_-_Shoshone_National_Forest_-_September_2017_02.jpg",
+  "credit": "Danielle Flint, US Forest Service / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Ursus arctos forest"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ursus_arctos_horribilis_-_Shoshone_National_Forest_-_September_2017_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Ursus_arctos_horribilis_-_Shoshone_National_Forest_-_September_2017_01.jpg",
+  "credit": "Danielle Flint, US Forest Service / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Ursus arctos forest"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Longipteryx_chaoyangensis_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Longipteryx_chaoyangensis_2.JPG",
+  "credit": "Unknown / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Longipteryx fossil"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Longipteryx_skull_reconstructions.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Longipteryx_skull_reconstructions.png",
+  "credit": "Case Vincent Miller, Michael Pittman, Xiaoli Wang, Xiaoting  / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Longipteryx fossil"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Woman_with_hula_hoop_in_a_garden_house.jpg/1920px-Woman_with_hula_hoop_in_a_garden_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_with_hula_hoop_in_a_garden_house.jpg",
+  "credit": "Fora do Eixo / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "hula hoop"
+ },
+ "s3b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hula-hoop_woman_at_a_renaissance_faire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Hula-hoop_woman_at_a_renaissance_faire.jpg",
+  "credit": "greyloch / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "hula hoop"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Jaguar_%28Panthera_onca_palustris%29_male_Rio_Negro_2.JPG/1920px-Jaguar_%28Panthera_onca_palustris%29_male_Rio_Negro_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Rio_Negro_2.JPG",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Panthera onca"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg/1920px-Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River_2.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Panthera onca"
+ }
+}
