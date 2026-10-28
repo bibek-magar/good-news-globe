@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-27 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-28 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-20: 2 → 10-21: 2 → 10-22: 2 → 10-23: 2 → 10-24: 2 → 10-25: 2 → 10-26: 2 → 10-27: 2
+10-21: 2 → 10-22: 2 → 10-23: 2 → 10-24: 2 → 10-25: 2 → 10-26: 2 → 10-27: 2 → 10-28: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -21,8 +21,8 @@ _Updated 2026-10-27 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 | 2026-10-12 | evening | 8 orangutans rescued from fires are free again | 3 | 0 | 0 | 0 | 33.33 |
 
 ## This week vs before
-- Last 7 days: 2 carousels, avg reach 2, avg score 75.0
-- Earlier: avg reach 2.5, avg score 112.7
+- Last 7 days: 1 carousels, avg reach 2, avg score 50.0
+- Earlier: avg reach 2.5, avg score 112.1
 
 ## By slot (Nepal time)
 - morning: 3 posts, avg reach 2.3, avg score 127.8
