@@ -23,7 +23,8 @@
    "source_name": "University of Sheffield",
    "source_url": "https://sheffield.ac.uk/news/technician-cracks-1600-year-old-mystery-replicate-roman-masterpiece",
    "source_ig": "",
-   "image_query": "Lycurgus Cup"
+   "image_query": "Lycurgus Cup",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "space",
@@ -37,7 +38,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-webb-links-interstellar-comet-3iatlas.html",
    "source_ig": "",
-   "image_query": "James Webb Space Telescope"
+   "image_query": "James Webb Space Telescope",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "nature",
@@ -51,7 +53,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-bonobo-females-males-decade-reveals.html",
    "source_ig": "",
-   "image_query": "Pan paniscus"
+   "image_query": "Pan paniscus",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "kindness",
@@ -65,7 +68,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/",
    "source_ig": "",
-   "image_query": "Chattooga County Georgia"
+   "image_query": "Chattooga County Georgia",
+   "image": "img/s4b.jpg"
   }
  ],
  "fun_fact": "The Lycurgus Cup is the only Roman glass cage cup known to change colour like this.",
