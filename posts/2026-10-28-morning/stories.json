@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-28",
+ "handle": "@good_newsglobe",
+ "cover_hook": "1,600 years later, Rome's colour-changing glass is back",
+ "cover_highlight": "1,600 years later",
+ "cover_kicker": "Green in one light, red in another",
+ "caption_hook": "🏺 A Sheffield technician recreated the Lycurgus Cup's Roman glass, which glows green or ruby red, 1,600 years on + 3 more wins 👇",
+ "question": "Green or red: which colour would you pick for your own magic glass? 💚 or ❤️",
+ "share_line": "Send this to the friend who loves history",
+ "reel_hook": "1,600 years later, Rome's magic glass is back",
+ "first_comment": "Her winning recipe came after many tries with different furnaces and oxygen levels, and it even included sugar. What ancient mystery would you love solved next? 🏺",
+ "stories": [
+  {
+   "category": "archaeology",
+   "place": "Sheffield, England, UK",
+   "emoji": "🏺",
+   "stat": "1,600",
+   "stat_label": "years since the Romans made it",
+   "headline": "A technician recreated the Lycurgus Cup's magic glass",
+   "summary": "The 4th-century Roman cup looks jade green in reflected light and ruby red with light behind it. After many experiments, Dr Lisa Hollands made glass that does the same, in quantity.",
+   "why": "Nobody knew exactly how the Romans did it. A new sculpture made from her glass goes on show in November.",
+   "source_name": "University of Sheffield",
+   "source_url": "https://sheffield.ac.uk/news/technician-cracks-1600-year-old-mystery-replicate-roman-masterpiece",
+   "source_ig": "",
+   "image_query": "Lycurgus Cup"
+  },
+  {
+   "category": "space",
+   "place": "Passing through our Solar System",
+   "emoji": "☄️",
+   "stat": "3rd",
+   "stat_label": "object ever seen from another star",
+   "headline": "Webb found ice from another star system like our own",
+   "summary": "Watching interstellar comet 3I/ATLAS 3 times, the James Webb telescope saw tiny grains of dusty water ice. They match icy worlds beyond Neptune.",
+   "why": "Planets around other stars may be built from the same kind of icy bits as ours.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-webb-links-interstellar-comet-3iatlas.html",
+   "source_ig": "",
+   "image_query": "James Webb Space Telescope"
+  },
+  {
+   "category": "nature",
+   "place": "LuiKotale, DR Congo",
+   "emoji": "🐒",
+   "stat": "60%",
+   "stat_label": "of bonobo hunts led by females",
+   "headline": "Female bonobos turn out to be the main hunters",
+   "summary": "A 10-year study of 2 wild groups found females led 60% of hunts with known hunters, even mothers carrying babies. Older females caught forest antelopes 3 times as often as males.",
+   "why": "It challenges the old 'man the hunter' story of how our ancestors lived.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-bonobo-females-males-decade-reveals.html",
+   "source_ig": "",
+   "image_query": "Pan paniscus"
+  },
+  {
+   "category": "kindness",
+   "place": "Chattooga County, Georgia, USA",
+   "emoji": "🚗",
+   "stat": "500",
+   "stat_label": "children this family has fostered",
+   "headline": "A stranger's wrong turn saved a big foster family",
+   "summary": "His GPS sent Casey down an unfamiliar road, where he saw a house on fire. He ran in, woke the dad and helped get 11 children and a grandchild out safely.",
+   "why": "The Burkes have cared for 500 children over the years, and now their community is rallying for them.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/",
+   "source_ig": "",
+   "image_query": "Chattooga County Georgia"
+  }
+ ],
+ "fun_fact": "The Lycurgus Cup is the only Roman glass cage cup known to change colour like this.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #archaeology #history"
+}
