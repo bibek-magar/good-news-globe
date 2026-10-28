@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-28",
+ "handle": "@good_newsglobe",
+ "cover_hook": "5 years, 100+ helpers: 2 caged bears now roam a forest",
+ "cover_highlight": "5 years",
+ "cover_kicker": "From Russia to Ireland",
+ "caption_hook": "🐻 Two brown bears kept in tiny cages in Russia now explore an Irish forest, after a 5-year rescue by 100+ people + 3 more wins 👇",
+ "question": "Which one should get its own movie: 1, 2, 3 or 4? 🎬",
+ "share_line": "Send this to the friend who loves bears",
+ "reel_hook": "5 years, 100+ helpers: 2 caged bears freed",
+ "first_comment": "Tyapa's old cage was so low he couldn't stand up, and he drank from a hose. Now both bears' kidney tests are back to normal. What would you name a rescued bear? 🐻",
+ "stories": [
+  {
+   "category": "kindness",
+   "place": "Donegal, Ireland",
+   "emoji": "🐻",
+   "stat": "100+",
+   "stat_label": "people who helped move 2 bears",
+   "headline": "2 brown bears from tiny Russian cages now live in a forest",
+   "summary": "Bu was a circus bear and Tyapa lived in a cage too low to stand in. After 5 years of planning, rescuers flew them from Moscow via Abu Dhabi to Wild Ireland's forest sanctuary.",
+   "why": "War closed one route and airspace closures another, but more than 100 people refused to give up.",
+   "source_name": "People",
+   "source_url": "https://www.yahoo.com/entertainment/articles/2-captive-brown-bears-rescued-200739680.html",
+   "source_ig": "",
+   "image_query": "Ursus arctos forest"
+  },
+  {
+   "category": "science",
+   "place": "Liaoning, China",
+   "emoji": "🐦",
+   "stat": "121M",
+   "stat_label": "years old, and no tail feathers",
+   "headline": "A 121-million-year-old toothed bird flew with no tail fan",
+   "summary": "Two finely preserved Longipteryx fossils show fluffy bodies but only short tufts at the rear. None of the 19 known specimens has tail feathers, unlike any bird alive today.",
+   "why": "With a long toothed snout and odd shoulders, it likely flew in a way no living bird does.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html",
+   "source_ig": "",
+   "image_query": "Longipteryx fossil"
+  },
+  {
+   "category": "quirky",
+   "place": "Berkeley, California, USA",
+   "emoji": "⭕",
+   "stat": "120",
+   "stat_label": "sensor readings a second",
+   "headline": "Earthquake sensors finally showed how a hula hoop stays up",
+   "summary": "Berkeley engineers strapped building-test sensors to a hoop, leg and foot. Their data overturned 20 years of thinking: the hoop's spin and its wobble are driven together, thighs to feet.",
+   "why": "The same method could help design better rehab, prosthetics and robots.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html",
+   "source_ig": "",
+   "image_query": "hula hoop"
+  },
+  {
+   "category": "nature",
+   "place": "Iténez River, Bolivia",
+   "emoji": "🐆",
+   "stat": "715K",
+   "stat_label": "acres now a protected reserve",
+   "headline": "A new Amazon reserve protects jaguars and river dolphins",
+   "summary": "Bolivia's new Agua Dulce reserve covers 715,000 acres along the Iténez River, home to jaguars, giant otters and 260 fish species. It links protected lands in Bolivia and Brazil.",
+   "why": "It helped backer Rainforest Trust pass 70 million acres protected, an area the size of Nevada.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/",
+   "source_ig": "",
+   "image_query": "Panthera onca"
+  }
+ ],
+ "fun_fact": "The Iténez River runs about 780 miles, and most of it forms the border between Bolivia and Brazil.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #bears #animalrescue"
+}
