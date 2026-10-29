@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Salamandra_salamandra_MHNT_1.jpg/1920px-Salamandra_salamandra_MHNT_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Salamandra_salamandra_MHNT_1.jpg",
+  "credit": "Didier Descouens / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Salamandra salamandra"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Fire_salamander_%28Salamandra_Salamandra%29.jpg/1920px-Fire_salamander_%28Salamandra_Salamandra%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Fire_salamander_(Salamandra_Salamandra).jpg",
+  "credit": "Petar Milošević / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Salamandra salamandra"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Fireball_over_Maunakea_in_2006_%28200626-012912_CC-West_meteor_CC%29.jpg/1920px-Fireball_over_Maunakea_in_2006_%28200626-012912_CC-West_meteor_CC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Fireball_over_Maunakea_in_2006_(200626-012912_CC-West_meteor_CC).jpg",
+  "credit": "International Gemini Observatory/NOIRLab/NSF/AURA / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "fireball meteor"
+ },
+ "s2b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/2017_DFN_grazing_fireball_triangulation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:2017_DFN_grazing_fireball_triangulation.jpg",
+  "credit": "Pshober / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "fireball meteor"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Scanning_tunneling_microscope-MHS_2237-IMG_3817-gradient.jpg/1920px-Scanning_tunneling_microscope-MHS_2237-IMG_3817-gradient.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Scanning_tunneling_microscope-MHS_2237-IMG_3817-gradient.jpg",
+  "credit": "Rama / Wikimedia Commons, CC BY-SA 3.0 fr",
+  "license": "CC BY-SA 3.0 fr",
+  "query": "scanning tunneling microscope"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ESR-STM_at_QNS_in_Ewha_-_front_view.jpg/1920px-ESR-STM_at_QNS_in_Ewha_-_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:ESR-STM_at_QNS_in_Ewha_-_front_view.jpg",
+  "credit": "Rickinasia / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "scanning tunneling microscope"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Old_Lady_Elliot_Lighthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_Lady_Elliot_Lighthouse.jpg",
+  "credit": "Walloper69 at English Wikipedia / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Lady Elliot Island lighthouse"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lady_Elliot_Island_Lighthouse_and_Coral_Reef.jpg/1920px-Lady_Elliot_Island_Lighthouse_and_Coral_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lady_Elliot_Island_Lighthouse_and_Coral_Reef.jpg",
+  "credit": "Holobionics / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Lady Elliot Island lighthouse"
+ }
+}
