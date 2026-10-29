@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-29",
+ "handle": "@good_newsglobe",
+ "cover_hook": "1st proof: fire salamanders glow under UV",
+ "cover_highlight": "1st proof",
+ "cover_kicker": "Hidden for decades",
+ "caption_hook": "🦎 Fire salamanders secretly glow green under UV light, and their toxic slime glows for 24+ hours. Follow for 3 good-news wins a day",
+ "question": "Pick a number: which story surprised you most, 1, 2, 3 or 4?",
+ "share_line": "Send this to the friend who loves salamanders",
+ "reel_hook": "1st proof: fire salamanders glow under UV",
+ "first_comment": "The glow isn't made by the salamander itself: its skin absorbs UV light and gives it back as green and cyan light. Would you go looking for one with a UV torch?",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "Barcelona, Spain",
+   "emoji": "🦎",
+   "stat": "24 h+",
+   "stat_label": "their toxic slime keeps glowing",
+   "headline": "Europe's fire salamanders secretly glow under UV light",
+   "summary": "Under ultraviolet light, the black-and-yellow amphibians glow green and cyan, mostly from skin glands. Their toxic secretions kept glowing for more than 24 hours.",
+   "why": "Decades of studying their skin chemistry never spotted it, and the glowing compound is still unknown.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+   "source_ig": "",
+   "image_query": "Salamandra salamandra"
+  },
+  {
+   "category": "space",
+   "place": "California, USA",
+   "emoji": "☄️",
+   "stat": "7",
+   "stat_label": "stages a falling space rock goes through",
+   "headline": "75 meteorite falls show space rocks melt, then shatter",
+   "summary": "Studying videos of 75 meteorite falls, SETI Institute and NASA scientists found 7 stages. Melting alone can strip up to 40% of a rock before air pressure breaks it apart.",
+   "why": "It helps predict where meteorites land and how bigger asteroids explode in the sky.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+   "source_ig": "",
+   "image_query": "fireball meteor"
+  },
+  {
+   "category": "science",
+   "place": "Delft, Netherlands",
+   "emoji": "⚛️",
+   "stat": "1",
+   "stat_label": "atom's nucleus flipped with radio waves",
+   "headline": "Physicists controlled the magnetic core of a single atom",
+   "summary": "A team at TU Delft used a modified scanning tunnelling microscope to flip the magnetism of one atom's nucleus with radio waves, something thought impossible to do directly.",
+   "why": "Shielded nuclear spins could one day store quantum information safely.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-magnetic-core-atom.html",
+   "source_ig": "",
+   "image_query": "scanning tunneling microscope"
+  },
+  {
+   "category": "quirky",
+   "place": "Lady Elliot Island, Australia",
+   "emoji": "🗼",
+   "stat": "1937",
+   "stat_label": "earliest report of the illusion",
+   "headline": "Scientists explained the 'phantom lighthouse' on the horizon",
+   "summary": "Visitors see a beam shining from the sea when the lighthouse is behind them. A study recreated it in virtual reality: in the dark, the brain misjudges how far and fast the beam moves.",
+   "why": "It works from just 70 m away, much closer than the 1-4 km reported before.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-phantom-lighthouse-australia-strangest-illusions.html",
+   "source_ig": "",
+   "image_query": "Lady Elliot Island lighthouse"
+  }
+ ],
+ "fun_fact": "The first Lady Elliot Island lighthouse was built in 1873.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #salamander #meteor"
+}
