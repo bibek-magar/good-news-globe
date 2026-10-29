@@ -1,0 +1,44 @@
+{
+ "s1a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Priodontes_maximus_at_R%C3%A9gina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Priodontes_maximus_at_R%C3%A9gina.jpg",
+  "credit": "Guillaume Delaitre / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Priodontes maximus"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Priodontes_maximus_%28taxidermied%29_at_G%C3%B6teborgs_Naturhistoriska_Museum_%288918%29.jpg/1920px-Priodontes_maximus_%28taxidermied%29_at_G%C3%B6teborgs_Naturhistoriska_Museum_%288918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Priodontes_maximus_(taxidermied)_at_G%C3%B6teborgs_Naturhistoriska_Museum_(8918).jpg",
+  "credit": "Gunnar Creutz / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Priodontes maximus"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Dentistpatient.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Dentistpatient.jpg",
+  "credit": "Jenlarrine / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "pediatric dentistry"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Pediatric_Dentistry_Clinic_at_the_UCLA_Venice_Dental_Center.jpg/1920px-Pediatric_Dentistry_Clinic_at_the_UCLA_Venice_Dental_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Pediatric_Dentistry_Clinic_at_the_UCLA_Venice_Dental_Center.jpg",
+  "credit": "UCLA School of Dentistry / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "pediatric dentistry"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Newtown_Creek_Wastewater_Treatment_Plant_-_Looking_Up.jpg/1920px-Newtown_Creek_Wastewater_Treatment_Plant_-_Looking_Up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Newtown_Creek_Wastewater_Treatment_Plant_-_Looking_Up.jpg",
+  "credit": "Professorcornbread / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "wastewater treatment plant"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%8CBu%2C_wastewater_treatment_plant_05.jpg/1920px-%C4%8CBu%2C_wastewater_treatment_plant_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:%C4%8CBu,_wastewater_treatment_plant_05.jpg",
+  "credit": "Czeva / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "wastewater treatment plant"
+ }
+}
