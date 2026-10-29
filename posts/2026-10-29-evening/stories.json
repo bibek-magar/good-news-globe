@@ -37,7 +37,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
    "source_ig": "",
-   "image_query": "full moon"
+   "image_query": "full moon",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "energy",
@@ -45,7 +46,7 @@
    "emoji": "☀️",
    "stat": "3",
    "stat_label": "iron atoms in each tiny triangle",
-   "headline": "Physicists found why one crystal makes ammonia from sunlight",
+   "headline": "Scientists found why one crystal makes ammonia from sunlight",
    "summary": "Teams in Vienna showed that 'frustrated' magnetism in triangles of 3 iron atoms lets a crystal turn nitrogen into ammonia with light. Swap in chromium and it stops.",
    "why": "Fertiliser ammonia is usually made with huge heat and pressure; this could guide greener catalysts.",
    "source_name": "Phys.org",
@@ -65,7 +66,8 @@
    "source_name": "Positive News",
    "source_url": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
    "source_ig": "",
-   "image_query": "Panthera leo Namibia"
+   "image_query": "Panthera leo Namibia",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Namibia's desert lions grew from about 20 adults in 1997 to around 180 by 2015.",
