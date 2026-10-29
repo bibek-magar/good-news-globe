@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-29",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Seen 11 times in 40 years, now filmed in 4K",
+ "cover_highlight": "11 times",
+ "cover_kicker": "A see-through-headed fish",
+ "caption_hook": "🐟 A barreleye fish with a see-through head, seen only 11 times in 7,000 dives, was just filmed in 4K. Follow for 3 good-news wins a day",
+ "question": "Either/or: deep sea or outer space, which would you explore?",
+ "share_line": "Send this to the friend who loves deep-sea weirdos",
+ "reel_hook": "Seen 11 times in 40 years, now filmed in 4K",
+ "first_comment": "The crew spotted it while the robot sub was already heading back to the surface, and stopped to watch it for about 20 minutes. Would you have stayed up for that? 👀",
+ "stories": [
+  {
+   "category": "science",
+   "place": "Monterey Bay, California, USA",
+   "emoji": "🐟",
+   "stat": "11",
+   "stat_label": "sightings in 7,000 deep-sea dives",
+   "headline": "A fish with a see-through head was filmed in 4K",
+   "summary": "MBARI's robot sub met a barreleye fish about 600 m down, 90 km off California. It is only the 11th sighting in the institute's 40 years of deep-sea exploring.",
+   "why": "A close look at its eyes will help scientists learn how animals see in the dim deep.",
+   "source_name": "Oceanographic",
+   "source_url": "https://oceanographicmagazine.com/news/rare-footage-of-barreleye-fish-with-see-through-head/",
+   "source_ig": "",
+   "image_query": "Macropinna microstoma"
+  },
+  {
+   "category": "space",
+   "place": "Kraków, Poland",
+   "emoji": "🌕",
+   "stat": "10,000+",
+   "stat_label": "crystals that flew around the Moon",
+   "headline": "Tiny crystals from Artemis I mapped radiation near the Moon",
+   "summary": "Inside 2 human-shaped dummies on NASA's Orion, crystals tracked cosmic rays. Polish scientists found Moon radiation is higher than in Earth orbit, but by less than expected.",
+   "why": "Their mm-sized detectors could be worn by astronauts on future Moon trips.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+   "source_ig": "",
+   "image_query": "Orion spacecraft Moon"
+  },
+  {
+   "category": "energy",
+   "place": "Vienna, Austria",
+   "emoji": "☀️",
+   "stat": "3",
+   "stat_label": "iron atoms in each tiny triangle",
+   "headline": "Physicists found why one crystal makes ammonia from sunlight",
+   "summary": "Teams in Vienna showed that 'frustrated' magnetism in triangles of 3 iron atoms lets a crystal turn nitrogen into ammonia with light. Swap in chromium and it stops.",
+   "why": "Fertiliser ammonia is usually made with huge heat and pressure; this could guide greener catalysts.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-atomic-magnetism-reveals-iron-chromium.html",
+   "source_ig": "",
+   "image_query": "ammonia fertilizer field"
+  },
+  {
+   "category": "nature",
+   "place": "Kunene, Namibia",
+   "emoji": "🦁",
+   "stat": "40+",
+   "stat_label": "community rangers tracking lions",
+   "headline": "Farmers turned rangers keep Namibia's desert lions safe",
+   "summary": "Across 11 conservancies, Lion Rangers use smartphones, camera traps and GPS collars to warn farmers when lions come near, mixing tech with traditional tracking.",
+   "why": "Fewer clashes with farmers gives a recovering lion population a future.",
+   "source_name": "Positive News",
+   "source_url": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
+   "source_ig": "",
+   "image_query": "Namibia desert lion"
+  }
+ ],
+ "fun_fact": "Namibia's desert lions grew from about 20 adults in 1997 to around 180 by 2015.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #deepsea #lions"
+}
