@@ -23,7 +23,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
    "source_ig": "",
-   "image_query": "Salamandra salamandra"
+   "image_query": "Salamandra salamandra",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "space",
@@ -37,7 +38,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
    "source_ig": "",
-   "image_query": "fireball meteor"
+   "image_query": "fireball meteor",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "science",
@@ -51,7 +53,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-magnetic-core-atom.html",
    "source_ig": "",
-   "image_query": "scanning tunneling microscope"
+   "image_query": "scanning tunneling microscope",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "quirky",
@@ -65,7 +68,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-phantom-lighthouse-australia-strangest-illusions.html",
    "source_ig": "",
-   "image_query": "Lady Elliot Island lighthouse"
+   "image_query": "Lady Elliot Island lighthouse",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "The first Lady Elliot Island lighthouse was built in 1873.",
