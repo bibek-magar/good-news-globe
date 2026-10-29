@@ -4,34 +4,48 @@
   "page": "https://commons.wikimedia.org/wiki/File:Barreleye-fish_GoK.jpg",
   "credit": "Unknown authorUnknown author / Wikimedia Commons, Public domain",
   "license": "Public domain",
-  "query": "Macropinna microstoma"
+  "query": "barreleye fish Macropinna"
  },
  "s2a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Artemis_2_Crew_Portrait.jpg/1920px-Artemis_2_Crew_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Artemis_2_Crew_Portrait.jpg",
-  "credit": "Josh Valcarcel / Wikimedia Commons, Public domain",
-  "license": "Public domain",
-  "query": "Orion spacecraft Moon"
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Full_Moon_Luc_Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Full_Moon_Luc_Viatour.jpg",
+  "credit": "Luc Viatour / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "full moon"
  },
  "s2b": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Artemis_II_Orion_Solar_Array_Wings_Installed_%28jsc2025e016293%29.jpg/1920px-Artemis_II_Orion_Solar_Array_Wings_Installed_%28jsc2025e016293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Artemis_II_Orion_Solar_Array_Wings_Installed_(jsc2025e016293).jpg",
-  "credit": "NASA Johnson Space Center / NASA/Rad Sinyak / Wikimedia Commons, Public domain",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1920px-FullMoon2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg",
+  "credit": "Gregory H. Revera / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "full moon"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Meth_ammonia_tank_Otley_iowa.JPG/1920px-Meth_ammonia_tank_Otley_iowa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Meth_ammonia_tank_Otley_iowa.JPG",
+  "credit": "Bill Whittaker (user Billwhittaker) / Wikimedia Commons, Public domain",
   "license": "Public domain",
-  "query": "Orion spacecraft Moon"
+  "query": "ammonia fertilizer field"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Apparatus_for_oxidation_of_ammonia_-_DPLA_-_083b3919036052716d421abfb520f8f7.jpg/1920px-Apparatus_for_oxidation_of_ammonia_-_DPLA_-_083b3919036052716d421abfb520f8f7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Apparatus_for_oxidation_of_ammonia_-_DPLA_-_083b3919036052716d421abfb520f8f7.jpg",
+  "credit": "Unknown / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "ammonia fertilizer field"
  },
  "s4a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/003_Cheetah_hissing_after_a_meal_in_Kalahari_Desert_Photo_by_Giles_Laurent.jpg/1920px-003_Cheetah_hissing_after_a_meal_in_Kalahari_Desert_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:003_Cheetah_hissing_after_a_meal_in_Kalahari_Desert_Photo_by_Giles_Laurent.jpg",
-  "credit": "Giles Laurent / Wikimedia Commons, CC BY-SA 4.0",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lion_%28Panthera_leo%29_male_and_cub_Etosha.jpg/1920px-Lion_%28Panthera_leo%29_male_and_cub_Etosha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_male_and_cub_Etosha.jpg",
+  "credit": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
   "license": "CC BY-SA 4.0",
-  "query": "Namibia desert lion"
+  "query": "Panthera leo Namibia"
  },
  "s4b": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Multi-Level-Stack-Parking-in-NYC.jpg/1920px-Multi-Level-Stack-Parking-in-NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Multi-Level-Stack-Parking-in-NYC.jpg",
-  "credit": "Rajesh Natraj / Wikimedia Commons, CC0",
-  "license": "CC0",
-  "query": "Namibia desert lion"
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Panthera_leo_yawn_%28Kgalagadi%2C_2012%29.jpg/1920px-Panthera_leo_yawn_%28Kgalagadi%2C_2012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Panthera_leo_yawn_(Kgalagadi,_2012).jpg",
+  "credit": "Yathin S Krishnappa / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Panthera leo Namibia"
  }
 }
