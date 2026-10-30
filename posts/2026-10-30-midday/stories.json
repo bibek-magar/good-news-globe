@@ -23,7 +23,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html",
    "source_ig": "",
-   "image_query": "planet Mars"
+   "image_query": "planet Mars",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "archaeology",
@@ -37,7 +38,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-ancient-charcoal-clues-neanderthal.html",
    "source_ig": "",
-   "image_query": "Abric Romaní"
+   "image_query": "Abric Romaní",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "kindness",
@@ -65,7 +67,8 @@
    "source_name": "Tien Phong via Vietnam.vn",
    "source_url": "https://www.vietnam.vn/en/bay-anh-he-lo-nhieu-loai-thu-quy-hiem-o-rung-my-son",
    "source_ig": "",
-   "image_query": "Manis javanica"
+   "image_query": "Manis javanica",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "Of the 607 species logged at My Son, 189 are bottom-dwelling water animals.",
