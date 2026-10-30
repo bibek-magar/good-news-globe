@@ -23,7 +23,8 @@
    "source_name": "Mongabay",
    "source_url": "https://news.mongabay.com/2026/10/philippine-village-uses-nature-to-defend-against-floods-with-bamboo-shells-and-husks/",
    "source_ig": "",
-   "image_query": "bamboo poles sea"
+   "image_query": "bamboo poles sea",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "space",
@@ -51,7 +52,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
    "source_ig": "",
-   "image_query": "sunlight walking park"
+   "image_query": "sunlight walking park",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "nature",
@@ -65,7 +67,8 @@
    "source_name": "Mongabay",
    "source_url": "https://news.mongabay.com/2026/10/pembas-new-marine-protected-areas-show-the-power-of-collaboration-to-meet-30x30-goal/",
    "source_ig": "",
-   "image_query": "Pemba Island"
+   "image_query": "Pemba Island",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "The Pamarawan project cost about $2 million and was inspired by mangrove work in Indonesia.",
