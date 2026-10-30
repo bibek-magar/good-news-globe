@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bamboo_poles_along_the_coast_of_Boracay%2C_Philippines_%28157283199%29.jpg/1920px-Bamboo_poles_along_the_coast_of_Boracay%2C_Philippines_%28157283199%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Bamboo_poles_along_the_coast_of_Boracay,_Philippines_(157283199).jpg",
+  "credit": "Migo Santos / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "bamboo poles sea"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Fisherman_in_bamboo_tower_watching_for_fish%2C_Kamakura%2C_Japan_LCCN2001705669.jpg/1920px-Fisherman_in_bamboo_tower_watching_for_fish%2C_Kamakura%2C_Japan_LCCN2001705669.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Fisherman_in_bamboo_tower_watching_for_fish,_Kamakura,_Japan_LCCN2001705669.jpg",
+  "credit": "Frank and Frances Carpenter Collection / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "bamboo poles sea"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Antennae_galaxies_xl.jpg/1920px-Antennae_galaxies_xl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Antennae_galaxies_xl.jpg",
+  "credit": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hub / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "galaxy cluster"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/NGC_2683_Spiral_galaxy.jpg/1920px-NGC_2683_Spiral_galaxy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:NGC_2683_Spiral_galaxy.jpg",
+  "credit": "NASA / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "galaxy cluster"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Walking_path_in_the_late_afternoon_sunlight%2C_Homestead_NHP.jpg/1920px-Walking_path_in_the_late_afternoon_sunlight%2C_Homestead_NHP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Walking_path_in_the_late_afternoon_sunlight,_Homestead_NHP.jpg",
+  "credit": "Ser Amantio di Nicolao / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "sunlight walking park"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sunlight_on_grass_at_Paradise_Point_State_Park.jpg/1920px-Sunlight_on_grass_at_Paradise_Point_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunlight_on_grass_at_Paradise_Point_State_Park.jpg",
+  "credit": "PinchyCC / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "sunlight walking park"
+ },
+ "s4a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Pemba_island%2C_Tanzania._View_from_Chake_Chake_town_center_over_the_mangroves_towards_the_sea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Pemba_island,_Tanzania._View_from_Chake_Chake_town_center_over_the_mangroves_towards_the_sea.JPG",
+  "credit": "Vincent van Zeijst / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Pemba Island"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Anderson-Morshead_1909_Weti%2C_Pemba_Island_historyofuniver00ande_0464.jpg/1920px-Anderson-Morshead_1909_Weti%2C_Pemba_Island_historyofuniver00ande_0464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Anderson-Morshead_1909_Weti,_Pemba_Island_historyofuniver00ande_0464.jpg",
+  "credit": "Anderson-Morshead, A. E. M / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Pemba Island"
+ }
+}
