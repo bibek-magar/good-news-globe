@@ -37,7 +37,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
    "source_ig": "",
-   "image_query": "Tibetan Plateau glacier"
+   "image_query": "Tibetan Plateau glacier",
+   "image": "img/s2a.jpg"
   },
   {
    "category": "health",
@@ -51,7 +52,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
    "source_ig": "",
-   "image_query": "cranberries"
+   "image_query": "cranberries",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "invention",
@@ -65,7 +67,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-ultrathin-carbon-ribbons-electricity-metals.html",
    "source_ig": "",
-   "image_query": "scanning tunneling microscope image"
+   "image_query": "scanning tunneling microscope image",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "The Guliya ice cores were drilled 23 years apart, yet their climate signals matched.",
