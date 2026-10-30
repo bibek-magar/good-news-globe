@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/1920px-OSIRIS_Mars_true_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:OSIRIS_Mars_true_color.jpg",
+  "credit": "ESA & MPS for OSIRIS Team MPS/UPD/LAM/IAA/RSSD/INTA/UPM/DASP / Wikimedia Commons, CC BY-SA 3.0 igo",
+  "license": "CC BY-SA 3.0 igo",
+  "query": "planet Mars"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+  "credit": "Kevin Gill from Los Angeles, CA, United States / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "planet Mars"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Abri_Romani_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Abri_Romani_1.jpg",
+  "credit": "120 / V. Mourre / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Abric Romaní"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Abric_roman%C3%AD.jpg/1920px-Abric_roman%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Abric_roman%C3%AD.jpg",
+  "credit": "Teogomez / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Abric Romaní"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Texas_Auto_Repair_Body_Shop_03.jpg/1920px-Texas_Auto_Repair_Body_Shop_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Texas_Auto_Repair_Body_Shop_03.jpg",
+  "credit": "WhisperToMe / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "auto body repair shop"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Texas_Auto_Repair_Body_Shop_01.jpg/1920px-Texas_Auto_Repair_Body_Shop_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Texas_Auto_Repair_Body_Shop_01.jpg",
+  "credit": "WhisperToMe / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "auto body repair shop"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Trenggiling_Sunda_Sunda_Pangolin_Manis_javanica.jpg/1920px-Trenggiling_Sunda_Sunda_Pangolin_Manis_javanica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Trenggiling_Sunda_Sunda_Pangolin_Manis_javanica.jpg",
+  "credit": "Frendi Apen Irawan / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Manis javanica"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Manis_javanica_14708922.jpg/1920px-Manis_javanica_14708922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Manis_javanica_14708922.jpg",
+  "credit": "John Baur / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "Manis javanica"
+ }
+}
