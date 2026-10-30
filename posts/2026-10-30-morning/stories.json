@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-30",
+ "handle": "@good_newsglobe",
+ "cover_hook": "700,000 years ago, elephants lived beside humans",
+ "cover_highlight": "700,000 years ago",
+ "cover_kicker": "Told by a single tooth",
+ "caption_hook": "🐘 A 700,000-year-old elephant tooth found with stone tools shows a lush oasis where giant elephants lived beside early humans. Follow for 3 good-news wins a day",
+ "question": "Emoji reply: which story made you go 🤯 first?",
+ "share_line": "Send this to the friend who loves elephants",
+ "reel_hook": "700,000 years ago, elephants lived beside humans",
+ "first_comment": "The straight-tusked elephant was one of the biggest land mammals of the Ice Age, and its tooth still held pollen clues from reeds, willows and wetlands. Would you have wanted to see one? 🐘",
+ "stories": [
+  {
+   "category": "archaeology",
+   "place": "Hula Valley, Israel",
+   "emoji": "🐘",
+   "stat": "700,000",
+   "stat_label": "years old: the elephant's tooth",
+   "headline": "A giant elephant's tooth reveals a lost Ice Age oasis",
+   "summary": "Found next to stone handaxes at Gesher Benot Ya'aqov, a straight-tusked elephant's molar showed rivers, wetlands and woods that fed huge animals and early humans.",
+   "why": "Oases like this may have helped early humans travel between Africa and Eurasia.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
+   "source_ig": "",
+   "image_query": "Palaeoloxodon antiquus"
+  },
+  {
+   "category": "science",
+   "place": "Guliya ice cap, Tibet",
+   "emoji": "🧊",
+   "stat": "128,000",
+   "stat_label": "years: age of the oldest ice",
+   "headline": "Ice in Tibet turned out to be over 128,000 years old",
+   "summary": "Cores drilled 23 years apart, in 1992 and 2015, matched closely. New dating puts the Guliya ice beyond 128,000 years, over 100,000 years older than the region's known record.",
+   "why": "Outside the poles, it is the only mountain ice known to keep climate records this old.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+   "source_ig": "",
+   "image_query": "Tibetan Plateau glacier"
+  },
+  {
+   "category": "health",
+   "place": "Chicago, USA",
+   "emoji": "🍒",
+   "stat": "22",
+   "stat_label": "people swished pure cranberry juice",
+   "headline": "Pure cranberry juice slowed tooth plaque in a small trial",
+   "summary": "Children and adults who swished unsweetened 100% cranberry juice saw slower plaque regrowth and less acid, which harms enamel. Sugary juice drinks and water didn't do the same.",
+   "why": "A tart drink could one day become a natural mouth rinse, though bigger studies are needed.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
+   "source_ig": "",
+   "image_query": "cranberries"
+  },
+  {
+   "category": "invention",
+   "place": "Hefei, China",
+   "emoji": "⚡",
+   "stat": "1996",
+   "stat_label": "the year this carbon metal was predicted",
+   "headline": "30 years after it was predicted, a carbon 'metal' was built",
+   "summary": "Chemists at USTC built ultrathin ribbons of only 5- and 7-sided carbon rings on silver. Lifted with a microscope tip, one version carried current like a true metal.",
+   "why": "Carbon wires could replace metal ones that overheat as chips keep shrinking.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-ultrathin-carbon-ribbons-electricity-metals.html",
+   "source_ig": "",
+   "image_query": "scanning tunneling microscope image"
+  }
+ ],
+ "fun_fact": "The Guliya ice cores were drilled 23 years apart, yet their climate signals matched.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #elephants #archaeology"
+}
