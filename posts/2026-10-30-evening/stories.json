@@ -1,0 +1,73 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-30",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Bamboo and oyster shells ended its floods",
+ "cover_highlight": "oyster shells",
+ "cover_kicker": "A first for the Philippines",
+ "caption_hook": "🌊 A fishing village in the Philippines stopped flooding with bamboo, oyster shells and coconut husks instead of concrete. Follow for 3 good-news wins a day",
+ "question": "One-word answer: which story would you send to a friend?",
+ "share_line": "Send this to the friend who loves clever fixes",
+ "reel_hook": "Bamboo and oyster shells ended its floods",
+ "first_comment": "Over time the bamboo cribs trap mud, raising the seabed until mangroves can be planted there. Would you trust bamboo over concrete? 🎋",
+ "stories": [
+  {
+   "category": "invention",
+   "place": "Malolos, Philippines",
+   "emoji": "🎋",
+   "stat": "14 ha",
+   "stat_label": "of bamboo cribs off the coast",
+   "headline": "Bamboo and oyster shells stopped a village's floods",
+   "summary": "In Pamarawan, the Philippines' first nature-based sea defence uses bamboo cribs plus oyster shells in coconut-husk nets to break waves. The village no longer floods.",
+   "why": "The cribs trap mud so mangroves can be planted, making the shore stronger every year.",
+   "source_name": "Mongabay",
+   "source_url": "https://news.mongabay.com/2026/10/philippine-village-uses-nature-to-defend-against-floods-with-bamboo-shells-and-husks/",
+   "source_ig": "",
+   "image_query": "bamboo poles sea"
+  },
+  {
+   "category": "space",
+   "place": "New York, USA",
+   "emoji": "🌌",
+   "stat": "25",
+   "stat_label": "galaxy clusters stacked together",
+   "headline": "The universe's oldest light reveals spinning cosmic gas",
+   "summary": "Columbia astronomers averaged Big Bang afterglow data around 25 galaxy clusters and found a faint hot-cold pattern: evidence that gas inside the clusters is rotating.",
+   "why": "It's a new way to watch giant clusters move, using light from 380,000 years after the Big Bang.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html",
+   "source_ig": "",
+   "image_query": "galaxy cluster"
+  },
+  {
+   "category": "health",
+   "place": "Guangzhou, China",
+   "emoji": "☀️",
+   "stat": "16%",
+   "stat_label": "lower dementia risk with bright days",
+   "headline": "More bright daylight was linked to 16% less dementia",
+   "summary": "Wrist sensors tracked light for 87,577 adults over about 8 years. Those in brighter daytime light had a 16% lower dementia risk; under 42 minutes a day was a strong warning sign.",
+   "why": "It's a link, not proof, but a walk outside is an easy habit to try.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
+   "source_ig": "",
+   "image_query": "sunlight walking park"
+  },
+  {
+   "category": "nature",
+   "place": "Pemba Island, Tanzania",
+   "emoji": "🐠",
+   "stat": "20+",
+   "stat_label": "villages that asked for protection",
+   "headline": "Fishers on Pemba asked for new marine parks, and got 2",
+   "summary": "After catches kept shrinking, more than 20 communities on Pemba's east coast worked with Tanzania's government and NGOs to create 2 marine protected areas they help manage.",
+   "why": "A park on Pemba's other side, made in 2005, boosted fish and fishers' incomes.",
+   "source_name": "Mongabay",
+   "source_url": "https://news.mongabay.com/2026/10/pembas-new-marine-protected-areas-show-the-power-of-collaboration-to-meet-30x30-goal/",
+   "source_ig": "",
+   "image_query": "Pemba Island"
+  }
+ ],
+ "fun_fact": "The Pamarawan project cost about $2 million and was inspired by mangrove work in Indonesia.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #philippines #ocean"
+}
