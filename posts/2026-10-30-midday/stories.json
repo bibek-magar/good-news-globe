@@ -1,0 +1,73 @@
+{
+ "edition": "Midday",
+ "date": "2026-10-30",
+ "handle": "@good_newsglobe",
+ "cover_hook": "4.1 billion years old: Mars' oldest lava rock",
+ "cover_highlight": "4.1 billion years",
+ "cover_kicker": "Found in the Sahara",
+ "caption_hook": "🪐 A meteorite from Mars found in the Sahara is 4.1 billion years old, the oldest Mars lava rock ever found. Follow for 3 good-news wins a day",
+ "question": "Pick one: Mars rocks or Neanderthal camps, which would you study?",
+ "share_line": "Send this to the friend who's obsessed with Mars",
+ "reel_hook": "4.1 billion years old: Mars' oldest lava rock",
+ "first_comment": "The rock is called Teghaza 001. Tiny zircon crystals inside it are what let scientists date it so precisely. Would you hold a piece of Mars if you could? 🪐",
+ "stories": [
+  {
+   "category": "space",
+   "place": "Sahara Desert",
+   "emoji": "🪐",
+   "stat": "4.1 bn",
+   "stat_label": "years old: oldest Mars lava rock",
+   "headline": "A Sahara meteorite is the oldest lava rock from Mars",
+   "summary": "Tiny zircon crystals date the meteorite Teghaza 001 to 4.1 billion years, the oldest Mars igneous rock found by a huge margin. It holds manganese oxide, a sign of wetter conditions.",
+   "why": "It's a rare sample of Mars' earliest crust, when the planet may have been more Earth-like.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html",
+   "source_ig": "",
+   "image_query": "planet Mars"
+  },
+  {
+   "category": "archaeology",
+   "place": "Barcelona, Spain",
+   "emoji": "🔥",
+   "stat": "110,000",
+   "stat_label": "years ago Neanderthals first used it",
+   "headline": "Charcoal shows Neanderthals tidied their campfires",
+   "summary": "At Abric Romaní, a rock shelter used from 110,000 to 40,000 years ago, mapped charcoal shows one main ash heap by the hearths and smaller piles, likely from cleaning them out.",
+   "why": "Bits of burnt wood reveal how Neanderthals organised their homes, much like we do.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-ancient-charcoal-clues-neanderthal.html",
+   "source_ig": "",
+   "image_query": "Abric Romaní"
+  },
+  {
+   "category": "kindness",
+   "place": "Minneapolis, USA",
+   "emoji": "🚗",
+   "stat": "2+ yrs",
+   "stat_label": "the veteran went without a car",
+   "headline": "Students rebuilt a wrecked car and gave it to a veteran",
+   "summary": "Collision-repair students at Dunwoody College spent months fixing a crashed 2020 Hyundai Elantra, then handed it to Navy veteran Robert Hanson, who had been walking everywhere for food.",
+   "why": "He called it a big-time game changer: he can finally shop and get out to enjoy life again.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/disabled-veteran-receives-donated-car-beautifully-refurbished-by-auto-collision-students/",
+   "source_ig": "",
+   "image_query": "auto body repair shop"
+  },
+  {
+   "category": "nature",
+   "place": "Da Nang, Vietnam",
+   "emoji": "🌿",
+   "stat": "607",
+   "stat_label": "animal species recorded",
+   "headline": "Camera traps found 607 species around Vietnam's My Son temples",
+   "summary": "30 camera traps in the forest around the ancient Cham temples caught Javan pangolins, civets, porcupines and monkeys. Surveys logged 607 animal species and 238 plant species.",
+   "why": "The 1,160-hectare forest protects both a World Heritage site and rare wildlife.",
+   "source_name": "Tien Phong via Vietnam.vn",
+   "source_url": "https://www.vietnam.vn/en/bay-anh-he-lo-nhieu-loai-thu-quy-hiem-o-rung-my-son",
+   "source_ig": "",
+   "image_query": "Manis javanica"
+  }
+ ],
+ "fun_fact": "Of the 607 species logged at My Son, 189 are bottom-dwelling water animals.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #mars #pangolin"
+}
