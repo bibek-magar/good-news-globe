@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Crocodylus_porosus_-_Wilhelma.jpg/1920px-Crocodylus_porosus_-_Wilhelma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Crocodylus_porosus_-_Wilhelma.jpg",
+  "credit": "H. Zell / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "Crocodylus porosus"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Saltwater_crocodile_in_Sundarbans_National_Park_November_2024_by_Tisha_Mukherjee_03.jpg/1920px-Saltwater_crocodile_in_Sundarbans_National_Park_November_2024_by_Tisha_Mukherjee_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Saltwater_crocodile_in_Sundarbans_National_Park_November_2024_by_Tisha_Mukherjee_03.jpg",
+  "credit": "Tisha Mukherjee / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Crocodylus porosus"
+ },
+ "s2a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Oreobates_amarakaeri_flash_marks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Oreobates_amarakaeri_flash_marks.jpg",
+  "credit": "Blazeclaw12 / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Oreobates frog"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Oreobates_quixensis%2C_common_big-headed_frog_%2814837193455%29.jpg/1920px-Oreobates_quixensis%2C_common_big-headed_frog_%2814837193455%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Oreobates_quixensis,_common_big-headed_frog_(14837193455).jpg",
+  "credit": "Pavel Kirillov from St.Petersburg, Russia / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Oreobates frog"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/CHARA_S2.jpg/1920px-CHARA_S2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:CHARA_S2.jpg",
+  "credit": "Eric Polk / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "CHARA array telescope Mount Wilson"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/CHARA_%28CHARA-CC%29.jpg/1920px-CHARA_%28CHARA-CC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:CHARA_(CHARA-CC).jpg",
+  "credit": "NOIRLab/NSF/AURA / Wikimedia Commons, CC BY 4.0",
+  "license": "CC BY 4.0",
+  "query": "CHARA array telescope Mount Wilson"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82%E7%95%91%E3%81%A8%E5%A4%95%E5%BC%B5%E5%B1%B1%E5%9C%B0%EF%BC%88Potato_field%EF%BC%89_-_panoramio.jpg/1920px-%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82%E7%95%91%E3%81%A8%E5%A4%95%E5%BC%B5%E5%B1%B1%E5%9C%B0%EF%BC%88Potato_field%EF%BC%89_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82%E7%95%91%E3%81%A8%E5%A4%95%E5%BC%B5%E5%B1%B1%E5%9C%B0%EF%BC%88Potato_field%EF%BC%89_-_panoramio.jpg",
+  "credit": "pakku / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "Hokkaido potato field"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Koshimizu_yamubetsu.JPG/1920px-Koshimizu_yamubetsu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Koshimizu_yamubetsu.JPG",
+  "credit": "Opqr / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Hokkaido potato field"
+ }
+}
