@@ -1,7 +1,5 @@
 name: Instagram insights report
 on:
-  schedule:
-    - cron: "20 0 * * *"   # daily 06:05 Nepal time, before the Morning run
   workflow_dispatch:
 permissions:
   contents: write
