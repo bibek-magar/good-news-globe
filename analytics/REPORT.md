@@ -1,8 +1,8 @@
 # Good News Globe — performance report
-_Updated 2026-10-30 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
+_Updated 2026-10-31 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + comments + likes) ÷ reach._
 
 ## Followers
-10-23: 2 → 10-24: 2 → 10-25: 2 → 10-26: 2 → 10-27: 2 → 10-28: 2 → 10-29: 2 → 10-30: 2
+10-24: 2 → 10-25: 2 → 10-26: 2 → 10-27: 2 → 10-28: 2 → 10-29: 2 → 10-30: 2 → 10-31: 2
 
 ## Best carousels (copy what these hooks did)
 | date | slot | hook | reach | shares | saves | comments | score |
@@ -22,12 +22,12 @@ _Updated 2026-10-30 (UTC). Last 30 days. Score = 100 × (3·shares + 2·saves + 
 
 ## This week vs before
 - Last 7 days: 0 carousels, avg reach 0, avg score 0
-- Earlier: avg reach 2.5, avg score 109.1
+- Earlier: avg reach 2.5, avg score 110.1
 
 ## By slot (Nepal time)
 - morning: 3 posts, avg reach 2.3, avg score 127.8
 - midday: 6 posts, avg reach 3, avg score 104.2
-- evening: 12 posts, avg reach 2.2, avg score 106.9
+- evening: 10 posts, avg reach 2.3, avg score 108.3
 
 ## Categories
 Cover (story #1) category → avg score: quirky 150.0 (3), kindness 150.0 (1), space 100.0 (2), archaeology 100.0 (1), nature 99.3 (12)
@@ -37,10 +37,10 @@ Any position → avg score: science 132.3, quirky 119.4, invention 116.7, archae
 | date | slot | hook | reach | shares | saves | comments | score | avg watch (ms) |
 |---|---|---|---|---|---|---|---|---|
 | 2026-10-25 | evening | 34 years later, bright green cassowary eggs | 124 | 0 | 0 | 0 | 1.61 | 4240 |
+| 2026-10-31 | morning | Found 7 times in 65 years, never seen alive | 120 | 0 | 0 | 0 | 0.0 | 2805 |
 | 2026-10-29 | midday | 1st proof: fire salamanders glow under UV | 115 | 0 | 0 | 0 | 0.87 | 2210 |
 | 2026-10-02 | midday | Moth swarms are back after a 99.5% crash | 114 | 0 | 0 | 0 | 2.63 | 4770 |
 | 2026-10-12 | evening | 8 orangutans rescued from fires are free again | 113 | 0 | 0 | 0 | 1.77 | 1769 |
-| 2026-10-30 | morning | 700,000 years ago, elephants lived beside humans | 108 | 0 | 0 | 0 | 1.85 | 1233 |
 
 ## How the scheduled runs should use this
 - Lead with the cover patterns and categories that score highest; drop the patterns in the weakest list.
