@@ -23,7 +23,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
    "source_ig": "",
-   "image_query": "Crocodylus porosus"
+   "image_query": "Crocodylus porosus",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "nature",
@@ -37,7 +38,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html",
    "source_ig": "",
-   "image_query": "Oreobates frog"
+   "image_query": "Oreobates frog",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "space",
@@ -51,7 +53,8 @@
    "source_name": "Phys.org",
    "source_url": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html",
    "source_ig": "",
-   "image_query": "CHARA array telescope Mount Wilson"
+   "image_query": "CHARA array telescope Mount Wilson",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "food",
@@ -65,7 +68,10 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/",
    "source_ig": "",
-   "image_query": "Hokkaido potato field"
+   "image_query": "Hokkaido potato field",
+   "image": "img/s4a.jpg"
   }
- ]
+ ],
+ "fun_fact": "About 50 million years ago, crocodile relatives lived as far south as Antarctica.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #crocodiles #dinosaurs"
 }
