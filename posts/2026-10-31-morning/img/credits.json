@@ -40,5 +40,19 @@
   "credit": "Timothy A. Gonsalves / Wikimedia Commons, CC BY-SA 4.0",
   "license": "CC BY-SA 4.0",
   "query": "IIT Gandhinagar"
+ },
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/CSIRO_ScienceImage_905_Undaria_pinnatifida_Japanese_kelp.jpg/1920px-CSIRO_ScienceImage_905_Undaria_pinnatifida_Japanese_kelp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_905_Undaria_pinnatifida_Japanese_kelp.jpg",
+  "credit": "division, CSIRO / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "kelp forest Australia"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/CSIRO_ScienceImage_904_Undaria_pinnatifida_Japanese_kelp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_904_Undaria_pinnatifida_Japanese_kelp.jpg",
+  "credit": "division, CSIRO / Wikimedia Commons, CC BY 3.0",
+  "license": "CC BY 3.0",
+  "query": "kelp forest Australia"
  }
 }
