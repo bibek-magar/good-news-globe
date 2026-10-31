@@ -1,0 +1,44 @@
+{
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Woman_exercising_with_resistance_band_in_a_gym_setting.jpg/1920px-Woman_exercising_with_resistance_band_in_a_gym_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_exercising_with_resistance_band_in_a_gym_setting.jpg",
+  "credit": "Shixart1985 / Wikimedia Commons, CC BY 2.0",
+  "license": "CC BY 2.0",
+  "query": "resistance training gym"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/GymNation_gym_interior_2024.jpg/1920px-GymNation_gym_interior_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:GymNation_gym_interior_2024.jpg",
+  "credit": "GymNation / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "resistance training gym"
+ },
+ "s3a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Earth_horizon_and_International_Space_Station_solar_panel_array_%28Expedition_17_crew%2C_August_2008%29.jpg/1920px-Earth_horizon_and_International_Space_Station_solar_panel_array_%28Expedition_17_crew%2C_August_2008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Earth_horizon_and_International_Space_Station_solar_panel_array_(Expedition_17_crew,_August_2008).jpg",
+  "credit": "NASA / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "International Space Station solar array"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/ISS_roll_out_solar_array_in_the_SSPF.jpg/1920px-ISS_roll_out_solar_array_in_the_SSPF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:ISS_roll_out_solar_array_in_the_SSPF.jpg",
+  "credit": "Frank Michaux / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "International Space Station solar array"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/North_Facade_Close_Central_Arcade_IIT_Gandhinagar_Sep25_A7CR_07897.jpg/1920px-North_Facade_Close_Central_Arcade_IIT_Gandhinagar_Sep25_A7CR_07897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:North_Facade_Close_Central_Arcade_IIT_Gandhinagar_Sep25_A7CR_07897.jpg",
+  "credit": "Timothy A. Gonsalves / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "IIT Gandhinagar"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/SW_AB-13_IIT_Gandhinagar_Gujarat_Sep25_A7CR_07891.jpg/1920px-SW_AB-13_IIT_Gandhinagar_Gujarat_Sep25_A7CR_07891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:SW_AB-13_IIT_Gandhinagar_Gujarat_Sep25_A7CR_07891.jpg",
+  "credit": "Timothy A. Gonsalves / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "IIT Gandhinagar"
+ }
+}
