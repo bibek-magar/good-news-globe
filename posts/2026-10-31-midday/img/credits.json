@@ -1,18 +1,4 @@
 {
- "s1a": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Strawberry_farm_in_Lambasinghi.jpg/1920px-Strawberry_farm_in_Lambasinghi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "page": "https://commons.wikimedia.org/wiki/File:Strawberry_farm_in_Lambasinghi.jpg",
-  "credit": "eclicks_by_bunny / Wikimedia Commons, CC BY-SA 4.0",
-  "license": "CC BY-SA 4.0",
-  "query": "strawberry farm"
- },
- "s1b": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Strawberry_Hole_Farm_-_geograph.org.uk_-_7315593.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "page": "https://commons.wikimedia.org/wiki/File:Strawberry_Hole_Farm_-_geograph.org.uk_-_7315593.jpg",
-  "credit": "David M Clark / Wikimedia Commons, CC BY-SA 2.0",
-  "license": "CC BY-SA 2.0",
-  "query": "strawberry farm"
- },
  "s2a": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1920px-Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "page": "https://commons.wikimedia.org/wiki/File:Grand_star-forming_region_R136_in_NGC_2070_(captured_by_the_Hubble_Space_Telescope).jpg",
@@ -54,5 +40,19 @@
   "credit": "CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
   "license": "CC BY-SA 3.0",
   "query": "elementary school building"
+ },
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/1920px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+  "credit": "Ivar Leidus / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Fragaria ananassa fruit"
+ },
+ "s1b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/-2020-06-06_Strawberry_plant_with_fruit%2C_%28Fragaria_%C3%97_ananassa%29%2C_Trimingham.JPG/1920px--2020-06-06_Strawberry_plant_with_fruit%2C_%28Fragaria_%C3%97_ananassa%29%2C_Trimingham.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:-2020-06-06_Strawberry_plant_with_fruit,_(Fragaria_%C3%97_ananassa),_Trimingham.JPG",
+  "credit": "Kolforn (Kolforn)\nI'd appreciate if you could mail me (Kolfo / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "Fragaria ananassa fruit"
  }
 }
