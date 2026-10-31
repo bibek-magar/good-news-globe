@@ -23,7 +23,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
    "source_ig": "",
-   "image_query": "kelp forest Australia"
+   "image_query": "kelp forest Australia",
+   "image": "img/s1b.jpg"
   },
   {
    "category": "health",
@@ -37,7 +38,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
    "source_ig": "",
-   "image_query": "resistance training gym"
+   "image_query": "resistance training gym",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "space",
@@ -51,7 +53,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
    "source_ig": "",
-   "image_query": "International Space Station solar array"
+   "image_query": "International Space Station solar array",
+   "image": "img/s3a.jpg"
   },
   {
    "category": "science",
@@ -65,7 +68,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
    "source_ig": "",
-   "image_query": "IIT Gandhinagar"
+   "image_query": "IIT Gandhinagar",
+   "image": "img/s4a.jpg"
   }
  ],
  "fun_fact": "All 7 known sea muppets were caught by accident in nets or dredges 50 to 125 m down.",
