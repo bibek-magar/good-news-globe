@@ -1,0 +1,58 @@
+{
+ "s1a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Strawberry_farm_in_Lambasinghi.jpg/1920px-Strawberry_farm_in_Lambasinghi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Strawberry_farm_in_Lambasinghi.jpg",
+  "credit": "eclicks_by_bunny / Wikimedia Commons, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "query": "strawberry farm"
+ },
+ "s1b": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Strawberry_Hole_Farm_-_geograph.org.uk_-_7315593.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Strawberry_Hole_Farm_-_geograph.org.uk_-_7315593.jpg",
+  "credit": "David M Clark / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "strawberry farm"
+ },
+ "s2a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1920px-Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Grand_star-forming_region_R136_in_NGC_2070_(captured_by_the_Hubble_Space_Telescope).jpg",
+  "credit": "NASA, ESA, F. Paresce (INAF-IASF, Bologna, Italy), R. O'Conn / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Hubble Space Telescope"
+ },
+ "s2b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1920px-UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:UGC_1810_and_UGC_1813_in_Arp_273_(captured_by_the_Hubble_Space_Telescope).jpg",
+  "credit": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA) / Wikimedia Commons, Public domain",
+  "license": "Public domain",
+  "query": "Hubble Space Telescope"
+ },
+ "s3a": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bronze_Age_Copper_Mine_-_geograph.org.uk_-_4980854.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Bronze_Age_Copper_Mine_-_geograph.org.uk_-_4980854.jpg",
+  "credit": "Gerald England / Wikimedia Commons, CC BY-SA 2.0",
+  "license": "CC BY-SA 2.0",
+  "query": "Bronze Age copper mine"
+ },
+ "s3b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Copper_Mine_Sites_in_China%27s_Bronze_Age_%289927201176%29.jpg/1920px-Copper_Mine_Sites_in_China%27s_Bronze_Age_%289927201176%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Copper_Mine_Sites_in_China%27s_Bronze_Age_(9927201176).jpg",
+  "credit": "Gary Todd from Xinzheng, China / Wikimedia Commons, CC0",
+  "license": "CC0",
+  "query": "Bronze Age copper mine"
+ },
+ "s4a": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Keila_algkooli_hoone_%282%29.jpg/1920px-Keila_algkooli_hoone_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Keila_algkooli_hoone_(2).jpg",
+  "credit": "Iifar / Wikimedia Commons, CC BY-SA 3.0 ee",
+  "license": "CC BY-SA 3.0 ee",
+  "query": "elementary school building"
+ },
+ "s4b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Checheng_Taiwan_Checheng-Elementary-School-01.jpg/1920px-Checheng_Taiwan_Checheng-Elementary-School-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Checheng_Taiwan_Checheng-Elementary-School-01.jpg",
+  "credit": "CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
+  "license": "CC BY-SA 3.0",
+  "query": "elementary school building"
+ }
+}
