@@ -23,7 +23,8 @@
    "source_name": "Good News Network",
    "source_url": "https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/",
    "source_ig": "",
-   "image_query": "Fragaria ananassa fruit"
+   "image_query": "Fragaria ananassa fruit",
+   "image": "img/s1a.jpg"
   },
   {
    "category": "space",
@@ -37,7 +38,8 @@
    "source_name": "ScienceDaily",
    "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
    "source_ig": "",
-   "image_query": "Hubble Space Telescope"
+   "image_query": "Hubble Space Telescope",
+   "image": "img/s2b.jpg"
   },
   {
    "category": "archaeology",
@@ -45,7 +47,7 @@
    "emoji": "⛏️",
    "stat": "735",
    "stat_label": "stone hammers found in the mine",
-   "headline": "Spain's biggest Bronze Age copper mine fed faraway Scandinavia",
+   "headline": "A Bronze Age mine in Spain sent copper to Scandinavia",
    "summary": "Digs at Las Minillas found 735 grooved stone hammers and dated mining to about 1300-750 BC. Metal signatures match 11 bronze objects found in Scandinavia.",
    "why": "It shows southern Iberia was a key copper supplier for Europe 3,000 years ago.",
    "source_name": "Phys.org",
