@@ -1,0 +1,71 @@
+{
+ "edition": "Evening",
+ "date": "2026-10-31",
+ "handle": "@good_newsglobe",
+ "cover_hook": "The asteroid killed the dinosaurs. Not the crocodiles.",
+ "cover_highlight": "crocodiles",
+ "cover_kicker": "7,000 fossils explain why",
+ "caption_hook": "🐊 The asteroid wiped out the dinosaurs 66 million years ago, but crocodiles made it. 7,000+ fossils now suggest how. Follow for 3 good-news wins a day",
+ "question": "Either/or: would you rather meet a crocodile or a T. rex?",
+ "share_line": "Send this to the friend who still loves dinosaurs",
+ "reel_hook": "The asteroid killed the dinosaurs. Not the crocodiles.",
+ "first_comment": "Some ancient crocodile relatives were giants: Sarcosuchus, the 'super croc', could reach 12 metres long. Others had faces like a pug 🐊",
+ "stories": [
+  {
+   "category": "fossils",
+   "place": "London, UK",
+   "emoji": "🐊",
+   "stat": "7,000+",
+   "stat_label": "fossils and records analysed",
+   "headline": "Why crocodiles outlived the dinosaurs",
+   "summary": "A UCL-led team studied 400+ species across 245 million years. Crocodiles always followed warm climates, which kept survivors in tropical refuges that stayed livable after the asteroid hit.",
+   "why": "It helps solve a 66-million-year-old mystery, and shows today's crocodiles need room to move as the planet warms.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+   "source_ig": "",
+   "image_query": "Crocodylus porosus"
+  },
+  {
+   "category": "nature",
+   "place": "Cordillera Azul, Peru",
+   "emoji": "🐸",
+   "stat": "4",
+   "stat_label": "new frog species named",
+   "headline": "Four new frog species found in Peru",
+   "summary": "Biologists used body traits, mating calls and DNA to describe four new Oreobates frogs near Cordillera Azul National Park, taking the group from 27 to 31 known species.",
+   "why": "Naming a species is the first step to protecting it, and frogs can help justify protected areas.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html",
+   "source_ig": "",
+   "image_query": "Oreobates frog"
+  },
+  {
+   "category": "space",
+   "place": "CHARA Array, California, USA",
+   "emoji": "🔭",
+   "stat": "15",
+   "stat_label": "years of work to reach the sky",
+   "headline": "A glass chip made two telescopes work as one",
+   "summary": "A palm-sized chip from Heriot-Watt University combined starlight from two CHARA telescopes, a job that usually needs bulky mirrors and lenses. It even picked up fainter stars than the old system.",
+   "why": "Smaller, swappable chips could help astronomers study planets around other stars.",
+   "source_name": "Phys.org",
+   "source_url": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html",
+   "source_ig": "",
+   "image_query": "CHARA array telescope Mount Wilson"
+  },
+  {
+   "category": "food",
+   "place": "Hokkaido, Japan",
+   "emoji": "🥔",
+   "stat": "10 yrs",
+   "stat_label": "since Hokkaido's last harvest this good",
+   "headline": "Japan's potato island had its best harvest in a decade",
+   "summary": "A cooler summer with steady rain gave Hokkaido, which grows 80% of Japan's potatoes, denser, rounder spuds while heat hit crops across much of the Northern Hemisphere.",
+   "why": "Calbee expects to get back to its usual 250,000 tons of Hokkaido potatoes.",
+   "source_name": "Good News Network",
+   "source_url": "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/",
+   "source_ig": "",
+   "image_query": "Hokkaido potato field"
+  }
+ ]
+}
