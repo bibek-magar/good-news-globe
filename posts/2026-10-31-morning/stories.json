@@ -1,0 +1,73 @@
+{
+ "edition": "Morning",
+ "date": "2026-10-31",
+ "handle": "@good_newsglobe",
+ "cover_hook": "Found 7 times in 65 years, never seen alive",
+ "cover_highlight": "7 times",
+ "cover_kicker": "Meet the 'sea muppets'",
+ "caption_hook": "🐠 'Sea muppets' look exactly like seahorses but aren't. Only 7 have ever been found, and none alive. Follow for 3 good-news wins a day",
+ "question": "Pick a number: which story should we follow up on, 1, 2, 3 or 4?",
+ "share_line": "Send this to the friend who loves weird fish",
+ "reel_hook": "Found 7 times in 65 years, never seen alive",
+ "first_comment": "One sea muppet sat misfiled in a museum's invertebrate collection for years, because it was caught on a trip hunting for shellfish-like animals. Would you name it differently? 😄",
+ "stories": [
+  {
+   "category": "nature",
+   "place": "South Australia, Australia",
+   "emoji": "🐠",
+   "stat": "7",
+   "stat_label": "specimens ever found, none alive",
+   "headline": "Seahorse lookalikes turned out to be a whole new group",
+   "summary": "CT scans and DNA show 3 thumb-sized 'sea muppets' from southern Australia's deep reefs aren't seahorses at all. Evolution built the same body shape twice. A new species, the helmethead, was named.",
+   "why": "An entire genus hid misfiled in museum drawers for decades.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
+   "source_ig": "",
+   "image_query": "Great Southern Reef kelp"
+  },
+  {
+   "category": "health",
+   "place": "Leicester, UK & Montreal, Canada",
+   "emoji": "🩺",
+   "stat": "54%",
+   "stat_label": "reached diabetes remission",
+   "headline": "Diet plus exercise put 54% of young adults' diabetes in remission",
+   "summary": "In a 96-person trial for type 2 diabetes under 45, a low-calorie diet with supervised workouts led 27 of 50 people to remission in 6 months, versus 2 of 46 on usual care.",
+   "why": "It also burned fat while protecting muscle; longer studies come next.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+   "source_ig": "",
+   "image_query": "resistance training gym"
+  },
+  {
+   "category": "space",
+   "place": "International Space Station",
+   "emoji": "🛰️",
+   "stat": "30%",
+   "stat_label": "more power once the upgrade is done",
+   "headline": "Spacewalkers added a 7th new solar wing to the space station",
+   "summary": "NASA's Anil Menon and Canada's Joshua Kutryk spent 7 hours 11 minutes outside installing a roll-out solar array. One more array will lift power from 160 kW to about 215 kW.",
+   "why": "It was U.S. spacewalk number 100, and Kutryk's very first.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+   "source_ig": "",
+   "image_query": "International Space Station solar array"
+  },
+  {
+   "category": "science",
+   "place": "Gandhinagar, India",
+   "emoji": "🗺️",
+   "stat": "1996",
+   "stat_label": "year the old limit was set",
+   "headline": "An Indian scientist beat a shortcut limit that stood since 1996",
+   "summary": "Manoj Gupta at IIT Gandhinagar found a smarter way to estimate shortest routes across huge networks, keeping the 'at most double' accuracy promise even for nearby points, with no slowdown.",
+   "why": "Maps, internet traffic and brain networks all rely on fast distance estimates like these.",
+   "source_name": "ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
+   "source_ig": "",
+   "image_query": "IIT Gandhinagar"
+  }
+ ],
+ "fun_fact": "All 7 known sea muppets were caught by accident in nets or dredges 50 to 125 m down.",
+ "hashtags": "#goodnews #positivenews #goodnewsglobe #seahorse #ocean"
+}
